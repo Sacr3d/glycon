@@ -66,12 +66,12 @@ public class RequestURL {
 
 	}
 
-	public static String getFirmManagersByRangeAndExpirienceJSON(int firmID, String entries, int startEntry,
-			String experienceBoundry) {
+	public static String getFirmManagersByRangeAndExpirienceJSON(String firmID, int entries, int startEntry,
+			int startExperienceBoundry, String endExperienceBoundry) {
 
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG
 				+ "/individual?filter=broker%3Dtrue,ia%3Dtrue,brokeria%3Dtrue,active%3Dtrue,prev%3Dtrue,bar%3Dtrue,experience%3D"
-				+ experienceBoundry + "&firm=" + firmID
+				+ startExperienceBoundry + "-" + endExperienceBoundry + "&firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._s&nrows=" + entries
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
 				+ startEntry + "&wt=json";

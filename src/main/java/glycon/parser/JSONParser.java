@@ -1,9 +1,15 @@
 package glycon.parser;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import glycon.object.FirmManager;
 import glycon.object.FriendlyFirm;
 
 public class JSONParser {
@@ -77,7 +83,9 @@ public class JSONParser {
 
 	private static String sanitizeFirmJSON(String firmJSON) {
 
-		String sanitizedString = firmJSON.replace("/**/angular.callbacks._0(", "");
+		String sanitizedString = firmJSON.replace("/**/angular.callbacks.", "");
+
+		sanitizedString = sanitizedString.substring(sanitizedString.indexOf("(") + 1, sanitizedString.length());
 
 		return sanitizedString.substring(0, sanitizedString.length() - 1);
 
@@ -94,11 +102,47 @@ public class JSONParser {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+
 		if (jsonNode != null)
 			return Integer.parseInt(getFeildAsString(jsonNode.findPath("hits"), "total"));
 
 		return 0;
+	}
+
+	public static List<FirmManager> parseFirmManagerJSON(String firmManagersJSON) {
+
+		List<FirmManager> firmManagers = new ArrayList<>();
+
+		ObjectMapper objectMapper = new ObjectMapper();
+
+		objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+
+		try {
+
+			JsonNode masterJsonNode = objectMapper.readTree(sanitizeFirmJSON(firmManagersJSON));
+			List<JsonNode> locatedNodes = masterJsonNode.findValues("_source");
+
+			for (JsonNode jsonNode : locatedNodes) {
+
+				FirmManager firmManager = objectMapper.treeToValue(jsonNode, FirmManager.class);
+
+				if (firmManager.getInd_source_id() != null
+						&& firmManager.getInd_bc_disclosure_fl().contentEquals("Y")) {
+
+					firmManagers.add(firmManager);
+
+				}
+			}
+
+			return firmManagers;
+
+		} catch (JsonProcessingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		return Collections.emptyList();
+
 	}
 
 }

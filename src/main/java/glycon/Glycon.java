@@ -11,6 +11,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.object.Firm;
+import glycon.object.FirmManager;
 import glycon.object.FriendlyFirm;
 import glycon.thread.GlyconFirmThread;
 import glycon.thread.GlyconFriendlyFirmThread;
@@ -84,7 +85,7 @@ public class Glycon {
 
 				createFriendlyList(rawFrimList);
 
-				createBrokersWithDisclosuresList();
+				createBrokersWithDisclosuresList(rawFrimList);
 
 			} catch (IOException e) {
 				LoggingUtil.warn(args[1] + " could not be accesed or does not exist");
@@ -99,13 +100,15 @@ public class Glycon {
 
 	}
 
-	public static void createBrokersWithDisclosuresList() {
+	public static void createBrokersWithDisclosuresList(List<String> rawFrimList) {
 
 		List<Firm> primeFirmList = CSVUtil.generateFirmInformation();
 
-		List<List<Firm>> threadFirmList = ListUtil.splitList(THREADS, primeFirmList);
+		List<Firm> workingFirmList = ListUtil.createWorkingFirmList(rawFrimList, primeFirmList);
+		
+		List<List<Firm>> threadFirmList = ListUtil.splitList(THREADS, workingFirmList);
 
-		List<Future<List<Firm>>> resultList = Collections.synchronizedList(new ArrayList<>());
+		List<Future<List<FirmManager>>> resultList = Collections.synchronizedList(new ArrayList<>());
 		
 		AtomicInteger atomicInt = new AtomicInteger(0);
 
@@ -123,7 +126,7 @@ public class Glycon {
 
 			executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
 
-			ProgressUtil.displayProgressBar(atomicInt, primeFirmList, executorService, "Gathering managers from firms");
+			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService, "Gathering managers from firms");
 
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block

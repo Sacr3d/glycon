@@ -5,7 +5,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
+import java.util.stream.Collectors;
 
+import glycon.object.Firm;
 import glycon.object.FriendlyFirm;
 
 public class ListUtil {
@@ -42,11 +44,18 @@ public class ListUtil {
 		return partitions;
 	}
 
-	public static List<String> removeDuplicates(List<String> rawFrimList, List<String> friendlyFirmPrevious) {
+	public static <E> List<E> removeDuplicates(List<E> rawFrimList, List<E> friendlyFirmPrevious) {
 
 		rawFrimList.removeAll(new HashSet<>(friendlyFirmPrevious));
 
 		return new ArrayList<>(rawFrimList);
+	}
+
+	public static List<Firm> createWorkingFirmList(List<String> rawFrimList, List<Firm> primeFirmList) {
+
+		return primeFirmList.stream().filter(firm -> rawFrimList.contains(firm.getFirmId()))
+				.collect(Collectors.toList());
+
 	}
 
 }
