@@ -18,7 +18,7 @@ public class JSONParser {
 
 		return hasTagInNode(locatedNode, "firm_ia_full_sec_number")
 				? getFeildAsString(locatedNode, "firm_ia_full_sec_number")
-				: getFeildAsString(locatedNode, "firm_name");
+				: getFeildAsString(locatedNode, "firm_name").replace(" ", "+");
 	}
 
 	private static String getFeildAsString(JsonNode locatedNode, String fieldName) {

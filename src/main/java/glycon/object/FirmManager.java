@@ -14,6 +14,7 @@ public class FirmManager {
 
 	private String[] ind_other_names;
 
+
 	public String getInd_source_id() {
 		return ind_source_id;
 	}

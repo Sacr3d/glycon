@@ -8,6 +8,7 @@ import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
 import glycon.object.Firm;
+import glycon.object.FirmManager;
 import glycon.object.FriendlyFirm;
 
 public class ListUtil {
@@ -46,9 +47,11 @@ public class ListUtil {
 
 	public static <E> List<E> removeDuplicates(List<E> rawFrimList, List<E> friendlyFirmPrevious) {
 
-		rawFrimList.removeAll(new HashSet<>(friendlyFirmPrevious));
+		List<E> listCopy = new ArrayList<>(rawFrimList);
+		
+		listCopy.removeAll(new HashSet<>(friendlyFirmPrevious));
 
-		return new ArrayList<>(rawFrimList);
+		return new ArrayList<>(listCopy);
 	}
 
 	public static List<Firm> createWorkingFirmList(List<String> rawFrimList, List<Firm> primeFirmList) {
@@ -56,6 +59,29 @@ public class ListUtil {
 		return primeFirmList.stream().filter(firm -> rawFrimList.contains(firm.getFirmId()))
 				.collect(Collectors.toList());
 
+	}
+
+	public static List<FirmManager> packFutures(List<Future<List<FirmManager>>> resultList) {
+
+		List<FirmManager> friendlyFirmList = new ArrayList<>();
+
+		for (Future<List<FirmManager>> friendlyFirmFutureList : resultList) {
+
+			try {
+				friendlyFirmFutureList.get().forEach(friendlyFirm -> {
+					if (friendlyFirm != null)
+						friendlyFirmList.add(friendlyFirm);
+
+				});
+			} catch (InterruptedException | ExecutionException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+		}
+		
+		return friendlyFirmList;
+		
 	}
 
 }

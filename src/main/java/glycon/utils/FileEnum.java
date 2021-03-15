@@ -1,8 +1,10 @@
 package glycon.utils;
 
+import java.io.File;
+
 public enum FileEnum {
 
-	FRIENDLY_WORKBOOK("friendly-workbook.csv");
+	FIRM_PATH("firms" + File.separator),FRIENDLY_WORKBOOK("friendly-workbook.csv"), FIRM_WORKBOOK("firm.csv");
 
 	private final String value;
 

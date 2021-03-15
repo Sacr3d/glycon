@@ -33,18 +33,30 @@ public class Glycon {
 
 		List<Future<List<FriendlyFirm>>> resultList = Collections.synchronizedList(new ArrayList<>());
 
-		List<List<String>> threadRawFirmList = friendlyFirmPrevious == null ? ListUtil.splitList(THREADS, rawFrimList)
-				: ListUtil.splitList(THREADS, ListUtil.removeDuplicates(rawFrimList, friendlyFirmPrevious));
+		List<String> workingFirmList = null;
 
-		runThreadedFriendlyFirmService(rawFrimList, resultList, threadRawFirmList);
+		if (friendlyFirmPrevious != null) {
+
+			workingFirmList = ListUtil.removeDuplicates(rawFrimList, friendlyFirmPrevious);
+
+		} else {
+
+			workingFirmList = new ArrayList<>(rawFrimList);
+
+		}
+
+		List<List<String>> threadRawFirmList = friendlyFirmPrevious == null ? ListUtil.splitList(THREADS, rawFrimList)
+				: ListUtil.splitList(THREADS, workingFirmList);
+
+		runThreadedFriendlyFirmService(workingFirmList, resultList, threadRawFirmList);
 
 		CSVUtil.createCSVFile(ListUtil.sanatizeFriendlyList(resultList));
 
 	}
 
-	private static void runThreadedFriendlyFirmService(List<String> rawFrimList,
+	private static void runThreadedFriendlyFirmService(List<String> workingFirmList,
 			List<Future<List<FriendlyFirm>>> resultList, List<List<String>> threadRawFirmList) {
-		
+
 		AtomicInteger atomicInt = new AtomicInteger(0);
 
 		ExecutorService executorService = Executors.newFixedThreadPool(THREADS);
@@ -61,7 +73,8 @@ public class Glycon {
 
 			executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
 
-			ProgressUtil.displayProgressBar(atomicInt, rawFrimList, executorService, "Creating friendly names for firms");
+			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService,
+					"Creating friendly names for firms");
 
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
@@ -105,18 +118,16 @@ public class Glycon {
 		List<Firm> primeFirmList = CSVUtil.generateFirmInformation();
 
 		List<Firm> workingFirmList = ListUtil.createWorkingFirmList(rawFrimList, primeFirmList);
-		
+
 		List<List<Firm>> threadFirmList = ListUtil.splitList(THREADS, workingFirmList);
 
-		List<Future<List<FirmManager>>> resultList = Collections.synchronizedList(new ArrayList<>());
-		
 		AtomicInteger atomicInt = new AtomicInteger(0);
 
 		ExecutorService executorService = Executors.newFixedThreadPool(THREADS);
 
 		for (List<Firm> firmList : threadFirmList) {
 
-			resultList.add(executorService.submit(new GlyconFirmThread(firmList, atomicInt)));
+			executorService.submit(new GlyconFirmThread(firmList, atomicInt));
 
 		}
 
@@ -126,14 +137,14 @@ public class Glycon {
 
 			executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
 
-			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService, "Gathering managers from firms");
+			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService,
+					"Gathering managers from firms");
 
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		System.out.print(false);
+
 
 	}
 

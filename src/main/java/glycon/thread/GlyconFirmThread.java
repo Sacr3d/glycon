@@ -1,9 +1,11 @@
 package glycon.thread;
 
+import java.io.File;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.Callable;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -11,9 +13,12 @@ import glycon.network.RequestURL;
 import glycon.object.Firm;
 import glycon.object.FirmManager;
 import glycon.parser.JSONParser;
+import glycon.utils.CSVUtil;
+import glycon.utils.FileEnum;
+import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
 
-public class GlyconFirmThread implements Callable<List<FirmManager>> {
+public class GlyconFirmThread implements Runnable {
 
 	private List<Firm> primeFirmList;
 	private AtomicInteger atomicInt;
@@ -21,23 +26,6 @@ public class GlyconFirmThread implements Callable<List<FirmManager>> {
 	public GlyconFirmThread(List<Firm> firmList, AtomicInteger atomicInt) {
 		this.primeFirmList = firmList;
 		this.atomicInt = atomicInt;
-	}
-
-	public List<FirmManager> call() throws Exception {
-
-		List<FirmManager> test = new ArrayList<>();
-
-		primeFirmList.forEach(firm -> {
-
-			List<FirmManager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
-
-			test.addAll(managersWithDisclosuresList);
-
-			atomicInt.addAndGet(1);
-
-		});
-
-		return test;
 	}
 
 	private List<FirmManager> collectManagersWithDisclosures(Firm firm) {
@@ -66,8 +54,7 @@ public class GlyconFirmThread implements Callable<List<FirmManager>> {
 //		firmManagerList.addAll(
 //				ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(alphabetCrawl(firm, managersToGet))));
 
-		firmManagerList.addAll(
-				ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
+		firmManagerList.addAll(ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
 
 		return firmManagerList;
 
@@ -81,16 +68,13 @@ public class GlyconFirmThread implements Callable<List<FirmManager>> {
 		int endBoundry = 365;
 
 		while (startBoundry < 18250) {
-			
-			int managersToGet = JSONParser.parseFirmHits(RequestURL.getFirmManagersByRangeAndExpirienceJSON(firm.getSecId(), 100,
-					1, startBoundry, startBoundry != 18250 ? Integer.toString(endBoundry) : "*"));
 
-			
+			int managersToGet = JSONParser.parseFirmHits(getFirmExpirenceFirms(firm, startBoundry, endBoundry));
+
 			for (int i = 0; i < managersToGet; i += 100) {
 
-				managerList.addAll(JSONParser
-						.parseFirmManagerJSON(RequestURL.getFirmManagersByRangeAndExpirienceJSON(firm.getSecId(), 100,
-								i, startBoundry, startBoundry != 18250 ? Integer.toString(endBoundry) : "*")));
+				managerList
+						.addAll(JSONParser.parseFirmManagerJSON(getFirmExpirenceFirms(firm, startBoundry, endBoundry)));
 
 			}
 
@@ -100,6 +84,11 @@ public class GlyconFirmThread implements Callable<List<FirmManager>> {
 		}
 
 		return managerList;
+	}
+
+	private String getFirmExpirenceFirms(Firm firm, int startBoundry, int endBoundry) {
+		return RequestURL.getFirmManagersByRangeAndExpirienceJSON(firm.getSecId(), 100, 1, startBoundry,
+				startBoundry != 18250 ? Integer.toString(endBoundry - 1) : "*");
 	}
 
 	private List<FirmManager> alphabetCrawl(Firm firm, int managersToGet) {
@@ -129,6 +118,27 @@ public class GlyconFirmThread implements Callable<List<FirmManager>> {
 		}
 
 		return managerList;
+
+	}
+
+	@Override
+	public void run() {
+		List<FirmManager> test = new ArrayList<>();
+
+		primeFirmList.forEach(firm -> {
+
+			if (!FileUtil
+					.fileExists(FileEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
+
+				List<FirmManager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
+
+				test.addAll(managersWithDisclosuresList);
+
+				CSVUtil.createCSVFirmFile(test, firm);
+
+				atomicInt.addAndGet(1);
+			}
+		});
 
 	}
 

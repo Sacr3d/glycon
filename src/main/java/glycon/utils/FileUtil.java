@@ -19,5 +19,11 @@ public class FileUtil {
 		return new File(FileEnum.FRIENDLY_WORKBOOK.toString()).exists();
 
 	}
+	
+	public static boolean fileExists(String string) {
+
+		return new File(string).exists();
+
+	}
 
 }
