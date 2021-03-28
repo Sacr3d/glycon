@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,5212755,BRENDA,"[BRENDA MARIE REICHENBACH, BRENDA  REICHENBACH]",KOCHEL,8/14/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018059546401"",
+  ""DocketNumberAAO"" : ""2018059546401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Kochel consented to the sanction and to the entry of findings that she converted her member firm's funds by requesting and obtaining $23,847.24 in reimbursement from the firm for travel expenses, she did not incur. The findings stated that Kochel requested reimbursement for the trips through expense reports. For each trip, on each expense report, Kochel identified locations she claimed to have driven from and driven to, and identified amounts of personal car usage expenses she claimed to have incurred on those trips. These were fictitious trips, because she did not take such trips or incur such expenses. Kochel's supervisor provided her with his log-in credentials to the firm's expense reimbursement system so that she could approve the expense reimbursement requests of his team members. Without Kochel's supervisor's knowledge, she used his log-in credentials to approve the reimbursement of her fictitious expenses. Through her actions, Kochel obtained the funds that she was not entitled to receive."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""8/14/2019""
+    } ]
+  } ]
+}",3/31/2015 - 8/15/2018,PARK AVENUE SECURITIES LLC (46173)
+46173,5212755,BRENDA,"[BRENDA MARIE REICHENBACH, BRENDA  REICHENBACH]",KOCHEL,7/19/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PARK AVENUE SECURITIES LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Misappropriation of Company funds (no client funds involved, not investment related). Submitted false expenses through Company's expense reimbursement system.""
+}",10/31/2006 - 3/31/2015,GUARDIAN INVESTOR SERVICES LLC (6635)

@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,4/28/2014,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State of Ohio Department of Insurance"",
+  ""Allegations"" : ""Failed to report criminal prosecution to the Ohio Department of Insurance within thirty days after initial appearance. Allegation period on or about October 29, 2012 to November 16, 2012."",
+  ""Resolution"" : ""Consent Order"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""$400 civil penalty and $100 administrative fee paid in April 2014.""
+}",11/18/2013 - 4/26/2019,J.P. MORGAN SECURITIES LLC (79)
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,,,,,2/12/2009 - 11/7/2013,"NATIONWIDE SECURITIES, LLC (11173)"
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,,,,,3/20/2007 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,,,,,3/5/2003 - 11/7/2013,"NATIONWIDE SECURITIES, LLC (11173)"
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,,,,,8/16/2001 - 3/3/2003,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)
+79,4256089,BRIAN,"[BRIAN J CELEK, BRIAN  CELEK]",CELEK,,,,,11/17/2000 - 1/25/2001,NEW ENGLAND SECURITIES (615)

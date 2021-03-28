@@ -1,0 +1,61 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,10/22/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$436,000.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""ALL OF MR. ALINIKOFF'S federal tax liens were consolidated into a monthly payment plan on 07/28/2015. He has since entered into a Offer of Compromise with the IRS and the final payment of $80,800 is due April 15 2021.""
+}",11/17/2017 - Current,"CAPITAL MARKETS IQ, LLC (134921)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,9/29/2010,Civil,Final,"{
+  ""Initiated By"" : ""NEW JERSEY BUREAU OF SECURITIES"",
+  ""Allegations"" : ""ALINIKOFF IS THE SUBJECT OF FINAL DECISION AND CONSENT ORDER OF ASSESSMENT OF CIVIL MONETARY PENALTIES (\""ORDER\"") ENTERED ON NOVEMBER 16, 2005 (AMENDED JULY 20, 2006 AS TO ANOTHER PARTY NAMED IN THE ORDER).  THE ORDER ASSESSED A CIVIL MONETARY PENALTY AGAINST THE DEFENDANT JOINTLY AND SEVERALLY, IN THE AMOUNT OF $55,500, PURSUANT TO N.J.S.A. 49:3-56(H), NJ.S.A. 49:3-58(A) (2) (XI) , AND N.J.S.A. 49:3-70.1.  THE DEFENDANT HAS ONLY PAID THE BUREAU $31,500 OF THE ENTIRE CIVIL MONETARY ASSESSMENT. THUS, $24,000 REMAINS DUE AND OWING FROM THE DEFENDANT."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  } ],
+  ""Sanctions"" : ""THE DEFENDANT IS DIRECTED TO PAY THE REMAINING SUM OF $24,000 AS MANDATED IN THE ORDER.  THE CLERK OF THE SUPERIOR COURT OF NEW JERSEY SHALL RECORD THE ORDER ASSESSING A PENALTY OF $55,500 AGAINST THE DEFENDANT ON THE JUDGMENT DOCKET OF THE COURT, AND REFLECT THE PAYMENT OF $31,500 ALREADY MADE BY THE DEFENDANT."",
+  ""Broker Comment"" : ""This matter is the civil case that followed the regulatory action disclosed under 14D(1)(b) & (d) below.\\u00a0 The State of NJ Bureau of Securities filed this case to enforce collection of the remaining portion the monetary fine ordered in 2005 in the related regulatory matter.\\u00a0 As stated below, I vigorously disagreed with the state's conclusion in the regulatory matter.\\u00a0 I have paid a substantial portion of the fine assessed but the other four registered reps involved in the matter have paid zero.\\u00a0 The state seeks to hold me jointly liable.""
+}",4/28/2009 - 11/17/2017,"PROSPERA FINANCIAL SERVICES, INC. (10740)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,5/8/2006,Customer Dispute,Settled,"{
+  ""Allegations"" : ""AUGUST 1999 THE FIRM FIRST SECUIRTY FAILED TO SUPERVISE REPRESENTATIVES BY ALLOWING EXCESSIVE AND UNSUITABLE TRADING AND UNSUITABLE USE OF MARGINS."",
+  ""Damage Amount Requested"" : ""$180,000.00"",
+  ""Settlement Amount"" : ""$7,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""06-00591"",
+  ""arbitrationDocketNumber"" : """"
+}",5/9/2005 - 4/27/2009,SPC (110692)
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,5/3/2005,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C9A050022"",
+  ""DocketNumberAAO"" : ""9050022"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""NASD RULES 3110, 2110 - RESPONDENT, ACTING ON BEHALF OF HIS MEMBER FIRM, AFTER RISKLESS PRINCIPAL TRANSACTIONS,  FAILED TO ENSURE THAT HIS MEMBER FIRM DISCLOSED THE AMOUNT OF ITS MARKUP/DOWNS ON THE CONFIRMATION THAT IT SENT TO ITS PUBLIC CUSTOMERS."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  } ],
+  ""Regulator Statement"" : ""WITHOUT ADMITTING OR DENYING THE ALLEGATIONS, RESPONDENT FIRM CONSENTED TO THE DESCRIBED SANCTIONS AND TO THE ENTRY OF FINDINGS; THEREFORE, FIRM IS CENSURED AND FINED $35,000.  FINES PAID ON 05/21/2009.""
+}",4/14/2005 - 4/27/2009,"SAMMONS SECURITIES COMPANY, LLC (115368)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,12/4/2003,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NEW JERSEY BUREAU OF SECURITIES"",
+  ""Allegations"" : ""FIRM LET FOUR REPS TRADE FOR 3 WEEK PERIOD WHILE THEY WERE NOT REGISTERED IN NEW JERSEY."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$55,000.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""ALINIKOFF FAILED TO REASONABLY SUPERVISE 4 AGENTS AS TO EACH OFFER AND SALE OF SECURITIES INTO, FROM AND WITHIN NEW JERSEY WHILE THEY WERE EMPLOYED BY FIRST SECURITY, BUT NOT REGISTERED AS AGENTS."",
+  ""Broker Comment"" : ""The State of NJ Bureau of Securities filed an administrative order against me, FSI, and four registered reps at FSI for activity in 1997.\\u00a0 The state alleged that I failed to supervise reps moving from other firms to FSI by allowing them to do business in NJ before they were registered.\\u00a0 I vigorously disagreed with this allegation.\\u00a0 I did supervise the registered reps at FSI and there was a procedure in place to allow clients to execute transactions while their registered reps transferred from a prior firm to FSI""
+}",3/9/2005 - 4/14/2005,"AMERICAN CAPITAL PARTNERS, LLC (119249)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,4/6/2004 - 4/20/2005,FIRST SECURITY ASSET MANAGEMENT (24035)
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,1/1/2002 - 3/22/2004,FIRST SECURITY ASSET MANAGEMENT (24035)
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,6/21/1993 - 9/26/2000,MONY SECURITIES CORPORATION (4386)
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,5/26/1989 - 3/22/2005,"FIRST SECURITY INVESTMENTS, INC. (24035)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,10/27/1988 - 6/10/1989,"JOSEPHTHAL & CO., INCORPORATED (475)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,3/16/1988 - 11/3/1988,"H. BECK, INC. (1763)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,10/26/1984 - 3/26/1988,"A. F. BEST SECURITIES, INC. (14335)"
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,6/3/1982 - 11/23/1984,MONY SECURITIES CORP. (4386)
+134921,1022014,STEPHEN,[STEVE  ALINIKOFF],ALINIKOFF,,,,,12/18/1981 - 11/23/1984,THE MUTUAL LIFE INSURANCE COMPANY OF NEW YORK (2873)

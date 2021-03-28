@@ -1,0 +1,65 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+125004,2358058,KIRK,[],GENT,2/9/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""MICHIGAN"",
+  ""Allegations"" : ""THE ADMINISTRATOR TERMINATED THE INVESTMENT ADVISER REPRESENTATIVE AND SECURITIES AGENT CONDITIONAL REGISTRATIONS OF KIRK CHARLES GENT, UNDER SECTION 408(5) OF MICHIGAN UNIFORM SECURITIES ACT (2002), 2008 PA 551, MCL 451.2408(5), BECAUSE RESPONDENT HAS CEASED TO ACT AS AN INVESTMENT ADVISER REPRESENTATIVE AND A SECURITIES AGENT."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""REGISTRATIONS TERMINATED.""
+}",10/1/2014 - 11/21/2014,REGAL INVESTMENT ADVISORS LLC (125004)
+125004,2358058,KIRK,[],GENT,10/6/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$568.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THIS ACCOUNT IS BEING ADDED TO MY PAYMENT SCHEDULE.""
+}",2/16/2010 - 1/28/2015,"AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC. (18487)"
+125004,2358058,KIRK,[],GENT,4/9/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,925.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""IN A PAYMENT PROGRAM WITH THE STATE.""
+}",10/31/2005 - 2/18/2010,"SAGEPOINT FINANCIAL, INC. (133763)"
+125004,2358058,KIRK,[],GENT,2/4/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,237.49"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""WORKING ON OPTIONS.""
+}",7/1/2005 - 10/31/2005,"SUNAMERICA SECURITIES, INC. (20068)"
+125004,2358058,KIRK,[],GENT,11/14/2013,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF MICHIGAN, CS&CL BUREAU"",
+  ""Allegations"" : ""IT WAS DETERMINED THAT MR. GENT WAS INSOLVENT BASED ON THE PERSONAL BALANCE SHEET THAT HE COMPLETED AND SUBMITTED."",
+  ""Resolution"" : ""STIPULATION AND ORDER FOR CONDITIONAL REGISTRATION"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""HEIGHTENED SUPERVISION AND REPORTING REQUIREMENTS."",
+  ""Broker Comment"" : ""GENT WAS ISSUED A RESTRICTED SECURITIES AGENT AND INVESTMENT ADVISOR REPRESENTATIVE REGISTRATION BASED ON THE CONDITIONAL ORDER, WHICH IS IN EFFECT UNTIL HE IS SOLVENT""
+}",9/7/2004 - 7/5/2005,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+125004,2358058,KIRK,[],GENT,3/29/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,983.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""IN A PAYMENT PROGRAM WITH THE STATE.""
+}",8/23/2001 - 11/21/2001,"NATCITY INSURANCE SERVICES, INC. (16989)"
+125004,2358058,KIRK,[],GENT,9/5/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$13,000.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/25/2000 - 8/23/2000,"NATCITY INSURANCE SERVICES, INC. (16989)"
+125004,2358058,KIRK,[],GENT,5/17/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,220.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""IN THE PROCESS OF WEIGHING OUT OPTIONS.""
+}",6/4/1999 - 8/18/2004,"NATCITY INVESTMENTS, INC. (17490)"
+125004,2358058,KIRK,[],GENT,11/2/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,300.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",11/26/1997 - 6/3/1999,OLD KENT FINANCIAL ADVISORS (17039)
+125004,2358058,KIRK,[],GENT,2/2/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,304.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/24/1997 - 11/12/1997,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+125004,2358058,KIRK,[],GENT,2/2/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$47,910.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/1/1995 - 11/6/1995,SMITH BARNEY INC. (7059)
+125004,2358058,KIRK,[],GENT,9/3/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,859.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/28/1993 - 4/7/1995,FMB INVESTMENT SERVICES (28080)

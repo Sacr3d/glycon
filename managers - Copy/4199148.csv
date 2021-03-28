@@ -1,0 +1,62 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,11/1/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016052117801"",
+  ""DocketNumberAAO"" : ""2016052117801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Weimer failed to pay fines and/or costs of $5,000.00 in FINRA Case #2016052117801."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation""
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 8320, Respondent Weimer's FINRA registration is revoked as of the close of business on November 1, 2017 for failure to pay fines and/or costs.""
+}",1/5/2017 - 7/31/2017,"CANTELLA & CO., INC. (13905)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,7/27/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016052117801"",
+  ""DocketNumberAAO"" : ""2016052117801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Weimer consented to the sanctions and to the entry of findings that he borrowed $3,000 from a customer contrary to his member firm's policies and procedures. The findings stated that at the time of the loan the firm's compliance manual explicitly prohibited a representative from borrowing money from his customer absent prior written approval from the firm. Weimer did not notify his firm that he was borrowing these funds, and no such approval was ever given to Weimer by the firm. In accordance with the loan's terms, Weimer repaid the loan in full within three months."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""all capacities"",
+      ""Duration"" : ""20 business days"",
+      ""Start Date"" : ""8/7/2017"",
+      ""End Date"" : ""9/1/2017""
+    } ]
+  } ]
+}",1/4/2017 - 7/31/2017,"CANTELLA & CO., INC. (13905)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,6/15/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Oklahoma department of securities"",
+  ""Allegations"" : ""Weimer borrowed money from a client without the firm's consent."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Weimer's registration was approved subject to an agreement requiring heightened supervision for one year including approval of all new customer accounts and quarterly reviews of his activity.  Weimer must also report all customer complaints and any changes to Weimer's Form U-4 to the Department within 10 days.""
+}",3/16/2010 - 11/29/2016,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,2/24/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Michigan"",
+  ""Allegations"" : ""The Administrator intends to DENY the SECURITIES AGENT AND INVESTMENT ADVISER REPRESENTATIVE REGISTRATION APPLICATIONS OF RONALD W. WEIMER, under 412(1) of the Securities Act, MCL 451.2412(1), because Applicant engaged in dishonest or unethical practices within the last 10 years, which supports the denial of his registration applications under the above-cited provisions of the Michigan Uniform Securities Act (2002), 2008 PA 551, MCL 451.2101 et seq."",
+  ""Resolution"" : ""Stipulation and Order Approving Conditional Registration"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Stipulation and Order Approving Conditional Registration""
+}",5/30/2008 - 11/29/2016,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,11/21/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""J.J.B. Hilliard, W.L. Lyons, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Borrowed money from a client without the firm's consent.""
+}",2/22/2005 - 6/6/2008,"FIFTH THIRD SECURITIES, INC. (628)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,12/30/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Short sale occurred in Oct 2008 after which Mr. Weimer continued to make payments. On 12/30/2015 the bank offered a settlement for $14000.00 of the $140,051.58 due. The $14000.00 was paid in full on July 31, 2016.""
+}",4/12/2002 - 6/6/2008,"FIFTH THIRD SECURITIES, INC. (628)"
+13905,4199148,RONALD,[RON W WEIMER],WEIMER,,,,,7/26/2000 - 4/2/2002,EDWARD JONES (250)

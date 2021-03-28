@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+297713,3103041,THOMAS,[Thom  Rogers],ROGERS,3/27/1987,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""CLIENT - JOHN MITZI"",
+  ""Allegations"" : ""FAILURE TO DISCLOSE TO A BUSINESS PARTNER/CLIENT THE RIGHT TO SEEK INDEPENDENT COUNSEL AND FAILURE TO PROVIDE ADEQUATE ACCOUNTING"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""None (The Suspension was from the practice of Law)"",
+      ""Duration"" : ""60 Days"",
+      ""Start Date"" : ""7/6/1991"",
+      ""End Date"" : ""9/3/1991""
+    } ]
+  } ],
+  ""Broker Comment"" : ""In 1981, I invested in 3 residential condominiums with a business partner, who was also a client at my law firm. We made minimal down payments and mortgaged the balance of the money to purchase the condos. It was our intention to sell the properties for a profit after owning them for a year in order to qualify for favorable capital gains tax treatment. After the initial year of owning the condominiums, the real estate market soured because the interest rates rose to 21% during President Carter's administration and the properties became unmarketable at such high interest rates. Initially, I managed the rental properties. My business partner desperately wanted to sell the condos and requested to take over the management of them so he could sell them. I voluntarily turned over the management of the rental condos to him, which were fully leased at the time. He could not sell them either. After the renters eventually vacated the properties at the end of the leases, unbeknownst to me, my business partner failed to find new tenants or make the mortgage payments and the lenders foreclosed on the properties. To recoup his loss, my business partner was advised by a litigator that he could make a claim against my malpractice insurance carrier if he filed a legal complaint against me claiming I failed to disclose that he had a right to seek independent counsel at the time he entered the business partnership and that he did not receive an adequate accounting. The insurance company settled the case out of court to avoid the cost of defending the action.""
+}",8/16/2018 - Current,FINANCIAL TRANSPARENCY (297713)
+297713,3103041,THOMAS,[Thom  Rogers],ROGERS,,,,,5/3/2011 - 9/4/2018,"TRUSTEE EMPOWERMENT & PROTECTION, INC. (108249)"
+297713,3103041,THOMAS,[Thom  Rogers],ROGERS,,,,,4/20/2011 - 8/13/2018,"CSSC BROKERAGE SERVICES, INC. (141630)"
+297713,3103041,THOMAS,[Thom  Rogers],ROGERS,,,,,3/7/2000 - 1/4/2010,"VALMARK ADVISERS, INC. (108050)"
+297713,3103041,THOMAS,[Thom  Rogers],ROGERS,,,,,12/2/1998 - 1/4/2010,"VALMARK SECURITIES, INC. (31243)"

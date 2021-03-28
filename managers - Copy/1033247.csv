@@ -1,0 +1,41 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,11/18/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State on New York, Department of Financial Services"",
+  ""Allegations"" : ""Violation of section of 2110(a)(2)of the NY Insurance Law. Representative failed to disclose to the state of NY a previous Regulatory action taken by the state of Alabama."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary Penalty other than Fines""
+  } ],
+  ""Sanctions"" : ""None"",
+  ""Broker Comment"" : ""Upon applying for the 2015 renewal of a New York non-resident license, the NY Department of Finance found that agent had not disclosed a $50 fine imposed by the state of Alabama back in 2007 for failure to provide notice of a change of address.  Said proceeding and a detailed explanation as to how and why this failure occurred had been uploaded to the NIPR data base and the state of NY had been provided copies of it in 2012 when they renewed agent's NY non-resident license at that time.  Regardless of the 2012 license renewal action and in order to renew agent's NY license for 2015-2017, the NY Department of Finance cited retroactive non-compliance with certain NY regulations and required the execution of a Stipulation along with payment of a fine for failure to disclose said 2007 Alabama proceedings. In response to the inquiry imposed by the NY Department of Finance, agent responded with the explanation that there was never a deliberate intent to not disclose the Alabama proceeding, but any failure to disclose was the result of an administrative error and misunderstanding of the standard NIPR renewal questionnaire and the judicial vs. administrative actions taken in 2007 by the state of Alabama. As a result, Agent executed the attached Stipulation and paid the imposed fine.  The NY license was renewed and is effective until February 5, 2017.""
+}",8/20/2014 - Current,GWN SECURITIES INC. (128929)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,3/26/2007,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""ALABAMA INSURANCE DEPARTMENT"",
+  ""Allegations"" : ""VIOLATION OF PROVISION OF ALABAMA INSURANCE CODE (TITLE 27, CODE OF ALABAMA, 1975)  FAILURE TO RESPOND TO AN ADDRESS CHANGE LETTER AND PAYMENT OF THE FINE ASSOCIATED WITH FAILURE TO CHANGE ADDRESS WITH THE ALABAMA INSURANCE DEPARTMENT."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$50.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""VOLUNTARY SURRENDER OF ALABAMA INSURANCE LICENSE"",
+  ""Sanction Details"" : ""PAID $50.00 FINE AND VOLUNTARILY SURRENDERED ALABAMA INSURANCE LICENSE"",
+  ""Broker Comment"" : ""PURSUANT TO AN AGREEMENT BETWEEN KUYKENDALL INSURANCE GROUP AND RON SELLERS & ASSOCIATES (RSA), DATED 6-21-2006, RON SELLERS & RSA ARE NO LONGER AFFILIATED WITH SELLERS KUYKENDALL. PRIOR TO THE SEPARATION ALL LICENSING MATTERS WERE MAINTAINED IN THE WINTER PARK, FL OFFICE OF SELLERS KUYKENDALL.  THE PRIMMARY ADDRESS OF RSA IS IN PALM BEACH GARDENS, FL.  THE PROCESS OF SEPARATING THE ENTITIES TOOK PLACE OVER SEVERAL MONTHS. BECAUSE THE RECORDS WERE MAINTAINED IN WINTER PARK, FL IT WAS UNDERSTOOD BY ME AND THE PALM BEACH GARDENS OFFICE THAT ALL OF THE PROPER LICENSING AUTHORITIES HAD BEEN NOTIFIED OF THE CHANGE OF ADDRESS.  WHEN THE LETTER FROM ALABAMA WAS FINALLY RECEIVED AT MY PALM BEACH GARDENS ADDRESS I WAS SURPRISED THAT THIS WASN'T TAKEN CARE OF EARLIER ACCORDING TO THE AFORESAID AGREEMENT. SINCE I DO NOT HAVE ANY CLIENTS IN ALABAMA AND DIDN'T INTEND ON RENEWING MY ALABAMA LICENSE THE LETTER WAS NOT RESPONDED TO. IT WAS NEVER MY INTENT TO VIOLATE THE INSURANCE LAWS OF THE ALABAMA CODE AND THEREFORE VOLUNTARILY SURRENDERED MY LICENSE AND PAID A $50.00 ADMINISTRATIVE FINE.""
+}",5/5/2011 - 8/28/2014,"INTERNATIONAL ASSETS ADVISORY, LLC (10645)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,11/9/2007 - 11/19/2009,LINCOLN FINANCIAL SECURITIES CORPORATION (3870)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,1/9/2007 - 12/7/2007,"FIRST HEARTLAND CAPITAL, INC. (32460)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,11/21/2000 - 12/19/2006,JEFFERSON PILOT SECURITIES CORPORATION (3870)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,3/21/2000 - 12/4/2000,"VALMARK SECURITIES, INC. (31243)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,7/10/1998 - 3/20/2000,JEFFERSON PILOT SECURITIES CORPORATION (3870)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,7/16/1992 - 1/9/1998,"WALNUT STREET SECURITIES, INC. (15840)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,3/19/1990 - 11/13/1991,"MML INVESTORS SERVICES, INC. (10409)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,12/23/1988 - 1/19/1989,B.C. CHRISTOPHER SECURITIES CO. (60)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,5/13/1987 - 12/23/1988,"MORISON SECURITIES, INC. (8097)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,11/19/1985 - 1/19/1990,THE GREAT-WEST LIFE ASSURANCE COMPANY (5927)
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,11/10/1982 - 5/20/1987,"MML INVESTORS SERVICES, INC. (10409)"
+128929,1033247,RONALD,[RON  SELLERS],SELLERS,,,,,3/16/1982 - 5/22/1987,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

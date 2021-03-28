@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,2/12/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016049078701"",
+  ""DocketNumberAAO"" : ""2016049078701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Gimblet failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,759.53""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""8/22/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""On February 12, 2016, FINRA's Office of Dispute Resolution notified Gimblet that, under FINRA Rule 9554, his registration would be suspended effective March 4, 2016, because he had not paid an arbitration award. After the hearing and a review of the record, the Hearing Officer found that Gimblet did not meet his burden of proving a bona fide inability to pay the award. Effective immediately, Gimblet is suspended from associating with any member firm in any capacity until he produces sufficient documentary evidence to FINRA showing: (1) the award has been paid in full; (2) Gimblet and the arbitration creditor have agreed to settle the matter; or (3) Gimblet has filed a petition in a United States Bankruptcy Court, or a United States Bankruptcy Court has discharged the debt representing the award. Gimblet is also ordered to pay FINRA costs of $1,759.53, which include an administrative fee of $750 and hearing transcript costs of $1,009.53. These costs are due and payable immediately upon the issuance of this Decision. Decision No. ARB160009.""
+}",5/14/2015 - 8/17/2015,SWBC INVESTMENT COMPANY (140994)
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,4/12/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",5/12/2015 - 8/17/2015,"SWBC INVESTMENT SERVICES, LLC (133715)"
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,,,,,3/19/2014 - 1/7/2015,HALEN CAPITAL (135966)
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,,,,,1/10/2011 - 3/13/2014,"ADVISORS ASSET MANAGEMENT, INC. (46727)"
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,,,,,11/4/2010 - 3/13/2014,"ADVISORS ASSET MANAGEMENT, INC. (46727)"
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,,,,,4/14/2000 - 7/28/2000,"KERCHEVILLE & COMPANY, INC. (15871)"
+140994,3197433,CHRISTOPHER,[CHRIS  GIMBLET],GIMBLET,,,,,3/30/1999 - 4/20/2000,USAA INVESTMENT MANAGEMENT COMPANY (5475)

@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4101927,CLAUDE,[],DOBBS,3/17/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,515.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Case is being worked with Problem Solutions Officer William E. Keadle, account #33362138-IIT.  My Arkansas taxes are in good standling.""
+}",6/23/2008 - 5/2/2017,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,4101927,CLAUDE,[],DOBBS,7/23/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,849.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This is a duplicate docket # with two different amounts - this case is also being worked by William Keadle, Acct. #33362138-IIT.  My Arkansas taxes are in good standing.""
+}",9/29/2004 - 8/4/2006,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,4101927,CLAUDE,[],DOBBS,7/23/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,608.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Case is being worked with Problem Solutions Officer William E. Keadle, account #33362138-IIT.  My Arkansas taxes are in good standling.""
+}",1/3/2002 - 9/23/2004,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,4101927,CLAUDE,[],DOBBS,7/31/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,273.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Case is being worked with Problem Solutions Officer William E. Keadle, account #33362138-IIT.  My Arkansas taxes are in good standling.""
+}",3/8/2000 - 8/22/2001,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"

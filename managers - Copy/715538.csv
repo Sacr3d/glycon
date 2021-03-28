@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,10/26/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Misrepresentation. The position was purchased in February 2011. The account was transferred out September 2015."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This matter was resolved by the Firm without a financial contribution from me and without any adverse findings or conclusions against me.""
+}",2/12/2007 - Current,LEUCADIA ASSET MANAGEMENT LLC (121767)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,6/21/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""On January 26, 2011 client bought Private Placement directly from Issuer at the recommendation of the Broker.  On June 21, 2016 client claimed that they were not made aware of material facts."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The client is a sophisticated investor, a physician and an investment professional who brought to bear his medical network and personal acumen in making his decision to invest in Palmaz Scientific, a medical device company.  While I share the client's disappointment regarding the outcome of this investment, his claims that he was unduly influenced and not provided material information are without merit and inconsistent with my unblemished sales practice record for the past thirty-five years.""
+}",4/24/2006 - Current,JEFFERIES LLC (2347)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,5/5/1998 - 4/28/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,4/2/1997 - 5/4/1998,FURMAN SELZ LLC (6540)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,9/1/1988 - 2/18/1997,LEHMAN BROTHERS INC. (7506)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,10/8/1984 - 9/19/1988,"OPPENHEIMER & CO., INC. (630)"
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,4/5/1982 - 10/9/1984,"L. F. ROTHSCHILD, UNTERBERG, TOWBIN (501)"
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,3/25/1981 - 4/13/1982,A. G. BECKER INCORPORATED (7635)
+121767,715538,FRED,"[OSTROVE CHARLES FRED CHARLES, FREDERICK C OSTROVE]",OSTROVE,,,,,9/23/1980 - 2/28/1981,HERZFELD & STERN (406)

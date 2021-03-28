@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,3015172,MARK,[],WILSON,2/3/2011,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""ALLEGATION MADE THAT REGISTERED REP DID NOT ADVISE THE CUSTOMER OF THE POTENTIAL CONSEQUENCES OF THE ROLLOVER AS IT PERTAINED TO HER PERSONAL CIRCUMSTANCES."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/6/2019 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,3015172,MARK,[],WILSON,10/20/2010,Customer Dispute,Denied,"{
+  ""Allegations"" : ""ALLEGATION MADE THAT REGISTERED REP DID NOT ADVISE THE CUSTOMER OF THE POTENTIAL CONSEQUENCES OF THE ROLLOVER AS IT PERTAINED TO HER PERSONAL CIRCUMSTANCES."",
+  ""Damage Amount Requested"" : ""$28,687.83"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/16/1998 - Current,STATE FARM VP MANAGEMENT CORP. (43036)
+3487,3015172,MARK,[],WILSON,1/8/2008,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""FLORIDA DEPT OF FINANCIAL SERVICES"",
+  ""Allegations"" : ""I WAS LATE IN COMPLETING THE CE REQUIREMENT FOR MY PROPERTY AND CASUALY INSURANCE LICENSE"",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Letter of Reprimand""
+  } ]
+}",5/22/2002 - 12/31/2008,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)

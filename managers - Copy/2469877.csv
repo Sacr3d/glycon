@@ -1,0 +1,78 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,1/31/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017052698601"",
+  ""DocketNumberAAO"" : ""2017052698601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Carpen consented to the sanction and to the entry of findings that he failed to produce documents and information requested by FINRA during an investigation into allegations that he excessively traded a customer account."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""1/31/2020""
+    } ]
+  } ]
+}",7/25/2017 - 5/10/2018,"VESTECH SECURITIES, INC. (41409)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,4/12/2019,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Unauthorized trading, unsuitable investments, and excessive trading that led to losses in the clients account(s)."",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/21/2017 - 7/20/2017,"IBN FINANCIAL SERVICES, INC. (42360)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,8/19/2014,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",2/25/2015 - 6/21/2017,FREEDOM INVESTORS CORP. (23714)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,8/14/2012,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""FAILED TO FOLLOW INSTRUCTIONS WITH RESPECT TO THE USE OF MARGIN AND UNAUTHORIZED TRANSACTION."",
+  ""Damage Amount Requested"" : ""$116,845.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER WAS AT ALL TIMES KEPT INFORMED AS TO THE STATUS OF HIS ACCOUNT INCLUDING USE OF MARGIN. FIRM CANNOT GUARANTEE AGAINST TRADING LOSSES. CUSTOMER WAS MADE FULL AWARE THAT THE SALE OF  500 SHARES OF MCP WAS DUE TO A SELL OUT FROM A MARGIN CALL. ON THE DATE OF THE TRANSACTION, THE REGISTERED REPRESENTATIVE WAS NO LONGER REGISTERED WITH THE FIRM EKN.   THE REPRESENTATIVE  DENIES ALL ALLEGATIONS AND WILL VIGOROUSLY DEFEND HIMSELF.""
+}",12/10/2014 - 2/17/2015,IFS SECURITIES (40375)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,6/15/2010,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""ACCOUNT LOSSES OF $50000.00; EXCESSIVE USE OF MARGIN"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER WAS AT ALL TIMES KEPT INFORMED AS TO THE STATUS OF HIS ACCOUNT INCLUDING USE OF MARGIN. FIRM CANNOT GUARANTEE AGAINST TRADING LOSSES. CUSTOMER IS SATISFIED WITH EXPLANATION AND CONTINUES TO DO BUSINESS WITH BROKER AND FIRM.""
+}",11/1/2013 - 12/10/2014,NEWBRIDGE SECURITIES CORPORATION (104065)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,3/3/2010,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""FAILURE TO FOLLOW INSTRUCTIONS"",
+  ""Damage Amount Requested"" : ""$60,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE BROKER DENIES ALL CUSTOMER CLAIMS AND PLANS TO DEFEND HIMSELF VIGOROUSLY. FURTHER, THE BROKER CLAIMS THAT HIS PREVIOUS FIRM FORCED HIM TO RESIGN  PREVENTING HIM FROM CONTACTING HIS CLIENTS AND KEEPING THEM PROPERLY INFORMED. HENCE WHY THIS CLAIM IS MADE""
+}",1/10/2013 - 11/21/2013,"WESTPARK CAPITAL, INC. (39914)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,7/8/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""UNSUITABLE"",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/8/2012 - 1/14/2013,"CBG FINANCIAL GROUP, INC. (6578)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,4/30/2000,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""MISREPRESENTATION"",
+  ""Damage Amount Requested"" : ""$130,000.00"",
+  ""Damages Granted"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CASE WAS CLOSED BETWEEN BROKER AND CLIENT WITH AMICABLE TERMS""
+}",3/9/2010 - 8/15/2012,EKN FINANCIAL SERVICES INC. (113525)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,10/28/2008 - 2/18/2010,JESUP & LAMONT SECURITIES CORP (39056)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,2/20/2007 - 11/26/2008,"GUNNALLEN FINANCIAL, INC (17609)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,1/27/2005 - 3/3/2006,"GUNNALLEN FINANCIAL, INC (17609)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,4/29/2002 - 4/14/2003,"GUNNALLEN FINANCIAL, INC (17609)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,8/10/2001 - 5/15/2002,FIRST MONTAUK SECURITIES CORP. (13755)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,5/6/1998 - 8/29/2001,"FIRST LIBERTY INVESTMENT GROUP, INC. (3536)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,3/10/1997 - 4/14/1998,"VTR CAPITAL, INC. (21404)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,12/3/1996 - 2/6/1997,SOVEREIGN EQUITY MANAGEMENT CORP. (20016)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,1/22/1996 - 11/27/1996,"BILTMORE SECURITIES, INC (25023)"
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,11/17/1995 - 2/10/1996,GKN SECURITIES CORP. (19415)
+41409,2469877,Randy,"[R T CARPEN, RAMSEY  CARPEN, RANDY T CARPEN, RANDY  CARPEN]",Carpen,,,,,2/27/1995 - 12/22/1995,FIRST UNITED EQUITIES CORPORATION (36398)

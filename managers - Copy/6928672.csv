@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6928672,ANNA,"[ANNA  JACOBY, Anna  McNair]",JACOBY,9/1/2017,Financial,Pending,"{
+  ""Type"" : ""Compromise"",
+  ""Broker Comment"" : ""After some financial hardships I decided to work with a debt resolution company to help pay off my credit card debt.""
+}",1/27/2021 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6928672,ANNA,"[ANNA  JACOBY, Anna  McNair]",JACOBY,9/1/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""After some financial hardships I decided to work with a debt resolution company to help pay off my credit card debt.""
+}",7/16/2018 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

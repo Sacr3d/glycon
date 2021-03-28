@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107342,6456568,Samuel,"[SAMUEL HAMILTON BARNETT, Sam Hamilton Barnett]",Barnett,8/21/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Count 1: Kidnapping in the Second Degree.\\nCount 2: Coercion."",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Count 4: Menacing Constituting Domestic Violence.\\nCount 5: Assault in the Fourth Degree Constituting Domestic Violence.\\nCount 6: Harassment."",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Count 3: Assault in the Fourth Degree Constituting Domestic Violence"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",3/4/2016 - 3/3/2017,FISHER INVESTMENTS (107342)

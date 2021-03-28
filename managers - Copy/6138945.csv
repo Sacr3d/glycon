@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+283390,6138945,JULIAN,[],OSSA,7/22/2015,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Maintaining a Common Nuisance"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""Charged being reduced to misdemeanor."",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ]
+}",4/23/2019 - Current,"TRUIST ADVISORY SERVICES, INC. (283390)"
+283390,6138945,JULIAN,[],OSSA,,,,,3/5/2019 - Current,"TRUIST INVESTMENT SERVICES, INC. (17499)"
+283390,6138945,JULIAN,[],OSSA,,,,,6/16/2014 - 3/4/2019,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+283390,6138945,JULIAN,[],OSSA,,,,,2/14/2013 - 3/4/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

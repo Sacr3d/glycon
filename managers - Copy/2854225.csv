@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7059,2854225,ADAM,[],STROUSE,7/8/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$39,351.63"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Connected to audit (IRS) which is currently being disputed. Never received any written communication from NYS. Working to resolve.""
+}",9/4/2018 - Current,CITIGROUP GLOBAL MARKETS INC. (7059)
+7059,2854225,ADAM,[],STROUSE,10/25/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$101,387.06"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Resulted as part of an audit where appeal response wasn't received due to moving back and forth internationally. Issue is being addressed and will be resolved in due course""
+}",5/18/2017 - 8/31/2018,"INSTINET, LLC (7897)"
+7059,2854225,ADAM,[],STROUSE,,,,,8/1/2011 - 5/22/2017,"NOMURA SECURITIES INTERNATIONAL, INC. (4297)"
+7059,2854225,ADAM,[],STROUSE,,,,,8/10/2010 - 7/1/2011,"RBC CAPITAL MARKETS, LLC (31194)"
+7059,2854225,ADAM,[],STROUSE,,,,,2/27/2009 - 8/10/2010,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+7059,2854225,ADAM,[],STROUSE,,,,,10/22/2004 - 8/10/2010,BANC OF AMERICA SECURITIES LLC (26091)
+7059,2854225,ADAM,[],STROUSE,,,,,5/10/2001 - 12/31/2003,BANC OF AMERICA SECURITIES LLC (26091)
+7059,2854225,ADAM,[],STROUSE,,,,,11/1/1999 - 3/19/2001,"OFFROAD SECURITIES, INC. (30890)"
+7059,2854225,ADAM,[],STROUSE,,,,,8/11/1999 - 9/7/1999,ING BARINGS LLC (6540)

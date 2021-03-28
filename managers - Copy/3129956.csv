@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+45995,3129956,THOMAS,"[THOMAS M (JR) DEWBRAY, TOM  DEWBRAY, TOM  DEWBREY]",DEWBRAY,11/10/2010,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGES UNAUTHORIZED TRADING."",
+  ""Damage Amount Requested"" : ""$145,000.00"",
+  ""Damages Granted"" : ""$1.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/3/2012 - Current,"HARTFORD FUNDS DISTRIBUTORS, LLC (45995)"
+45995,3129956,THOMAS,"[THOMAS M (JR) DEWBRAY, TOM  DEWBRAY, TOM  DEWBREY]",DEWBRAY,2/1/1997,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""DNU - Misrepresent age for purpose of purchasing alcohol."",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",6/7/2010 - 12/3/2012,"HARTFORD LIFE DISTRIBUTORS, LLC (8326)"
+45995,3129956,THOMAS,"[THOMAS M (JR) DEWBRAY, TOM  DEWBRAY, TOM  DEWBREY]",DEWBRAY,3/29/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Displaying improper license"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",2/1/1999 - 6/1/2010,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+45995,3129956,THOMAS,"[THOMAS M (JR) DEWBRAY, TOM  DEWBRAY, TOM  DEWBREY]",DEWBRAY,,,,,11/20/1998 - 6/1/2010,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

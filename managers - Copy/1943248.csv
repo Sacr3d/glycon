@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,1943248,JEFFREY,[JEFF  LANDIS],LANDIS,4/30/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,256.69"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Amount due under dispute""
+}",8/1/2008 - 10/7/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,1943248,JEFFREY,[JEFF  LANDIS],LANDIS,8/31/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,162.31"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Amount due under dispute""
+}",5/4/2007 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+11173,1943248,JEFFREY,[JEFF  LANDIS],LANDIS,1/11/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$13,161.28"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Amount due under dispute""
+}",6/9/1989 - 7/19/2007,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,1943248,JEFFREY,[JEFF  LANDIS],LANDIS,12/19/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,741.72"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+11173,1943248,JEFFREY,[JEFF  LANDIS],LANDIS,6/30/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$26,187.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,

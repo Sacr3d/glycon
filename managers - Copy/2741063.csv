@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,2741063,JOSEPH,[],KLAUZAR,1/25/2021,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges mismanagement of account resulting in adverse tax consequences. Alleged Activity Dates: 4/08/2019 - 3/12/2020."",
+  ""Damage Amount Requested"" : ""$27,540.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This account was a discretionary account in which I had full trading authority.  The account was rebalanced to lock-in profits and reposition for anticipated market changes in accordance with investment objectives.  The client repeatedly cancelled portfolio review meetings, did not look at trade confirms or statements.  Nearly two full years after the rebalance, the client now is dissatisfied with having to pay taxes on the portfolio profits however is completely satisfied with portfolio performance.""
+}",9/28/2018 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,2741063,JOSEPH,[],KLAUZAR,,,,,9/21/2011 - 10/2/2018,MORGAN STANLEY (149777)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,8/8/2011 - 10/2/2018,MORGAN STANLEY (149777)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,1/27/2009 - 8/19/2009,PACIFIC PEARL GROUP (148077)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,4/17/2006 - 7/31/2006,PACIFIC CORNERSTONE CAPITAL INCORPORATED (40397)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,8/14/2003 - 4/13/2005,AIM PRIVATE ASSET MANAGEMENT (109264)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,7/9/2003 - 4/13/2005,"A I M DISTRIBUTORS, INC. (7369)"
+705,2741063,JOSEPH,[],KLAUZAR,,,,,5/21/2003 - 7/9/2003,INVESCO (106529)
+705,2741063,JOSEPH,[],KLAUZAR,,,,,4/5/2001 - 7/8/2003,"INVESCO DISTRIBUTORS, INC. (289)"
+705,2741063,JOSEPH,[],KLAUZAR,,,,,1/20/2000 - 4/6/2001,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"
+705,2741063,JOSEPH,[],KLAUZAR,,,,,11/4/1997 - 12/22/1999,"EVERGREEN INVESTMENT SERVICES, INC. (487)"
+705,2741063,JOSEPH,[],KLAUZAR,,,,,5/29/1996 - 12/16/1996,PAINEWEBBER INCORPORATED (8174)

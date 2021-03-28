@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,7/13/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015045601401"",
+  ""DocketNumberAAO"" : ""2015045601401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""White was named a respondent in a FINRA complaint alleging that she borrowed money from a customer without notifying or obtaining written pre-approval from her member firm."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,372.09""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""all capacities"",
+      ""Duration"" : ""six months"",
+      ""Start Date"" : ""6/5/2017"",
+      ""End Date"" : ""12/4/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Hearing panel decision rendered April 7, 2017. The sanctions were based on findings that White borrowed $10,000 from a 69-year-old customer, knowing she was not permitted to borrow money from a customer.  The findings stated that White received a $10,000 cashier's check from the customer and paid the customer the $10,000 (plus a $600 profit) back over the following six months. When White's member firm found out about the loan and confronted her, White took the position that the $10,000 was not a loan, but the purchase price for the sale of her tractor to the customer, and she paid $10,600 to buy the tractor back from the customer. The decision became final May 25, 2017. As of March 26, 2018, White has not paid the fines/costs associated with this case.""
+}",6/13/2007 - 5/21/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,4/30/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. BANCORP INVESTMENTS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""EMPLOYEE WAS TERMINATED AFTER FIRM OBTAINED INFORMATION PROVIDING A REASONABLE BASIS TO BELIEVE SHE HAD TAKEN A LOAN FROM A CUSTOMER.""
+}",12/1/2001 - 5/21/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,,,,,1/3/2000 - 12/1/2001,"FIRSTAR INVESTMENT SERVICES,INC. (14536)"
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,,,,,9/25/1998 - 1/3/2000,"MERCANTILE INVESTMENT SERVICES, INC. (19908)"
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,,,,,1/9/1998 - 9/25/1998,FFG INVESTMENTS INC. (18320)
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,,,,,6/20/1997 - 12/4/1997,"A. G. EDWARDS & SONS, INC. (4)"
+17868,1362036,KATHERINE,[KATHY  WHITE],WHITE,,,,,7/10/1995 - 9/20/1995,"PACIFIC COAST FINANCIAL SECURITIES, INC. (29267)"

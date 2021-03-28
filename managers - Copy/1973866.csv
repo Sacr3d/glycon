@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,6/4/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053702901"",
+  ""DocketNumberAAO"" : ""2017053702901"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Looser consented to the sanctions and to the entry of findings that he participated in 14 private securities transactions without providing prior written notice to his member firm or receiving the firm's approval to participate in the transactions. The findings stated that Looser disclosed to the firm that he was a co-owner of a company that developed a video platform to connect on-call interpreters with deaf or limited language individuals. The firm approved this outside business activity. However, Looser was also involved in raising approximately $430,000 for the company from the sale of membership units to 14 investors. Looser introduced and discussed the company with 13 firm customers (and one non-firm customer) and then referred those customers to his co-owner in the company to invest. Looser discussed subscription agreements with at least four of the investors and received investment checks from two investors, which he forwarded to the co-owner of the company. Looser did not receive selling compensation for any investments in the company. Looser's firm did not offer the membership units in the company."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Four months"",
+      ""Start Date"" : ""6/4/2018"",
+      ""End Date"" : ""10/3/2018""
+    } ]
+  } ]
+}",1/17/2019 - Current,"HANLON INVESTMENT MANAGEMENT, INC. (118851)"
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,9/29/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Sigma Financial Corporation"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failure to timely and adequately notify the Firm of an outside business activity as required by FINRA Rule 3270.""
+}",9/10/2010 - 10/2/2017,SPC (110692)
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,9/2/2005 - 10/2/2017,SIGMA FINANCIAL CORPORATION (14303)
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,3/31/2003 - 8/30/2005,"BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC. (13609)"
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,10/18/1995 - 3/31/2003,"CONTINENTAL CAPITAL INVESTMENT SERVICES, INC. (2864)"
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,3/3/1995 - 10/19/1995,KEY INVESTMENTS INC. (15873)
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,12/6/1993 - 3/3/1995,"SOCIETY INVESTMENTS, INC. (17656)"
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,6/11/1991 - 12/3/1993,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+118851,1973866,KEVIN,[KEVIN  LOOSER],LOOSER,,,,,6/11/1991 - 12/3/1993,IDS LIFE INSURANCE COMPANY (6321)

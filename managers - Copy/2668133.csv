@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,2668133,CARL,[FRANK  ENDORF JR],ENDORF,4/28/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""State Farm"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""The internal review concluded the individual failed to supervise the team members and ensure proper information was provided to the enterprise during the auto quote process. No securities products involved.""
+}",8/28/2018 - 4/28/2020,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,2668133,CARL,[FRANK  ENDORF JR],ENDORF,,,,,5/25/2004 - 4/28/2020,STATE FARM VP MANAGEMENT CORP. (43036)
+3487,2668133,CARL,[FRANK  ENDORF JR],ENDORF,,,,,10/24/1995 - 1/4/1996,SIMMERS CAPITAL MANAGEMENT CORPORATION (29960)

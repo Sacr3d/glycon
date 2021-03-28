@@ -1,0 +1,39 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,2246471,JOHN,[],FAIRFIELD,5/23/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""14-01542"",
+  ""DocketNumberAAO"" : ""14-01542"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Fairfield failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""5/23/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Fairfield is suspended on May 23, 2016 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",12/6/2010 - 4/22/2013,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2246471,JOHN,[],FAIRFIELD,10/27/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THE 2/21/2012 PURCHASE OF A VARIABLE ANNUITY WAS INAPPROPRIATE IN THAT HE UNDERSTOOD THE 6% INCOME RIDER TO BE A GUARANTEE OF 6% INCOME."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CLAIM WAS DENIED IN ITS ENTIRETY.""
+}",12/1/2010 - 4/22/2013,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2246471,JOHN,[],FAIRFIELD,9/23/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER CLAIMS HE WAS MILEAD ABOUT THE DEGREE OF RISK ASSOCIATED WITH HIS MUTUAL FUND INVESTMENTS AND THE MANAGEMENT OF HIS ACCOUNT."",
+  ""Damage Amount Requested"" : ""$12,000.00"",
+  ""Settlement Amount"" : ""$4,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/3/2009 - 12/2/2010,CHASE INVESTMENT SERVICES CORP. (25574)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,1/23/2009 - 12/2/2010,CHASE INVESTMENT SERVICES CORP. (25574)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,9/24/2003 - 5/19/2008,H.M. PAYSON & CO. (2993)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,9/18/2003 - 5/19/2008,H. M. PAYSON & CO. (2993)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,6/5/1998 - 8/12/2003,CHASE INVESTMENT SERVICES CORP. (25574)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,2/14/1997 - 6/23/1998,"FIS SECURITIES, INC. (30533)"
+19616,2246471,JOHN,[],FAIRFIELD,,,,,7/14/1992 - 2/11/1997,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+19616,2246471,JOHN,[],FAIRFIELD,,,,,7/14/1992 - 2/11/1997,IDS LIFE INSURANCE COMPANY (6321)

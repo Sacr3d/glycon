@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,3009660,GUY,[],THOMPSON,8/9/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Dismissed""
+}",7/1/2002 - 12/31/2008,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,3009660,GUY,[],THOMPSON,8/19/2009,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF FLORIDA, DEPARTMENT OF FINANCIAL SERVICES"",
+  ""Allegations"" : ""DID NOT COMPLETE THE APPROPRIATE NUMBER OF CE HOURS WITHIN THE ALLOTED TIME."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",4/14/1998 - 9/19/2018,STATE FARM VP MANAGEMENT CORP. (43036)

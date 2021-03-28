@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+41835,5428315,ZACHARY,[],COVERT,1/1/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Resisting an officer with violance"",
+    ""Disposition"" : ""Administratively transferred"",
+    ""Amended Charges"" : ""administratively transferred and reduced"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ]
+}",3/16/2017 - Current,"TIMOTHY PARTNERS, LTD. (41835)"
+41835,5428315,ZACHARY,[],COVERT,,,,,10/5/2007 - 10/14/2008,G. A. REPPLE & COMPANY (17486)

@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13572,4003036,RICHARD,[],NOVARIA,5/28/2010,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""SECURITIES FRAUD"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""SECURITIES FRAUD"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""THEFT"",
+    ""Disposition"" : ""Dismissed""
+  } ]
+}",11/6/2001 - 4/16/2002,FINANCIAL NETWORK INVESTMENT CORPORATION (13572)
+13572,4003036,RICHARD,[],NOVARIA,,,,,12/16/1999 - 12/15/2000,"U.S. BANCORP INVESTMENTS, INC. (17868)"

@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,10/30/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$31,340.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/22/2019 - Current,"NATIONAL ASSET MANAGEMENT, INC. (115927)"
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,10/11/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$95,652.61"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THIS IS A DUPLICATE ALREADY FILED IN NASSAU COUNTY UNDER DOCKET/CASE #LXM5Y25 AND THE U4 FORM WAS SENT IN AUGUST""
+}",5/31/2019 - Current,NATIONAL SECURITIES CORPORATION (7569)
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,7/18/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$95,572.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",9/3/2013 - 6/6/2019,CETERA ADVISOR NETWORKS LLC (13572)
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,9/18/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges misrepresentation and unsuitability of investment."",
+  ""Damage Amount Requested"" : ""$35,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The matter settled for 0 dollars with no admission of guilt by either party.  The funds were returned to previous contract under the free look provision, which was extended due to postal confusion.""
+}",8/1/2003 - 9/3/2013,"WALNUT STREET SECURITIES, INC. (15840)"
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,3/22/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES EXCESSIVE AND UNSUITABLE TRADING; FALSE AND MISLEADING STATMENTS; REGARDING MUTUAL FUND PURCHASES COMMENCING IN APPROXIMATELY JANUARY 2008."",
+  ""Damage Amount Requested"" : ""$40,000.00"",
+  ""Settlement Amount"" : ""$6,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/9/1995 - 8/1/2003,"NATHAN & LEWIS SECURITIES, INC. (8503)"
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,10/31/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES UNSUITABILITY AND MISREPRESENTATION"",
+  ""Damage Amount Requested"" : ""$2,000,000.00"",
+  ""Settlement Amount"" : ""$500,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-06388"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I DENY ALL ALLEGATIONS OF WRONGDOING. THE STATEMENT OF CLAIM HAS NO MERIT AND IT CONTAINS MANY INACCURATE SELF-SERVING CLAIMS MADE BY THE CLAIMANT.  I CONTINUE TO DENY ALL ALLEGATIONS OF WRONGDOING.""
+}",10/20/1989 - 2/15/1995,JARON EQUITIES CORP. (5764)
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,,,,,11/3/1988 - 10/21/1989,INTEGRATED RESOURCES EQUITY CORPORATION (6403)
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,,,,,7/1/1988 - 11/3/1988,"CHRISTOPHER WEIL & COMPANY, INC (6566)"
+115927,1435326,IRA,[IRA G CHERNICK],CHERNICK,,,,,11/19/1985 - 7/12/1988,"DAVID LERNER ASSOCIATES, INC. (5397)"

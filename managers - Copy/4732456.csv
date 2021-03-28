@@ -1,0 +1,45 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+166606,4732456,NICHOLAS,[],MADDOX,8/23/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017056677901"",
+  ""DocketNumberAAO"" : ""2017056677901"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Maddox failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""11/26/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated August 23, 2018, and September 17, 2018, respectively, on November 26, 2018, Maddox is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",7/11/2018 - 8/1/2018,"TCFG INVESTMENT ADVISORS, LLC (166606)"
+166606,4732456,NICHOLAS,[],MADDOX,8/2/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""TCFG WEALTH  MANAGEMENT"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""MR. MADDOX IS IN VIOLATION OF RULE 8210. HE HAS REFUSED TO ANSWER TWO 8210 FINRA REQUESTS. THE FIRM HAS TERMINATED HIM FOR REFUSAL TO RESPOND TO FINRA AND THE FIRMS REQUESTS.""
+}",7/10/2018 - 8/1/2018,"TCFG WEALTH MANAGEMENT, LLC (164153)"
+166606,4732456,NICHOLAS,[],MADDOX,11/10/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges poor recommendation/poor advise regarding equity-listed investment. Activity date 4/29/2016-4/29/2016."",
+  ""Damage Amount Requested"" : ""$7,736.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/3/2016 - 6/8/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+166606,4732456,NICHOLAS,[],MADDOX,1/18/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,447.92"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I have been in contact with the IRS and will be satisfying the obligation in the next 2 weeks.""
+}",8/2/2016 - 6/8/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+166606,4732456,NICHOLAS,[],MADDOX,1/13/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$28,006.98"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/1/2012 - 8/9/2016,J.P. MORGAN SECURITIES LLC (79)
+166606,4732456,NICHOLAS,[],MADDOX,,,,,5/2/2009 - 10/1/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+166606,4732456,NICHOLAS,[],MADDOX,,,,,3/30/2007 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+166606,4732456,NICHOLAS,[],MADDOX,,,,,6/13/2005 - 9/15/2006,"WM FINANCIAL SERVICES, INC. (599)"
+166606,4732456,NICHOLAS,[],MADDOX,,,,,11/30/2004 - 1/27/2005,CITICORP INVESTMENT SERVICES (23988)
+166606,4732456,NICHOLAS,[],MADDOX,,,,,2/4/2004 - 8/20/2004,"AMERICAN EXPRESS FINANCIAL ADVISORS, INC. (6363)"
+166606,4732456,NICHOLAS,[],MADDOX,,,,,1/27/2004 - 8/20/2004,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+166606,4732456,NICHOLAS,[],MADDOX,,,,,1/27/2004 - 8/20/2004,IDS LIFE INSURANCE COMPANY (6321)

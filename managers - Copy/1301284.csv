@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,1301284,Randall,"[RANDALL LEE RAISLEY, RANDY  RAISLEY]",Raisley,10/10/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$119,363.62"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Due to sale of agency in tax year 2017, a new Federal tax lien was filed to protect any remaining, unpaid balance""
+}",9/25/1984 - 7/1/2020,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,1301284,Randall,"[RANDALL LEE RAISLEY, RANDY  RAISLEY]",Raisley,7/16/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$239,308.77"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Due to recent sale of residence, new federal tax lien was filed to protect the remaining unpaid balance""
+}",,
+11173,1301284,Randall,"[RANDALL LEE RAISLEY, RANDY  RAISLEY]",Raisley,9/11/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$92,215.71"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Did not receive written notification in advance of the lien being filed.  Possibly due to recent divorce.  Arrangements are being made to satisfy the lien by year end.""
+}",,

@@ -1,0 +1,49 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17609,2787039,DAVE,[],GREEN,12/21/2005,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""FLORIDA"",
+  ""Allegations"" : ""UNAUTHORIZED TRADING, EXCESSIVE TRADING"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$20,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist/Injunction""
+  } ],
+  ""Sanction Details"" : ""NA""
+}",1/23/2003 - 1/10/2005,"GUNNALLEN FINANCIAL, INC (17609)"
+17609,2787039,DAVE,[],GREEN,10/13/2004,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C07040084"",
+  ""DocketNumberAAO"" : ""07040084"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""NASD CONDUCT RULES 2110 AND IM-2310-2 - GREEN EFFECTED, OR CAUSED TO BE EFFECTED, UNAUTHORIZATION TRANSACTIONS IN PUBLIC CUSTOMER ACCOUNTS."",
+  ""Resolution"" : ""Decision & Order of Offer of Settlement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar""
+  } ],
+  ""Sanction Details"" : ""WITHOUT ADMITTING OR DENYING THE ALLEGATIONS, RESPONDENT CONSENTED TO THE DESCRIBED SANCTION AND TO THE ENTRY OF FINDINGS; THEREFORE, HE IS BARRED FROM ASSOCIATION WITH ANY NASD MEMBER FIRM IN ANY CAPACITY.""
+}",1/28/2002 - 1/14/2003,"CGF SECURITIES, LLC (41040)"
+17609,2787039,DAVE,[],GREEN,3/19/2003,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""WASHINGTON"",
+  ""Allegations"" : ""UNAUTHORIZED TRADING AND EXCESSIVE TRADING IN ACCOUNT OF AT LEAST TWO WASHINGTON CUSTOMERS."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement/Restitution""
+  }, {
+    ""Sanctions"" : ""Cease and Desist/Injunction""
+  } ],
+  ""Sanction Details"" : ""AS OF 10/29/2003, GREEN SURRENDERED HIS SECURITIES SALESPERSON LICENSE TO THE SECURITIES DIVISION.  HE HAS FURTHER AGREED THAT HE WILL NOT REAPPLY FOR THREE (3) YEARS FROM THE DATE OF ENTRY OF THIS CONSENT ORDER.  IN ADDITION, GREEN HAS PAID $2,164 IN DISGORGEMENT OF COMMISSIONS, $3,000 IN FINES TO THE DIVISION AND $836 FOR INVESTIGATIVE COSTS."",
+  ""Broker Comment"" : ""GREEN WITHDREW HIS REQUEST FOR A HEARING IN THIS MATTER.""
+}",1/22/2002 - 1/24/2002,"VERTICAL CAPITAL PARTNERS, INC. (35909)"
+17609,2787039,DAVE,[],GREEN,,,,,10/22/2001 - 1/23/2002,"PREFERRED SECURITIES GROUP, INC. (35704)"
+17609,2787039,DAVE,[],GREEN,,,,,8/16/1996 - 10/15/2001,"FIRST SECURITY INVESTMENTS, INC. (24035)"

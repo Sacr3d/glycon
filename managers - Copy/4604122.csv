@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46727,4604122,DEREK,[],LONGMUIR,2/2/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016049930101"",
+  ""DocketNumberAAO"" : ""2016049930101"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Longmuir failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""5/5/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated February 2, 2017 and February 28, 2017, respectively, on May 5, 2017, Longmuir is barred from association with any FINRA member in any capacity.  Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",2/17/2010 - 5/6/2016,"ADVISORS ASSET MANAGEMENT, INC. (46727)"
+46727,4604122,DEREK,[],LONGMUIR,,,,,11/22/2007 - 2/19/2010,FIRST TRUST PORTFOLIOS L.P. (28519)

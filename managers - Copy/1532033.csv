@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,10/31/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer has made allegations that the representative did not adequately explain the product and incorrectly named an ineligible annuitant."",
+  ""Damage Amount Requested"" : ""$25,864.56"",
+  ""Settlement Amount"" : ""$25,864.56"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/10/2019 - 3/30/2020,"VOYA FINANCIAL ADVISORS, INC. (2882)"
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,5/9/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Allstate"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Termination after allegations of rebating on non-registered life insurance policy.  Not securities related.""
+}",9/21/1999 - 5/11/2018,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,3/11/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES MISREPRESENTATION INVOLVING THE SURRENDER CHARGES"",
+  ""Damage Amount Requested"" : ""$14,661.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/11/1989 - 12/31/1993,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,,,,,3/24/1988 - 2/23/1989,NYLIFE SECURITIES INC. (5167)
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,,,,,11/13/1986 - 10/14/1987,"WADDELL & REED, INC. (866)"
+2882,1532033,RODOLF,"[IVAN  WENZEL, R IVAN WENZEL, ROLDOLF IVAN WENZEL]",WENZEL,,,,,8/7/1986 - 10/10/1989,PRUCO SECURITIES CORPORATION (5685)

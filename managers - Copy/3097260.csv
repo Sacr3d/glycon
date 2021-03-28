@@ -1,0 +1,44 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+151561,3097260,JAMES,[],DAILEY,12/22/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 33-10448; IA Release 40-4833; Investment Company Release 40-32951, December 22, 2017: The SEC deems it appropriate and in the public interest that public administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933, Sections 203(e), 203(f) and 203(k) of the Investment Advisers Act of 1940, and Sections 9(b) and 9(f) of the Investment Company Act of 1940 against James L. Dailey. In anticipation of the institution of these proceedings, Dailey has submitted an Offer of Settlement which the Commission has determined to accept. Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission's jurisdiction over him and the subject matter of these proceedings, which are admitted, and except as provided herein, Dailey consents to the entry of this Order Instituting Administrative and Cease-and-Desist Proceedings, Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order. On the basis of this Order and Respondent's Offer, the Commission finds that these proceedings arise from misrepresentations and omissions by a registered investment adviser (the \""RIA\""), and Dailey, its owner and managing member, concerning material changes in the investment strategy of the TEAM Asset Strategy Fund (the \""TEAM Fund\""), the RIA's only client, that led to catastrophic losses and the ultimate collapse of the fund. The TEAM Fund was a series of the Valued Advisers Trust (\""VAT\""), a registered investment company, and Dailey was the TEAM Fund's portfolio manager. At the TEAM Fund's inception in December 2009, Dailey modeled the TEAM Fund's investment strategy after the \""Global Macro Strategy\"" that he had employed since August 2003 in advising separately managed accounts for an affiliated RIA (\""Affiliated RIA\""), which Dailey co-owned. But beginning in February 2012, Dailey began implementing a more aggressive investment strategy in the TEAM Fund, which significantly increased the fund's risk profile. The TEAM Fund suffered losses of 22% in fiscal year 2012 and 80% in fiscal year 2013, and liquidated in November 2013. The RIA and Dailey made misrepresentations and failed to disclose the change in investment strategy and related risks to investors, prospective investors, and the VAT Board of Trustees. In particular, the TEAM Fund's prospectuses did not disclose the fund's use of derivatives and short selling as principal investment strategies or the expenses associated with short selling. Additionally, the fund did not adequately disclose the principal risks of investing in the fund caused by these principal investment strategies. In an annual report to shareholders, the TEAM Fund did not adequately discuss its derivatives trading and short selling in the Management's Discussion of Fund Performance section of the report. In addition, as the Affiliated RIA's portfolio manager, Dailey directed its separately managed accounts to invest in the TEAM Fund and used his discretionary authority to keep them invested in the fund. The Affiliated RIA and Dailey breached their fiduciary duties by keeping its clients invested in the TEAM Fund in order to keep the fund operating while attempting to recover the fund's financial losses long after it was clear that the fund was failing and could not recover. As a result of this conduct, Dailey willfully violated Section 204(a) of the Advisers Act and Rule 204-1(a) promulgated thereunder; willfully violated Section 206(2) of the Advisers Act; willfully violated Section 206(4) of the Advisers Act and Rule 206(4)-8 thereunder; willfully violated Section 207 of the Advisers Act; willfully violated Sections 17(a)(2) and 17(a)(3) of the Securities Act; and caused VAT's violations of Section 34(b) of the Investment Company Act."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""12/22/2017""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$130,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$65,062.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$6,277.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Prohibition""
+  } ]
+}",10/22/2009 - 12/13/2013,"TEAM FINANCIAL ASSET MANAGEMENT, LLC (151561)"
+151561,3097260,JAMES,[],DAILEY,11/12/2013,Customer Dispute,Final,"{
+  ""Allegations"" : ""MISMANAGEMENT OF INVESTMENT PORTFOLIOS FROM 2012-2013"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/23/2000 - 12/31/2013,TEAM FINANCIAL MANAGERS (115130)
+151561,3097260,JAMES,[],DAILEY,,,,,10/11/1999 - 12/31/2009,LINCOLN FINANCIAL SECURITIES CORPORATION (3870)
+151561,3097260,JAMES,[],DAILEY,,,,,10/20/1998 - 1/21/1999,"CONCORD BROKERAGE SERVICES, INC. (15514)"
+151561,3097260,JAMES,[],DAILEY,,,,,9/9/1998 - 9/22/1999,"BISYS BROKERAGE SERVICES, INC. (23302)"

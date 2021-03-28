@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,11/30/2010,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State of Indiana Office of the Secretary of State - Securities Division"",
+  ""Allegations"" : ""Failed to Annually deliver to clients a written annual disclosure Statement, copy of Part 2A of Form ADV"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""I paid the agreed upon Administrative fine agreed upon with the State of Indiana and made the appropriate record keeping and procedural changes.""
+}",6/11/2007 - Current,"CORNERSTONE ADVISORY, LLC (122684)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/14/1998 - Current,"CORNERSTONE FINANCIAL SERVICES, INC. (20627)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/23/2009 - 2/13/2018,"CORNERSTONE FINANCIAL SERVICES, INC. (20627)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,2/22/2002 - 12/31/2004,"BTS ASSET MANAGEMENT, INC. (105215)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/10/1996 - 12/30/1998,"KEY STAR SECURITIES, INCORPORATED (40896)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/23/1995 - 12/4/1996,"CORNERSTONE FINANCIAL SERVICES, INC. (20627)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,1/20/1993 - 7/14/1994,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/23/1991 - 5/30/1996,"CFD INVESTMENTS, INC. (25427)"
+122684,1532243,STEVEN,[STEVE  BUCKSOT],BUCKSOT,,,,,10/2/1986 - 10/5/1989,FIRST ATLANTIC INVESTMENT CORP. (13062)

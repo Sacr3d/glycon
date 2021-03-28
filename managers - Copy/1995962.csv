@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+309205,1995962,RICHARD,[],CAMPAGNA,1/31/2020,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""I assumed personal liabilities to support a prior business venture and to ensure proper shut-down of that business. For several years I made every effort to pay off the liabilities. In 2020, on the advice of counsel, I cleared the liabilities through bankruptcy proceedings to resolve any lingering issues that may impact current and future business ventures. Debts were discharged on May 5, 2020.""
+}",6/30/2020 - Current,"MRC WEALTH MANAGEMENT, LLC (309205)"
+309205,1995962,RICHARD,[],CAMPAGNA,,,,,1/15/2019 - 7/1/2020,EMERGE CAPITAL MANAGEMENT (284581)
+309205,1995962,RICHARD,[],CAMPAGNA,,,,,8/2/2010 - 1/9/2013,"NORTH LAKE ADVISORS, LLC (153506)"
+309205,1995962,RICHARD,[],CAMPAGNA,,,,,6/18/2010 - 8/5/2015,300 NORTH CAPITAL (107325)

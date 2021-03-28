@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+34815,6451141,JAY,[],ROBINSON,5/22/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,765.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""This was my wife's medical bill. She was also the one who received the papers. Because this bill was for her, and she took action to setup a payment plan to pay in full, she did not mention this to me.  She then left for Africa for six weeks as we are trying to adopt a child from there. It wasn't until she returned home and we were recapping our finances and budgets that I discovered this.  When I saw it, I knew that it needed to be disclosed and contacted our Compliance Department.""
+}",6/1/2018 - Current,"VOYA FINANCIAL PARTNERS, LLC (34815)"
+34815,6451141,JAY,[],ROBINSON,2/28/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",2/23/2016 - 6/24/2018,DIRECTED SERVICES LLC (21675)
+34815,6451141,JAY,[],ROBINSON,,,,,4/22/2015 - 11/17/2015,PRINCOR FINANCIAL SERVICES CORPORATION (1137)

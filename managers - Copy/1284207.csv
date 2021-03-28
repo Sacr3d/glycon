@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1588,1284207,JOHN,"[JOHN JAY DARRYL ATCHINSON, JAY DARRICK ATCHISON, JAY DARRYL ATCHISON, JAY  ATCHISON, JOHN DERRICK ATCHISON]",ATCHISON,7/30/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018059155703"",
+  ""DocketNumberAAO"" : ""2018059155703"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Atchison consented to the sanctions and to the entry of findings that he executed discretionary transactions in customers' accounts without prior written authorization from the customers and his member firm had not approved any of the accounts for discretionary trading. The findings stated that none of the customers gave the prior written authorization for Atchison to exercise discretion in their accounts, though some of the customers gave him express or implied authority to exercise discretion in their accounts."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""15 business days"",
+      ""Start Date"" : ""8/19/2019"",
+      ""End Date"" : ""9/9/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on August 16, 2019.""
+}",1/22/1997 - Current,DAVENPORT & COMPANY LLC (1588)
+1588,1284207,JOHN,"[JOHN JAY DARRYL ATCHINSON, JAY DARRICK ATCHISON, JAY DARRYL ATCHISON, JAY  ATCHISON, JOHN DERRICK ATCHISON]",ATCHISON,3/30/1992,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGED THAT FINANCIAL ADVISOR LIQUIDATED HALF OF HIS POSITION IN A STOCK WITHOUT PRIOR AUTHORIZATION. FINANCIAL ADVISOR CONTENDS THAT CLAIMANT HAD ASKED HIM TO WATCH THE STOCK AND SELL AT A CERTAIN PRICE, WHICH IS WHAT HE DID"",
+  ""Settlement Amount"" : ""$11,119.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""92-002073"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $11,119.00 I FOLLOWED THE CLIENT'S INSTRUCTIONS, WHICH WAS TO SELL HIS POSITION IN SOVRAN STOCK AT $22/SHARE - SINCE THE COMPANY WAS RUMORED MERGER CANDIDATE AT THE TIME AND I COULD NOT REACH THE CLIENT AFTER A COUPLE OF CALLS TO HIS OFFICE. I ONLY SOLD HALF OF THE POSITION, FEELING THIS WAS THE PRUDENT COURSE OF ACTION. ONLY AFTER THE PUBLICIZED MERGER DID THE CLIENT CALL AND ASK TO CANCEL THE SELL ORDER. THIS CASE WAS SETTLED FOR ECONOMIC REASONS AND THE FACT THAT IT WAS BASICALLY HIS WORD VS. MINE.""
+}",10/17/1994 - Current,DAVENPORT & COMPANY LLC (1588)
+1588,1284207,JOHN,"[JOHN JAY DARRYL ATCHINSON, JAY DARRICK ATCHISON, JAY DARRYL ATCHISON, JAY  ATCHISON, JOHN DERRICK ATCHISON]",ATCHISON,,,,,12/21/1987 - 11/1/1994,PRUDENTIAL SECURITIES INCORPORATED (7471)
+1588,1284207,JOHN,"[JOHN JAY DARRYL ATCHINSON, JAY DARRICK ATCHISON, JAY DARRYL ATCHISON, JAY  ATCHISON, JOHN DERRICK ATCHISON]",ATCHISON,,,,,7/26/1984 - 1/30/1988,E. F. HUTTON & COMPANY INC (235)

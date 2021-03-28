@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,2397138,MICHAEL,[MIKE DAVID BERGMAN],BERGMAN,1/17/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""State Farm"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""The internal review concluded the individual failed to supervise the team members and ensure proper information was provided to the enterprise during the auto quote process. No securities products involved.""
+}",8/17/2018 - 1/20/2020,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,2397138,MICHAEL,[MIKE DAVID BERGMAN],BERGMAN,5/4/2009,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""TEXAS DEPARTMENT OF SAVINGS & MORGAGE LENDING"",
+  ""Allegations"" : ""FAILURE TO FILE ANNUAL REPORT FOR CALENDAR YEAR 2008"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",8/2/2002 - 1/20/2020,STATE FARM VP MANAGEMENT CORP. (43036)
+3487,2397138,MICHAEL,[MIKE DAVID BERGMAN],BERGMAN,,,,,11/5/1998 - 6/17/2002,METLIFE SECURITIES INC. (14251)
+3487,2397138,MICHAEL,[MIKE DAVID BERGMAN],BERGMAN,,,,,1/1/1994 - 6/17/2002,METLIFE SECURITIES INC. (14251)
+3487,2397138,MICHAEL,[MIKE DAVID BERGMAN],BERGMAN,,,,,1/1/1994 - 6/17/2002,METROPOLITAN LIFE INSURANCE COMPANY (4095)

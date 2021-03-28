@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+291396,3223266,JEFFREY,[],WALLERICH,3/17/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,461.06"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RECEIVED NOTICE THAT LIEN HAD BEEN FILED BY STATE REGARDING 2010 TAX YEAR.  CURRENTLY OBTAINING INFORMATION TO RESOLVE.""
+}",1/15/2019 - Current,"FBL WEALTH MANAGEMENT, LLC (291396)"
+291396,3223266,JEFFREY,[],WALLERICH,7/3/2014,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""NYLIFE SECURITIES LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""MR. WALLERICH WAS TERMINATED AFTER THE COMPANY FOUND TWO VARIABLE ANNUITY APPLICATIONS THAT WERE SIGNED BY A CUSTOMER, BUT WERE OTHERWISE NOT COMPLETED.""
+}",3/5/2015 - Current,"FBL MARKETING SERVICES, LLC (5309)"
+291396,3223266,JEFFREY,[],WALLERICH,4/10/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$53,248.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/30/2000 - 8/1/2014,NYLIFE SECURITIES LLC (5167)
+291396,3223266,JEFFREY,[],WALLERICH,10/11/2002,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Theft in the third degree"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""Business owner reported my care stolen when I picked it up.  After repairs were done without making arrangements.  After speaking with police, paid bill and left with understanding that charges were being dropped/dismissed due to misunderstanding.""
+}",8/25/1999 - 6/19/2000,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (42803)"
+291396,3223266,JEFFREY,[],WALLERICH,,,,,5/19/1999 - 6/29/2000,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

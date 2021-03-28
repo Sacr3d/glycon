@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+665,1398632,STEVEN,"[STEVEN R MARKUSEN, STEVEN ROELL MARKUSEN]",MARKUSEN,5/31/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""IA Release 40-4406, May 31, 2016:  The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted pursuant to Section 203(f) of the Investment Advisers Act of 1940 (\""Advisers Act\"") against Steven R. Markusen (\""Markusen\"") and another individual (collectively \""Respondents\"").   On November 10, 2015, the U.S. District Court for the District of Minnesota granted the SEC's motion for default judgment against Markusen and entered a final judgment against Markusen in the civil action entitled Securities and Exchange Commission v. Steven R. Markusen, et al., Civil File Number 14-3395 (D. Minn.).  The final judgment against Markusen permanently enjoined him from violating Sections 17(a) of the Securities Act of 1933 (\""Securities Act\""), Section 10(b) of the Securities Exchange Act of 1934 (\""Exchange Act\"") and Rule 10b-5 thereunder, and Sections 206(1) and 206(2) of the Advisers Act. The Court further ordered Markusen to pay, jointly and severally, disgorgement of $630,830.31, plus prejudgment interest, and a civil penalty of $100,000."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""1/11/2017""
+    } ]
+  } ]
+}",11/1/1996 - 10/19/2000,U.S. BANCORP PIPER JAFFRAY INC. (665)
+665,1398632,STEVEN,"[STEVEN R MARKUSEN, STEVEN ROELL MARKUSEN]",MARKUSEN,9/9/2014,Civil,Final,"{
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""THE SEC LITIGATION RELEASE 23080, SEPTEMBER 9, 2014:  THE SECURITIES AND EXCHANGE COMMISSION CHARGED A MINNEAPOLIS-BASED HEDGE FUND MANAGER, STEVEN R. MARKUSEN, HIS INVESTMENT ADVISORY FIRM, ARCHER ADVISORS LLC, AND AN ACCOMPLICE WITH BILKING INVESTORS IN TWO HEDGE FUNDS OUT OF MORE THAN $1 MILLION UNDER THE GUISE OF RESEARCH EXPENSES AND FEES. THE SEC ALLEGES THAT AS THE MANAGEMENT FEES EARNED BY ARCHER ADVISORS LLC WERE SHRINKING DUE TO THE FUNDS' WORSENING PERFORMANCE, THE FIRM'S OWNER STEVEN R. MARKUSEN AND AN EMPLOYEE IMPLEMENTED A SCHEME TO ENRICH THEMSELVES AT THE EXPENSE OF INVESTORS IN THE FUNDS. MARKUSEN ROUTINELY CAUSED THE FUNDS TO REIMBURSE ARCHER FOR FAKE RESEARCH EXPENSES, AND HE EVENTUALLY ROUTED MUCH OF THAT MONEY TO HIS PERSONAL CHECKING ACCOUNT. FURTHERMORE, MARKUSEN DEVISED A WAY TO ESSENTIALLY CHARGE FUND INVESTORS TWICE FOR THE SAME FAKE RESEARCH EXPENSES. FIRST, HE BILLED THE FUNDS DIRECTLY BY FALSELY CLAIMING THAT ARCHER HAD PAID THE EMPLOYEE TO CONDUCT \""RESEARCH\"" FOR THE FUNDS. SECOND, HE AND THE EMPLOYEE IMPROPERLY DIVERTED SOFT DOLLARS FROM THE FUNDS TO THE EMPLOYEE FOR THE SAME PURPORTED \""RESEARCH\"" AND UNDER THE ADDITIONAL PRETENSE THAT THE EMPLOYEE WAS AN INDEPENDENT CONSULTANT. SOFT DOLLARS WERE SUPPOSED TO BE USED TO BUY THIRD-PARTY INVESTMENT RESEARCH THAT BENEFITED THE FUNDS. THE EMPLOYEE CONDUCTED NO THIRD-PARTY RESEARCH AS AN ARCHER OFFICER WHOSE MAIN DUTIES WERE PLACING TRADES AND HELPING MARKUSEN FIND NEW INVESTORS. THE SEC'S COMPLAINT CHARGES ARCHER, MARKUSEN, AND THE EMPLOYEE WITH VIOLATING THE ANTIFRAUD PROVISIONS OF THE FEDERAL SECURITIES LAWS AND CERTAIN REPORTING PROVISIONS. THE SEC'S COMPLAINT FILED IN FEDERAL COURT IN MINNEAPOLIS ALSO CHARGES MARKUSEN AND THE EMPLOYEE WITH CONDUCTING A SEPARATE SCHEME TO MANIPULATE THE STOCK PRICE OF THE FUNDS' LARGEST HOLDING IN ORDER TO INFLATE THE MONTHLY RETURNS REPORTED TO INVESTORS AND CONCEAL THE TRUE EXTENT OF THE FUNDS' MOUNTING INVESTMENT LOSSES."",
+  ""Resolution"" : ""Judgment Rendered"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$630,830.31""
+    } ]
+  }, {
+    ""Sanctions"" : ""Injunction""
+  } ]
+}",11/20/1985 - 12/21/1989,"FINANCIAL PROGRAMS, INC. (289)"

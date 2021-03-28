@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+611,2937732,FERRIS,[],COLEMAN,3/5/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Mutual of Omaha Investor Services, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""The Firm's Parent Company terminated the representative upon receipt of Affidavits of Forgery relating to fixed life insurance. Non-securities related.""
+}",1/10/2017 - 3/21/2018,"MUTUAL OF OMAHA INVESTOR SERVICES, INC. (611)"
+611,2937732,FERRIS,[],COLEMAN,2/2/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The clients signed affidavits of forgery alleging that their signatures were forged on several documents in connection with fixed life insurance policies sold through the Firm's insurance company affiliate. The clients are not securities customers of the Firm."",
+  ""Damage Amount Requested"" : ""$469.85"",
+  ""Settlement Amount"" : ""$469.85"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""In his statement the representative indicated he witnessed the client signatures and denied that he forged documents.""
+}",11/4/2015 - 3/21/2018,"MUTUAL OF OMAHA INVESTOR SERVICES, INC. (611)"
+611,2937732,FERRIS,[],COLEMAN,,,,,3/9/2012 - 9/18/2015,"HORACE MANN INVESTORS, INC. (11643)"
+611,2937732,FERRIS,[],COLEMAN,,,,,12/21/2005 - 6/28/2006,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+611,2937732,FERRIS,[],COLEMAN,,,,,6/28/2004 - 11/4/2005,"RBC CENTURA SECURITIES, INC. (36179)"
+611,2937732,FERRIS,[],COLEMAN,,,,,2/10/2003 - 5/26/2004,"NATIONWIDE SECURITIES, INC. (11173)"
+611,2937732,FERRIS,[],COLEMAN,,,,,9/18/2001 - 7/29/2002,"WS GRIFFITH SECURITIES, INC. (10410)"
+611,2937732,FERRIS,[],COLEMAN,,,,,10/1/2000 - 10/19/2000,"FIRST UNION SECURITIES, INC. (19616)"
+611,2937732,FERRIS,[],COLEMAN,,,,,9/4/1997 - 10/1/2000,"FIRST UNION BROKERAGE SERVICES, INC. (8112)"

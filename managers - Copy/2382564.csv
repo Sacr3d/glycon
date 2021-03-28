@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,2382564,MICHAEL,"[MICHAEL LEE SPICER, MIKE  SPICER]",SPICER,2/6/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges the RR misrepresented the investment of 50% of his assets into a variable annuity, and that the variable annuity was not suitable based on his time horizon."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Firm found no basis to the customer complaint.""
+}",5/3/1999 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,2382564,MICHAEL,"[MICHAEL LEE SPICER, MIKE  SPICER]",SPICER,7/12/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges misrepresentation with respect to the purchase of a Variable Annuity. Client further alleges that the registered representative placed trades in his securities account without his consultation."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Firm found no basis to the customer complaint.""
+}",8/20/1993 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,2382564,MICHAEL,"[MICHAEL LEE SPICER, MIKE  SPICER]",SPICER,7/11/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""PLAINTIFF [CUSTOMER] ALLEGES NEGLIGENCE, NEGLIGENT MISREPRESENTATION, BREACH OF FIDUCIARY DUTY, FRAUDULENT CONCEALMENT AND NONDISCLOSURE IN CONNECTION WITH HER SALE OF BP/AMOCO STOCK TO PURCHASE TRADITIONAL LIFE INSURANCE"",
+  ""Damage Amount Requested"" : ""$1,000,000.00"",
+  ""Settlement Amount"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""IN CONNECTION WITH THE SETTLEMENT ALL CLAIMS WERE DISMISSED WITH PREJUDICED""
+}",,

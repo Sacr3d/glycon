@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+28519,5742278,MARK,[MARK  MILLER],MILLER,11/12/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT [CUSTOMER] ALLEGED MARK MILLER AND OTHER RESPONDENTS CONCEALED MATERIAL INFORMATION AND PRESENTED FALSE AND MISLEADING INFORMATION TO INDUCE HIM TO INVEST IN FISKER AUTOMOTIVE, A PRIVATE COMPANY THAT IS NOW DEFUNCT."",
+  ""Damage Amount Requested"" : ""$450,000.00"",
+  ""Settlement Amount"" : ""$7,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""14-03364"",
+  ""Broker Comment"" : ""Mark Miller continues to maintain that claimant is a sophisticated investor fully capable of evaluating the risks associated with an investment in a start-up company.  For nuisance purposes, however, Mr. Miller elected to settle this matter separately from other respondents for $7,500.""
+}",1/22/2013 - Current,FIRST TRUST PORTFOLIOS L.P. (28519)
+28519,5742278,MARK,[MARK  MILLER],MILLER,,,,,1/22/2013 - Current,FIRST TRUST ADVISORS LP (107027)
+28519,5742278,MARK,[MARK  MILLER],MILLER,,,,,11/15/2010 - 11/19/2012,"ADVANCED EQUITIES, INC. (35545)"
+28519,5742278,MARK,[MARK  MILLER],MILLER,,,,,1/13/2010 - 11/19/2012,"ADVANCED EQUITIES, INC. (35545)"

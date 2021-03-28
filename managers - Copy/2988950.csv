@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,2988950,MAURICIO,[],DRESDNER,10/17/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$30,129.90"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/3/1999 - 4/7/2020,PARK AVENUE SECURITIES LLC (46173)
+46173,2988950,MAURICIO,[],DRESDNER,11/24/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,589.50"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",9/4/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,2988950,MAURICIO,[],DRESDNER,11/5/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,167.63"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+46173,2988950,MAURICIO,[],DRESDNER,10/4/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$103,121.30"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+46173,2988950,MAURICIO,[],DRESDNER,2/17/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$147,944.62"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,

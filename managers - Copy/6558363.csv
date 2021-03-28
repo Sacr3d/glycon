@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6558363,JONATHON,[],SULLIVAN,4/5/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048923401"",
+  ""DocketNumberAAO"" : ""2016048923401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Sullivan failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/7/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated April 5, 2016 and April 29, 2016, respectively, on July 7, 2016, Sullivan is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",10/5/2015 - 2/16/2016,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6558363,JONATHON,[],SULLIVAN,1/19/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bank, affiliate of U. S. Bancorp Investments, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated by bank affiliate after allegations were made that the individual violated firm policy regarding the handling of personal accounts. Not investment related.""
+}",,

@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+39543,3035332,DAVID,[],PETTIT,1/25/2021,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Client alleges she was sold illiquid, risky and high-commission alternative investment products."",
+  ""Damage Amount Requested"" : ""$94,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Registered Representative asserts the allegations and claims made in this case are against his former broker dealer.  Registered Representative also asserts that he remains completely confident that based upon the stated goals and objectives of the client, the products sold were both suitable and in line with her investment objectives.  The customer approved of and accepted all of the investments she purchased.  The allegations being made are performance driven and without merit.""
+}",4/19/2016 - Current,"CAMBRIDGE INVESTMENT RESEARCH, INC. (39543)"
+39543,3035332,DAVID,[],PETTIT,,,,,4/19/2016 - Current,"CAMBRIDGE INVESTMENT RESEARCH ADVISORS, INC. (134139)"
+39543,3035332,DAVID,[],PETTIT,,,,,1/9/2002 - 5/11/2016,"TRANSAMERICA FINANCIAL ADVISORS, INC (16164)"
+39543,3035332,DAVID,[],PETTIT,,,,,8/10/2000 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+39543,3035332,DAVID,[],PETTIT,,,,,12/11/1998 - 1/15/2002,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+39543,3035332,DAVID,[],PETTIT,,,,,7/31/1998 - 3/8/2000,PUBLIC EMPLOYEES EQUITIES SERVICES COMPANY (7315)

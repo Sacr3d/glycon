@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,2282457,LUIS,[],BRANDI,12/5/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,212.89"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The representative has entered into an installment agreement with the IRS for those tax years which liens have been placed.""
+}",1/23/2009 - Current,"SECURITIES AMERICA, INC. (10205)"
+10205,2282457,LUIS,[],BRANDI,3/6/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$26,751.30"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Currently in negotiations with the IRS, have entered into a payment plan, and negotiating settlement""
+}",1/23/2009 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,2282457,LUIS,[],BRANDI,12/14/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,640.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/26/2007 - 1/23/2009,"BRECEK & YOUNG ADVISORS, INC. (40395)"
+10205,2282457,LUIS,[],BRANDI,,,,,6/25/2007 - 1/23/2009,"BRECEK & YOUNG ADVISORS, INC. (40395)"
+10205,2282457,LUIS,[],BRANDI,,,,,4/2/2004 - 5/24/2007,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10205,2282457,LUIS,[],BRANDI,,,,,10/20/2003 - 5/24/2007,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10205,2282457,LUIS,[],BRANDI,,,,,1/31/2002 - 11/12/2003,"BRECEK & YOUNG ADVISORS, INC. (40395)"
+10205,2282457,LUIS,[],BRANDI,,,,,12/7/1992 - 8/22/2001,METLIFE SECURITIES INC. (14251)
+10205,2282457,LUIS,[],BRANDI,,,,,12/7/1992 - 8/22/2001,METROPOLITAN LIFE INSURANCE COMPANY (4095)

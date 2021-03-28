@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,2413725,SCOTT,[],SMITH,8/5/1997,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C04970031"",
+  ""DocketNumberAAO"" : ""04970031"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision & Order of Offer of Settlement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ]
+}",10/3/1996 - 9/25/1997,U.S. BANCORP INVESTMENTS (17868)
+17868,2413725,SCOTT,[],SMITH,,,,,2/23/1996 - 9/11/1996,"PRIMEVEST FINANCIAL SERVICES, INC. (15340)"
+17868,2413725,SCOTT,[],SMITH,,,,,11/18/1993 - 2/5/1996,DEAN WITTER REYNOLDS INC. (7556)

@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,2751867,KEVIN,[],SPEAS,5/30/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The firm received a letter in 2016 from the client's attorney alleging a poor recommendation by Hilliard Lyons and poor advice by Mr. Speas resulting in losses in the account.  The complaint was denied.  2018 Update: Complaint has now evolved into arbitration in which the representative is a subject, but not a named respondent. The alleged activity period was 10-23-14 to 8-22-16."",
+  ""Settlement Amount"" : ""$115,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Hilliard Lyons and the Registered Representative decided to resolve the matter in order to avoid the expense, costs, and unknowns associated with litigation.  Neither Hilliard Lyons nor the Registered Representative accepted fault or liability in the settlement agreement. The Registered Representative maintains that the security at issue were unsolicited trades directed by the client.""
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,2751867,KEVIN,[],SPEAS,,,,,7/12/2012 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,2751867,KEVIN,[],SPEAS,,,,,10/5/2006 - 7/20/2012,"RBC CAPITAL MARKETS, LLC (31194)"
+8158,2751867,KEVIN,[],SPEAS,,,,,2/21/2006 - 10/12/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+8158,2751867,KEVIN,[],SPEAS,,,,,12/31/2001 - 2/21/2006,LEGG MASON WOOD WALKER INC (6555)
+8158,2751867,KEVIN,[],SPEAS,,,,,8/14/1996 - 2/21/2006,"LEGG MASON WOOD WALKER, INCORPORATED (6555)"

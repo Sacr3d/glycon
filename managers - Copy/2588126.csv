@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,2588126,LANCE,[],WILTSE,12/20/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$65,568.24"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",8/1/2008 - 12/31/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,2588126,LANCE,[],WILTSE,7/27/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$69,000.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",7/25/2007 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+11173,2588126,LANCE,[],WILTSE,5/12/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$20,598.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",2/22/1995 - 8/29/2007,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,2588126,LANCE,[],WILTSE,2/21/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,612.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+11173,2588126,LANCE,[],WILTSE,1/9/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,879.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+11173,2588126,LANCE,[],WILTSE,2/4/1999,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,600.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Attorney transposed debtor and creditor.  This was supposed to be corrected.""
+}",,

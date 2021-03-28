@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,5049987,HAI YAN,[CHRISTINA  NI],NI,10/29/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014042588601"",
+  ""DocketNumberAAO"" : ""2014042588601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Ni failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""2/1/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated October 29, 2015 and November 23, 2015, respectively, on February 1, 2016, Ni is barred from association with any FINRA member in any capacity. Respondent failed to request termination of her suspension within three months of the date of the Notice of Suspension; therefore, she is automatically barred from association with any FINRA member in any capacity.""
+}",8/3/2009 - 9/10/2014,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,5049987,HAI YAN,[CHRISTINA  NI],NI,,,,,1/10/2006 - 9/27/2007,HSBC SECURITIES (USA) INC. (19585)

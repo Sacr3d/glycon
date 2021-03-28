@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1763,2091676,JOSEPH,"[JOE  DUNN JR, JOSEPH A DUNN]",DUNN,10/3/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges that Representative misrepresented a retirement income strategy that included unsuitable insurance products. Date of Activity:7/23/14 to 7/17/17"",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""Settlement Amount"" : ""$13,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""In an effort to avoid the cost of litigation, this matter has been settled, with no admission of wrong-doing.""
+}",9/8/1999 - Current,"H. BECK, INC. (1763)"
+1763,2091676,JOSEPH,"[JOE  DUNN JR, JOSEPH A DUNN]",DUNN,1/2/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The representative misrepresented a retirement income strategy that included unsuitable insurance products. Date of Activity - 10/07/2016 through 01/02/2018"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-03479"",
+  ""Broker Comment"" : ""At the request from a long term client, the client was provided many investment options to purchase with full knowledge of tax consequences of all these options and necessary holding periods before utilizing the various investments for income.  After lengthy and extensive mutual communication with the client, and after providing client with full explanation of how each product fit into his investment goals and objectives, client after lengthy deliberation consciously chose a Variable Universal Life product that he stated met those needs and goals, at that point in time.  Client had previously purchased from the rep two other Variable Universal Life policies.  The client was made aware of the surrender charges and was provided full product information and disclosures.  There was full acknowledgement of this by the client with signed paperwork.  The purchase was made and approved within the Broker Dealer's acceptable guidelines.  The client suddenly and unexpectedly, changed his mind concerning the investments.  Stating that he did not want to pay the surrender charges and wanted short-term instead of long-term investments.  The rep did nothing wrong.""
+}",3/13/1995 - Current,"H. BECK, INC. (1763)"
+1763,2091676,JOSEPH,"[JOE  DUNN JR, JOSEPH A DUNN]",DUNN,11/22/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT, [THIRD PARTY], ALLEGES MISREPRESENTATION AND NON-DISCLOSURE OF FEES RELATED TO PURCHASE OF AN INDEXED UNIVERSAL LIFE INSURANCE POLICY."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE MARYLAND INSURANCE ADMINISTRATION INVESTIGATED THE ALLEGATIONS, AND DETERMINED THERE IS NO VIOLATION OF MARYLAND'S INSURANCE LAWS.""
+}",8/12/1993 - 8/31/1999,"H. BECK, INC. (1763)"
+1763,2091676,JOSEPH,"[JOE  DUNN JR, JOSEPH A DUNN]",DUNN,,,,,9/8/1992 - 8/17/1993,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+1763,2091676,JOSEPH,"[JOE  DUNN JR, JOSEPH A DUNN]",DUNN,,,,,9/21/1990 - 7/23/1992,"MML INVESTORS SERVICES, INC. (10409)"

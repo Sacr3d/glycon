@@ -1,0 +1,44 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,2/4/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bancorp Investments Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Rep was terminated for depositing checks and withdrawing funds from personal bank account without sufficient funds.""
+}",9/16/2013 - 2/28/2020,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,5/12/2011,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES MISREPRESENTATION REGARDING VARIABLE ANNUITY INVESTMENT. ACTIVITY DATES 06/30/2000-06/30/2000"",
+  ""Damage Amount Requested"" : ""$70,991.35"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This contract was solicited to the client by another Rep back in 06/30/2000. I was not functioning in the capacity of a financial advisor as of June of 2000 and was not licensed until 2004. I did not solicit any securities nor did I sell any investment products to this client at any time. According to Chase Investment Services Corp I was listed LATER as a servicing agent, along with other Reps that worked in that office at the time. The Compliant was deemed to be without merit and was subsequently denied. A petition for removal/amendment from my U-4 has been submitted to FINRA.""
+}",9/28/2012 - 2/28/2020,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,11/20/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES MISREPRESENTATION REGARDING A VARIABLE ANNUITIES INVESTMENT.  ACTIVITY DATES 1/22/2008-1/22/2008."",
+  ""Damage Amount Requested"" : ""$26,523.39"",
+  ""Settlement Amount"" : ""$27,302.12"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This complaint was directed and submitted towards the licensed associate who at that time was employed as my Licensed Financial Assistant at Wamu Investments. Under Wamu Investments policy/guidelines she was able to solicit and sell securities using my rep code. This contract was solicited and sold to the client by my licensed financial assistant using my rep code. I did not solicit nor did I sell any investment products to this client. I had nothing to do with the solicitation of the initial trade. I had met with the client approximately a year later when he came in asking for his 5% interest. My assistant had since been promoted to Financial Advisor in another office with Chase Investments. With her being absent, I tried to re-explain the contract to the clients understanding but was unsuccessful. Client repeatedly stated that since I was not present at the initial presentation that I did not know how it was presented to him and the explanation given by the other rep was misleading. Chase Investment Services Corp reported the complaint to Finra under both our names/U-4's. (Please refer to CRD #5013130) A petition for removal from my U-4 is been submitted to Finra based on these special circumstance.""
+}",3/15/2010 - 10/12/2012,"BANCWEST INVESTMENT SERVICES, INC. (29357)"
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,9/24/2007,Customer Dispute,Pending,"{
+  ""Allegations"" : ""CLIENTS ALLEGE FINANCIAL CONSULTANT MISREPRESENTED UNIT INVESTMENT TRUSTS PURCHASED IN SEPTEMBER 2005."",
+  ""Damage Amount Requested"" : ""$16,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/2/2009 - 3/15/2010,CHASE INVESTMENT SERVICES CORP. (25574)
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,2/24/1997,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1 COUNT POSSESSIONOF MARIJUANA, 1 COUNT TRANSPORTATION OF MARIJUANA "",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""11360 DISMISSED ON 4/17/1997 MISDEMEANOR 11357(C) CONVICTED 4/17/1997, SERVED 120 DAYS PAY $100.00 FINE (BOTH COMPLTED IN 1997). ""
+  } ]
+}",9/27/2004 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+17868,4588475,MARK,[MARK JOHN ESPINOZA],ESPINOZA,6/3/1993,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1 COUNT THEFT OF PERSONAL PROPERTY, MISDEMEANOR, NO CONTEST, NOT INVESTMENT RELATED"",
+    ""Charge Type"" : ""MISDEMEANOR"",
+    ""Disposition"" : ""DISMISSED ON 3/7/2000""
+  } ]
+}",,

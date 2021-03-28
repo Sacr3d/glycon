@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,4713392,TRAVIS,[],KRAKER,10/2/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges that his portfolio is down $40,000 since the representative began managing it this year, and that is not ok, and that it was supposed to be invested in well-diversified defensive stock funds."",
+  ""Damage Amount Requested"" : ""$40,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/3/2017 - Current,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,4713392,TRAVIS,[],KRAKER,,,,,1/11/2005 - 2/1/2017,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+6363,4713392,TRAVIS,[],KRAKER,,,,,1/1/2004 - 2/1/2017,"U.S. BANCORP INVESTMENTS, INC. (17868)"

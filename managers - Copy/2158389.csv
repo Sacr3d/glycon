@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,7/27/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""New York Department of Financial Services"",
+  ""Allegations"" : ""New York Department of Financial Services found Brian Corley provided materially incomplete information as relates to his insurance relicensing application dated November 4, 2013 by failing to disclose a prior administrative action. The New York Department of Financial Services imposed a fine of $1,500.00 on Mr. Corley and CH Insurance Services, LLC, as well as Kathryn Harrison as proposed sublicensee."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,500.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""The incorrect response to one question on the New York application was inadvertent and the result of an administrative error by an employee in the licensing and registration department.  New York was the only State in which this administrative error was made and all other States and applications were submitted with the proper disclosures.""
+}",3/1/2011 - Current,"M HOLDINGS SECURITIES, INC. (43285)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,10/16/2014 - 1/31/2018,"FIRST REPUBLIC SECURITIES COMPANY, LLC (105108)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,9/2/2008 - 3/1/2011,EMERSON EQUITY LLC (130032)
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,2/18/2005 - 7/11/2005,SLP FINANCIAL AND INSURANCE SERVICES LLC (133090)
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,11/1/2004 - 9/19/2008,"NFP SECURITIES, INC. (42046)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,8/30/2001 - 11/4/2004,"VALMARK ADVISERS, INC. (108050)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,12/14/2000 - 8/16/2001,BPMG INVESTMENTS & INSURANCE LLC (104248)
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,11/10/1997 - 11/4/2004,"VALMARK SECURITIES, INC. (31243)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,10/17/1997 - 11/10/1997,"VALMARK SECURITIES, INC. (31243)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,4/17/1997 - 10/27/1997,FINANCIAL TELESIS INC (31012)
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,3/24/1992 - 5/10/1995,"CIGNA FINANCIAL ADVISORS,INC. (145)"
+43285,2158389,KATHRYN,"[KATHYRN JUNE FORTENBERRY, KATHRYN HARRISON GRAY]",HARRISON,,,,,1/20/1992 - 8/14/1992,"BARABAN SECURITIES, INC. (7659)"

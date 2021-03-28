@@ -19,13 +19,25 @@ public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
 		this.atomicInt = atomicInt;
 	}
 
+	@Override
 	public List<FriendlyFirm> call() throws Exception {
 
 		List<FriendlyFirm> finalFriendlyFirmList = new ArrayList<>();
 
 		rawFirmList.forEach(firmId -> {
 
-			FriendlyFirm friendlyFirm = JSONParser.parseFirmJSON(RequestURL.getFirmJSON(firmId));
+			String firmJSON = "NULL";
+
+			int failCount = 0;
+
+			while (firmJSON.contentEquals("NULL") && failCount < 5) {
+
+				firmJSON = new RequestURL().getFirmJSON(firmId);
+				failCount++;
+
+			}
+
+			FriendlyFirm friendlyFirm = JSONParser.parseFirmJSON(firmJSON);
 
 			finalFriendlyFirmList.add(friendlyFirm);
 

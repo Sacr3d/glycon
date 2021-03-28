@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4667322,ALBERT,[],CARDONA,11/2/2016,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Customer states that she did not want to annuitize her variable annuities and alleges that representative forged her signature on annuity benefits form signed August 29, 2014."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/19/2012 - 11/25/2015,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4667322,ALBERT,[],CARDONA,,,,,9/25/2003 - 10/19/2004,"AMERICAN GENERAL DISTRIBUTORS, INC. (37449)"

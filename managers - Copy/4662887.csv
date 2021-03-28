@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4662887,NAHED,[NAHED OMAR ANANI],ALSOUS,1/10/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients allege that their registered representative made unsuitable annuity recommendations and used pre-signed forms for transactions."",
+  ""Settlement Amount"" : ""$45,946.83"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Firm agreed to settle the dispute without the Firm or advisor admitting to the claims or contentions of the clients.""
+}",1/21/2004 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4662887,NAHED,[NAHED OMAR ANANI],ALSOUS,,,,,5/19/2003 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,2406530,Sean,[Syany  Pong],Pong,4/13/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges forgery, fraud, and unauthorized trades, and taking $134,600.00 of her retirement money against rep."",
+  ""Damage Amount Requested"" : ""$134,600.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/23/2012 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2406530,Sean,[Syany  Pong],Pong,1/28/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""COMPLAINANT ALLEGES SECURITY FRAUD AND THAT THE MUTUAL FUND WAS MISREPRESENTED."",
+  ""Damage Amount Requested"" : ""$57,595.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/19/2012 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2406530,Sean,[Syany  Pong],Pong,11/13/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",10/1/2012 - 10/17/2012,J.P. MORGAN SECURITIES LLC (79)
+17868,2406530,Sean,[Syany  Pong],Pong,,,,,5/2/2009 - 10/1/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+17868,2406530,Sean,[Syany  Pong],Pong,,,,,2/23/2006 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+17868,2406530,Sean,[Syany  Pong],Pong,,,,,5/1/1998 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+17868,2406530,Sean,[Syany  Pong],Pong,,,,,6/8/1995 - 5/1/1998,GREAT WESTERN FINANCIAL SECURITIES CORPORATION (14229)
+17868,2406530,Sean,[Syany  Pong],Pong,,,,,10/12/1993 - 3/17/1994,"SUNPOINT SECURITIES, INC. (25442)"

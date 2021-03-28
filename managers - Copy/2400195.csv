@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+14469,2400195,JAY,[],MARCHESE,3/17/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""SC Securities Division"",
+  ""Allegations"" : ""Administrative Complaint issued. Alleges unsuitability, failure to disclose market making and trading prior to obtaining account documentation."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ],
+  ""Sanction Details"" : ""A Consent Order effective 11/5/98 between agent and SC Sec. Div. whereby agent agrees to terminate his registration and not reapply for registration in SC for a 5 year period.""
+}",1/30/1998 - 7/28/1998,LCP CAPITAL CORP. (14469)
+14469,2400195,JAY,[],MARCHESE,,,,,10/28/1997 - 3/4/1998,"FIRST NATIONAL EQUITY, CORP. (36094)"
+14469,2400195,JAY,[],MARCHESE,,,,,9/5/1997 - 11/11/1997,"FIRST SECURITY INVESTMENTS, INC. (24035)"
+14469,2400195,JAY,[],MARCHESE,,,,,8/21/1996 - 8/13/1997,"R.D. WHITE & CO., INC. (7011)"
+14469,2400195,JAY,[],MARCHESE,,,,,3/10/1995 - 8/20/1996,"NICHOLS, SAFINA, LERNER & CO. INC. (35476)"
+14469,2400195,JAY,[],MARCHESE,,,,,11/21/1994 - 1/12/1995,"A.S. GOLDMEN & CO., INC. (23180)"
+14469,2400195,JAY,[],MARCHESE,,,,,10/20/1994 - 12/9/1994,PAINEWEBBER INCORPORATED (8174)
+14469,2400195,JAY,[],MARCHESE,,,,,6/24/1994 - 10/4/1994,"NICHOLS, SAFINA, LERNER & CO. INC. (35476)"
+14469,2400195,JAY,[],MARCHESE,,,,,5/6/1994 - 6/30/1994,"NORTHEAST SECURITIES, INC. (25996)"

@@ -1,0 +1,56 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46727,1262063,THOMAS,[],SHERWOOD,7/16/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISCONDUCT, NEGLIGENCE, BREACH OF CONTRACT, BREACH FUDUCIATY DUTY, MISREPRESENTATION AND SUITABILITY."",
+  ""Damage Amount Requested"" : ""$307,409.00"",
+  ""Settlement Amount"" : ""$190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-06093"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""U-4 UPDATED AS A RESULT OF AN UPDATED U-5 DISCLOSING AN ARBITRATION SETTLEMENT.""
+}",4/12/2006 - Current,"ADVISORS ASSET MANAGEMENT, INC. (46727)"
+46727,1262063,THOMAS,[],SHERWOOD,7/16/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISCONDUCT, NEGLIGENCE, BREACH OF CONTRACT, BREACH OF FIDUCIARY DUTY, MISREPRESENTATION AND SUITABILITY."",
+  ""Damage Amount Requested"" : ""$87,827.89"",
+  ""Settlement Amount"" : ""$190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-06092"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""U-4 UPDATED AS A RESULT OF AN UPDATED U-5 DISCLOSING AN ARBITRATION SETTLEMENT.""
+}",1/17/2006 - Current,"ADVISORS ASSET MANAGEMENT, INC. (46727)"
+46727,1262063,THOMAS,[],SHERWOOD,7/16/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISCONDUCT, NEGLIGENCE, BREACH OF CONTRACT, BREACH OF FIDUCIARY DUTY, MISREPRESENTATION AND SUITABILITY."",
+  ""Damage Amount Requested"" : ""$9,721.88"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/27/2002 - 12/31/2003,FINANCIAL NETWORK INVESTMENT CORPORATION (13572)
+46727,1262063,THOMAS,[],SHERWOOD,7/16/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISCONDUCT, NEGLIGENCE, BREACH OF CONTRACT, BREACH OF FIDUCIARY DUTY, MISREPRESENTATION AND SUITABILITY."",
+  ""Damage Amount Requested"" : ""$77,843.02"",
+  ""Settlement Amount"" : ""$190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-06080"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""U-4 UPDATED AS A RESULT OF AN UPDATED U-5 DISCLOSING AN ARBITRATION SETTLEMENT.""
+}",1/20/1999 - 8/9/2002,MCDONALD INVESTMENTS INC. (566)
+46727,1262063,THOMAS,[],SHERWOOD,7/16/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISCONDUCT, NEGLIGENCE, BREACH OF CONTRACT, BREACH OF FIDUCIARY DUTY, MISREPRESENTATION AND SUITABILITY"",
+  ""Damage Amount Requested"" : ""$31,615.78"",
+  ""Settlement Amount"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/18/1986 - 8/9/2002,MCDONALD INVESTMENTS INC. (566)
+46727,1262063,THOMAS,[],SHERWOOD,9/6/2002,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""MICHIGAN, OFFICE OF FINANCIAL AND INSURANCE SERVICES"",
+  ""Allegations"" : ""APPLICANT FAILED TO FILE AN APPLICATION THAT WAS MATERIALLY COMPLETE"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ],
+  ""Sanction Details"" : ""REGISTRATION DENIED"",
+  ""Broker Comment"" : ""ON 11/07/2002 THE AGENT WAS SENT A CERTIFIED LETTER REQUESTING ADDIONAL INFORMATION AFTER REVIEW OF THE INITIAL APPLICATION. AFTER REPEATED REQUESTS THIS ADDITIONAL INFORMATION WAS NEVER PROVIDED. THEREFORE, A FINAL ORDER OF DENIAL WAS ISSUED AGAINST THE AGENT, ALLOWING 15 DAYS TO REQUEST A HEARING. NO HEARING WAS REQUESTED AND THE ORDER IS NOW IN EFFECT.""
+}",5/23/1984 - 11/5/1984,M.L. STERN & CO. INC. (8327)

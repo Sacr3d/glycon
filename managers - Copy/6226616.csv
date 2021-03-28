@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,7/14/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""Litigious divorce left Financial Advisor with a large amount of unsecured debt. Advised by legal counsel to file chapter 7 bankruptcy.""
+}",10/3/2019 - Current,LEXAURUM ADVISORS (283653)
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,6/2/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""VIOLATING A PROTECTION ORDER [R.C. 2919.27(A)(2)](F5)"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""VIOLATING A PROTECTION ORDER [R.C. 2919.27(A)(1)](M1)"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""Charges were part of a litigious divorce and child custody proceedings. Financial Advisor's ex-spouse brought charges against him during divorce proceedings based on false accusations in order to gain an advantage in a custody dispute. Advisor not convicted, legal counsel recommended the plea deal to avoid further mounting litigation costs.""
+}",10/1/2019 - Current,"BROKERS INTERNATIONAL FINANCIAL SERVICES, LLC. (139627)"
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,4/15/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""VIOLATION OF PROTECTION ORDER [R.C. 2919.27(A)(1)](F5)"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""VIOLATING A PROTECTION ORDER [R.C. 2919.27(A)(1)](M1)"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""MENACING BY STALKING [R.C. 2903.211(A)(1)(B)(2)(E)](F4)"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""MENACING BY STALKING [R.C.2903.211(A)](M1)"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""Charges were part of a litigious divorce and child custody proceedings. Financial Advisor's ex-spouse brought charges against him during divorce proceedings based on false accusations in order to gain an advantage in a custody dispute. Advisor not convicted, legal counsel recommended the plea deal to avoid further mounting litigation costs.""
+}",1/28/2016 - 10/9/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,,,,,6/24/2015 - 10/9/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,,,,,5/18/2015 - 6/4/2015,"MML INVESTORS SERVICES, LLC (10409)"
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,,,,,11/18/2013 - 6/17/2014,EDWARD JONES (250)
+283653,6226616,JOSEPH,[Joe  Hassen],HASSEN,,,,,9/4/2013 - 6/17/2014,EDWARD JONES (250)

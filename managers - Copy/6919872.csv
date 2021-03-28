@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+137658,6919872,Frank,[],Dimicelli,10/15/2010,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Unlawful Carrying of a Weapon"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""On or about October 2010, I had a charge for unlawful carrying of a weapon. I have a concealed handgun licence. I was traveling by air. As I was going through security a handgun was found in my carry on bag. The charges were later dismissed.""
+}",7/16/2019 - Current,"RETIREMENT WEALTH ADVISORS, LLC (137658)"
+137658,6919872,Frank,[],Dimicelli,,,,,3/16/2018 - 7/15/2019,REGAL INVESTMENT ADVISORS LLC (125004)

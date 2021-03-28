@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+29106,6488141,Devan,[],Piccone,11/24/2005,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""criminal mischief 3rd: damage another person's property - amount greater than $250"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""criminal mischief 4th"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""RR had a cast on his broken arm when he fell through a store-front window.  The dollar value of the damage rated it as a felony.  After restitution was made to the owner, the charge was reduced.  Penalty was probation, and was released early.""
+}",3/4/2021 - Current,E*TRADE SECURITIES LLC (29106)
+29106,6488141,Devan,[],Piccone,,,,,11/26/2018 - 10/13/2020,"LBMZ SECURITIES, INC. (7874)"
+29106,6488141,Devan,[],Piccone,,,,,11/16/2018 - 10/5/2020,"ZACKS INVESTMENT MANAGEMENT, INC. (110897)"
+29106,6488141,Devan,[],Piccone,,,,,8/25/2017 - 6/15/2018,NEUBERGER BERMAN BD LLC (2908)
+29106,6488141,Devan,[],Piccone,,,,,7/3/2017 - 6/15/2018,NEUBERGER BERMAN BD LLC (2908)
+29106,6488141,Devan,[],Piccone,,,,,6/24/2016 - 7/5/2017,"DEUTSCHE AM DISTRIBUTORS, INC. (37306)"
+29106,6488141,Devan,[],Piccone,,,,,2/11/2016 - 2/16/2016,"IBN FINANCIAL SERVICES, INC. (42360)"

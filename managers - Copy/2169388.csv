@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,2169388,BRUCE,[],WARD,5/27/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The complainant alleges that his account, which was opened in February 2018, has been treated like a trading account. The complainant states this was not to be a trading account, and was quite adamant. The complainant says that asset preservation is his primary goal."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Internal case #202037252""
+}",3/25/2017 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,2169388,BRUCE,[],WARD,12/3/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGED THE INVESTMENT ACCOUNTS RECOMMENDED BY THE REPRESENTATIVE, IN FEBRUARY 2013 APPROXIMATELY, WERE  NOT APPROPRIATE.  CUSTOMERS HAVE ALLEGED DAMAGES AS NOTED BELOW."",
+  ""Damage Amount Requested"" : ""$117,778.66"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I WAS NOT INVOLVED ON THE ACCOUNT THAT WAS RESPONSIBLE FOR A SIGNIFICANT PORTION OF THE DAMAGES ALLEGED BY THE CUSTOMER.""
+}",1/2/2015 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"
+10409,2169388,BRUCE,[],WARD,,,,,11/16/2007 - 1/2/2015,NEW ENGLAND SECURITIES CORPORATION (615)
+10409,2169388,BRUCE,[],WARD,,,,,11/14/2007 - 1/2/2015,NEW ENGLAND SECURITIES (615)
+10409,2169388,BRUCE,[],WARD,,,,,1/1/2001 - 11/5/2007,PARK AVENUE SECURITIES LLC (46173)
+10409,2169388,BRUCE,[],WARD,,,,,5/3/1999 - 11/5/2007,PARK AVENUE SECURITIES LLC (46173)
+10409,2169388,BRUCE,[],WARD,,,,,9/3/1991 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

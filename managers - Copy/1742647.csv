@@ -1,0 +1,54 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13572,1742647,MICHAEL,[],HURTGEN,10/30/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""WISCONSIN OFFICE OF COMMISSIONER OF INSURANCE"",
+  ""Allegations"" : ""FAILURE TO DISCLOSE TERMINATION AND ACCEPTANCE, WAIVER & CONSENT (\""AWC\""), DESCRIBED PUBLICLY PER CRD# 1742647."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""RELATIVE TO MY TERMINATION AND ACCEPTANCE, WAIVER & CONSENT (AWC\""), PER CRD #1742647, THIS MATTER WAS THE RESULT OF A FAILURE TO REPORT. I MISTAKENLY BELIEVED THE REPORTING OBLIGATION TO INSURANCE DEPARTMENTS AND INSURANCE COMMISSIONERS HAD BEEN HANDLED BY MY BROKER-DEALER; THIS ACTION WAS THE RESULT OF AN ADMINISTRATIVE MISUNDERSTANDING. I HAVE RECEIVED ACKNOWLEDGMENT OF COMPLIANCE WITH THE RESULTING ORDER AND STIPULATION.""
+}",11/1/2017 - Current,CETERA ADVISOR NETWORKS LLC (13572)
+13572,1742647,MICHAEL,[],HURTGEN,3/12/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016049202201"",
+  ""DocketNumberAAO"" : ""2016049202201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Hurtgen consented to the sanctions and to the entry of findings that he solicited at least 14 individuals, 10 of whom were customers of his member firm, to invest in a private placement offering without providing prior written notice to the firm. The findings stated that three of the 14 individuals that Hurtgen solicited invested in that private offering, and Hurtgen participated in each of the transactions, which totaled $75,000. While the firm had approved Hurtgen's outside business activity with the company, it had not approved his subsequent private placement activities on behalf of it. The findings also stated that Hurtgen distributed sales materials for the private offering to investors that failed to comply with FINRA's content standards for communications with the public. The sales materials failed to provide a balanced presentation and a sound basis for evaluating the investment being promoted. The sales materials also contained forward looking and misleading statements that implied investor success, and contradicted the inherent risks associated with the subject investment."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""4/2/2018"",
+      ""End Date"" : ""6/1/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on November 15, 2018.""
+}",3/8/2016 - 11/1/2017,"GIRARD SECURITIES, INC. (18697)"
+13572,1742647,MICHAEL,[],HURTGEN,2/23/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""RAYMOND JAMES FINANCIAL SERVICES, INC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated for soliciting interest in a private placement, for a firm approved outside business activity and company owned by FA, to clients without approval.  The solicited parties were a relative of FA and a longtime client."",
+  ""Broker Comment"" : ""I was terminated for soliciting membership interests in a private placement for my previously approved outside business activity.  I had obtained prior approval for the OBA, which included solicitation and funding by a non-affiliated and non-registered person, however understanding that I had prior approval for the OBA and its funding, I accepted additional funding from two new investors, one a family member and the other, long term friends and clients, without first obtaining updated firm approval for funding and issuance of the new membership interests""
+}",6/23/2009 - 3/10/2016,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+13572,1742647,MICHAEL,[],HURTGEN,2/23/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated for soliciting interest in a private placement, for a firm approved outside business activity and company owned by FA, to clients without approval.  The solicited parties were a relative of FA and a longtime client."",
+  ""Broker Comment"" : ""I was terminated for soliciting membership interests in a private placement for my previously approved outside business activity. I had obtained prior approval for the OBA, which included solicitation and funding by a non-affiliated and non-registered person, however understanding that I had prior approval for the OBA and its funding, I accepted additional funding from two new investors, one a family member and the other, long term friends and clients, without first obtaining updated firm approval for funding and issuance of the new membership interests""
+}",6/19/2009 - 3/10/2016,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+13572,1742647,MICHAEL,[],HURTGEN,,,,,1/1/1999 - 6/25/2009,RBC CAPITAL MARKETS CORPORATION (31194)
+13572,1742647,MICHAEL,[],HURTGEN,,,,,7/2/1998 - 6/25/2009,RBC CAPITAL MARKETS CORPORATION (31194)
+13572,1742647,MICHAEL,[],HURTGEN,,,,,1/23/1991 - 7/14/1998,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+13572,1742647,MICHAEL,[],HURTGEN,,,,,2/1/1989 - 2/24/1990,"BEAR, STEARNS & CO. INC. (79)"
+13572,1742647,MICHAEL,[],HURTGEN,,,,,11/25/1987 - 12/19/1988,PAINEWEBBER INCORPORATED (8174)

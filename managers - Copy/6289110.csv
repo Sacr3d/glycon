@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,6289110,Jackson,[JACKSON  JORDAN],Jordan,2/13/2020,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",4/30/2019 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,6289110,Jackson,[JACKSON  JORDAN],Jordan,2/13/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,301.30"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",4/8/2019 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+108958,6289110,Jackson,[JACKSON  JORDAN],Jordan,5/23/2019,Financial,Pending,"{
+  ""Type"" : ""Compromise""
+}",,

@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,5028444,KENNETH,"[KEN A BROWN, KENNETH ANTHONY BROWN, KENNY A BROWN]",BROWN,12/13/2016,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""This was due to an 180,000 loan I still owe on my business I had to close back in 2012. B&C Stables was the name of my business. I was unable to maintain the normal monthly payment or unable to pay the large payment due to the business was no longer doing business""
+}",10/4/2017 - Current,LPL FINANCIAL LLC (6413)
+6413,5028444,KENNETH,"[KEN A BROWN, KENNETH ANTHONY BROWN, KENNY A BROWN]",BROWN,5/1/2009,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""CRIMINAL MISCHIEF"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""DISORDERLY CONDUCT"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""FINAL""
+}",12/10/2013 - 10/4/2017,CETERA INVESTMENT SERVICES LLC (15340)
+6413,5028444,KENNETH,"[KEN A BROWN, KENNETH ANTHONY BROWN, KENNY A BROWN]",BROWN,,,,,3/30/2012 - 12/31/2018,"NORTHWEST ADVISORS, INC. (154032)"
+6413,5028444,KENNETH,"[KEN A BROWN, KENNETH ANTHONY BROWN, KENNY A BROWN]",BROWN,,,,,12/7/2011 - 12/10/2013,"OBS BROKERAGE SERVICES, INC. (104281)"
+6413,5028444,KENNETH,"[KEN A BROWN, KENNETH ANTHONY BROWN, KENNY A BROWN]",BROWN,,,,,9/20/2005 - 11/5/2009,"NATIONWIDE SECURITIES, LLC (11173)"

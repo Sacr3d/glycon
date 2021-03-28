@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+5393,1336817,JONATHAN,[JONATHAN D COGGINS],COGGINS,2/27/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Charles Schwab & Co., Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Allegations that Mr. Coggins had been eating food in the Schwab cafeteria prior to paying for it and in some cases had left with food that he didn't pay for.""
+}",5/25/2006 - 4/3/2018,"CHARLES SCHWAB & CO., INC. (5393)"
+5393,1336817,JONATHAN,[JONATHAN D COGGINS],COGGINS,12/4/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,606.69"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",3/21/2005 - 8/4/2005,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+5393,1336817,JONATHAN,[JONATHAN D COGGINS],COGGINS,,,,,7/23/2002 - 10/8/2003,"TERRA NOVA TRADING, L.L.C. (37761)"
+5393,1336817,JONATHAN,[JONATHAN D COGGINS],COGGINS,,,,,6/29/2000 - 8/2/2001,SCHWAB CAPITAL  MARKETS L.P. (2692)
+5393,1336817,JONATHAN,[JONATHAN D COGGINS],COGGINS,,,,,4/29/1987 - 6/28/2000,"MORGAN KEEGAN & COMPANY, INC. (4161)"

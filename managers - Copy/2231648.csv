@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,2231648,KEITH,[],YODER,5/8/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable Investment and Negligent Account Management, Violations of FINRA Conduct Rules, Breach of Contract, Breach of Fiduciary Duty and Constructive Fraud, Respondeat Superior, Negligence, Violations of Illinois Securities Law.  Activity dates:  10/1/12 to 6/30/16."",
+  ""Damage Amount Requested"" : ""$1,128,413.00"",
+  ""Settlement Amount"" : ""$495,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-01185""
+}",8/19/2011 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,2231648,KEITH,[],YODER,,,,,11/23/2009 - 8/22/2011,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+705,2231648,KEITH,[],YODER,,,,,10/14/2009 - 8/22/2011,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+705,2231648,KEITH,[],YODER,,,,,8/16/2000 - 7/6/2006,CATERPILLAR SECURITIES INC. (25593)
+705,2231648,KEITH,[],YODER,,,,,4/7/1994 - 7/24/2000,"PROEQUITIES, INC. (15708)"

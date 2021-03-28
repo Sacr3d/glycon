@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2882,873580,JOE,[JOE P MOORE JR],MOORE,8/31/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customers allege poor customer service, non-disclosure of fees and suitability."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The client's claim that additional commissions were charged or earned on the variable annuity and alternative investments was inaccurate. The investments commissions and expenses and fees were disclosed to and acknowledged by the client. The client received an amount greater than their investment when they surrendered their contract and investments, and therefore their investment did not go down in value.""
+}",8/4/2016 - Current,"VOYA FINANCIAL ADVISORS, INC. (2882)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,5/31/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""CETERA ADVISOR NETWORKS LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Representative violated the following Firm policies: Holding a security in violation of the securities received and delivered policy; Failure to obtain Firm approval on representative-generated reports; Use of unapproved email and texting on securities business; violation of the Firm's encryption and data security policies; Failure to report a customer complaint; approving a VA switch transaction without complete documentation."",
+  ""Broker Comment"" : ""After 37 years of working compliantly with seven broker dealers, Cetera Network Advisors supervised my business practices for eighteen months and never informed me of any alleged violations. Without communicating with me in any manner, I was suspended and terminated. Cetera Network Advisors has not accepted any responsibility for failure to supervise or to notify me of their concerns during those eighteen months.""
+}",8/3/2016 - Current,"VOYA FINANCIAL ADVISORS, INC. (2882)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,10/30/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS ALLEGE THAT DISCLOSURE WAS NOT MADE BY RR CONCERNING FEES/PENALTIES WHEN MOVING ACCOUNTS. CLIENTS QUESTIONS PENALTY WHEN CLASS B RESERVES WERE SOLD. CLIENTS ALLEGE THAT VARIABLE ANNUITY CONTRACTS PURCHASED WERE NOT SUITABLE."",
+  ""Damage Amount Requested"" : ""$60,112.00"",
+  ""Settlement Amount"" : ""$29,926.64"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""TO AVOID LENTHY LEGAL TIME AND FEES, THE COMPANY AGREED TO SETTLE THIS CASE.  I WAS NOT ASKED TO CONTRIBUTE TO THE SETTLEMENT AND, WITH DOCUMENTED EVIDENCE, DID NOT AGREE TO THE SETTLEMENT AS I DENY ALL CHARGES OF WRONGDOING. I REQUESTED TO BE RECUSED FROM THIS SETTLEMENT.""
+}",11/19/2014 - 6/10/2016,CETERA ADVISOR NETWORKS LLC (13572)
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,11/18/2014 - 6/10/2016,CETERA ADVISOR NETWORKS LLC (13572)
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,11/15/2012 - 11/19/2014,"CAPITAL GUARDIAN WEALTH MANAGEMENT, LLC (131631)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,11/14/2012 - 11/19/2014,"CAPITAL GUARDIAN, LLC (137919)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,7/1/2009 - 11/20/2012,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,6/30/2009 - 11/20/2012,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,7/12/2005 - 6/22/2009,"EQUITY SERVICES, INC. (265)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,6/1/2005 - 7/1/2005,"AXA ADVISORS, LLC (6627)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,10/15/1999 - 6/1/2005,MONY SECURITIES CORPORATION (4386)
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,2/19/1998 - 6/1/2005,MONY SECURITIES CORPORATION (4386)
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,10/31/1995 - 9/30/1997,"THE ADVISORS GROUP, INC. (14035)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,4/5/1995 - 3/25/1996,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,6/18/1993 - 12/15/1994,"ALLMERICA INVESTMENTS, INC. (3960)"
+2882,873580,JOE,[JOE P MOORE JR],MOORE,,,,,11/8/1979 - 5/6/1993,"CIGNA SECURITIES, INC. (145)"

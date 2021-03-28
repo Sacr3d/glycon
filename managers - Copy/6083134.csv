@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,6083134,JEFFREY,[],DAVIS,1/7/2002,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""DROVE VEHICLE WITH EXCESSIVE ALCOHOL CONTENT IN BLOOD"",
+    ""Disposition"" : ""Acquitted""
+  }, {
+    ""Charges"" : ""RECKLESS DRIVING"",
+    ""Disposition"" : ""Acquitted""
+  }, {
+    ""Charges"" : ""FAILED TO REMAIN AT THE SCENE OF AN ACCIDENT INVOLVING A DEATH"",
+    ""Disposition"" : ""Acquitted""
+  }, {
+    ""Charges"" : ""FAILED TO PROVIDE PROOF OF INSURANCE"",
+    ""Disposition"" : ""Acquitted""
+  }, {
+    ""Charges"" : ""VEHICULAR ASSAULT"",
+    ""Disposition"" : ""Acquitted""
+  }, {
+    ""Charges"" : ""VEHICULAR HOMICIDE"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",2/19/2014 - 4/8/2019,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,6083134,JEFFREY,[],DAVIS,,,,,6/7/2013 - 4/8/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

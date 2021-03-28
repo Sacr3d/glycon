@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4909639,RYAN,[],ANDREW,7/1/2005,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""VIRGINIA INSURANCE BUREAU"",
+  ""Allegations"" : ""UPON INFORMING THE INSURANCE BUREAU I WAS ORDERED TO PAY A $500 FINE.  SINCE THIS CHARGE WAS OT INDICATED ON PRIOR APPLICATIONS (P/C,LIFE, HEALTH)"",
+  ""Resolution"" : ""Settled"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""12A COMPLETE,THIS SECTION IS NOT NECESSARY."",
+  ""Sanction Details"" : ""N/A""
+}",9/18/2006 - 5/1/2009,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,4909639,RYAN,[],ANDREW,,,,,4/25/2005 - 7/6/2006,STATE FARM VP MANAGEMENT CORP. (43036)

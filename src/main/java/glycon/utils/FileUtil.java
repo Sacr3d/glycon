@@ -8,9 +8,9 @@ import java.util.List;
 
 public class FileUtil {
 
-	public static List<String> parseFirmsInTextFile(String fileName) throws IOException {
+	public static boolean fileExists(String string) {
 
-		return Files.readAllLines(Paths.get(fileName));
+		return new File(string).exists();
 
 	}
 
@@ -20,9 +20,9 @@ public class FileUtil {
 
 	}
 	
-	public static boolean fileExists(String string) {
+	public static List<String> parseFirmsInTextFile(String fileName) throws IOException {
 
-		return new File(string).exists();
+		return Files.readAllLines(Paths.get(fileName));
 
 	}
 

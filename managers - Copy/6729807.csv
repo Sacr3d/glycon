@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6694,6729807,Diana,[],Serrano,8/12/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""larceny - failure to redeliver leased personal property"",
+    ""Disposition"" : ""Nolle Prosse""
+  } ]
+}",3/24/2021 - Current,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+6694,6729807,Diana,[],Serrano,,,,,12/8/2017 - 7/16/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+6694,6729807,Diana,[],Serrano,,,,,3/22/2017 - 4/28/2017,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

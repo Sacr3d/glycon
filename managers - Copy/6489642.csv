@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,8/15/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Texas"",
+  ""Allegations"" : ""On January 4, 2018, Mohamed H. Eldawy (\""Respondent\"") was discharged from Morgan Stanley for allegedly using personal email to solicit clients.  On February 8, 2018, Respondent applied for registration with the Securities Commissioner as an agent of Vestech Securities, LLC.  On January 11, 2018, Respondent began the onboarding process with Regulus Advisors LLC (\""Regulus\"").  The onboarding paperwork Respondent filled out contained questions relating to discharges or terminations from prior firms. Respondent answered \""No\"" to the termination disclosure questions. At this time, Respondent had not received a copy of his Form U5 from Morgan Stanley. On January 19, 2018, Morgan Stanley mailed a copy of Respondent's U5 to Respondent. Thereafter, Respondent was aware of the affirmative answer to the termination disclosure question on Respondent's Form U5 and the need to update Respondent's onboarding paperwork with Regulus to report the termination from Morgan Stanley but Respondent did not do so.  On January 25, 2018, Respondent's Form U4 with Regulus was filed containing a \""No\"" answer to the termination question. Accordingly, Respondent submitted an inaccurate Form U4 to the Securities Commissioner.  On January 26, 2018, Regulus became aware of Respondent's inaccurate filing and chose not to move forward with Respondent's registration as an agent of Regulus. It is Ordered that the agent registration of Mohamed H. Eldawy with the Securities Commissioner is hereby SUSPENDED for a for a period of sixty (60) days."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Agent Registration"",
+      ""Duration"" : ""60 days"",
+      ""Start Date"" : ""8/15/2018"",
+      ""End Date"" : ""10/15/2018""
+    } ]
+  } ]
+}",12/6/2018 - Current,VESTECH ASSET MANAGEMENT INC. (285685)
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,1/26/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Regulus Advisors"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Representative failed to disclose his termination from a previous firm and misled the compliance and on-boarding team as to the reason for his separation from Morgan Stanley."",
+  ""Broker Comment"" : ""The incident was due to my lack of understanding with Regal's onboarding process.  I was being registered while going through the onboarding process.  Regal then discharged me the next day before onboarding process concluded.""
+}",2/9/2018 - Current,"VESTECH SECURITIES, INC. (41409)"
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,1/4/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Morgan Stanley Smith Barney, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Allegations regarding registered representative's conduct with respect to the use of personal email to prospect and solicit his services as a Morgan Stanley Advisor.""
+}",1/25/2018 - 1/26/2018,REGAL INVESTMENT ADVISORS LLC (125004)
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,,,,,7/26/2017 - 1/19/2018,MORGAN STANLEY (149777)
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,,,,,3/25/2017 - 7/12/2017,"MML INVESTORS SERVICES, LLC (10409)"
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,,,,,2/24/2016 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"
+285685,6489642,MOHAMED,[MOHAMED  ELDAWY],ELDAWY,,,,,8/27/2015 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"

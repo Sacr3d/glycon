@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107527,4193640,DAVID,[],PELLAND,5/23/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Single premium fixed immediate annuity purchased in June 2012.  Beneficiaries are disputing the contract five-year-certain pay-out option selected by the customer at the time of purchase."",
+  ""Damage Amount Requested"" : ""$48,368.94"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/26/2005 - Current,"ALDA ADVISORS, INC. (107527)"
+107527,4193640,DAVID,[],PELLAND,,,,,7/17/2001 - Current,"VALMARK ADVISERS, INC. (108050)"
+107527,4193640,DAVID,[],PELLAND,,,,,7/19/2000 - Current,"VALMARK SECURITIES, INC. (31243)"

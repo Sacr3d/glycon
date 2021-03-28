@@ -1,0 +1,18 @@
+ID,FIRSTNAME,OTHERNAMES,SECONDNAME,DISCLOSUREDATE,DISCLOSURETYPE,DISCLOSURERESULT,DISCLOSUREINFO,FINRAEMPLOYMENTDATES,FINRAEMPLOYMENT
+601417,JOHN,[],NOLAN,2/20/1975,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""Unknown"",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""2-20-75 #AWC-22 FILED: 2/20/75 CENSURED, FINED $500 J&S 2/20/75 FINAL FINES & COSTS FC #6075-J&S-PD. $500.00 - 3-11-75""
+}",11/20/1975 - 7/21/2006,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+601417,JOHN,[],NOLAN,,,,,10/21/1969 - 2/24/1977,HENSBERRY & COMPANY (6192)
+601417,JOHN,[],NOLAN,,,,,6/8/1970 - 11/15/1975,FIRST EQUITY CORPORATION OF FLORIDA (9)

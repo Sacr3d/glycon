@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+106629,6671697,Meghan,[],Laramie,2/12/2021,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Putnam Retail Management"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Meghan Laramie manipulated her call statistics.""
+}",1/12/2021 - 3/3/2021,"PUTNAM INVESTMENT MANAGEMENT, LLC (106629)"
+106629,6671697,Meghan,[],Laramie,,,,,12/21/2016 - 3/3/2021,PUTNAM RETAIL MANAGEMENT LIMITED PARTNERSHIP (7325)

@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6232680,Gary,"[GARY DENNIS COX, Gary Dennis Cox Jr]",Cox,11/5/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer's attorney alleges that the investments were too speculative and this was a completely improper transaction."",
+  ""Damage Amount Requested"" : ""$82,029.03"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/22/2017 - 9/28/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6232680,Gary,"[GARY DENNIS COX, Gary Dennis Cox Jr]",Cox,,,,,10/7/2013 - 5/22/2017,EDWARD JONES (250)
+17868,6232680,Gary,"[GARY DENNIS COX, Gary Dennis Cox Jr]",Cox,,,,,9/17/2013 - 5/22/2017,EDWARD JONES (250)

@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6667639,Wesley,[],Bauer,5/19/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""POSSESS FORGED - DRIVERS LICENSE OR ID CARD"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Possession of Altered Driver's License"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""On Monday, May 19th, 2014 I took a train that departed from Tampa to Miami for summer vacation. My father lives in West Palm Beach, FL and I decided to stop in West Palm Beach to meet my brother so we can drive home together. He decided to stay a few more days so he lent me his car to drive down to Miami. Before I got onto the highway, I was pulled over by a Boca Raton Police Officer. When the officer approached the window, he had mentioned the reason why he was pulling me over was because of an expired registration sticker. My brother was not aware he had not updated his registration sticker. As I started to look for the registration of the vehicle I pulled out my driver's license and handed it to the officer. I continued to scramble for the registration of the vehicle and decided to recheck my wallet a second time, which is when the officer spotted the bad false license I had since high school, never having actual intent to use it as a real ID but rather just for club entrance. I was arrested and taken to the police station. After several hours, I was released on a small bail and was charged with possession of a fraudulent identification card. I was arrested for possession of fake id that said my age was 21. The charge was filed as a misdemeanor traffic crime. The charges were dropped after I performed 20 community service hours. I never entered a plea or no contest or guilty in this case nor was I required to appear in court.""
+}",9/13/2016 - 7/9/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

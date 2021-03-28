@@ -1,0 +1,6 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6841323,Michael,[],Morrison,10/1/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""During the process of a loan modification, received information that home would be foreclosed on in August 2012. After receiving the notice, contacted a Realtor and began the process of listing the home as a short sale. The Bank granted the short sale as opposed to following through with the foreclosure, and the short sale was completed.""
+}",8/29/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"

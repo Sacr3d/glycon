@@ -1,0 +1,65 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+38,222774,MELVYN,[],GLASS,1/1/1978,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Other"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""U4 DISCLOSES THAT IN 1978, GLASS WAS FINED $250 BY THE NASD. SEE INCIDENT #2. ***** U4 RECEIVED 2/7/89 FROM AMERICAN INVESTORS COMPANY DISCLOSES IN ADDITION TO THE ABOVE INFORMATION MR. GLASS WAS CENSURED FOR IMPROPER ADVERTISEMENT. SEE INCIDENT #3.""
+}",2/8/1989 - 12/31/2002,AMERICAN INVESTORS COMPANY (38)
+38,222774,MELVYN,[],GLASS,1/1/1978,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Other"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",11/3/1988 - 2/16/1989,INTEGRATED RESOURCES EQUITY CORPORATION (6403)
+38,222774,MELVYN,[],GLASS,7/20/1977,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""AWC-83"",
+  ""DocketNumberAAO"" : ""83"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",4/1/1988 - 11/3/1988,"CHRISTOPHER WEIL & COMPANY, INC (6566)"
+38,222774,MELVYN,[],GLASS,1/1/1974,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CA-532"",
+  ""DocketNumberAAO"" : ""532"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Other"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$100.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",3/12/1987 - 4/4/1988,"JUDY & ROBINSON SECURITIES, INC (2378)"
+38,222774,MELVYN,[],GLASS,10/17/1973,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CA-532"",
+  ""DocketNumberAAO"" : ""532"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$100.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",11/3/1969 - 1/29/1988,EPIC SECURITIES COMPANY (4286)

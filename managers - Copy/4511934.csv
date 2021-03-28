@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+105477,4511934,ADAM,[ADAM M SALL],SALL,3/5/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$50,529.31"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I was not made aware of that a lien would be filed.  I had an installment agreement that was in place to cover additional taxes due.  After submitting the installment agreement to the IRS, I received correspondence that everything was in order and if I needed to take additional action they would contact me.  The government shut down took place, I never heard from the IRS.  My installment agreement is up to date and I am in full compliance with the agreement.  The only correspondence I received was from the IRS a week and a half after the lien was filed.""
+}",7/14/2016 - Current,GUGGENHEIM INVESTMENTS (105477)
+105477,4511934,ADAM,[ADAM M SALL],SALL,11/11/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""EXECUTOR IS SURPRISED THAT THE INVESTMENTS RECCOMENDED AND PURCHASED WERE NOT SHORT TERM FIXED INCOME THAT SHE THOUGHT THEY WERE. SHE HAS LIQUIDATED TO DISTRIBUTE TO THE HEIRS OF ESTATE FOR SUBSTANTIALLY LESS THAN AMOUNT INVESTED."",
+  ""Damage Amount Requested"" : ""$61,416.80"",
+  ""Settlement Amount"" : ""$3,090.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/16/2014 - Current,"GUGGENHEIM FUNDS DISTRIBUTORS, LLC (39805)"
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,10/27/2011 - 4/24/2014,ING INVESTMENT MANAGEMENT CO. LLC (106494)
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,10/3/2011 - 4/24/2014,"ING INVESTMENTS DISTRIBUTOR, LLC (37886)"
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,2/22/2010 - 10/4/2011,"GOLDMAN, SACHS & CO. (361)"
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,3/6/2008 - 2/8/2010,ING INVESTMENT MANAGEMENT CO. (106494)
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,11/2/2005 - 2/8/2010,"ING FUNDS DISTRIBUTOR, LLC (37886)"
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,2/1/2005 - 11/4/2005,"WELLS FARGO INVESTMENTS, LLC (10582)"
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,11/15/2004 - 2/1/2005,CITICORP INVESTMENT SERVICES (23988)
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,6/5/2002 - 11/29/2004,UBS FINANCIAL SERVICES INC. (8174)
+105477,4511934,ADAM,[ADAM M SALL],SALL,,,,,5/3/2002 - 11/29/2004,UBS FINANCIAL SERVICES INC. (8174)

@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,2/4/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,794.24"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",6/29/2018 - 2/2/2021,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,10/18/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges that he now understands that a variable annuity purchased in March 2017 does not meet his primary desire to avoid market volatility and also desires to have lower fees."",
+  ""Damage Amount Requested"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/9/2009 - 7/9/2018,WADDELL & REED (866)
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,12/1/1984,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""MS-133-AWC"",
+  ""DocketNumberAAO"" : ""133"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""INAPPROPRIATE DISCLOSURE OF INSIDE INFORMATION"",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""FINE OF $10,000 PAID BY LF ROTHSCHILD, UNTERBERG TOWBIN"",
+  ""Broker Comment"" : ""MISUSE OF ALLEGED INSIDE INFORMATION WHICH WAS TOLD TO ME BY A COMPANY OFFICIAL AND I RELAYED TO THE ENTIRE SALESFORCE OF LF ROTHSCHILD, UNTERBERG TOWBIN.  THERE WAS NO ALLEGATION OF PERSONAL GAIN.""
+}",7/8/2009 - 7/9/2018,WADDELL & REED (866)
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,4/18/1995 - 7/28/2006,"MASTRAPASQUA ASSET MANAGEMENT, INC. (107560)"
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,2/23/1995 - 8/24/1995,"TRANS FINANCIAL INVESTMENT SERVICES, INC. (36539)"
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,12/2/1987 - 3/30/1993,J.C. BRADFORD & CO. (1287)
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,9/30/1981 - 10/10/1987,L. F. ROTHSCHILD & CO. INCORPORATED (501)
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,3/10/1977 - 5/8/1978,NORMANDY SECURITIES INCORPORATED (7332)
+6363,448848,THOMAS,"[TAD  TRANTUM, THOMAS ""TAD"" A TRANTUM, THOMAS A TRANTUM, THOMAS  TRANTUM, Thomas Adron Trantum]",TRANTUM,,,,,7/27/1972 - 6/1/1977,H. C. WAINWRIGHT & CO. (375)

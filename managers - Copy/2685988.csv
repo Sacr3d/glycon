@@ -1,0 +1,71 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,3/13/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 34-80231/IA Release 4666/March 13, 2017: The Securities and Exchange Commission (Commission) deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted pursuant to Section 15(b) of the Securities Exchange Act of 1934 (Exchange Act) and Section 203(f) of the Investment Advisers Act of 1940 (Advisers Act) against Jeremy S. Hixson. On May 10, 2016, Hixson pleaded guilty to one count of bankruptcy fraud in violation of Title 18 U.S.C. \\u00a7 152(1) and 152(3) and two counts of making false statements in violation of Title 18 U.S.C. \\u00a7 1001 before the United States District Court for the Northern District of Ohio, in United States v. Jeremy Hixson, No. 1:16-cr-128-001. On August 3, 2016, a judgment in the criminal case was entered against Hixson. He was sentenced to three years of probation, with the first eight months on home confinement, and ordered to pay restitution in the amount of $73,794.32."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""3/13/2017""
+    }, {
+      ""Registration Capacities Affected"" : ""Participating in any offering of a penny stock"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""3/13/2017""
+    } ]
+  } ]
+}",7/21/2010 - 8/20/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,7/10/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES MISREPRESENTATION, NEGLIGENCE, UNSUITABILITY AND FAILURE TO SUPERVISE.  CLAIMANT INVESTED IN A VENTURE BETWEEN 2011-2012 THAT IS ALLEGED TO BE FRAUDULENT ON THE ADVICE OF THE REGISTERED REPRESENTATIVE."",
+  ""Damage Amount Requested"" : ""$2,000,000.00"",
+  ""Settlement Amount"" : ""$650,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/20/2010 - 8/20/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,12/24/2014,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014042362001"",
+  ""DocketNumberAAO"" : ""2014042362001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""RESPONDENT HIXSON FAILED TO RESPOND TO FINRA REQUEST FOR INFORMATION."",
+  ""Resolution"" : ""LETTER"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""3/27/2015""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""PURSUANT TO FINRA RULE 9552(H) AND IN ACCORDANCE WITH FINRA'S  NOTICE OF SUSPENSION AND SUSPENSION FROM ASSOCIATION LETTERS DATED DECEMBER 24, 2014 AND JANUARY 20, 2015, RESPECTIVELY, ON MARCH 27, 2015, HIXSON IS BARRED FROM ASSOCIATION WITH ANY FINRA MEMBER IN ANY CAPACITY.  RESPONDENT FAILED TO REQUEST TERMINATION OF HIS SUSPENSION WITHIN THREE MONTHS OF THE DATE OF THE NOTICE OF SUSPENSION; THEREFORE, HE IS AUTOMATICALLY BARRED FROM ASSOCIATION WITH ANY FINRA MEMBER IN ANY CAPACITY.""
+}",1/21/2010 - 4/27/2010,"FIRSTMERIT ADVISORS, INC. (125249)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,8/8/2014,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. BANCORP INVESTMENTS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""PERSONAL FINANCIAL TRANSACTIONS WITH A CLIENT AND FAILURE TO DISCLOSE OUTSIDE BUSINESS ACTIVITY.""
+}",1/14/2010 - 4/27/2010,"FIRSTMERIT FINANCIAL SERVICES, INC (149680)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,4/24/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$36,029.61"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",11/14/2007 - 1/22/2010,INVEST FINANCIAL CORPORATION (12984)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,4/24/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,533.29"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/30/2007 - 1/14/2010,INVEST FINANCIAL CORPORATION (12984)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,9/11/1998,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""THE CUSTOMER  ALLEGES THAT HE INCURRED $5,000 IN TAXES BECAUSE MR. HIXSON FAILED TO ADEQUATELY EXPLAIN THE CONSEQUENCES OF THE CAPITAL GAINS AFTER INFORMING HIM THAT THE DID NOT WANT TO INCUR ADDITIONAL TAXES. THE CUSTOMER  ALSO COMPLAINS ABOUT THE SOUNDNESS OF THE INVESTMENTS. THIS OCCURRED AT MERRILL LYNCH."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""MERRILL LYNCH AND MR. HIXSON DENY THE ALLEGATIONS IN THEIR ENTIRETY. THE CUSTOMER  DEMONSTRATED AN INCREASED WILLINGNESS TO ACCEPT RISK IN ORDER TO MEET HIS INCREASED INCOME REQUIREMENTS.  MR. HIXSON CLEARLY COMMUNICATED TO THE CUSTOMER  THAT HE WOULD INCUR A TAX LIABILITY BY REALLOCATING FUNDS FROM HIS ANNUITY TO MUTUAL FUNDS.""
+}",1/24/2006 - 11/9/2007,"WRP INVESTMENTS, INC. (7365)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,1/19/2006 - 11/9/2007,"WRP INVESTMENTS, INC. (7365)"
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,1/13/2004 - 5/31/2005,FIRST MONTAUK SECURITIES CORP. (13755)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,1/12/2004 - 5/31/2005,FIRST MONTAUK SECURITIES CORP. (13755)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,1/8/2002 - 2/3/2004,UBS FINANCIAL SERVICES INC. (8174)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,12/14/2001 - 2/3/2004,UBS FINANCIAL SERVICES INC. (8174)
+17868,2685988,JEREMY,"[JEREMY  HIXSON, JERRY S HIXSON, JERRY SHAWN HIXSON, JERRY  HIXSON]",HIXSON,,,,,1/15/1996 - 12/18/2001,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

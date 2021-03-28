@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,1059214,STEVEN,[],DALTON,8/10/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges unsuitable trading in the claimant's accounts.  The claimant's allegations include that Mr. Dalton failed to supervise Michael Bastardi, including with regard to Bastardi allegedly submitting forged account applications and engaging in unsuitable margin trading of stocks and options in the claimant's accounts. Additional allegations are failure to treat the claimant in a just and equitable manner, fraud, aiding and abetting fraud, and negligence. The alleged activity occurred beginning in March 2012 through February 7, 2018."",
+  ""Damage Amount Requested"" : ""$270,000.00"",
+  ""Settlement Amount"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-03358""
+}",8/16/2019 - Current,LPL FINANCIAL LLC (6413)
+6413,1059214,STEVEN,[],DALTON,3/8/1995,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C8A940055"",
+  ""DocketNumberAAO"" : ""8940055"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,600.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""THIS IS WHAT IS REFERRED TO AS A ~MINOR RULE INFRACTION~. ESSENTIALLY, WE MISSED THE FILING DATE DEADLINE BY  ONE DAY.""
+}",8/15/2019 - Current,LPL FINANCIAL LLC (6413)
+6413,1059214,STEVEN,[],DALTON,,,,,4/13/2015 - 8/15/2019,"SECURITIES AMERICA, INC. (10205)"
+6413,1059214,STEVEN,[],DALTON,,,,,4/13/2015 - 8/15/2019,ARBOR POINT ADVISORS (165127)
+6413,1059214,STEVEN,[],DALTON,,,,,4/13/2015 - 8/15/2019,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+6413,1059214,STEVEN,[],DALTON,,,,,2/21/2008 - 1/5/2015,DALTON STRATEGIC INVESTMENT SERVICES INC. (23485)
+6413,1059214,STEVEN,[],DALTON,,,,,2/8/2008 - 1/26/2004,DALTON STRATEGIC INVESTMENT SERVICES INC. (23485)
+6413,1059214,STEVEN,[],DALTON,,,,,3/29/2007 - 3/30/2015,DALTON STRATEGIC INVESTMENT SERVICES INC. (23485)
+6413,1059214,STEVEN,[],DALTON,,,,,11/12/1999 - 1/5/2010,"JEROME P. GREENE & ASSOCIATES, LLC (46075)"
+6413,1059214,STEVEN,[],DALTON,,,,,11/24/1998 - 12/31/2002,"BTS ASSET MANAGEMENT, INC. (105215)"
+6413,1059214,STEVEN,[],DALTON,,,,,5/15/1991 - 7/12/1993,"BIRK HOLLAND & CO., INC. (24673)"
+6413,1059214,STEVEN,[],DALTON,,,,,8/8/1989 - 3/14/2007,DALTON STRATEGIC INVESTMENT SERVICES INC. (23485)
+6413,1059214,STEVEN,[],DALTON,,,,,9/2/1982 - 5/17/1988,FIRST INVESTORS CORPORATION (305)

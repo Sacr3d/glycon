@@ -1,0 +1,110 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,12/18/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT REPRESENTATIVE INVESTED HIM IN VOLATILE STOCKS AROUND 1998."",
+  ""Damage Amount Requested"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/4/2018 - Current,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,7/26/2007,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED THAT REGISTERED REPRESENTATIVE MISREPRESENTED AN UNSUITABLE CMO DURING A SOLICITATION, WHICH LED TO SUBSEQUENT PURCHASE IN 2004."",
+  ""Damage Amount Requested"" : ""$23,611.50"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/10/2005 - 1/19/2018,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,6/28/2006,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGE THAT REGISTERED REPRESENTATIVE MARK ZIPFEL MISREPRESENTED THE RETURN ON A SECURITY."",
+  ""Damage Amount Requested"" : ""$110,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/27/2005 - 1/19/2018,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,9/6/2005,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES REGISTERED REPRESENTATIVE PROVIDED UNSUITABLE INVESTMENT RECOMMENDATIONS FROM 06/15/1988 THROUGH 07/14/2004."",
+  ""Damage Amount Requested"" : ""$19,465.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/15/2005 - 3/23/2005,"FIFTH THIRD SECURITIES, INC. (628)"
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,6/2/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT THE REGISTERED REPRESENTATIVE GAVE HIM AN UNSUITABLE INVESTMENT ON 01/28/2005"",
+  ""Damage Amount Requested"" : ""$6,000.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""06-01923"",
+  ""arbitrationDocketNumber"" : """"
+}",9/23/1983 - 3/23/2005,"FIFTH THIRD SECURITIES, INC. (628)"
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,3/21/2005,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""FIFTH THIRD SECURITIES"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""VIOLATION OF WRITTEN SUPERVISORY PROCEDURES"",
+  ""Broker Comment"" : ""THESE ARE ALLEGATIONS THAT I VIOLATED MY PREVIOUS FIRM'S WRITTEN CODE OF CONDUCT.  I AM CURRENTLY DISPUTING THE ALLEGATIONS THAT WERE MADE BY FIFTH THIRD SECURITIES.""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,3/21/1997,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGED $60,000.00 INVESTMENT LOSS AND $30,000.00 LOSS OF INTEREST BASED UPON NOT FULLY EXPLAINING THE \""WORKINGS OR RISK OF BRUNNER LIMITED PARTNERSHIP\""."",
+  ""Damage Amount Requested"" : ""$60,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $10,000.  I DID NOT CONTRIBUTE TO THE SETTLEMENT. Not Provided""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,1/7/1993,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISREPRESENTATIONS, CLAIMING $60,000 IN DAMAGES"",
+  ""Damage Amount Requested"" : ""$60,000.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $15,000.00 ""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,2/28/1992,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED UNSUITABILITY AND MISREPRESENTATION."",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""1992-002059"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $50,000.00. Not Provided""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,2/20/1992,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER'S ATTORNEY CLAIMED BRUNNER LIMITED PARTNERSHIP INVESTMENT WAS UNSUITABLE."",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE OHIO COMPANY PAID $75,000.00 IN EXCHANGE FOR THE SECURITY. Not Provided""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,11/1/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS ALLEGED MISREPRESENTATION, CLAIMING $150,000.00 IN DAMAGES."",
+  ""Damage Amount Requested"" : ""$150,000.00"",
+  ""Settlement Amount"" : ""$107,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""1991-001621"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $107,500.00 ""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,10/9/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE SUIT CLAIMED THAT ZIPFEL AND THE OHIO COMPANY VIOLATED CHAP. 1707 ORC REGARDING 10,000 UNITS OF LIMITED PARTNERSHIP INTEREST IN BRUNNER I AND II."",
+  ""Settlement Amount"" : ""$85,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE OHIO COMPANY PAID $85,000.00 IN EXCHANGE FOR THE BRUNNER UNITS. Not Provided""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,7/1/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""UNSUITABLE RECOMMENDATIONS INCLUDING BREACH OF CONTRACT AND FIDUCIARY OBLIGATIONS, 10B-5, 1707.44 OHIO REV. CODE, 292.320 KENTUCKY REV. STATUES, COMMON LAW FRAUD."",
+  ""Settlement Amount"" : ""$42,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CASE DISMISSED PENDING PAYMENT OF $42,000.00 IN SETTLEMENT IN EXECUTING SETTLEMENT AGREEMENT. Not Provided""
+}",,
+6363,1179677,MARK,[Mark  Zipfel],ZIPFEL,7/1/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS ALLEGED UNSUITABLE STOCKS AND LIMITED PARTNERSHIP."",
+  ""Settlement Amount"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $200,000.00 WITH CLIENTS ASSIGNING THEIR INTERESTS IN CERTAIN SECURITIES. Not Provided""
+}",,

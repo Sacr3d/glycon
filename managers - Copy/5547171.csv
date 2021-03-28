@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+151465,5547171,PAUL,[PAUL  ROGERS],ROGERS,3/9/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Florida Office of Financial Regulation"",
+  ""Allegations"" : ""N/A"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Temporary/Time Limited)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities, etc."",
+      ""Duration"" : ""03/09/2019"",
+      ""Duration Explanation"" : ""Paul M. Rogers is barred for two years from affiliating or seeking future registration as a dealer, investment adviser or associated person under the Florida Securities and Investor Protection Act, Chapter 517, F.S."",
+      ""Start Date"" : ""3/9/2017""
+    } ]
+  } ]
+}",11/18/2009 - 1/24/2017,"ALPHA INVESTMENT ADVISORY AND MANAGEMENT, INC. (151465)"
+151465,5547171,PAUL,[PAUL  ROGERS],ROGERS,,,,,10/2/2008 - 8/14/2009,PRUDENTIAL FINANCIAL PLANNING SERVICES (5685)
+151465,5547171,PAUL,[PAUL  ROGERS],ROGERS,,,,,6/25/2008 - 8/14/2009,"PRUCO SECURITIES, LLC. (5685)"

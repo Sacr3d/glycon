@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,5577491,KYLE,"[KYLE BRANDON REYES, KYLE BRANDON STRONG-REYES]",STRONG,2/13/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer Alleges the rep did not fully disclose all the facts regarding charges, expenses and fees."",
+  ""Damage Amount Requested"" : ""$6,906.00"",
+  ""Settlement Amount"" : ""$10,604.09"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Roth IRA at Urban Partnership Bank which was supposed to be a transfer to a Prudential Roth IRA in order to provide tax free income for life. From what I remember of this case there should have been no tax liability for [customer].""
+}",11/23/2015 - 7/12/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5577491,KYLE,"[KYLE BRANDON REYES, KYLE BRANDON STRONG-REYES]",STRONG,12/21/2012,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy""
+}",5/28/2015 - 7/12/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5577491,KYLE,"[KYLE BRANDON REYES, KYLE BRANDON STRONG-REYES]",STRONG,,,,,5/26/2010 - 5/26/2015,"PRUCO SECURITIES, LLC. (5685)"

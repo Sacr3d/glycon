@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+121254,6691254,Ryan,"[Ryan R Gresmer, Ryan  Gresmer]",Gresmer,2/16/2001,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Physical Abuse of Child - As a Party to a Crime"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""1 count of Battery\\n1 count of Battery - Party to a Crime\\n1 count of Disorderly Conduct"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""These charges were a result of a fight that happened at a high school graduation party shortly after I had turned 18 years old. The initial charge was one count of Misdemeanor Battery, since the other party that was involved was 17 at the time of the incident this charge was upgraded briefly to a felony. This felony charge was then settled with 3 misdemeanor charges that I pled no contest. I served probation for three years, and completed a 30 day sentence in jail, paid all court costs and fines, and also completed alcohol treatment per court order. I was discharged after the three years of probation supervision were completed, and this has been finalized since. Attached are supporting court documents.""
+}",3/24/2020 - 12/3/2020,NFP RETIREMENT INC. (121254)
+121254,6691254,Ryan,"[Ryan R Gresmer, Ryan  Gresmer]",Gresmer,,,,,3/5/2019 - 4/8/2020,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+121254,6691254,Ryan,"[Ryan R Gresmer, Ryan  Gresmer]",Gresmer,,,,,1/2/2019 - 4/8/2020,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+121254,6691254,Ryan,"[Ryan R Gresmer, Ryan  Gresmer]",Gresmer,,,,,5/22/2017 - 9/11/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"

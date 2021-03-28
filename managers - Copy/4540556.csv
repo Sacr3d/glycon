@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,4540556,CHRIS,[],BLIEMEISTER,4/20/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Transfer of an account, customer believes RR did not discuss tax consequences or provide all the necessary info."",
+  ""Damage Amount Requested"" : ""$8,377.07"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""On Thursday January 26th, 2017 I met with {Redacted} regarding his desire to move his non-tax qualified Variable Annuity to a Non-tax qualified Mutual Fund.  I had discussions with {Redacted} in my office on speaker phone with State Farm Mutual Funds in regards to the paper work needed for this transaction to take place.  I also placed a call with {Redacted} in the office to Waddell and Reed the custodian of the annuity which was with Nationwide regarding any potential consequences involving surrender charges or fees, loss of death benefit, and any other loss of benefits this transaction would create.  Never was moving into a Variable annuity with State Farm part of the discussion, nor was any sort of 1035 exchange part of the discussion.  As a matter of fact State Farm did not even offer a Variable Annuity at that time. {Redacted} wanted to move to a mutual fund which is why all the discussions were with our Mutual Fund support folks and the application was sent to State Farm Mutual Funds.  The transaction was done at NAV due to {Redacted} status as an employee of State Farm and that being a benefit.  I am not a tax advisor.""
+}",1/8/2019 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,4540556,CHRIS,[],BLIEMEISTER,,,,,6/17/2002 - Current,STATE FARM VP MANAGEMENT CORP. (43036)

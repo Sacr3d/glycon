@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108604,3151366,SIMON,[],MUNDLAK,7/26/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""In effort to recover market losses, claimant now alleges that the broker made unsuitable investment recommendations and engaged in unsuitable equities trading strategy in 2015."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Claimant's allegations are entirely devoid of merit and this matter will be vigorously defended.""
+}",10/20/2008 - 10/26/2016,LADENBURG THALMANN ASSET MANAGEMENT INC (108604)
+108604,3151366,SIMON,[],MUNDLAK,1/30/2007,Customer Dispute,Settled,"{
+  ""Allegations"" : ""VIA AN ATTORNEY, CLENT ALLEGES \""UNSUITABLE\"" INVESTMENTS STARTING IN 1999.  ALLEGED DAMAGES OF $807,811.95"",
+  ""Damage Amount Requested"" : ""$807,811.95"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""07-00179""
+}",8/19/2008 - 10/26/2016,LADENBURG THALMANN & CO. INC. (505)
+108604,3151366,SIMON,[],MUNDLAK,,,,,5/26/2006 - 8/16/2007,"PRESAGE ADVISORS, LLC (131177)"
+108604,3151366,SIMON,[],MUNDLAK,,,,,2/26/2003 - 8/15/2008,"THE CONCORD EQUITY GROUP, LLC (14569)"
+108604,3151366,SIMON,[],MUNDLAK,,,,,1/7/1999 - 1/29/2003,PRUDENTIAL SECURITIES INCORPORATED (7471)
+108604,3151366,SIMON,[],MUNDLAK,,,,,1/1/1999 - 1/29/2003,PRUDENTIAL SECURITIES INCORPORATED (7471)

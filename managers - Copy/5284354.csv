@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8174,5284354,STEFAN,[STEFAN DANIEL GERTSCH],GERTSCH,8/25/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Time Frame:    December 2014 - July 2016 The client's attorney alleges that investments in certain equities were not in line with the clients' stated investment objectives and were unsuitable for someone his age."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Client claims are without merit. The investments were discussed with and approved by the client.""
+}",1/18/2012 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,5284354,STEFAN,[STEFAN DANIEL GERTSCH],GERTSCH,,,,,10/5/2009 - 1/19/2012,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+8174,5284354,STEFAN,[STEFAN DANIEL GERTSCH],GERTSCH,,,,,3/2/2007 - 5/29/2009,"CHICKASAW CAPITAL MANAGEMENT, LLC (127398)"
+8174,5284354,STEFAN,[STEFAN DANIEL GERTSCH],GERTSCH,,,,,2/21/2007 - 5/29/2009,"CHICKASAW SECURITIES, LLC (128711)"

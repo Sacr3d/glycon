@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+133763,1159428,MARVIN,[],FISHER,12/5/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$64,729.11"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",1/7/2009 - Current,"SAGEPOINT FINANCIAL, INC. (133763)"
+133763,1159428,MARVIN,[],FISHER,10/18/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that Guaranteed Minimum Income Benefit rider on variable annuity purchased in 2006 was misrepresented."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/31/2005 - Current,"SAGEPOINT FINANCIAL, INC. (133763)"
+133763,1159428,MARVIN,[],FISHER,7/6/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$107,674.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",11/14/1989 - 10/31/2005,"SUNAMERICA SECURITIES, INC. (20068)"
+133763,1159428,MARVIN,[],FISHER,10/26/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,262.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/18/1988 - 10/31/1989,INTEGRATED RESOURCES EQUITY CORPORATION (6403)
+133763,1159428,MARVIN,[],FISHER,12/5/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,605.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""TAXES WERE NOT PAID DUE TO SEPERATION SINCE RECONCILED""
+}",12/11/1984 - 9/17/1988,"SOUTHMARK FINANCIAL SERVICES, INC. (6518)"
+133763,1159428,MARVIN,[],FISHER,10/21/2004,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$66,814.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""UNABLE TO PAY TAXES DUE TO SEPERATION.""
+}",7/26/1983 - 12/6/1984,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+133763,1159428,MARVIN,[],FISHER,5/1/1982,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MERRILL LYNCH, PIERCE FENNER & SMITH"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""NONE. COMPLAINT WAS THAT I HAD GIVEN THEM ERRONEOUS COMMODITY PRICE REPORTS IN REFERENCE TO THEIR POSITIONS IN COMMODITY MARKETS."",
+  ""Broker Comment"" : ""NO FORMAL COMPLAINT OR LEGAL PROCEEDINGS; NO SETTLEMENT THAT I AM AWARE OF. ""
+}",,

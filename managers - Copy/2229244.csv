@@ -1,0 +1,86 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,9/9/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018060502601"",
+  ""DocketNumberAAO"" : ""2018060502601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Howley consented to the sanction and to the entry of findings that he refused to appear and provide an on-the-record testimony requested by FINRA. The findings stated that FINRA requested the on-the-record testimony in connection with its investigation into allegations reported by Howley's member firm in a Form U5 that he failed to disclose private securities transactions to the firm and referred clients to outside investments."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""9/9/2019""
+    } ]
+  } ]
+}",5/3/1999 - 11/13/2018,PARK AVENUE SECURITIES LLC (46173)
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,5/22/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Customer alleges a $250,000 loss of her investment in Global Credit Recovery, an alleged fraudulent investment scheme, recommended by the RR. The customer is also seeking reimbursement of premiums for one of her whole life insurance policies sold to her by the RR because she can no longer afford the policy after the investment loss."",
+  ""Damage Amount Requested"" : ""$351,000.00"",
+  ""Settlement Amount"" : ""$236,458.33"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/24/1995 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,3/26/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiff's allege a $1 million loss of their investment in Global Credit Recovery, an alleged fraudulent investment scheme, recommended by the RR."",
+  ""Damage Amount Requested"" : ""$1,000,000.00"",
+  ""Settlement Amount"" : ""$880,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,3/8/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges he lost all of his retirement savings as a result of the RR's recommendation to invest in a private equity venture, Global Credit Recovery, an alleged fraudulent investment scheme."",
+  ""Damage Amount Requested"" : ""$288,284.00"",
+  ""Settlement Amount"" : ""$288,284.30"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,1/11/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Customer alleges a $500,000 loss of their investment in Global Credit Recovery, an alleged fraudulent investment scheme, recommended by the RR as a way to afford a fixed life insurance policy sold to the customer. The Customer also claims the sale by the RR of the fixed life insurance policy was excessive and requested a $150,000 refund of their policy premiums."",
+  ""Damage Amount Requested"" : ""$650,000.00"",
+  ""Settlement Amount"" : ""$708,488.40"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,12/20/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Customer alleged a $1,100,000 loss of his investment in Global Credit Recovery, an alleged fraudulent investment scheme recommended by the RR."",
+  ""Damage Amount Requested"" : ""$1,100,000.00"",
+  ""Settlement Amount"" : ""$1,032,668.47"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,11/28/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Customers allege a $1 million loss of their investment in Global Credit Recovery, an alleged fraudulent investment scheme, recommended by the RR.  The Customers requested a refund of their whole life insurance policy premiums sold to them by the RR due to the fact they can no longer afford the policies after the investment loss."",
+  ""Damage Amount Requested"" : ""$139,812.00"",
+  ""Settlement Amount"" : ""$975,240.91"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,11/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges the RR violated his suitability obligation and was negligent in recommending a $2 million aggregate investment in a private equity venture, Global Credit Recovery, an alleged fraudulent investment scheme."",
+  ""Damage Amount Requested"" : ""$2,500,000.00"",
+  ""Settlement Amount"" : ""$1,952,237.73"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-03968""
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,10/30/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Park Avenue Securities"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Violated Firm's rules by (i) failing to disclose private securities transactions and (ii) referring of clients to outside investments (i.e. not offered by Firm).""
+}",,
+46173,2229244,JOHN,[JACK C HOWLEY],HOWLEY,1/6/2006,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANTS ALLEGE BREACH OF FIDUCIARY DUTY, NEGLIGENCE, SUITABILITY AND OTHER VIOLATIONS OF SECURITIES LAWS IN CONNECTION WITH CLAIMANTS' BROKERAGE ACCOUNTS AND WHOLE LIFE INSURANCE POLICIES.  CLAIMANTS ALLEGE DAMAGES OF APPROXIMATELY $980,000."",
+  ""Damage Amount Requested"" : ""$980,000.00"",
+  ""Settlement Amount"" : ""$155,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""05-6641"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""FOR BUSINESS REASONS, THE PARTIES SETTLED THE MATTER FOR $155,000. MR. HOWLEY DID NOT CONTRIBUTE TO THE SETTLEMENT.""
+}",,

@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,9/10/2018,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""Alleged failure to take the 72(t) distributions in 2016."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Damages Granted"" : ""$35,631.76"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-03137""
+}",5/18/2009 - Current,NOVA FINANCIAL SERVICES (150148)
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,11/8/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Statement of Claim alleges that Mr. Kagele in his capacity as an investment adviser representative breached his fiduciary duties, engaged in unsuitable investment strategy based on the Claimants risk tolerance and investment objectives, mismanaged the account, and made negligent misrepresentations and misleading statements."",
+  ""Damage Amount Requested"" : ""$56,400.00"",
+  ""Settlement Amount"" : ""$57,825.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02857""
+}",7/1/2013 - 5/1/2017,"MUTUAL ADVISORS, LLC (167658)"
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,8/5/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Statement of Claim alleges that Mr. Kagele in his capacity as an investment adviser representative and managing partner of NOVA Financial, LLC breached his fiduciary duty, engaged in an unsuitable investment strategy based on the Complainants' risk tolerance and investment objectives, mismanaged the account, and made negligent misrepresentations and misleading statements. The period in which the alleged activities took place was between 2012 to 2016."",
+  ""Damage Amount Requested"" : ""$4,360,047.00"",
+  ""Settlement Amount"" : ""$1,250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-02136"",
+  ""Broker Comment"" : ""The allegations made in the claim were without merit and, in fact, false. The customer was a sophisticated high net worth entrepreneur knowledgeable about investments. After Mr. Kagele had managed the customer's investments for an extended period of time, the customer desired more control over his investments and started placing direct trades in an established account against the advice of Mr. Kagele. A reduced settlement amount was reached to mitigate ongoing legal expenses. Claimants have withdrawn claims against Respondent Mr. Kagele with prejudice in this matter.""
+}",5/26/2009 - 7/19/2013,"MUTUAL SECURITIES, INC. (13092)"
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,,,,,5/15/2009 - 11/7/2017,"MUTUAL SECURITIES, INC. (13092)"
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,,,,,9/8/2005 - 5/19/2009,"WELLS FARGO ADVISORS FINANCIAL NETWORK, LLC (11025)"
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,,,,,8/19/2005 - 5/19/2009,"WELLS FARGO ADVISORS FINANCIAL NETWORK, LLC (11025)"
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,,,,,2/18/2003 - 8/24/2005,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+150148,4606475,JACOB,"[JACOB RAY KAGELE MR., JACOB   KAGELE, KAGELE JACOB RAY MR.]",KAGELE,,,,,1/30/2003 - 8/24/2005,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

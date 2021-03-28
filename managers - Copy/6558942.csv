@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6558942,MARK,"[MARK  CHINODA, Mark Charles Chinoda]",CHINODA,10/18/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""VALIC FINANCIAL ADVISORS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Representative terminated for violations of firm Code of Conduct related to representative's description of his relationship with retirement plan sponsor that was potentially misleading to plan participants.""
+}",5/8/2018 - 11/20/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6558942,MARK,"[MARK  CHINODA, Mark Charles Chinoda]",CHINODA,,,,,10/23/2017 - 11/20/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6558942,MARK,"[MARK  CHINODA, Mark Charles Chinoda]",CHINODA,,,,,5/18/2016 - 10/6/2017,"AXA ADVISORS, LLC (6627)"

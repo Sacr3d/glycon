@@ -1,0 +1,28 @@
+ID,FIRSTNAME,OTHERNAMES,SECONDNAME,DISCLOSUREDATE,DISCLOSURETYPE,DISCLOSURERESULT,DISCLOSUREINFO,FINRAEMPLOYMENTDATES,FINRAEMPLOYMENT
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,1/29/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""15-01047"",
+  ""DocketNumberAAO"" : ""15-01047"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Wasserman failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""1/29/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Wasserman is suspended on January 29, 2016 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",9/2/2010 - 3/12/2015,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,6/1/2009 - 9/14/2010,MORGAN STANLEY SMITH BARNEY (149777)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,4/2/2007 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,2/1/2002 - 4/2/2007,MORGAN STANLEY DW INC. (7556)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,10/15/1990 - 12/18/1990,FIRST EQUITY CORPORATION OF FLORIDA (9)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,11/30/1987 - 11/26/1988,"EQUITIES INTERNATIONAL SECURITIES, INC. (8663)"
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,4/26/1985 - 6/11/1986,PAINEWEBBER INCORPORATED (8174)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,7/25/1983 - 4/3/1985,SHEARSON LEHMAN BROTHERS INC. (7506)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,3/24/1983 - 7/23/1983,E. F. HUTTON & COMPANY INC (235)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,7/1/1980 - 12/16/1982,IDS LIFE INSURANCE COMPANY (6321)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,7/1/1980 - 12/16/1982,IDS MARKETING CORPORATION (6363)
+711421,HENRY,[HENRY EDWARD WASSERMAN],WASSERMAN,,,,,7/1/1980 - 12/16/1982,"INVESTORS DIVERSIFIED SERVICES, INC. (6320)"

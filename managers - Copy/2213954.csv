@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2882,2213954,DAVID,[DAVE  RICHARDS],RICHARDS,3/4/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Florida Office of Financial Regulation"",
+  ""Allegations"" : ""N/A"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""David L. Richards agrees that he will not engage in the following activities without the benefit of lawful registration:  - Engage as a dealer, associated person or issuer in the   offer or sale of any security -Act as an affiliate of any dealer or issuer offering or selling any securities -Provide services as an investment advisor -Act as an affiliate of any person who provides investment advisory services -Submit an application or notification for a license or registration with the Office  -Engage in any activity that would require disclosure of the Respondent's name, status, or function in any application for registration""
+}",9/5/2013 - 1/9/2014,"ING FINANCIAL PARTNERS, INC. (2882)"
+2882,2213954,DAVID,[DAVE  RICHARDS],RICHARDS,1/9/2014,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""ING FINANCIAL PARTNERS"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""REPRESENTATIVE SIGNED A CUSTOMER'S NAME TO A SALARY DEFERRAL FORM WITHOUT THE CUSTOMER'S CONSENT.""
+}",6/1/1992 - 9/12/2000,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"

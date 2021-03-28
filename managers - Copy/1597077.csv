@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+29767,1597077,SCOTT,[],VANDERWERP,7/18/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Michigan"",
+  ""Allegations"" : ""The Administrator intends to DENY the SECURITIES AGENT REGISTRATION APPLICATION OF SCOTT A. VANDERWERP, under section 412(1) of the Act, MCL 451.2412(1), because Applicant's liabilities exceed his assets and the Administrator has made a finding of insolvency as to Applicant, which supports the denial of his registration application under the above-cited provisions of the Michigan Uniform Securities Act (2002), 2008 PA 551, MCL 451.2101 et seq."",
+  ""Resolution"" : ""Stipulation and Order for Withdrawal of Securities Agent Registration Application"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Stipulation and Order for Withdrawal of Securities Agent Registration Application""
+}",1/31/2020 - 11/3/2020,"MELVIN SECURITIES, L.L.C. (29767)"
+29767,1597077,SCOTT,[],VANDERWERP,2/19/1988,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ALLEGED CLAIM TO DEFAULT FROM LEASE AGREEMENT WHICH I WAS NOT A PART OF, ONLY AS AGENT FOR COMPANY."",
+  ""Damage Amount Requested"" : ""$10,000.00"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLEMENT IN FULL RATHER THAN INCUR LEGAL COSTS. ANY QUESTIONS CONTACT PLANTIFF ATTORNEY. MIKE MILANOWSKI 616-538-6380 Not Provided""
+}",9/15/2015 - 12/6/2019,"THE OAK RIDGE FINANCIAL SERVICES GROUP, INC. (42941)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,11/3/2014 - 9/14/2015,DOUGHERTY & COMPANY LLC (7477)
+29767,1597077,SCOTT,[],VANDERWERP,,,,,10/1/2002 - 11/4/2014,ADCAP SECURITIES LLC (46001)
+29767,1597077,SCOTT,[],VANDERWERP,,,,,3/13/2002 - 9/25/2002,"KENT KING SECURITIES CO., INC. (2424)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,4/26/1994 - 6/1/1999,"KENT KING SECURITIES CO., INC. (2424)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,11/9/1992 - 4/8/1994,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,1/2/1990 - 11/3/1992,"RAFFENSPERGER, HUGHES & CO., INC. (699)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,7/11/1989 - 11/27/1989,"KENT KING SECURITIES CO., INC. (2424)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,10/7/1988 - 7/12/1989,"ANDERSON & BYLSMA, INC. (7984)"
+29767,1597077,SCOTT,[],VANDERWERP,,,,,12/3/1987 - 9/21/1988,PRUDENTIAL-BACHE SECURITIES INC. (7471)
+29767,1597077,SCOTT,[],VANDERWERP,,,,,4/27/1987 - 11/17/1987,B.C. CHRISTOPHER SECURITIES CO. (60)

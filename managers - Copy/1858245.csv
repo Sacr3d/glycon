@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+293630,1858245,RANDALL,[],SKRABONJA,10/10/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGED THE FORMER ADVISOR'S ADVICE TO PURCHASE THE VARIABLE ANNUITIES IN APRIL 2015 AND ADDITIONAL SECURITIES PURCHASED THROUGHOUT 2015 WERE NOT SUITABLE. NO SPECIFIC COMPENSATORY DAMAGES WERE ALLEGED."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Apparently a former client of mine, alleged that the variable annuities which purchased in April 2015 and additional securities purchased throughout 2015 were not suitable. Furthermore, no specific compensatory damages were alleged. As you may very well know, I left MetLife in July of 2015 and was prohibited from taking my client files, so I am working strictly on memory here. She was always a good client and we had a decent working relationship, but I had recently brought in a coworker to act as a money manager for the portfolio since I was transitioning my business on life insurance production.  So whatever complaints she may have are probably directed towards my coworker.  All of the annuity, mutual fund and BDC business was absolutely appropriate for her and MetLife compliance approved the business as such.""
+}",10/3/2019 - Current,"GREEN VISTA CAPITAL, LLC (293630)"
+293630,1858245,RANDALL,[],SKRABONJA,7/8/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""metlife"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""metlife accused me \""outside business investment\"" based upon the accusation of my terminated personal assistant. FINRA investigated the incident and discovered that the allegations were without merit and dismissed the investigation with no action taken."",
+  ""Broker Comment"" : ""metlife terminated me for \""outside business activity\"" as a result of a false accusation made by a disgruntled employee who had been terminated by me. She mad the assertion that I had recommended she purchase $1,000 of Iraqi Dinars. FINRA investigated the matter and found that the charges were without merit and closed the case with no action taken on their part.""
+}",7/7/2016 - 10/4/2019,"SAGEPOINT FINANCIAL, INC. (133763)"
+293630,1858245,RANDALL,[],SKRABONJA,5/28/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THE ADVISOR MISREPRESENTED THE FEATURES OF A VARIABLE ANNUITY PURCHASED IN OCTOBER 2013. CUSTOMER HAS ALLEGED DAMAGES AS NOTED BELOW."",
+  ""Damage Amount Requested"" : ""$14,221.10"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I tell all of my clients that annuities are long term investments; especially IRAs with guaranteed lifetime income streams. Mrs. Cutrer said that I never informed her of the fact that this is a product designed to pay her a predictable and sustainable income throughout her retirement. Furthermore, she had sufficient dollars invested in other conservative no load mutual funds which she could access for liquidty concerns. Both AXA Equitable and MetLife investigated her claims and summarily declined her request""
+}",5/3/2016 - 10/4/2019,"SAGEPOINT FINANCIAL, INC. (133763)"
+293630,1858245,RANDALL,[],SKRABONJA,,,,,9/18/2007 - 8/4/2015,METLIFE SECURITIES INC. (14251)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,6/20/2003 - 8/4/2015,METLIFE SECURITIES INC. (14251)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,6/20/2003 - 7/9/2007,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,10/30/2002 - 4/4/2003,"HIGH MARK SECURITIES, INC. (42467)"
+293630,1858245,RANDALL,[],SKRABONJA,,,,,5/1/2001 - 10/18/2002,PMG SECURITIES CORPORATION (27107)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,8/10/2000 - 4/30/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,11/6/1998 - 4/30/2001,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (42803)"
+293630,1858245,RANDALL,[],SKRABONJA,,,,,1/4/1997 - 3/8/2000,PUBLIC EMPLOYEES EQUITIES SERVICES COMPANY (7315)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,8/20/1992 - 12/31/1996,FIRST MONTAUK SECURITIES CORP. (13755)
+293630,1858245,RANDALL,[],SKRABONJA,,,,,3/30/1992 - 8/10/1992,"CADARET, GRANT & CO., INC. (10641)"
+293630,1858245,RANDALL,[],SKRABONJA,,,,,3/14/1991 - 4/1/1992,"TRAVELERS EQUITIES SALES, INC. (833)"
+293630,1858245,RANDALL,[],SKRABONJA,,,,,10/19/1988 - 3/14/1991,THE RANDALL-GEORGE CORPORATION (18118)

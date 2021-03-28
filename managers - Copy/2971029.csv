@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,1/19/2021,Customer Dispute,Pending,"{
+  ""Allegations"" : ""IN A TEXT MESSAGE TO THE REPRESENTATIVE, ALLEGED THAT THE REPRESENTATIVE WAS LOOKING OUT FOR HIMSELF WHEN HE \""LOCKED\"" HER INTO AN ANNUITY THAT IS NOT PRODUCING THE RETURN THAT ANOTHER INVESTMENT MAY HAVE."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/5/2019 - Current,LPL FINANCIAL LLC (6413)
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,2/7/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Florida Office of Financial Regulation"",
+  ""Allegations"" : ""Conducted investment advisory business from offices within this state without the benefit of lawful registration."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$44,400.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""I began working with SWBC Investment Services in January 2012.  At that time SWBC failed to register me as an RIA with the State of FL. SWBC, being a TX company, believed I only needed to be registered in TX.  Once discovered that the State of Florida required a separate RIA registration, one was applied for and approved by the State of Florida.""
+}",12/4/2019 - Current,LPL FINANCIAL LLC (6413)
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,5/7/2013 - 12/4/2019,SWBC INVESTMENT COMPANY (140994)
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,1/9/2012 - 12/4/2019,"SWBC INVESTMENT SERVICES, LLC (133715)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,6/25/2010 - 1/3/2012,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,3/12/2010 - 1/3/2012,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,3/19/2008 - 1/29/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,6/22/2000 - 8/15/2002,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,2/22/1999 - 6/29/2000,"FIRST UNION BROKERAGE SERVICES, INC. (8112)"
+6413,2971029,DAVID,[DAVID MICHAEL RICE],RICE,,,,,11/17/1997 - 2/8/1999,"SIGNATOR INVESTORS, INC. (468)"

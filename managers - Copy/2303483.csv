@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,2303483,THOMAS,[],CHANDLER,9/3/2014,Civil,Final,"{
+  ""Initiated By"" : ""Hanson McClain, Inc., dba Hanson McClain Advisors"",
+  ""Allegations"" : ""Alleged intentional interference with contractual relations, breach of contract, breach of fiduciary duty, intentional interference with economic relations, negligent interference with economic relations, conversion, unfair business practices, misappropriation of trade secrets, violation of Penal Code 502, unjust enrichment."",
+  ""Resolution"" : ""Judgment Rendered"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Injunction""
+  } ],
+  ""Sanctions"" : ""All respondents were found joint and severally liable for damages in the amount of $1,500,000."",
+  ""Broker Comment"" : ""This dispute did not involve a claim by a client.  This is a recruiting/breach of contract case between two firms, in which the recruiting leader and the recruited advisor were named. The firm paid the judgment in full.""
+}",8/29/2014 - Current,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,2303483,THOMAS,[],CHANDLER,,,,,8/10/2011 - 6/28/2012,"HANSON MCCLAIN STRATEGIC ADVISORS, INC. (158395)"
+6363,2303483,THOMAS,[],CHANDLER,,,,,1/2/2008 - 9/9/2014,HANSON MCCLAIN SECURITIES (103747)
+6363,2303483,THOMAS,[],CHANDLER,,,,,2/13/2001 - 9/9/2014,HANSON MCCLAIN ADVISORS (111167)
+6363,2303483,THOMAS,[],CHANDLER,,,,,9/16/1999 - 12/31/2007,"SECURITIES AMERICA, INC. (10205)"
+6363,2303483,THOMAS,[],CHANDLER,,,,,10/12/1998 - 9/15/1999,PAINEWEBBER INCORPORATED (8174)
+6363,2303483,THOMAS,[],CHANDLER,,,,,10/22/1993 - 10/21/1998,OLDE DISCOUNT CORPORATION (5979)
+6363,2303483,THOMAS,[],CHANDLER,,,,,3/8/1993 - 10/21/1993,"GORE-HORVATH, INC. (6809)"

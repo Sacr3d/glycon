@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,5981447,BARRY,[],BLACKWELL,11/18/2013,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""T. ROWE PRICE"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""INDIVIDUAL VIOLATED FIRM POLICY AND PERFORMED TRANSACTIONS IN A STATE WHERE HE WAS NOT REGISTERED.""
+}",5/20/2013 - 11/27/2013,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,5981447,BARRY,[],BLACKWELL,9/7/2010,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ASSAULT ON LAW ENFORCEMENT/DOC PERSON"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""AMENDED TO MISDEMEANOR ASSAULT- 18.2-57"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ]
+}",9/26/2012 - 11/27/2013,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

@@ -1,0 +1,39 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7784,2433974,JON,[],STAGNONE,12/28/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053313001"",
+  ""DocketNumberAAO"" : ""2017053313001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Stagnone consented to the sanctions and to the entry of findings that he engaged in securities activities at his member firm that required registration, despite not being registered with FINRA. The findings stated that Stagnone's activities included meetings with current and prospective customers of the firm and the provision of investment advice and securities recommendations."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""1/2/2018"",
+      ""End Date"" : ""3/1/2018""
+    } ]
+  } ]
+}",6/13/2007 - 4/7/2011,FIDELITY BROKERAGE SERVICES LLC (7784)
+7784,2433974,JON,[],STAGNONE,5/17/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053312801"",
+  ""DocketNumberAAO"" : ""2017053312801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Stagnone failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""6/12/2017"",
+      ""End Date"" : ""7/12/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated May 17, 2017, Stagnone is suspended on June 12, 2017 from associating with any FINRA member firm in all capacities. If Stagnone fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on August 21, 2017 from association with any FINRA member in all capacities pursuant to FINRA Rule 9552(h).  Suspension lifted on July 12, 2017.""
+}",1/1/1994 - 8/6/1997,"STATE STREET RESEARCH INVESTMENT SERVICES, INC. (17580)"

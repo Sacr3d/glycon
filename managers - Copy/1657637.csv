@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+16348,1657637,THOMAS,[],CLEM,4/17/1996,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C8A960022"",
+  ""DocketNumberAAO"" : ""8960022"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$47,100.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",2/13/1996 - 3/4/1997,EAST - WEST CAPITAL CORPORATION (16348)
+16348,1657637,THOMAS,[],CLEM,,,,,7/24/1990 - 9/1/1995,"MARINER FINANCIAL SERVICES, INC. (8292)"
+16348,1657637,THOMAS,[],CLEM,,,,,6/5/1989 - 7/31/1990,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+16348,1657637,THOMAS,[],CLEM,,,,,5/1/1987 - 6/17/1989,"AMEV INVESTORS, INC. (421)"

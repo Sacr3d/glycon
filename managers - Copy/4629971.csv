@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,8/10/2017,Regulatory,Pending,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Washington"",
+  ""Allegations"" : ""S-16-2029-17-SC01 On August 10, 2017, the Securities Division issued a Statement of Charges and Notice of Intent to Enter Order to Cease and Desist, to Suspend Registration, to Deny Registration, to Impose Fines, and to Charge Costs (Statement of Charges) against Gary Meier and Aaron O'Neal.    The Statement of Charges alleges that Gary Meier and Aaron O'Neal, as registered broker-dealer representatives and investment adviser representatives, effected securities transactions outside of and without the knowledge of the firms they represented and failed to document this work in their respective regulatory filings.   The Statement of Charges further alleges that Gary Meier failed to disclose a conflict of interest in these private securities sales and that and Aaron O'Neal actively concealed these private securities sales from the Securities Division.  The Securities Division intends to order Gary Meier and Aaron O'Neal to cease and desist from violating the Securities Act of Washington, to suspend Gary Meier's registration as an investment adviser representative, to deny Aaron O'Neal's future securities registrations, and to assess Gary Meier and Aaron O'Neal fines and costs.   Gary Meier and Aaron O'Neal each have a right to request a hearing on the Statement of Charges."",
+  ""SanctionDetails"" : [ ]
+}",3/29/2017 - 7/12/2017,"PRINCIPAL SECURITIES, INC. (1137)"
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,1/30/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bancorp Investments, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Employee was discharged after firm developed facts that provided a reasonable basis to believe that rep wrote client's initials on a term life insurance document."",
+  ""Broker Comment"" : ""Initialed form was a US Bank internal form the client had already signed. The policy had already been delivered and inforce. The form was not required for the issue or delivery of the policy by the carrier. I did not complete the original application nor was I compensated for the policy.""
+}",2/10/2017 - 7/12/2017,"PRINCIPAL SECURITIES, INC. (1137)"
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,4/1/2011,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure""
+}",1/2/2014 - 2/28/2017,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,,,,,12/23/2013 - 2/28/2017,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,,,,,3/5/2009 - 12/13/2013,METLIFE SECURITIES INC. (14251)
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,,,,,12/22/2008 - 12/13/2013,METLIFE SECURITIES INC. (14251)
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,,,,,9/21/2004 - 4/3/2007,"WM FINANCIAL SERVICES, INC. (599)"
+1137,4629971,AARON,[AARON DAVID O'NEAL],ONEAL,,,,,4/22/2003 - 11/5/2003,CUE (21033)

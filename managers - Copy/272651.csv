@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,272651,MILTON,[],KNOWLTON,7/3/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The complainant alleges that the variable life insurance policy that he purchased in 2000 was misrepresented."",
+  ""Damage Amount Requested"" : ""$137,081.69"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Internal case #201729051.""
+}",1/6/2004 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,272651,MILTON,[],KNOWLTON,,,,,10/28/1982 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,272651,MILTON,[],KNOWLTON,,,,,12/24/1980 - 5/18/1983,DECELL SECURITIES CORPORATION (8324)
+10409,272651,MILTON,[],KNOWLTON,,,,,12/18/1969 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

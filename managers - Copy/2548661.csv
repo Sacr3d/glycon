@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8174,2548661,HELEN,[],VOLLMER,8/6/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Time Frame: January 25, 2013 to August 6, 2018 The client alleges the Margin Loan was issued without her consent."",
+  ""Damage Amount Requested"" : ""$622,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I deny the Client's allegations as they are false and factually inaccurate.  As background, the client previously held a margin loan at Morgan Stanley,  which she transferred to UBS concurrent with the transfer of her investment account.  The client applied for a UBS Line of Credit (she claimed she did not authorize) and signed a Credit Line Agreement and a Statement of Purpose for an Extension of Credit Secured by Margin Stock in  February 2013.  Further, by Power of Attorney dated in March 2013, the Client authorized her Husband to request drawdowns under the Line of Credit and to transfer loan proceeds to an account in the Client's name at another financial institution.  I emailed the Client and her Husband (both before and after the transfer) to let them know the outstanding loan balance and the fact that I had been able to secure a more favorable borrowing rate  at UBS than had been available at Morgan Stanley. The loan disbursements that created the margin \""issues\"" discussed in the complaint were all requested by the Client's Husband, and all proceeds were wired to an account in the Client's name at another financial institution.  Considering the fact that the Client would have received loan and account statements from Morgan Stanley and UBS, as well as statements from her Bank for more than five years, the client would have been made aware of the loan and all activities associated.  For all of the reasons cited above, I believe the client's allegations are false, factually inaccurate and without merit.  Finally, UBS investigated the Client's allegations and the client complaint was denied by letter dated August 22, 2018.""
+}",12/3/2012 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,2548661,HELEN,[],VOLLMER,,,,,11/30/2012 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,2548661,HELEN,[],VOLLMER,,,,,6/1/2009 - 12/11/2012,MORGAN STANLEY (149777)
+8174,2548661,HELEN,[],VOLLMER,,,,,8/7/2007 - 6/1/2009,CITIGROUP GLOBAL MARKETS INC. (7059)
+8174,2548661,HELEN,[],VOLLMER,,,,,1/17/2003 - 9/4/2007,CREDIT SUISSE SECURITIES (USA) LLC (816)
+8174,2548661,HELEN,[],VOLLMER,,,,,7/30/2002 - 1/17/2003,DONALDSON LUFKIN & JENRETTE SECURITIES CORPORATION (7560)
+8174,2548661,HELEN,[],VOLLMER,,,,,12/20/2000 - 9/4/2007,CREDIT SUISSE SECURITIES (USA) LLC (816)
+8174,2548661,HELEN,[],VOLLMER,,,,,10/9/1998 - 1/17/2003,"DONALDSON, LUFKIN & JENRETTE SECURITIES CORPORATION (7560)"
+8174,2548661,HELEN,[],VOLLMER,,,,,7/2/1996 - 6/29/1999,ING BARING FURMAN SELZ LLC (6540)
+8174,2548661,HELEN,[],VOLLMER,,,,,10/12/1994 - 4/16/1996,CITICORP INVESTMENT SERVICES (23988)

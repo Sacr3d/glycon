@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+106629,6448982,MICHAEL,[],OUANES,3/7/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Putnam Retail Management"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Putnam Retail Management alleged that Michael Ouanes manipulated call statistics.""
+}",6/1/2016 - 3/27/2017,"PUTNAM INVESTMENT MANAGEMENT, LLC (106629)"
+106629,6448982,MICHAEL,[],OUANES,,,,,3/20/2015 - 3/27/2017,PUTNAM RETAIL MANAGEMENT LIMITED PARTNERSHIP (7325)

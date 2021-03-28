@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+297287,4015218,MICHAEL,[],CARLSON,5/22/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""Re-used third-party administrator's signature to process distribution requests for customers."",
+  ""Broker Comment"" : ""On 4/30 LPL confirmed that 5/22 my brokerage registration would voluntarily terminate with LPL due to IFP starting its own Broker Dealer; not because of an internal review. The one page file questioned after my complete branch office audit was approved 12/14/18; my client provided each page of the form as a separate file.""
+}",5/22/2019 - 10/4/2019,"IFP SECURITIES, LLC (297287)"
+297287,4015218,MICHAEL,[],CARLSON,,,,,8/1/2012 - 12/20/2019,INDEPENDENT FINANCIAL PARTNERS (125112)
+297287,4015218,MICHAEL,[],CARLSON,,,,,7/20/2012 - 5/23/2019,LPL FINANCIAL LLC (6413)
+297287,4015218,MICHAEL,[],CARLSON,,,,,10/1/2002 - 7/26/2012,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+297287,4015218,MICHAEL,[],CARLSON,,,,,4/2/2002 - 7/26/2012,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+297287,4015218,MICHAEL,[],CARLSON,,,,,10/8/1999 - 4/11/2002,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

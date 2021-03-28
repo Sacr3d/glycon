@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,2620880,WILLIAM,[BILL  WOBBE],WOBBE,9/10/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Former client alleges unauthorized trading, unsuitable investments, failure to comply with SEC Section 15(h), violation of the Kentucky Securities Act, negligence and negligent supervision, and violation of KRS 292.480."",
+  ""Damage Amount Requested"" : ""$87,628.56"",
+  ""Settlement Amount"" : ""$94,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-02972""
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,2620880,WILLIAM,[BILL  WOBBE],WOBBE,3/2/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege unauthorized trading and violation of suitability rules with regard to certain securities from 2014-2016."",
+  ""Damage Amount Requested"" : ""$330,713.07"",
+  ""Settlement Amount"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-00643"",
+  ""Broker Comment"" : ""Neither Hilliard Lyons nor the registered representatives admitted to any wrongdoing or liability in settling this matter.  The matter was settled in order to avoid the time and costs associated with litigation.""
+}",1/14/2004 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,2620880,WILLIAM,[BILL  WOBBE],WOBBE,7/3/1992,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""A CRIMINAL POSSESSION OF A FORGED INSTRUMENT (FALSE DRIVER'S LICENSE)"",
+    ""Disposition"" : ""NO PENALTY - NO FINE - NOT GUILTY""
+  } ],
+  ""Broker Comment"" : ""THE CHARGE WAS SUMMARILY DISMISSED BY JEFFERSON CIRCUIT COURT ON 8/17/92. NOT GUILTY. ""
+}",8/1/1995 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"

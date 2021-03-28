@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4552325,CHRISTOPHER,[],PARRIS,10/16/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015046056401"",
+  ""DocketNumberAAO"" : ""2015046056401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Parris failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""11/9/2015""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated October 16, 2015 and November 9, 2015, respectively, on January 19, 2016, Parris is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.  February 22, 2016: Parris filed an Application for Review of the January 21, 2016 Bar from Association pursuant to FINRA Rule 9552. March 1, 2016: FINRA submitted to the SEC a Brief in Opposition to Motion to Stay.  On August 24, 2016, the SEC set aside the bar imposed by FINRA. In so doing, the SEC left in place FINRA's November 9, 2015 suspension of Parris.""
+}",3/29/2004 - 5/9/2005,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,4552325,CHRISTOPHER,[],PARRIS,,,,,7/9/2002 - 3/27/2004,NYLIFE SECURITIES INC. (5167)

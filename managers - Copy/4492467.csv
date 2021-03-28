@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4492467,RYAN,[RYAN  WEHR],WEHR,8/23/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES PURCHASE IS NOT SUITABLE DUE TO LIQUIDITY NEEDS."",
+  ""Damage Amount Requested"" : ""$7,300.00"",
+  ""Settlement Amount"" : ""$7,300.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Representative believes that the customer's complaint is without merit and that all contract provisions as they relate to surrender charge schedule, penalty-free withdrawal and contract calendar were fully disclosed and understood by the client""
+}",1/1/2005 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4492467,RYAN,[RYAN  WEHR],WEHR,,,,,6/18/2003 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4492467,RYAN,[RYAN  WEHR],WEHR,,,,,1/25/2002 - 6/26/2003,1717 CAPITAL MANAGEMENT COMPANY (4082)

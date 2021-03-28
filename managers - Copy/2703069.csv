@@ -1,0 +1,28 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+116140,2703069,PAUL,[],SCHMIDT,1/31/2020,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Claims asserted concern fraudulent and negligent misconduct perpetrated upon claimant directly by SII and Paul Schmidt."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""20-00317"",
+  ""Broker Comment"" : ""DRP has been edited to reflect that the rep was a named party in this arbritration.  Instructed by FINRA that any late fees is incurred, to refund the fee to the broker-dealer.Registered representative adamantly denies any claims of wrongdoing.  All investment recommendations were suitable and appropriate.  Claimant voluntarily dismissed FINRA claim with prejudice following the filing of a motion to dismiss.""
+}",3/26/2020 - Current,FOCUS FINANCIAL (116140)
+116140,2703069,PAUL,[],SCHMIDT,3/27/2014,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""breach of fiduciary duty; violation of Minnesota securities statutes; consumer fraud; common law fraud; negligent misrepresentation; breach of contract; violation of NYSE Rule 405; unsuitability"",
+  ""Damage Amount Requested"" : ""$660,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""14-01009"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ALTHOUGH WE WERE SERVED, COUNSEL NEVER FILED LITIGATION PAPERWORK IN COURT ON 12/8/2014. CLIENT EVENTUALLY FILED CIVIL CASE FOR THOSE CLAIMS THAT WERE DISMISSED BU ARB PANEL.  REPRESENTATIVE DISCUSSED SOLICITATION OF PRODUCT BASED ON FINANCIAL INFORMATION PROVIDED BY CLIENT, FAMILY MEMBERS AND TRUSTEE AT THE TIME OF PURCHASE.  CLIENT EXPERIENCED SIGNIFICANT UNFORESEEN BUSINESS AND FINANCIAL CHANGES YEARS AFTER INVESTMENT PURCHASE RESULTING IN CLAIM FOR LOSSES INCURRED.""
+}",11/15/2019 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+116140,2703069,PAUL,[],SCHMIDT,8/10/2010,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES HE WAS MISREPRESENTED ON THE ILLIQUIDITY OF A REIT PURCHASE IN 2008"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/14/2018 - 11/20/2019,LPL FINANCIAL LLC (6413)
+116140,2703069,PAUL,[],SCHMIDT,,,,,2/25/2010 - 2/14/2018,"SII INVESTMENTS, INC. (2225)"
+116140,2703069,PAUL,[],SCHMIDT,,,,,9/21/2009 - 3/9/2010,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+116140,2703069,PAUL,[],SCHMIDT,,,,,11/26/2008 - 9/30/2009,"SECURITIES AMERICA, INC. (10205)"
+116140,2703069,PAUL,[],SCHMIDT,,,,,4/17/1999 - 12/22/2008,"SII INVESTMENTS, INC. (2225)"
+116140,2703069,PAUL,[],SCHMIDT,,,,,2/15/1996 - 4/9/1999,"MILLER, JOHNSON & KUEHN, INCORPORATED (8678)"

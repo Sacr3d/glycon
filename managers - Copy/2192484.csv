@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+171945,2192484,IRA,[],BRAUNSTEIN,3/15/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Georgia"",
+  ""Allegations"" : ""Unregistered activity as an investment adviser representative following a failure to renew."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  } ]
+}",9/9/2014 - 12/31/2018,"ARI ASSET MANAGEMENT, LLC (171945)"
+171945,2192484,IRA,[],BRAUNSTEIN,,,,,7/1/1998 - 1/25/2001,ING BARINGS LLC (6540)
+171945,2192484,IRA,[],BRAUNSTEIN,,,,,8/7/1997 - 7/1/1998,"ING BARING (U.S.) SECURITIES, INC. (5285)"
+171945,2192484,IRA,[],BRAUNSTEIN,,,,,9/27/1993 - 8/8/1997,CHASE SECURITIES INC. (18718)
+171945,2192484,IRA,[],BRAUNSTEIN,,,,,1/7/1992 - 6/30/1993,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

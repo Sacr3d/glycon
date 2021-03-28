@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+129052,4085793,HOMER,"[HOMER A. HOLT III, HOMER A HOLT III]",HOLT,1/20/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges that investment was not suitable resulting in loss of principal."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$2,479.48"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/1/2004 - Current,PNC INVESTMENTS (129052)
+129052,4085793,HOMER,"[HOMER A. HOLT III, HOMER A HOLT III]",HOLT,,,,,5/27/2003 - 1/1/2004,HILLIARD LYONS ASSET MANAGEMENT (453)
+129052,4085793,HOMER,"[HOMER A. HOLT III, HOMER A HOLT III]",HOLT,,,,,6/1/2002 - 1/1/2004,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+129052,4085793,HOMER,"[HOMER A. HOLT III, HOMER A HOLT III]",HOLT,,,,,12/16/1999 - 6/1/2002,PNC BROKERAGE CORP (34671)

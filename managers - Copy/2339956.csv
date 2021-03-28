@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+146344,2339956,DENNIS,[],EDMONDS,12/6/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014039863301"",
+  ""DocketNumberAAO"" : ""2014039863301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Edmonds consented to the sanctions and to the entry of findings that while associated with two member firms, he participated in the sale of international asset protection trusts, without giving his firms prior written notice of his participation in these transactions and without obtaining approval to sell the product. The findings stated that Edmonds began recommending international asset protection trusts to his clients through a marketing firm. The international asset protection trusts were established by individuals and the owner of the trust typically placed an insurance policy in the trust as its corpus. Edmonds signed the trust deed as the \""Protector\"" on some of these trusts and signed agreements to make him the investment manager of the trusts (which allowed him to manage the assets of the trusts on behalf of the owners). As the investment manager, Edmonds directed that the funds in the trusts be invested in securities in the form of a foreign investment fund called Private International Wealth Management. The findings also stated that Edmonds participated in the creation of asset protection trusts for individuals while associated with both firms. Edmonds participated in the investments of individuals who invested over $1.6 million in the Private International Wealth Management securities. Edmonds was paid a percentage of the total amount each customer deposited into an international asset protection trust as well as a percentage of any additional funds deposited by the customer into the trust after the trust was established. The findings also included that Edmonds did not provide prior written notice to the firms of his participation in the recommendation and formation of the international asset protection trusts and the investments made in them. The international asset protection trusts were never approved as a product that could be sold by the firms registered representatives and Edmonds participation in the trusts and the investments made in them were not reviewed or supervised by either firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""11 months"",
+      ""Start Date"" : ""1/3/2017"",
+      ""End Date"" : ""12/2/2017""
+    } ]
+  } ],
+  ""Sanctions"" : ""Edmonds has submitted a sworn financial statement and demonstrated an inability to pay. In light of the financial status of Edmonds, no monetary sanctions were imposed.""
+}",10/16/2012 - 12/31/2016,INNOVATION PARTNERS LLC (146344)
+146344,2339956,DENNIS,[],EDMONDS,,,,,1/13/2012 - 10/1/2012,"SAXONY SECURITIES, INC. (115547)"
+146344,2339956,DENNIS,[],EDMONDS,,,,,5/8/2006 - 1/12/2012,"J.P. TURNER & COMPANY, L.L.C. (43177)"
+146344,2339956,DENNIS,[],EDMONDS,,,,,5/11/2001 - 4/27/2006,"PACKERLAND BROKERAGE SERVICES, INC. (37031)"
+146344,2339956,DENNIS,[],EDMONDS,,,,,3/30/2000 - 5/11/2001,THE O.N. EQUITY SALES COMPANY (2936)
+146344,2339956,DENNIS,[],EDMONDS,,,,,5/3/1999 - 2/28/2000,PARK AVENUE SECURITIES LLC (46173)
+146344,2339956,DENNIS,[],EDMONDS,,,,,6/4/1997 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+146344,2339956,DENNIS,[],EDMONDS,,,,,5/5/1997 - 6/9/1997,PRINCOR FINANCIAL SERVICES CORPORATION (1137)
+146344,2339956,DENNIS,[],EDMONDS,,,,,7/13/1993 - 4/11/1997,METLIFE SECURITIES INC. (14251)
+146344,2339956,DENNIS,[],EDMONDS,,,,,7/13/1993 - 4/11/1997,METROPOLITAN LIFE INSURANCE COMPANY (4095)

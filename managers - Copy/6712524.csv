@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6712524,Wendy,[Wendy  Ojeda],Ojeda,2/1/2016,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a lot of debt and medical bills as well""
+}",11/29/2016 - 1/19/2017,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,6712524,Wendy,[Wendy  Ojeda],Ojeda,12/1/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a lot of debt at the time as well as medical bills.""
+}",,
+8348,6712524,Wendy,[Wendy  Ojeda],Ojeda,7/1/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",,
+8348,6712524,Wendy,[Wendy  Ojeda],Ojeda,11/1/2014,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a lot of debt at the time and had medical bills as well.""
+}",,
+8348,6712524,Wendy,[Wendy  Ojeda],Ojeda,6/1/2014,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a lot of debt and medical bill as well.""
+}",,

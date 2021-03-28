@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1252,6815454,SAMUEL,"[SAM ALEXANDER BERGER, SAMUEL  BERGER, Samuel Alexander Berger]",BERGER,6/5/2015,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ATTEMPT TO COMMIT CRIME C274 S6"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""MISUSE OF LICENSE FALSE C138 S34B"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""DISORDERLY CONDUCT C272 S53"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""RESISTING ARREST C268 S32B"",
+    ""Disposition"" : ""Dismissed""
+  } ]
+}",5/16/2018 - 5/28/2020,WILLIAM BLAIR (1252)

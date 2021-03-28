@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+759,4115541,ROBERT,"[ROBERT WAY GRIFFITH, ROBERT WAYNE GRIFFITH, ROBERT W WEISS]",WEISS,11/8/2016,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""The client surrendered his American National Variable Annuity and is upset over the taxes he owes on the realized gains. The client alleges the representative did not advise him on how to properly reinvest the money he received and on the taxes he would incur as a result of the surrender."",
+  ""Damage Amount Requested"" : ""$18,543.00"",
+  ""Damages Granted"" : ""$11,043.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-00503"",
+  ""Broker Comment"" : ""The representative denies the allegations that the client was not informed of the taxes he would incur on the annuity surrender. The client worked directly with American National to surrender the annuity and elected to not withhold taxes. In addition, the representative feels he provided options to the client for reinvestment of the funds and that the client did not agree with those options. The respondents are jointly and severally liable for and shall pay to the claimant the sum of $11,043.00 in compensatory damages and interest at the rate of 6% per annum from April 1, 2016 through and including the date of the award.""
+}",7/5/2006 - Current,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+759,4115541,ROBERT,"[ROBERT WAY GRIFFITH, ROBERT WAYNE GRIFFITH, ROBERT W WEISS]",WEISS,11/8/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THE REPRESENTATIVE MISREPRESENTED THE VARIABLE LIFE INSURANCE POLICY PURCHASED IN FEBRUARY 2001. NO SPECIFIC COMPENSATORY DAMAGES WERE ALLEGED."",
+  ""Settlement Amount"" : ""$19,195.38"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE PERSON WHO FILED THE COMPLAINT WAS NOT MR. WEISS' CUSTOMER. HOWEVER, WAS A CUSTOMER OF ANOTHER REPRESENTATIVE IN HIS OFFICE.""
+}",3/22/2000 - 4/6/2006,NEW ENGLAND SECURITIES (615)
+759,4115541,ROBERT,"[ROBERT WAY GRIFFITH, ROBERT WAYNE GRIFFITH, ROBERT W WEISS]",WEISS,8/5/2010,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES RECOMMENDATION TO REPLACE PENSION PLAN WITH A VARIALBE LIFE INSURANCE POLICY WAS NOT APPROPRIATE."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I WAS NOT INVOLVED IN REMENDING THIS PRODUCT.  THE MANAGER'S NAME WAS TAEK CHUNG. I WAS AGENT UNDER THIS MANAGER AT THE TIME AND WAS ASSIGNED THIS CLIENT AFTER TAEK CHUNG LEFT THE COMPANY""
+}",,
+759,4115541,ROBERT,"[ROBERT WAY GRIFFITH, ROBERT WAYNE GRIFFITH, ROBERT W WEISS]",WEISS,9/28/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,461.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""This judgment originated on 4/14/1999 for $5,618.00. Per Atlantic Credit Collections LLC, the original judgment expired after 10 years in 4/2009 and became uncollectable. Therefore, the judgment was renewed in 9/2009.""
+}",,
+759,4115541,ROBERT,"[ROBERT WAY GRIFFITH, ROBERT WAYNE GRIFFITH, ROBERT W WEISS]",WEISS,5/4/2004,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT IS ALLEGING THAT THE VARIABLE LIFE POLICY SHE PURCHASED WAS NOT SUITABLE BASED ON HER FINANCIAL SITUATION.  SHE IS ALSO ALLEGING THAT THE SURRENDER CHARGES AND FEATURES OF THE POLICY WERE NOT ACCURATELY EXPLAINED TO HER.  SHE IS REQUESTING A REFUND OF ALL PREMIUMS PAID."",
+  ""Damage Amount Requested"" : ""$5,100.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AFTER A THOROUGH INVESTIGATION INTO THE CLIENT'S ALLEGATIONS, IT WAS DETERMINED THAT SHE WAS PROVIDED WITH ADEQUATE EXPLANATION AND DISCLOSURE OF THE FEATURES AND BENEFITS OF THE POLICY SHE WAS PURCHASING.  NO EVIDENCE THAT THE POLICY WAS UNSUITABLE WAS FOUND.  THEREFORE, THE COMPLAINT WAS DENIED.""
+}",,

@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,5/26/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Clients allege their accounts were mismanaged. Alleged Activity dates 9/26/2019 - 5/26/2020."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""These clients were clients for previous 8 years without complaint.  Moderate growth was strategy throughout that time frame.  Client's withdrawal rate during that time frame averaged approximate 10% annually.  The gradual decrease in value due to withdrawals accelerated with COVID-19 impact on markets and that was when complaint was made. We had discussed on many occasions that the withdrawal rate would cause a gradual decline in valuation.  There was conflict between the clients because she was withdrawing a larger amount each month than he wanted to withdraw.  The gains during the time we managed funds were in excess of 1.2 million dollars. Their withdrawals were in excess of 2.4 million dollars.""
+}",2/13/2013 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,2/13/2007 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,7/10/2003 - 2/13/2007,AMSOUTH INVESTMENT MANAGEMENT COMPANY LLC (111757)
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,3/14/2003 - 9/29/2003,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,3/3/2000 - 2/13/2007,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,8/14/1996 - 3/10/2000,"COMPASS BROKERAGE, INC. (17086)"
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,12/1/1995 - 2/27/1996,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,12/1/1995 - 2/27/1996,IDS LIFE INSURANCE COMPANY (6321)
+705,1947750,JAMES,[JAMES KELLEY JR VAUGHN],VAUGHN,,,,,12/1/1995 - 12/6/1995,"PROEQUITIES, INC. (15708)"

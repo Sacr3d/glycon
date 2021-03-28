@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+79,2820040,LORRAINE,[],WHITE,9/12/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Michigan"",
+  ""Allegations"" : ""The Administrator intends TO REVOKE, SUSPEND, CONDITION, OR LIMIT THE SECURITIES AGENT REGISTRATION OF LORRAINE WHITE under section 412(2) of the Securities Act, MCL 451.2412(2), because her liabilities exceed her assets, causing her to be insolvent, which supports the revocation, suspension, conditioning, or limitation of her securities agent registration under the above-cited provisions of the Michigan Uniform Securities Act (2002), 2008 PA 551, MCL 451.2101 et seq."",
+  ""Resolution"" : ""Consent Agreement and Order"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Respondent voluntarily withdrew her registration as an agent in Michigan.""
+}",7/7/2010 - 11/15/2018,J.P. MORGAN SECURITIES LLC (79)
+79,2820040,LORRAINE,[],WHITE,4/17/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,673.01"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",6/1/2009 - 6/7/2010,MORGAN STANLEY SMITH BARNEY (149777)
+79,2820040,LORRAINE,[],WHITE,4/25/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,798.78"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Sheriff file 17002758""
+}",6/8/2007 - 6/1/2009,CITIGROUP GLOBAL MARKETS INC. (7059)
+79,2820040,LORRAINE,[],WHITE,8/26/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$12,250.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",10/27/2006 - 5/21/2007,"WACHOVIA SECURITIES, LLC (19616)"
+79,2820040,LORRAINE,[],WHITE,6/6/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$448.89"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",9/29/2005 - 11/1/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+79,2820040,LORRAINE,[],WHITE,,,,,5/26/2005 - 9/14/2005,METLIFE SECURITIES INC. (14251)
+79,2820040,LORRAINE,[],WHITE,,,,,5/26/2005 - 9/14/2005,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+79,2820040,LORRAINE,[],WHITE,,,,,4/4/2002 - 5/13/2005,"SEA PORT GROUP SECURITIES, LLC (116270)"
+79,2820040,LORRAINE,[],WHITE,,,,,4/20/2001 - 4/4/2002,"IPO.COM SECURITIES, INC. (104007)"
+79,2820040,LORRAINE,[],WHITE,,,,,4/21/1999 - 4/10/2001,"U.S. BANCORP INVESTMENTS, INC. (17868)"

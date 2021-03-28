@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107342,5898842,LEONARD,[],SCHWARTZ,7/10/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""IA Release 40-4964 / July 10, 2018:   The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 203(k) of the Investment Advisers Act of 1940 (\""Advisers Act\"") against Leonard S. Schwartz (\""Schwartz\"" or \""Respondent\"").   The Commission finds that these proceedings arise out of Schwartz's role in causing violations of the testimonial rule under the Advisers Act, which states that it shall constitute a fraudulent, deceptive, or manipulative act, practice, or course of business for any investment adviser registered with the Commission to publish, circulate or distribute any advertisement which refers to, among other things, any testimonial of any kind concerning the investment adviser. Between March 2015 and March 2016, Schwartz was a cause of four registered investment advisers' violations of the testimonial rule under the Advisers Act when he collected and published on the internet on behalf of each of them advertisements containing testimonials concerning the investment advisers and the investment advice and services they rendered. The testimonials were available to the public on various websites, including YouTube.com, Google.com, Facebook.com, Twitter.com, and Yelp.com. By publishing client testimonials on the internet, the investment advisers violated, and Schwartz caused violations of Section 206(4) of the Advisers Act and Rule 206(4)-1(a)(1) thereunder."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$35,000.00""
+    } ]
+  } ]
+}",10/17/2011 - 3/7/2012,FISHER INVESTMENTS (107342)

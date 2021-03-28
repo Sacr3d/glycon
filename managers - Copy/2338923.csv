@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+306113,2338923,KATRINA,"[KATRINA ANN BURWELL, KATRINA ANN SCHNELLE]",BELL,2/28/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Alleged negligence and breach of fiduciary duty in connection with the sale of private notes."",
+  ""Damage Amount Requested"" : ""$685,465.36"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Ms. Bell contends that including her as named party in this complaint is frivolous.  Ms. Bell was not registered as an investment advisor representative and had no contact with the customer at the time of the alleged wrongdoing.  Further, she did not work with the services or products that are at issue, or supervise the people doing the work. Ms. Bell disputes the allegations and facts as characterized in the demand letter.   Accordingly, she intends to mount a vigorous defense against their claims.""
+}",1/31/2020 - Current,"ZUNA, LLC (306113)"
+306113,2338923,KATRINA,"[KATRINA ANN BURWELL, KATRINA ANN SCHNELLE]",BELL,,,,,6/25/2019 - 9/25/2019,"DESCHUTES INVESTMENT CONSULTING, LLC (155312)"
+306113,2338923,KATRINA,"[KATRINA ANN BURWELL, KATRINA ANN SCHNELLE]",BELL,,,,,4/1/2003 - 12/31/2004,"DESCHUTES INVESTMENT ADVISORS, INC. (109491)"
+306113,2338923,KATRINA,"[KATRINA ANN BURWELL, KATRINA ANN SCHNELLE]",BELL,,,,,5/24/1993 - 10/3/1995,"CRABBE HUSON SECURITIES, INC. (13389)"

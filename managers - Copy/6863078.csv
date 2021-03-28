@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6863078,Sean,[],Pinion,12/4/2013,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Theft less than $300"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Dismissed"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ]
+}",11/28/2017 - 4/23/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

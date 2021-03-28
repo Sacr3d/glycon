@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6872706,Matthew,[],Scott,1/5/2012,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",10/30/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6872706,Matthew,[],Scott,2/6/2005,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""2nd Degree Felony Assault"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""4th degree misdemeanor assault"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""Originally charged with a felony assault which was later dropped to a 4th degree misdemeanor charge.""
+}",,

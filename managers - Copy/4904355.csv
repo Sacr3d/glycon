@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4904355,ZACHARY,[ZACHARY  CARBONI],CARBONI,1/11/1996,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Misrepresentation of Age by a Minor"",
+    ""Disposition"" : ""Vacated""
+  } ],
+  ""Broker Comment"" : ""In late 1995, at the age of 18, I was cited for the misdemeanor  of \""Misrepresentation of age by a minor\"" for using a fake ID. In January of 1996 I plead guilty to the charge. The guilty plea was vacated and the charge was dismissed.""
+}",4/7/2010 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4904355,ZACHARY,[ZACHARY  CARBONI],CARBONI,,,,,3/8/2005 - 3/10/2006,J.P. MORGAN SECURITIES INC. (18718)

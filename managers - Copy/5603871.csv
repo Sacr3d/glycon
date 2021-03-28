@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,5603871,DANIEL,[DAN RICHARD SHAW],SHAW,10/17/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017055013601"",
+  ""DocketNumberAAO"" : ""2017055013601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Shaw failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""1/22/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated October 17, 2017 and November 13, 2017, respectively, on January 22, 2018, Shaw is barred from association with any FINRA member in all capacities. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in all capacities.""
+}",12/24/2009 - 7/20/2017,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,5603871,DANIEL,[DAN RICHARD SHAW],SHAW,9/26/2006,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""NEGLIGENT DRIVING"",
+    ""Disposition"" : ""NOLLE PROSEQUI""
+  }, {
+    ""Charges"" : ""POSSESSING FICTITIOUS LIC."",
+    ""Disposition"" : ""NOLLE PROSEQUI""
+  }, {
+    ""Charges"" : ""VIOLATING LICENSE RESTRICTION"",
+    ""Disposition"" : ""NOLLE PROSEQUI""
+  } ]
+}",,

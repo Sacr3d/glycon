@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+128929,1042772,DALE,[],WALTS,7/21/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""During the fall of 2019 the client met the with representative for their review. Part of the review was a discussion surrounding the clients 403b loan amount. The representative made an erroneous recommendation to the client on how to pay off the loan which in turn created a tax liability for the client in 2020. The representative filed an E&O claim with both the BD's policy and an additional active policy he had with his previous firm. Both E&O carriers have resolved the claim with the client."",
+  ""Damage Amount Requested"" : ""$10,596.00"",
+  ""Settlement Amount"" : ""$10,596.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Representative made an erroneous recommendation to the client, during their review meeting, concerning the clients outstanding 403b loan amount created a tax liability for the client in 2020. An errors and omissions claim was filed and settled by the representatives E&O policies, of which the representative was required to pay his deductible portion.""
+}",1/3/2005 - Current,GWN SECURITIES INC. (128929)
+128929,1042772,DALE,[],WALTS,,,,,2/3/2004 - 12/31/2004,PMG SECURITIES CORPORATION (27107)
+128929,1042772,DALE,[],WALTS,,,,,5/4/1983 - 1/30/2004,"MML INVESTORS SERVICES, INC. (10409)"
+128929,1042772,DALE,[],WALTS,,,,,1/19/1983 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

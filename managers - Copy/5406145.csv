@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+105790,5406145,Ricardo,"[RICARDO ARMANDO CERVANTES, RICKY  CERVANTES]",Cervantes,4/22/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Criminal Trespass in the First Degree, a class 6 felony"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Disorderly Conduct, a Class 1 Misdemeanor Offense"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""The event in question is NOT securities or investments related, nor did it involve clients or customers of any sort. The event was NOT related to fraud, false statements or omissions, wrongful taking of property, bribery, perjury, forgery, counterfeiting, extortion, or a conspiracy to commit any of these offenses or violence. While I am disclosing this event, I and my attorney disagree with FINRA's requirement to do so. In Arizona, to be formally charged with a felony, the State has to put on a probable cause hearing; either a preliminary hearing before a judicial officer, or a grand jury indictment. Neither of these occurred in my case.   Instead, the State filed a direct complaint and requested a preliminary hearing. However, before the hearing the State, my legal counsel, and I agreed to resolve the case with a plea agreement to a misdemeanor. The facts of my case are fairly benign and I am happy to discuss them.""
+}",11/6/2020 - Current,"JOHN HANCOCK INVESTMENT MANAGEMENT, LLC (105790)"
+105790,5406145,Ricardo,"[RICARDO ARMANDO CERVANTES, RICKY  CERVANTES]",Cervantes,,,,,5/14/2020 - Current,JOHN HANCOCK INVESTMENT MANAGEMENT DISTRIBUTORS LLC (28262)
+105790,5406145,Ricardo,"[RICARDO ARMANDO CERVANTES, RICKY  CERVANTES]",Cervantes,,,,,11/9/2009 - 4/30/2020,EDWARD JONES (250)
+105790,5406145,Ricardo,"[RICARDO ARMANDO CERVANTES, RICKY  CERVANTES]",Cervantes,,,,,10/2/2009 - 4/30/2020,EDWARD JONES (250)

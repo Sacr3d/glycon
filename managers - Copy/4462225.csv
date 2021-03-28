@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,7/16/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018058564201"",
+  ""DocketNumberAAO"" : ""2018058564201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Coffey consented to the sanction and to the entry of findings that he failed to respond to FINRA's request for documents and information in connection with its investigation of promissory notes Coffey sold to customers while he was registered with a FINRA member firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/16/2018""
+    } ]
+  } ]
+}",12/7/2017 - 2/1/2018,"AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC. (18487)"
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,12/7/2017 - 2/1/2018,"AMERICAN PORTFOLIOS ADVISORS, INC (112697)"
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,1/15/2013 - 12/9/2015,"FIRST AMERICAN SECURITIES, INC. (35841)"
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,10/27/2010 - 1/13/2011,"MML INVESTORS SERVICES, LLC (10409)"
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,2/1/2005 - 11/24/2009,"NATIONWIDE SECURITIES, LLC (11173)"
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,12/18/2002 - 1/28/2005,NYLIFE SECURITIES INC. (5167)
+18487,4462225,STEVEN,[Steve  Coffey],COFFEY,,,,,11/27/2001 - 11/13/2002,"AXA ADVISORS, LLC (6627)"

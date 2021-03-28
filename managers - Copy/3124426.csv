@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,3124426,BRYAN,"[ZIG  ZICHTERMAN, ZIGGY  ZICHTERMAN]",ZICHTERMAN,5/15/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges poor management of account and that fees were applied incorrectly. Allegation Activity Dates: 1/1/16 - 5/7/20."",
+  ""Damage Amount Requested"" : ""$14,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Corporate office clerical error led to complaint. There is no basis for alleging any wrongdoing on my part.  Further, I was not responsible for any alleged problem with the amount of fees being charged.""
+}",10/12/2010 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,3124426,BRYAN,"[ZIG  ZICHTERMAN, ZIGGY  ZICHTERMAN]",ZICHTERMAN,,,,,8/10/2007 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,3124426,BRYAN,"[ZIG  ZICHTERMAN, ZIGGY  ZICHTERMAN]",ZICHTERMAN,,,,,11/13/1998 - 8/21/2007,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"

@@ -1,0 +1,77 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,12/5/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""IA Release 40-IA-4821 / December 5, 2017:  The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted pursuant to Section 203(f) of the Investment Advisers Act of 1940 (\""Advisers Act\"") against William P. Carlson, Jr. (\""Respondent\"" or \""Carlson\"").   The Commission finds that on August 24, 2017, Carlson pled guilty to one count of mail fraud in violation of Title 18 United States Code, Section 1341 before the United States District Court for the Northern District of Illinois, in United States v. William Carlson, Jr., Case No. 1:17-CR-106.   The criminal information to which Carlson pled guilty alleged, inter alia, that, between 2012 and 2017, Carlson devised and participated in a scheme to obtain money and property from an advisory client by means of materially false and fraudulent pretenses and representations and by concealing material facts, and that he caused commercial interstate carriers to further his scheme."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""association with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""12/5/2017""
+    } ]
+  } ]
+}",8/31/2015 - 2/6/2017,"EHLERT FINANCIAL GROUP, INC. (112150)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,2/21/2017,Civil,Final,"{
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""The U.S. District Court for the Northern District of Illinois Eastern Division issued this complaint as to Defendant William P. Carlson, Jr. On February 21, 2017, Plaintiff Securities and Exchange Commission alleged the following against defendant Carlson, and hereby demands a jury trial: From at least November 2012 through December 2016, Carlson, while associated with an SEC-registered investment adviser (\""Advisory Firm A\""), misappropriated more than $900,000 from one of his clients by fabricating client account withdrawal requests and forging his client's signature on authorization forms and checks. In the first few years, Carlson carried out his misappropriation scheme by directing that checks made payable to the client be issued from the client's brokerage account; arranging for overnight delivery of the checks to the client's residence; intercepting the checks upon delivery based on package tracking information; and then forging the client's endorsement of the checks to Carlson. There were at least 16 such unauthorized transactions totaling at least $437,000. In subsequent years, Carlson misappropriated funds from the client's brokerage account by forging the client's signature on authorization forms that allowed Carlson to cause a series of checks to be issued to a third-party - a friend of Carlson's - who deposited the checks into one of his own accounts and then gave the proceeds to Carlson. There were at least 25 such unauthorized transactions totaling at least $474,000. In submitting these fraudulent check requests, Carlson repeatedly caused securities held by the client to be sold and the cash diverted for Carlson's own personal use and benefit. In order to conceal and continue his scheme, Carlson sent false account statements to the client on several occasions. After the five-year span of misappropriation, Carlson had depleted most of the assets entrusted to him by this client. Through the activities alleged in this Complaint, Carlson engaged in fraudulent or deceptive conduct in connection with the purchase or sale of securities, in violation of Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 thereunder. Through the activities alleged in this Complaint, Carlson also engaged in fraudulent or deceptive conduct with respect to one or more investment advisory clients, in violation of Sections 206(1) and (2) of the Investment Advisers Act of 1940. In the alternative, Carlson aided and abetted violations of Sections 206(1) and (2) of the Advisers Act by Advisory Firm A."",
+  ""Resolution"" : ""Judgment Rendered"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$711,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines""
+  }, {
+    ""Sanctions"" : ""Injunction""
+  } ]
+}",6/23/2010 - 2/6/2017,"FORUM FINANCIAL MANAGEMENT, LP (145706)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,2/21/2017,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""FRAUDS AND SWINDLES"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",5/4/2005 - 6/24/2015,"MPM WEALTH ADVISORS, INC. (104926)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,2/6/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""FORUM FINANCIAL MANAGEMENT, LP"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""BREACH OF FIDUCIARY DUTY - MISHANDLING OF CLIENT FUNDS""
+}",4/22/2005 - 4/25/2005,MODERN PORTFOLIO MANAGEMNT INC (104926)
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,2/6/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Ehlert Financial Group"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Breach of Fiduciary Duty""
+}",12/8/2004 - 4/5/2005,"NFP SECURITIES, INC. (42046)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,10/10/1994,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""FLORIDA DIVISION OF SECURITIES AND INVESTOR PROTECT*See FAQ #1*"",
+  ""Allegations"" : ""ON JUNE 1, 1994, THE FLORIDA DEPARTMENT OF BANKING AND FINANCE ISSUED AN ADMINISTRATIVE CHARGES AND COMPLAINT WITH NOTICE OF RIGHTS AGAINST RESPONDENT WILLIAM P. CARLSON, JR. THE DEPARTMENT'S COMPLAINT ALLEGES THAT THE RESPONDENT SOLD SECURITIES AS AN UNREGISTRED AGENT OF L.F. THOMPSON & COMPANY, RESULTING IN VIOLATIONS OF CHAPTER 517, FLORIDA STATUTES, AND THE RULES OF THE DEPARTMENT. THE DEPARTMENT SEEKS TO REVOKE, RESTRICT, OR SUSPEND THE RESPONDENT'S REGISTRATION, ORDER RESPONDENT TO CEASE AND DEISST VIOLATIONS OF FLORIDA LAW AND RULES, AND IMPOSE FINES OF UP TO $5,000 PER VIOLATION."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$187.50""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist/Injunction""
+  } ],
+  ""Sanction Details"" : ""ON OCTOBER 10, 1994, THE DEPARTMENT ISSUED A FINAL ORDER INCORPORATING THE STIPULATION AND CONSENT AGREEMENT, LAST DATED SEPTEMBER 17, 1994, ENTERED BETWEEN RESPONDENT CARLSON AND THE DEPARTMENT.  THE AGREEMENT IS TO RESOLVE THE ALLEGATIONS MADE IN THE ADMINISTRATIVE COMPLAINT ISSUED BY THE DEPARTMENT ON JUNE 1, 1994.  WITHOUT ADMITTING OR DENYING THE ALLEGATIONS, RESPONDENT CARLSON AGREES TO CEASE AND DESIST FROM ANY AND ALL FUTURE VIOLATIONS OF FLORIDA LAW.  THE RESPONDENT AGREES TO PAY AN ADMINISTRATIVE FINE OF $187.50."",
+  ""Broker Comment"" : ""THE FIRM I WAS AGENT FOR L.F. THOMPSON, DID NOT REGISTER MYSELF FOR SALE OF SECURITIES IN THE STATE OF FLORIDA.  UNFORTUNATELY, THEY INFORMED ME I WAS REGISTERED.  THE FINE IMPOSED (187.50) COVERED THE COMMISSION FROM THE FEW TRANSACTIONS THAT TOOK PLACE.""
+}",9/29/2004 - 4/5/2005,"NFP SECURITIES, INC. (42046)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,9/23/2004 - 9/25/2004,"NFP SECURITIES, INC. (42046)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,10/4/2001 - 10/1/2002,"QUASAR DISTRIBUTORS, LLC (103848)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,10/21/1998 - 10/4/2001,"FIRST FUND DISTRIBUTORS, INC. (27038)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,6/7/1998 - 9/29/2004,"FISHER INVESTMENTS,INC. (107342)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,8/22/1994 - 1/16/1995,"LAUGHLIN GROUP ADVISORS, INC. (18272)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,1/26/1994 - 12/31/1994,"HARRIS INVESTORS DIRECT, INC. (17664)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,7/23/1990 - 4/19/1994,"GNA SECURITIES, INC. (10465)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,5/12/1989 - 5/9/1990,"BOETTCHER & COMPANY, INC. (101)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,1/30/1989 - 4/29/1989,"CORPORATE SECURITIES GROUP, INC. (11025)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,8/25/1988 - 2/21/1989,L.F. THOMPSON & COMPANY (21820)
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,8/9/1988 - 9/8/1988,"SMITH-THOMAS INVESTMENT SERVICES, INC. (21481)"
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,3/22/1988 - 7/26/1988,FINANCIAL ARCHITECTS SECURITIES CORPORATION (13269)
+112150,1804721,WILLIAM,[WILLIAM PAUL CARLSON],CARLSON,,,,,3/22/1988 - 4/5/1988,FOX & COMPANY (18517)

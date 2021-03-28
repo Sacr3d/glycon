@@ -1,0 +1,45 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,6/3/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Tennessee Securities Division"",
+  ""Allegations"" : ""Respondent engaged in dishonest and unethical practices by failing to disclose a business loan with a client to his firm."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""In addition to the fine, Mr. Lawson is to Comply with the Tennessee Securities Act of 1980, complete four FINRA training courses, and be on heightened supervision for two years."",
+  ""Broker Comment"" : ""No client was harmed in anyway.""
+}",5/7/2020 - Current,"CADARET, GRANT & CO., INC. (10641)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,2/20/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Raymond James Financial Services, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Did not timely disclose or seek approval of a business loan arrangement with a client.""
+}",7/2/2012 - 3/13/2020,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,4/18/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Breach of Fiduciary Duty, Negligence, Negligent Supervision, Suitability, Excessive Turnover, Breach of Contract, Negligent Hiring, Selling Away and Violations of FINRA Conduct Rules"",
+  ""Damage Amount Requested"" : ""$150,000.00"",
+  ""Settlement Amount"" : ""$7,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Matter was settled by the firm to avoid the uncertainty of litigation. Mr. Lawson denies all wrong doing as alleged and maintains that all investments were suitable and appropriate. While under Mr. Lawson's management, the customer's account achieved significant gains and any decline in account value was directly attributable to withdrawals made by the customer. This matter was resolved solely as a business decision on behalf of the firm, for a portion of estimated additional costs of defense, and Mr. Lawson did not contribute to the resolution.""
+}",6/29/2012 - 3/13/2020,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,6/15/2010,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGE THAT ANNUITY AND REIT INVESTMENT WERE NOT APPROPRIATE FOR THIER INVESTMENT OBJECTIVES.  ACTIVITY PERIOD 1/06 TO PRESENT."",
+  ""Damage Amount Requested"" : ""$8,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMERS WERE PROVIDED DISCLOSURE OF INVESTMENTS, AND INVESTMENTS MET INCOME INVESTMENT OBJECTIVE.""
+}",9/26/2007 - 7/30/2012,LPL FINANCIAL LLC (6413)
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,4/27/2005 - 10/1/2007,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,4/21/2005 - 10/1/2007,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,1/24/2005 - 4/11/2005,AMSOUTH INVESTMENT MANAGEMENT COMPANY LLC (111757)
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,8/11/2004 - 4/5/2005,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,4/15/2004 - 7/29/2004,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,8/27/1999 - 12/15/2003,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+10641,2869619,MATTHEW,[MATTHEW T LAWSON],LAWSON,,,,,5/12/1997 - 7/29/2004,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

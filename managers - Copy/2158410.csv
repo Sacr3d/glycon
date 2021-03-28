@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,2158410,CAROL,[CAROL LYNN FOUSHEE],MEYER,9/1/2016,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""Terminated in Aug of 2012, and lost 70% of household income, then was diagnosed and treated for [redacted] with high deductible insurance, then laid of in 09/2016.""
+}",3/27/2009 - 8/3/2012,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2158410,CAROL,[CAROL LYNN FOUSHEE],MEYER,8/1/2012,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""WELLS FARGO ADVISORS, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""DISCHARGED FOR INDICATING SHE SPOKE WITH CLIENT TO CONFIRM MOVEMENT OF FUNDS TO FACILITATE A WIRE. THE JOURNAL WAS MADE WITHOUT VERBAL CONFIRMATION."",
+  ""Broker Comment"" : ""Erroneously stated that I spoke with a client regarding a wire transfer when I thought the advisor had spoken to the client.""
+}",2/26/2004 - 4/9/2009,CITIGROUP GLOBAL MARKETS INC. (7059)
+19616,2158410,CAROL,[CAROL LYNN FOUSHEE],MEYER,,,,,3/16/2000 - 4/9/2009,CITIGROUP GLOBAL MARKETS INC. (7059)
+19616,2158410,CAROL,[CAROL LYNN FOUSHEE],MEYER,,,,,10/3/1994 - 5/6/2002,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"

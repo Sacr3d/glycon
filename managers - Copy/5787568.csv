@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+23131,5787568,Daniel,[],Martinez,6/19/2018,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Shoplifting"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""Reduced to 309-2 Noise Ordinance"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""On May 19th I was shopping for various clothing items at Century 21 in the state of New Jersey. I tried on several articles of clothing in the fitting room that day and when I exited the fitting room I noticed a coat hanging in the fitting room put back area which I proceeded to try on and decided to take with me to purchase. I made my way to the cashier to pay for all my items, including the coat, and as the cashier was scanning each item he noticed the jacket I picked up from the fitting room put back area was ticketed incorrectly. I had no way of possibly knowing that, I assumed the price was what was marked on the ticket. He got on the phone and called his manager and when the manager came up he began to accuse me of switching tags on the item which I vehemently denied. I explained to him that I had picked up the coat from the put back rack in the fitting room and that I was trying to pay for the $300 coat and that I had no idea it was marked incorrectly. I offered to pay the correct price but the manager refused. The manager and I went back and forth and he refused to believe me or let me leave. At this point the situation was escalating so I attempted to leave the store because the manager would not let me pay for my items and I was being wrongly accused. As I attempted to walk away the manager grabbed me by my shoulders and attempted to put me in a head lock. I pushed him off of me and he continued until a small scuffle ensued. The police were called and I was charged with altering the tags on the coat and simple assault. In the end, I went to court to face the charges against me. Upon investigation there was no proof of altering tags, and the judge ruled that it was simply he said she said and video did not show any wrong doing. However, the prosecution did have evidence of the simple assault which did occur as a consequence of the accusation.  Ultimately I plead guilty to two counts of causing a disturbance in public, which in the state of New Jersey is equivalent to a traffic citation.  No diversion program was necessary as I was not found guilty of a misdemeanor or a felony.  I was ordered to pay 2 $500 fines for the 2 counts of public disturbance totaling $1000 dollars.""
+}",8/27/2019 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+23131,5787568,Daniel,[],Martinez,10/25/2013,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""JP MORGAN CHASE BANK"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""TERMINATED BY AFFILIATE BANK - NON SECURITIES RELATED. REGISTERED REP ENTERED INACCURATE INFORMATION RELATING TO A BANK CUSTOMERS ID INTO A BANK SYSTEM WHEN OPENING A BANK ACCOUNT.""
+}",6/25/2019 - Current,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+23131,5787568,Daniel,[],Martinez,,,,,6/25/2019 - Current,FSC SECURITIES CORPORATION (7461)
+23131,5787568,Daniel,[],Martinez,,,,,6/25/2019 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+23131,5787568,Daniel,[],Martinez,,,,,6/25/2019 - Current,"SAGEPOINT FINANCIAL, INC. (133763)"
+23131,5787568,Daniel,[],Martinez,,,,,11/8/2017 - 7/19/2018,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+23131,5787568,Daniel,[],Martinez,,,,,5/20/2016 - 7/19/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+23131,5787568,Daniel,[],Martinez,,,,,10/1/2012 - 11/14/2013,J.P. MORGAN SECURITIES LLC (79)
+23131,5787568,Daniel,[],Martinez,,,,,7/5/2010 - 10/1/2012,CHASE INVESTMENT SERVICES CORP. (25574)

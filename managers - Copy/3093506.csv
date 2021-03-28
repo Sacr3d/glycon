@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,3093506,JOSEPH,[],RODRIGUEZ,7/12/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges unsuitable recommendations 2015 - 2018"",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""Settlement Amount"" : ""$260,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-01662"",
+  ""Broker Comment"" : ""Settled to avoid the time and cost associated with litigation. Despite profitability, claimant sought significantly enhanced damages.""
+}",8/29/2007 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,3093506,JOSEPH,[],RODRIGUEZ,,,,,8/26/1998 - Current,"HENNION & WALSH, INC. (25766)"

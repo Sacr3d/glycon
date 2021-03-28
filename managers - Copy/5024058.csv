@@ -1,0 +1,6 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+759,5024058,JOHN,[],PIGMAN,4/29/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Securities Management & Research, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Termed for failure to provide required documentation for annuity and mutual fund sales.""
+}",11/30/2005 - 4/29/2019,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"

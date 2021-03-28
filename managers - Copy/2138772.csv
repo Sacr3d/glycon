@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,2138772,GLEN,[GLEN PAUL SOSNOWSKI],SOSNADER,1/30/2019,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",11/25/2019 - Current,LPL FINANCIAL LLC (6413)
+6413,2138772,GLEN,[GLEN PAUL SOSNOWSKI],SOSNADER,2/24/2016,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Vacation home/rental property had severe water and mold damage due to super storm Sandy.""
+}",9/23/1996 - 10/14/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+6413,2138772,GLEN,[GLEN PAUL SOSNOWSKI],SOSNADER,,,,,9/13/1991 - 8/22/1996,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"

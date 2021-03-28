@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+111215,1291705,SARAH,"[SARAH HANCOCK ANDERSON, SARAH  HANCOCKANDERSON, Sarah Helen Hancock-Smith]",HANCOCK,3/23/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Texas"",
+  ""Allegations"" : ""Hancock engaged in fraudulent business practices which are in violation of Section 14.A (3) of the Act. From 2007 through 2009, Hancock had the ability to directly withdraw management fees from clients' accounts based on the value of said accounts. During this time she withdrew management fees in excess of the amount that were actually due and misrepresented portfolio valuations on invoices for clients. Hancock withdrew $1,611,291 from one client's account for management fees; however the actual amount that should have been charged was less than $45,000. From 2010 through 2015 Hancock changed her custodian; however, she maintained the ability to directly withdraw management fees from clients' accounts.  Hancock continued to misrepresent the value of profiles in order to collect higher fees. For one client she valued her account at $1,619,152 when it was actually valued at $24,244.70."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation""
+  }, {
+    ""Sanctions"" : ""Undertaking""
+  } ]
+}",1/21/1999 - 4/15/2016,"HANCOCK-SMITH, LLC (111215)"
+111215,1291705,SARAH,"[SARAH HANCOCK ANDERSON, SARAH  HANCOCKANDERSON, Sarah Helen Hancock-Smith]",HANCOCK,,,,,8/8/1990 - 10/1/1992,"MML INVESTORS SERVICES, INC. (10409)"
+111215,1291705,SARAH,"[SARAH HANCOCK ANDERSON, SARAH  HANCOCKANDERSON, Sarah Helen Hancock-Smith]",HANCOCK,,,,,9/14/1987 - 7/3/1990,MAY FINANCIAL CORPORATION (3927)
+111215,1291705,SARAH,"[SARAH HANCOCK ANDERSON, SARAH  HANCOCKANDERSON, Sarah Helen Hancock-Smith]",HANCOCK,,,,,5/10/1985 - 8/17/1987,"EPPLER, GUERIN & TURNER, INC. (260)"
+111215,1291705,SARAH,"[SARAH HANCOCK ANDERSON, SARAH  HANCOCKANDERSON, Sarah Helen Hancock-Smith]",HANCOCK,,,,,8/21/1984 - 3/15/1985,WILLIAM BLAIR & COMPANY (1252)

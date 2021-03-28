@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4886725,Christopher,[Chris  Lewein],Lewein,7/20/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT ALLEGE MISREPRESENTATION REGARDING A STRUCTURE PRODUCT 11/15/2012"",
+  ""Damage Amount Requested"" : ""$6,372.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/31/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4886725,Christopher,[Chris  Lewein],Lewein,10/28/2008,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT CLAIMS THAT REP DID NOT FOLLOW HIS INSTRUCTIONS TO LIQUIDATE HIS ACCOUNT."",
+  ""Damage Amount Requested"" : ""$6,940.00"",
+  ""Settlement Amount"" : ""$6,940.30"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/1/2012 - 5/30/2017,"BMO HARRIS FINANCIAL ADVISORS, INC. (137115)"
+17868,4886725,Christopher,[Chris  Lewein],Lewein,,,,,4/20/2012 - 8/1/2012,"M&I FINANCIAL ADVISORS, INC. (16517)"
+17868,4886725,Christopher,[Chris  Lewein],Lewein,,,,,4/29/2010 - 4/19/2012,M&I INVESTMENT MANAGEMENT CORP. (109802)
+17868,4886725,Christopher,[Chris  Lewein],Lewein,,,,,8/1/2007 - 8/1/2012,"M&I FINANCIAL ADVISORS, INC (16517)"
+17868,4886725,Christopher,[Chris  Lewein],Lewein,,,,,3/29/2005 - 8/2/2007,THRIVENT INVESTMENT MANAGEMENT INC. (18387)

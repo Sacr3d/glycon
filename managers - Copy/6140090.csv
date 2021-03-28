@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+453,6140090,MICHAEL,[],SPARKS,3/9/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016051183501"",
+  ""DocketNumberAAO"" : ""2016051183501"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Sparks failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/12/2017"",
+      ""End Date"" : ""7/31/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated March 9, 2017, and April 3, 2017, respectively, on June 12, 2017, Sparks is barred from association with any FINRA member in all capacities. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in all capacities. On July 9, 2017, Sparks appealed the bar to the Securities and Exchange Commission (SEC). The bar remains in effect while on appeal.  Bar vacated on July 31, 2017.  Order dismissing application for review, SEC Admin Release 81787 / September 29, 2017, File No. 3-18069: On June 12, 2017, FINRA barred applicant Michael A. Sparks, formerly an associated person of a FINRA member firm, pursuant to FINRA Rule 9552, from associating with any FINRA member firm for failing to respond to requests for information under FINRA Rule 8210. Sparks filed an application for review of FINRA's decision with the Commission on July 9, 2017. On August 2, 2017, FINRA filed a motion to dismiss the proceeding as moot, stay the requirement to file a certified record and index, and stay the briefing schedule. FINRA's motion included a letter dated July 31, 2017, in which FINRA vacated the bar imposed on Sparks. Under the circumstances, the SEC perceives it appropriate to grant FINRA's motion to dismiss Sparks's application for review as moot. Accordingly, it is ordered that Michael A. Sparks's application for review be, and it hereby is, dismissed. In light of the Commission's disposition, the Commission denied as moot FINRA's requests that the Commission should stay the requirement to file a certified record and index and stay the briefing schedule.""
+}",6/3/2013 - 10/8/2015,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,6140090,MICHAEL,[],SPARKS,8/4/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The client alleges the FC engaged in excessive trading when he recommended the client sell Allianz mutual fund and purchase Elkhorn UIT."",
+  ""Damage Amount Requested"" : ""$5,242.60"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/7/2012 - 3/7/2013,"DMG SECURITIES, INC. (15480)"

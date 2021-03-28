@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108050,1410953,WAYNE,[],FARNSWORTH,6/14/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Former client alleges, more than 6 years after the purchase of a variable annuity, that the recommendation was unsuitable."",
+  ""Damage Amount Requested"" : ""$147,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""These allegations are completely false""
+}",4/21/1999 - Current,"VALMARK ADVISERS, INC. (108050)"
+108050,1410953,WAYNE,[],FARNSWORTH,,,,,3/9/1998 - Current,"VALMARK SECURITIES, INC. (31243)"
+108050,1410953,WAYNE,[],FARNSWORTH,,,,,5/19/1986 - 3/17/1998,"BMA FINANCIAL SERVICES, INC. (7943)"

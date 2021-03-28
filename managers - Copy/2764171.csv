@@ -1,0 +1,70 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,12/16/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,251.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",8/19/2020 - Current,WEILD & CO. (132398)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,10/25/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$23,019.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",1/10/2018 - 9/15/2020,EMERSON EQUITY LLC (130032)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,7/14/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$19,139.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",11/16/2015 - 1/3/2017,LAMPERT CAPITAL MARKETS INC. (103725)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,4/22/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$59,093.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",4/3/2009 - 10/8/2010,EMERSON EQUITY LLC (130032)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,1/6/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$50,824.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",1/22/2009 - 4/7/2009,LAIDLAW & COMPANY (UK) LTD. (119037)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,5/28/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,691.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",2/6/2007 - 1/22/2009,EMERSON EQUITY LLC (130032)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,10/16/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$13,839.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",4/18/2006 - 1/22/2009,EMERSON EQUITY LLC (130032)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,11/29/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$116,356.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",1/21/2005 - 4/25/2006,SPENCER CLARKE LLC (41316)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,11/14/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$52,196.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",1/23/2004 - 1/21/2005,"LASALLE ST SECURITIES, L.L.C. (7191)"
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,7/14/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$143,015.17"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",11/4/2002 - 1/26/2004,"NATIONAL PLANNING CORPORATION (""NPC OF AMERICA"" IN FL & NY) (29604)"
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,7/14/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$144,935.27"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien represents taxes, penalties and interest.   Applicant was not registered at the time Applicant learned of the liens.""
+}",11/12/2001 - 1/26/2004,NATIONAL PLANNING CORPORATION (29604)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,12/7/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT A VARIABLE ANNUITY TRANSACTION FROM SEPTEMBER 2007 WAS UNSUITABLE."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Claim was outright denied and customer never pursued what Broker Dealer and Applicant deemed to be frivolous claims.""
+}",9/24/1997 - 11/12/2001,FSC SECURITIES CORPORATION (7461)
+132398,2764171,DAVID,[DAVID  BEACH],BEACH,6/6/2005,Customer Dispute,Pending,"{
+  ""Allegations"" : ""CUSTOMER IS CONCERNED OVER LOSS IN ACCOUNT VALUE FROM 7/2004 TO 10/2004."",
+  ""Damage Amount Requested"" : ""$42,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""MR. BEACH DENIES ANY WRONGDOING.""
+}",7/30/1996 - 9/23/1997,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

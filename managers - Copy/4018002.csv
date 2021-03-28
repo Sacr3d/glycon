@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,11/24/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Unsuitable and overconcentration of sales of non traded REITs"",
+  ""Damage Amount Requested"" : ""$80,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/2/2014 - Current,JOHNSON BRUNETTI (171168)
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,8/24/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client alleges the difference in fees as a result of charging from class A to Class F mutual fund shares were not disclosed."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""IAR explained to client the change to fee-based shares. Client(s) were given the ADV Part 2A and Asset Management Agreement was signed by participants. Both documents state the fees for American Funds,""
+}",11/16/2012 - 6/2/2014,"SILVER OAK SECURITIES, INC. (46947)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,12/28/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges that RR recommended four unsuitable non traded REITS, and that client did not receive prospectuses, and recommended fixed annuities in companies with B ratings instead of A or better ratings, and did not disclose fees on advisory accounts. Client accounts were opened April 2016.  Fixed annuity and advisory business was handled by a non affiliated entity not Silver Oak Securities Inc."",
+  ""Settlement Amount"" : ""$49,306.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""FINRA notified the firm that it has determined to close its file pertaining to the matter without taking any action. The CT Insurance Dept notified the firm that it found the client complaint \""to be unjustified (without merit) against all parties. Silver Oak settled with client with no contribution from Mr. Grossman""
+}",7/24/2012 - 4/20/2017,"SILVER OAK SECURITIES, INCORPORATED (46947)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,7/29/2011 - 5/22/2012,"HARTFORD INVESTMENT FINANCIAL SERVICES, LLC (45995)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,7/29/2011 - 5/22/2012,"HARTFORD SECURITIES DISTRIBUTION COMPANY, INC. (37819)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,7/26/2007 - 9/28/2009,"ALLIANCEBERNSTEIN INVESTMENTS, INC. (14549)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,3/21/2005 - 3/6/2007,MORGAN STANLEY DW INC. (7556)
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,3/4/2004 - 3/7/2005,"FIRST ALLIED SECURITIES, INC. (32444)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,8/1/2003 - 1/23/2004,"WALNUT STREET SECURITIES, INC. (15840)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,4/29/2003 - 8/1/2003,"NATHAN & LEWIS SECURITIES, INC. (8503)"
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,5/22/2001 - 3/10/2003,PHOENIX EQUITY PLANNING CORPORATION (3036)
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,12/17/1999 - 3/29/2001,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+171168,4018002,HEATH,[HEATH GEOFFREY GROSSMAN],GROSSMAN,,,,,12/17/1999 - 3/29/2001,IDS LIFE INSURANCE COMPANY (6321)

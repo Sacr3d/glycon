@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4188102,DANIEL,[],MILLER,11/30/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges unsuitable indexed annuity recommendation"",
+  ""Damage Amount Requested"" : ""$5,700.00"",
+  ""Settlement Amount"" : ""$5,700.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/7/2016 - 10/23/2020,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4188102,DANIEL,[],MILLER,,,,,6/16/2016 - 10/23/2020,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4188102,DANIEL,[],MILLER,,,,,4/15/2005 - 1/29/2016,"AXA ADVISORS, LLC (6627)"
+42803,4188102,DANIEL,[],MILLER,,,,,4/12/2004 - 3/11/2005,"AXA ADVISORS, LLC (6627)"

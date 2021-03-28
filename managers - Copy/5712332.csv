@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3978,5712332,NEIL,[],GUNTER,8/16/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges unsuitable recommendation of variable annuity"",
+  ""Damage Amount Requested"" : ""$8,100.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I believe the client's allegations are without merit and agree with the firm's denial of the claim because (i) the recommendation was suitable at the time of the original contract purchase, and (ii) the terms of the contract were explained to the  client in detail.""
+}",8/21/2019 - Current,LINCOLN FINANCIAL ADVISORS CORPORATION (3978)
+3978,5712332,NEIL,[],GUNTER,,,,,8/19/2019 - Current,LINCOLN FINANCIAL ADVISORS CORPORATION (3978)
+3978,5712332,NEIL,[],GUNTER,,,,,5/14/2010 - 8/28/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+3978,5712332,NEIL,[],GUNTER,,,,,1/21/2010 - 8/28/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"

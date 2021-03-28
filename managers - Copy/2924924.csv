@@ -1,0 +1,53 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,6/30/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleged that Representative did not disclose surrender fees associated with equity indexed annuity."",
+  ""Damage Amount Requested"" : ""$11,546.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/22/2014 - Current,"FIFTH THIRD SECURITIES, INC. (628)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,2/12/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""This method of debt settlement was taken to allow the legal process and the courts to arrive at a reasonable settlement for both parties for the outcome of an arbitration award arising from an employment contract dispute. This measure was taken in no way out of personal irresponsibility but on the advice of legal counsel and securities regulators (FINRA). The primary purpose, to maintain licenses through this negotiation and settlement process. The dispute was with a prior employer (MS) who was, at the time, unwilling to arrange or negotiate reasonable terms of settlement. The settlement agreement was paid in full.""
+}",12/9/2014 - Current,"FIFTH THIRD SECURITIES, INC. (628)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,2/5/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""TRANSFER OF ASSETS DELAY, POOR PERFORMANCE AND POOR SERVICE"",
+  ""Damage Amount Requested"" : ""$368,074.19"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/11/2012 - 12/3/2014,PNC INVESTMENTS (129052)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,7/5/2011,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE TRUSTEES ALLEGED UNSUITABLE RECOMMENDATIONS TO PURCHASE THREE MUTUAL FUNDS. TRADES OCCURRED IN 12/21/06 AND 6/26/07 AND POSITIONS WERE LIQUIDATED ON 10/13/08."",
+  ""Damage Amount Requested"" : ""$1,494,922.00"",
+  ""Settlement Amount"" : ""$115,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""11-01946"",
+  ""Broker Comment"" : ""STIS SETTLED THIS MATTER, WITHOUT ADMITTING ANY ALLEGATION OR REQUIRING ANY CONTRIBUTION FROM THE ADVISOR, SOLELY TO AVOID THE COSTS AND UNCERTAINTIES OF ARBITRATION. FURTHERMORE, THE CUSTOMERS ACKNOWLEDGED IN WRITING THAT THEIR LOSSES WERE CAUSED, NOT BY ANY WRONGDOING ON THE PART OF THE ADVISOR, BUT INSTEAD BY ADVERSE MARKET FORCES AND CONDITIONS BEYOND THE PARTIES' CONTROL.""
+}",12/4/2012 - 12/3/2014,PNC INVESTMENTS (129052)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,2/12/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT ALLEGED THAT HE WANTED INVESTMENTS WITH SLOW AND STEADY GROWTH AND NO RISK. THE CLIENT OWNED VARIABLE ANNUITIES AT A PREVIOUS FIRM AND RECEIVED EXTENSIVE WRITTEN DISCLOSURES ABOUT THE RISKS OF THE ANNUITIES."",
+  ""Damage Amount Requested"" : ""$56,451.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/1/2009 - 11/27/2012,MORGAN STANLEY (149777)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,12/11/2008,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE CLIENT, THROUGH HER ATTORNEY,COMPLAINED ABOUT MARKET LOSSES AND ALLEGED, AMONG OTHER THINGS THAT THE REPRESENTATIVE RECOMENDED UNSUITABLE INVESTMENTS"",
+  ""Damage Amount Requested"" : ""$1,077,000.00"",
+  ""Settlement Amount"" : ""$155,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-03692"",
+  ""Broker Comment"" : ""THE RECOMMENDATIONS AT ISSUE WERE CONSISTENT WITH THE CLIENT'S STATED INVESTMENT NEEDS AND OBJECTIVES, AND THE LOSSES WERE CAUSED, NOT BY ANY WRONGDOING ON THE PART OF THE REPRESENTATIVE OR FIRM, BUT INSTEAD BY UNFORSEEN AND UNPRECENDENTED ECONOMIC FORCES AND CONDITIONS.""
+}",4/20/2009 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,4/3/2009 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,12/9/2003 - 4/13/2009,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,11/24/2003 - 4/13/2009,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,10/13/2003 - 11/25/2003,AMSOUTH INVESTMENT MANAGEMENT COMPANY LLC (111757)
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,1/31/2003 - 9/25/2003,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,7/30/2002 - 11/3/2003,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,11/15/1999 - 7/31/2002,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+628,2924924,SCOTT,[SCOTT R BARLOW],BARLOW,,,,,9/11/1997 - 11/17/1999,PRUDENTIAL SECURITIES INCORPORATED (7471)

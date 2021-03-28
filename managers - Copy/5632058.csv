@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+106800,5632058,MARK,[],PAWLOWSKI,8/3/2013,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""DISORDERLY CONDUCE"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""DESTRUCTION OF PROPERTY +$250, MALICIOUS"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  } ]
+}",11/2/2018 - Current,"NATIXIS ADVISORS, L.P. (106800)"
+106800,5632058,MARK,[],PAWLOWSKI,,,,,9/3/2015 - Current,"NATIXIS DISTRIBUTION, L.P. (34754)"

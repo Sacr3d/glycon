@@ -1,0 +1,75 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,2856870,RYAN,[],KAUFMAN,5/1/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""19-02884"",
+  ""DocketNumberAAO"" : ""19-02884"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Kaufman failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Duration Explanation"" : ""Continues until required payment is made or discharged."",
+      ""Start Date"" : ""5/1/2020""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Kaufman is suspended on May 1, 2020 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance""
+}",8/24/2012 - 11/24/2017,"SECURITIES AMERICA, INC. (10205)"
+10205,2856870,RYAN,[],KAUFMAN,1/23/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$109,346.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Previous tax preparer missed $10-30k in 1099 income for several years. New CPA is researching, along with a credit counselor.  Both CPA and counselor may also dispute with IRS.""
+}",8/24/2012 - 11/24/2017,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,2856870,RYAN,[],KAUFMAN,4/22/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$47,791.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien was found when B/D received Notice of Levy and pulled a credit report on 6/29/16.  This is the date the Rep was made aware and the levy was quickly removed. The lien is due to a previous CPA not reporting the Rep's 1099 income correctly and the Rep believes the amount of tax owed is around $7,000, not the amount listed above. Once a correct amount is calculated by a new CPA, the amount will be paid in full.""
+}",1/28/2009 - 9/7/2012,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+10205,2856870,RYAN,[],KAUFMAN,8/16/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$39,692.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""NEITHER I NOR MY CPA, WHO HAS POWER OF ATTORNEY OVER MY FINANCIAL AFFAIRS, RECEIVED NOTIFICATION OF ANY KIND FROM THE IRS THAT THIS LIEN WAS FILED. I FIRST LEARNED OF THIS LIEN ON APRIL 17, 2013 WHEN I SAW IT LISTED ON MY CREDIT REPORT.""
+}",1/27/2009 - 9/7/2012,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+10205,2856870,RYAN,[],KAUFMAN,5/29/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""MISREPRESENTATION OF TERMS OF VA PURCHASED; MARKET LOSS OF INVESTMENTS."",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/4/2006 - 2/3/2009,"SAGEPOINT FINANCIAL, INC. (133763)"
+10205,2856870,RYAN,[],KAUFMAN,6/17/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES SHE INCURRED $26,510.00 TAX LIABILITY AS A RESULT OF IMPROPER ADVICE FROM THE FINANCIAL CONSULTANT. ORIGINAL PURCHASE WAS APRIL 1, 2002."",
+  ""Damage Amount Requested"" : ""$26,510.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AS A RESULT OF FIRM'S INVESTIGATION IT APPEARS THE FINANCIAL CONSULTANT PROCESSED THE TRANSACTION PER THE CLIENT'S INSTRUCTIONS. CLIENT WAS PROVIDED WITH FULL AND FAIR DISCLOSURE AND THE TRADE APPEARS SUITABLE. REPRESENTATIVE'S STATEMENT: REQUEST WAS UNSOLICITED. THIS EVENT IS NO LONGER REPORTABLE.""
+}",7/18/2006 - 9/30/2006,"AIG FINANCIAL ADVISORS, INC. (133763)"
+10205,2856870,RYAN,[],KAUFMAN,10/1/2001,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THE FINANCIAL CONSULTANT NEVER INFORMED HER THAT HER MONEY WAS INVESTED IN THE MARKET. DATE OF PURCHASE 2/8/99 AND 8/30/99."",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLIENT MADE FIVE ADDITIONAL PURCHASES AND SIGNED DOCUMENTATION INDICATING SHE UNDERSTOOD THE NATURE OF THE INVESTMENT.""
+}",10/31/2005 - 9/30/2006,"AIG FINANCIAL ADVISORS, INC. (133763)"
+10205,2856870,RYAN,[],KAUFMAN,3/13/2001,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT'S SON ALLEGES THE FINANCIAL CONSULTANT MISLEAD HIS MOTHER REGARDING THE TYPE OF INVESTMENT SHE WAS PURCHASING. DATE OF PURCHASE 8/00."",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THIS CUSTOMER COMPLAINT IS NO LONGER REPORTABLE. BASED ON THE INVESTIGATION IT APPEARS THE CLIENT WAS FULLY INFORMED REGARDING THE NATURE OF THE INVESTMENT AND ALL DOCUMENTATION SIGNED WAS IN GOOD ORDER.""
+}",1/7/2005 - 10/31/2005,"SUNAMERICA SECURITIES, INC. (20068)"
+10205,2856870,RYAN,[],KAUFMAN,10/26/1993,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1. CASE C23-4622: ONE COUNT OF VIOLATION OF SECTION 18.2-91 CODE OF VIRGINIA (BREAKING AND ENTERING), CASE C23-4623: ONE COUNT OF VIOLATION OF SECTION 18.2-18-18.2-51 CODE OF VIRGINIA (ACCESSORY TO MALICIOUSLY WOUND). 2. CASE C23-4622:FELONY.  CASE C23-4623:FELONY. 3. ADMINISTRATIVE \""NOL PROS\"" COURT PROCEEDING, ALL CHARGES DROPPED."",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""A. A NOLLE PROSEQUI WAS ORDERED ON COMMONWEALTH'S MOTION; BOTH CHARGES WERE DISMISSED. B. 12/13/1993""
+  } ],
+  ""Broker Comment"" : ""IN 1993 I WITNESSED AN ALTERCATION BETWEEN TWO STUDENT IN A COLLEGE DORM. ALL PARTIES INVOLVED LATER FOUND I WAS ONE OF MANY BYSTANDERS AND ALL ALLEGATIONS/CHARGES WERE DISMISSED/DROPPED.""
+}",4/19/2002 - 1/18/2005,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+10205,2856870,RYAN,[],KAUFMAN,,,,,7/8/1998 - 4/15/2002,"WM FINANCIAL SERVICES, INC. (599)"
+10205,2856870,RYAN,[],KAUFMAN,,,,,5/16/1997 - 5/8/1998,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+10205,2856870,RYAN,[],KAUFMAN,,,,,5/16/1997 - 5/8/1998,IDS LIFE INSURANCE COMPANY (6321)

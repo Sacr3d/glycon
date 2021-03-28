@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+162442,2280797,THOMAS,[],CLEARY,3/2/2007,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""07-0001"",
+  ""DocketNumberAAO"" : ""07-0001"",
+  ""Initiated By"" : ""Chicago Board Options Exchange"",
+  ""Allegations"" : ""Managing member did not register FINOP within time aloted after changing to new FINOP.  Firm violated net capital requirement due to excessive trading by managing member increasing margin"",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Undertaking""
+  } ]
+}",2/26/2021 - Current,"SENTINUS, LLC (162442)"
+162442,2280797,THOMAS,[],CLEARY,,,,,1/5/2021 - Current,"SENTINUS-HALO SECURITIES, LLC (279029)"
+162442,2280797,THOMAS,[],CLEARY,,,,,10/2/2019 - 10/5/2020,"ZACKS INVESTMENT MANAGEMENT, INC. (110897)"
+162442,2280797,THOMAS,[],CLEARY,,,,,9/20/2019 - 10/8/2020,"LBMZ SECURITIES, INC. (7874)"
+162442,2280797,THOMAS,[],CLEARY,,,,,10/18/2017 - 8/30/2019,"LASALLE ST SECURITIES, L.L.C. (7191)"
+162442,2280797,THOMAS,[],CLEARY,,,,,2/9/2000 - 10/9/2000,"SCHONFELD SECURITIES, LLC (23304)"

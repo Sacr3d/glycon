@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,3/4/2021,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019064685902"",
+  ""DocketNumberAAO"" : ""2019064685902"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Kappotis consented to the sanctions and to the entry of findings that he created a backdated document, which he knew would be submitted to FINRA. The findings stated that in connection with a routine examination of Kappotis' member firm, FINRA requested that the firm provide lists of the outside business activities (OBAs) of the firm's registered persons, and, if available, documents showing the firm's approval of those OBAs. Kappotis created a document containing a list of his OBAs. Kappotis backdated that OBA list. Kappotis knew that the document would be submitted to FINRA when he created and backdated it. The backdated document was, in fact, produced to FINRA. Although the firm had approved Kappotis' OBAs, the backdated document that Kappotis created purported to show that he had provided prior written notice to the firm of his OBAs in the form of a list when, in fact, that was not the case."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""4/5/2021"",
+      ""End Date"" : ""6/4/2021""
+    } ]
+  } ]
+}",10/8/2019 - Current,LAKERIDGE CAPITAL INC. (25005)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,3/7/2019 - Current,"EASTGATE SECURITIES, LLC (146671)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,4/25/2017 - Current,"WRIGHT INVESTORS' SERVICE DISTRIBUTORS, INC. (13645)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,3/29/2017 - Current,"USTOCKTRADE SECURITIES, INC. (16208)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,3/23/2016 - Current,BMI CAPITAL INTERNATIONAL LLC (154670)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,8/24/2020 - 2/2/2021,CURTIS POINT CAPITAL (307399)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,7/22/2019 - 10/6/2020,"CAPITAL FINANCIAL SERVICES, INC. (8408)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,1/19/2019 - 11/2/2020,"CBC SECURITIES, INC. (46153)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,7/16/2018 - 2/22/2019,DETWILER FENTON & CO. (1794)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,5/22/2017 - 10/5/2017,"CAPITAL FINANCIAL SERVICES, INC. (8408)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,4/10/2017 - 8/15/2017,NEWCASTLE DISTRIBUTORS LLC (140096)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,3/3/2016 - 6/15/2016,"WCA SECURITIES, LLC (281176)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,11/20/2015 - 7/29/2016,"PRIVATE CLIENT SERVICES, LLC (120222)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,8/14/2015 - 3/22/2016,"W G SECURITIES, LLC (140869)"
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,4/23/2007 - 12/8/2010,DETWILER FENTON & CO. (1794)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,4/12/2007 - 5/2/2011,DETWILER FENTON & CO. (1794)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,8/24/2006 - 4/13/2007,NYLIFE SECURITIES LLC (5167)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,7/29/2005 - 7/25/2006,INVESTORS CAPITAL ADVISORY (30613)
+25005,4871251,ERNEST,"[ERNEST D KAPPOTIS, ERNIE D KAPPOTIS]",KAPPOTIS,,,,,6/6/2005 - 7/25/2006,INVESTORS CAPITAL CORP. (30613)

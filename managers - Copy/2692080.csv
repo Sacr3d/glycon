@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,9/5/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$174,331.98"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This is a continuance of an existing case. This was filed incorrectly as I am waiting for an appeal hearing to settle and resolve the matter. I was told this would not be filed and have already requested a release/withdrawl of lien.""
+}",10/5/2004 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,12/28/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,396.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Blue Cross Blue Shield did not pay entire claim/bill per what they deem reasonable and customary.""
+}",9/30/2004 - Current,"SECURITIES AMERICA, INC. (10205)"
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,11/15/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,055.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Blue Cross Blue Shield paid what they deemed reasonable & customary.""
+}",7/16/2003 - 8/2/2005,"INTERNATIONAL PLANNING ALLIANCE, LLC (120701)"
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,7/7/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,972.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Blue Cross Blue Shield paid what they deem to be reasonable and customary charges.""
+}",5/3/1999 - 10/15/2004,PARK AVENUE SECURITIES LLC (46173)
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,5/2/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$81,459.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This is a continuance of the initial lien and was filed incorrectly. Have been working with the department of Treasury and council to withdraw and remove. Case is under appeal to remove and withdraw ASAP and to resolve disputed filing/judgement""
+}",11/6/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+110518,2692080,MARK,[FLETCH  FLETCHER],FLEKSHER,,,,,2/7/1996 - 11/9/1998,"W. S. GRIFFITH & CO., INC. (10410)"

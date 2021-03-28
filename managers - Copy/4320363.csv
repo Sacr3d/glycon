@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+231,4320363,KYLE,[],KROBERGER,9/6/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$12,000.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Landlord dispute over rent. The landlord kept my security deposit. From my final conversation with him, everything was fine. I was blindsided by this judgment.  My accountant has filed to get this removed as my agreement at the time was fulfilled when the landlord kept my security deposit.  Also, we have passed the 8-year timeframe.""
+}",9/10/2014 - 1/21/2020,BNY MELLON SECURITIES CORPORATION (231)
+231,4320363,KYLE,[],KROBERGER,6/12/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$36,144.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""My accountant has refiled my past tax returns and we are still waiting for their response.  We were supposed to have an answer in February 2020, but that has been delayed.  From conversations with my accountant, I will be paying a set amount of money on a monthly basis.  No other repercussions will occur.""
+}",8/25/2009 - 9/17/2014,"PIONEER FUNDS DISTRIBUTOR, INC. (24497)"
+231,4320363,KYLE,[],KROBERGER,12/2/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,087.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""My accountant has refiled my past tax returns and we are still waiting for their response.  The federal tax has to be disposed of first, and we are still waiting on a response to the federal refiling.  We expect the same actions for New Jersey as we have for the federal returns.""
+}",8/24/2009 - 9/17/2014,"PIONEER INSTITUTIONAL ASSET MANAGEMENT, INC. (138756)"
+231,4320363,KYLE,[],KROBERGER,9/19/2001,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,014.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I have still not been able to determine exactly what this is.  My accountant is working on getting this removed from my credit report, as this is now over 19 years old.""
+}",10/12/2006 - 11/25/2008,"JOHN HANCOCK ADVISERS, LLC (105790)"
+231,4320363,KYLE,[],KROBERGER,,,,,10/12/2006 - 11/25/2008,"MFC GLOBAL INVESTMENT MANAGEMENT (U.S.), LLC (106435)"
+231,4320363,KYLE,[],KROBERGER,,,,,10/10/2006 - 11/20/2008,"JOHN HANCOCK FUNDS, LLC (28262)"
+231,4320363,KYLE,[],KROBERGER,,,,,9/29/2006 - 8/1/2007,"BLACKROCK INVESTMENTS, INC. (38642)"
+231,4320363,KYLE,[],KROBERGER,,,,,9/29/2006 - 9/19/2008,"BLACKROCK INVESTMENT MANAGEMENT, LLC (108928)"
+231,4320363,KYLE,[],KROBERGER,,,,,5/23/2006 - 9/29/2006,"FAM DISTRIBUTORS, INC. (4100)"
+231,4320363,KYLE,[],KROBERGER,,,,,5/23/2006 - 9/29/2006,MERRILL LYNCH INVESTMENT MANAGERS LP (105068)
+231,4320363,KYLE,[],KROBERGER,,,,,4/15/2004 - 5/23/2006,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+231,4320363,KYLE,[],KROBERGER,,,,,1/12/2001 - 5/23/2006,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

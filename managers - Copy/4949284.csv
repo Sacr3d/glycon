@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4949284,STEPHEN,"[STEVEN TIMOTHY HALL, STEVEN  HALL, TIM  HALL]",HALL,3/5/2009,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""SC SECURITIES DIVISION"",
+  ""Allegations"" : ""STEPHEN HALL EMBEZZLED MONEY FROM A NON-PROFIT ORGANIZATION'S BANK ACCOUNT.  HE USED THE FUNDS TO PAY A PERSONAL LOAN."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Temporary/Time Limited)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""BROKER DEALER, BD AGENT, IA, OR IA REP"",
+      ""Duration"" : ""5 YEARS"",
+      ""Start Date"" : ""10/30/2009"",
+      ""End Date"" : ""10/30/2014""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  } ]
+}",5/6/2008 - 10/13/2008,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,4949284,STEPHEN,"[STEVEN TIMOTHY HALL, STEVEN  HALL, TIM  HALL]",HALL,11/9/2006,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""SOUTH CAROLINA DEPT OF INSURANCE"",
+  ""Allegations"" : ""DID NOT PAY THE $20 FEE TO THOMPSON PROMETRIC FOR THE REPORTING OF MY CE CREDIT HOURS"",
+  ""Resolution"" : ""Other"",
+  ""SanctionDetails"" : [ ]
+}",4/20/2007 - 4/4/2008,NEW ENGLAND SECURITIES (615)

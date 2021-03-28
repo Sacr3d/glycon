@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,8/12/2020,Financial,Pending,"{
+  ""Type"" : ""Compromise""
+}",10/5/2011 - Current,NYLIFE SECURITIES LLC (5167)
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,3/3/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,902.36"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",11/14/2000 - 9/14/2001,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,12/16/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$32,432.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",4/1/1996 - 3/18/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,7/21/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,380.37"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",6/3/1987 - 4/5/1990,PRUCO SECURITIES CORPORATION (5685)
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,4/11/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,516.23"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+5167,1667688,JOHN,[JOHN  ROMANO],ROMANO,2/7/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,153.49"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,

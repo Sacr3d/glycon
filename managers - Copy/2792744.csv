@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+143974,2792744,HOUSTON,[],HARRISON,12/18/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Arkansas"",
+  ""Allegations"" : ""Harrison sold unregistered securities to clients without proper registration."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Investment Adviser"",
+      ""Duration"" : ""5 years from May 31, 2019"",
+      ""Start Date"" : ""5/31/2019"",
+      ""End Date"" : ""5/31/2024""
+    } ]
+  } ],
+  ""Sanctions"" : ""Harrison will not apply for registration with the Department for a period of five calendar years from the date of May 31, 2019""
+}",2/2/2015 - 5/31/2019,"HRH FINANCIAL, LLC (143974)"
+143974,2792744,HOUSTON,[],HARRISON,7/16/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,793.44"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This was from the 2012 business tax return and is currently being researched by my tax preparer.""
+}",5/23/2007 - 12/31/2014,"HRH FINANCIAL, LLC (143974)"
+143974,2792744,HOUSTON,[],HARRISON,8/19/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$57,300.71"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This has been paid down to a current IRS debt of $19,916.13 and \""dead filed\"" with the IRS without active collection efforts due to annual tax refunds of $10,000+ for the past 4 years going toward past-due tax debt.""
+}",7/19/2004 - 1/18/2007,METLIFE SECURITIES INC. (14251)
+143974,2792744,HOUSTON,[],HARRISON,,,,,7/19/2004 - 1/18/2007,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+143974,2792744,HOUSTON,[],HARRISON,,,,,1/22/2003 - 7/16/2004,SNIDER RETIREMENT STRATEGIES (117392)
+143974,2792744,HOUSTON,[],HARRISON,,,,,4/19/2002 - 6/1/2004,"SUNAMERICA SECURITIES, INC. (20068)"
+143974,2792744,HOUSTON,[],HARRISON,,,,,10/1/2001 - 4/17/2002,"NATIONWIDE SECURITIES, INC. (11173)"
+143974,2792744,HOUSTON,[],HARRISON,,,,,1/19/2001 - 9/17/2001,1717 CAPITAL MANAGEMENT COMPANY (4082)
+143974,2792744,HOUSTON,[],HARRISON,,,,,11/20/1996 - 11/16/2000,METLIFE SECURITIES INC. (14251)
+143974,2792744,HOUSTON,[],HARRISON,,,,,11/20/1996 - 11/16/2000,METROPOLITAN LIFE INSURANCE COMPANY (4095)

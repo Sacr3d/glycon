@@ -1,0 +1,32 @@
+ID,FIRSTNAME,OTHERNAMES,SECONDNAME,DISCLOSUREDATE,DISCLOSURETYPE,DISCLOSURERESULT,DISCLOSUREINFO,FINRAEMPLOYMENTDATES,FINRAEMPLOYMENT
+852529,JOHN,[],WAGNER,4/21/2014,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT CLAIMS A TOTAL LOSS OF $270,000 IN TWO SECURITIES: A PRIVATE PLACEMENT AND A REAL ESTATE INVESTMENT."",
+  ""Damage Amount Requested"" : ""$270,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""UPON REVIEW BY ZIEGLER, THE FIRM HAS MADE A GOOD FAITH DETERMINATION THAT THERE HAS BEEN NO LOSS ON THE CLIENT'S PRIVATE PLACEMENT INVESTMENT, TO DATE. THE REAL ESTATE INVESTMENT HAS NO SECONDARY MARKET AND IS STILL OPERATING. GAINS OR LOSSES ARE ONLY ESTIMATES AS THE INVESTMENT REMAINS ACTIVE.""
+}",3/16/2018 - 5/11/2018,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+852529,JOHN,[],WAGNER,10/15/2012,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""negligent misrepresentation; suitability; negligence; violation of Wisconsin Uniform Securities Act"",
+  ""Damage Amount Requested"" : ""$400,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""12-03607"",
+  ""arbitrationDocketNumber"" : """"
+}",5/30/1978 - 3/16/2018,B. C. ZIEGLER AND COMPANY (61)
+852529,JOHN,[],WAGNER,8/23/2012,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT IS QUESTIONING THE SUITABILITY OF AN INVESTMENT."",
+  ""Damage Amount Requested"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+852529,JOHN,[],WAGNER,1/3/2011,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER IS ALLEGING THEIR INVESTMENTS MADE IN THE ERICKSON BONDS AND OTHER NON-CONVENTIONAL INVESTMENTS WERE UNSUITABLE. THEY ARE ALSO ALLEGING NEGLIGENCE, BREACH OF FIDUCIARY DUTY, NEGLIGENT SUPERVISION AND BREACH OF CONTRACT."",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""Settlement Amount"" : ""$250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""10-05655"",
+  ""Broker Comment"" : ""WITHOUT THE ADMISSION OF LIABILITY, WRONGDOING, FAULT OR DAMAGES WHATSOEVER, AND IN AN EFFORT TO AVOID THE COST OF LITIGATION, THE PARTIES AGREED TO SETTLE THIS MATTER.""
+}",,

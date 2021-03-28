@@ -1,0 +1,6 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,7111311,Dwayne,"[DJ  Walker, Dwayne Lenord Walker]",Walker,7/30/2018,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""This Chapter 7 Bankruptcy is discharged and closed. This was caused due to an extended period of unemployment.""
+}",1/1/2020 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+28784,2793693,JOHN,[JOHN WILLIAM BUCKINHAM],BUCKINGHAM,6/19/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""the complaint includes the boilerplate allegations of unsuitability, breach of fiduciary duty, negligence and failure to supervise from September 2011 through February 2020"",
+  ""Damage Amount Requested"" : ""$305,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The claim represents damages in the amount of $305,000 based on a theoretical return constructed with the benefit of hindsight. in reality the clients net out of pocket losses were less than $8000 based on preliminary calculations. the firm believes the allegations to be without merit and will vigorously defend against these claims.""
+}",3/13/2009 - 9/29/2020,"FORTA FINANCIAL GROUP, INC. (28784)"
+28784,2793693,JOHN,[JOHN WILLIAM BUCKINHAM],BUCKINGHAM,6/13/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNSUITABLE RECOMMENDATIONS BETWEEN JUNE 2013 AND JUNE 2016."",
+  ""Damage Amount Requested"" : ""$18,297.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""without admitting or denying any wrongdoing the firm and Mr. Buckingham made a business decision to settle this matter rather than continue to dispute the allegations which would cost an unknown additional amount of time, effort and money.""
+}",12/15/2006 - 3/16/2009,WEDBUSH MORGAN SECURITIES INC. (877)
+28784,2793693,JOHN,[JOHN WILLIAM BUCKINHAM],BUCKINGHAM,4/1/2011,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES THAT IN REFERENCE TO A VARIABLE ANNUITY MR. BUCKINGHAM MADE ERRORS IN PROCESSING AN ORDER WITH RESPECT TO AN AIG SUN AMERICA ANNUITY WHERE HE ALLEGEDLY SELECTED THE INCORRECT ANNUITY. ADDITIONALLY, THE CLAIMANT ALLEGES THAT SHE NEVER RECEIVED DOCUMENTATION REGARDING THE ERROR, WHICH INCLUDED PLACING THE ACCOUNT IN THE NAME OF WEDBUSH, AS TRUSTEE."",
+  ""Damage Amount Requested"" : ""$34,383.00"",
+  ""Settlement Amount"" : ""$23,625.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""11-00803"",
+  ""Broker Comment"" : ""WHILE THE FIRM AGREED WITH MR. BUCKINGHAM THAT THE CLAIMS HAD NO MERIT, IT WAS DETERMINED THAT THE AMOUNT OF THE SETTLEMENT WOULD BE LESS THAN THE COST OF A SUCCESSFUL DEFENSE. MR. BUCKINGHAM WAS NOT CONSULTED DURING THE FINAL SETTLEMENT PROCESS AND WAS NOT ASKED TO CONTRIBUTE TO THE SETTLEMENT.""
+}",10/20/2006 - 1/12/2007,B. C. ZIEGLER AND COMPANY (61)
+28784,2793693,JOHN,[JOHN WILLIAM BUCKINHAM],BUCKINGHAM,,,,,11/13/2001 - 1/12/2007,B. C. ZIEGLER AND COMPANY (61)
+28784,2793693,JOHN,[JOHN WILLIAM BUCKINHAM],BUCKINGHAM,,,,,9/23/1996 - 11/9/2001,"STRONG INVESTMENTS, INC. (15658)"

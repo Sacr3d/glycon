@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+453,1593570,GAREY,[],MITCHELL,11/24/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Kentucky Dept. of Financial Institutions"",
+  ""Allegations"" : ""Garey Mitchell was employed by J.J.B. Hilliard, W.L. Lyons, Inc. (Hilliard Lyons). He was accused of the conversion or misappropriation of certain funds of some public customers while employed with Hilliard Lyons. He was discharged. Per a telephone conversation with a member of Hilliard & Lyons compliance staff on May 4, 1998, it was indicated that Hilliard & Lyons withheld Mitchell's commissions and reimbursed the customers. Other complaints against Mr. Mitchell were made by other public customers. All customers have now received full restitution."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar""
+  } ],
+  ""Sanction Details"" : ""An investigation was conducted into the affairs of the Respondent. Pursuant to an agreed settlement, he agreed to never violate the Securities Act of Kentucky in the future. Futhermnore, he agreed to never violate the regulations enacted pursuant to the Securities Act of Kentucky or Orders of the Commissioner entered pursuant thereto. He also agreed to a permanet bar of his ability to obtain a Registration as an agent commencing immediately and waived any right to a hearing and/or appeal of the matter.""
+}",12/26/1986 - 4/3/1997,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+453,1593570,GAREY,[],MITCHELL,8/6/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C05980030"",
+  ""DocketNumberAAO"" : ""05980030"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$125,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement/Restitution""
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ]
+}",,

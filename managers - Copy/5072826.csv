@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,7/10/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,335.99"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I met with IRS on 8/20/19 which was the earliest appt I could make after learning of lien.  This lien goes back to securities that were sold in 2014, 2015 and 2016 where there was no cost basis input into the system.  I spoke to IRS and have submitted all required documents and they are in the process of removing and assessing if any taxes are owed for those tax events.  The estimate is that approximately $200 will be owed. It will take the IRS approximately 8-12 weeks to finish.""
+}",8/30/2019 - Current,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,5/27/2011 - 9/9/2019,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,4/30/2010 - 9/9/2019,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,2/27/2008 - 12/3/2009,"BBVA COMPASS INVESTMENT SOLUTIONS, INC (17086)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,4/26/2006 - 3/17/2008,"NEXT FINANCIAL GROUP, INC. (46214)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,4/13/2006 - 3/17/2008,"NEXT FINANCIAL GROUP, INC. (46214)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,3/2/2006 - 4/13/2006,"CRI SECURITIES, LLC (22589)"
+7691,5072826,ALAN,[Alan  Schmidt],SCHMIDT,,,,,3/2/2006 - 4/13/2006,"SECURIAN FINANCIAL SERVICES, INC. (15296)"

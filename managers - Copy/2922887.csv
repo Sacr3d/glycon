@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,8/3/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$56,657.07"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR said he is under an installment agreement for the outstanding balance.""
+}",2/13/2019 - Current,"GUERNSEY FINANCIAL, LLC (299037)"
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,1/14/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$101,128.12"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR said he is under an installment agreement for the outstanding balance.""
+}",7/26/2011 - 2/8/2019,PARK AVENUE SECURITIES LLC (46173)
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,9/23/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$38,224.58"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR said he is under an installment agreement for the outstanding balance.""
+}",5/3/1999 - 2/8/2019,PARK AVENUE SECURITIES LLC (46173)
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,8/17/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$25,293.60"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR said he is under an installment agreement for the outstanding balance.""
+}",11/17/1997 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,6/17/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES MISREPRESENTATION SINCE THE VARIABLE ANNUITY CONTRACT SHE PURCHASED DID NOT INCLUDE A RIDER SHE HAD REQUESTED."",
+  ""Settlement Amount"" : ""$114,583.75"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+299037,2922887,DOUGLAS,[DOUGLAS KENT GUERNSEY],GUERNSEY,2/18/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THAT PAS RR DOUGLAS GUERNSEY FAILED TO FOLLOW HIS INSTRUCTIONS TO MOVE THE FUNDS IN HIS VARIABLE ANNUITY TO A CASH POSITION."",
+  ""Damage Amount Requested"" : ""$40,000.00"",
+  ""Settlement Amount"" : ""$47,284.91"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""COMPLIANT WAS SETTLED WITHOUT ANY ADMISSION OF LIABILITY BY THE FIRM.""
+}",,

@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4160429,BENJAMIN,[],LACHECKI,9/13/2016,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Payment Plan"",
+  ""Broker Comment"" : ""This bankruptcy filing was converted from a Chapter 7 to a Chapter 11 bankruptcy on 03/28/2017. The bankruptcy is closed and there is a payment plan in place wherein monthly payments are made to secured and unsecured creditors for five years. When the payment plan is satisfied, a petition for discharge can be made.""
+}",6/3/2002 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4160429,BENJAMIN,[],LACHECKI,3/12/2010,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT ALLEGES CONCERNS WITH THE ADVICE TO MOVE FROM ONE ANNUITY TO ANOTHER."",
+  ""Damage Amount Requested"" : ""$18,794.80"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/5/2001 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"

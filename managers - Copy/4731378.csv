@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,4731378,MIKAEL,[Mike  Lee],LEE,12/27/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""client Alleges unauthorized trades and misrepresentation of investment terms. (11/05/2013-10/06/2015)"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""After an investigation by WFA, no evidence of misconduct was found to have occurred concerning the client's account and therefore the complaint was denied in its entirety.  The matter has been closed by WFA""
+}",3/25/2017 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,4731378,MIKAEL,[Mike  Lee],LEE,10/21/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""WELLS FARGO ADVISORS, LLC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""FA initiated customer trades without receiving the proper authorization on the day of the trades or, alternatively, without having written discretionary authority. FA did not benefit financially because the trades occurred in a fee-based account.""
+}",12/17/2015 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"
+10409,4731378,MIKAEL,[Mike  Lee],LEE,,,,,4/6/2010 - 10/26/2015,"WELLS FARGO ADVISORS, LLC (19616)"
+10409,4731378,MIKAEL,[Mike  Lee],LEE,,,,,4/5/2010 - 10/26/2015,"WELLS FARGO ADVISORS, LLC (19616)"
+10409,4731378,MIKAEL,[Mike  Lee],LEE,,,,,1/1/2010 - 4/1/2010,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+10409,4731378,MIKAEL,[Mike  Lee],LEE,,,,,10/8/2004 - 4/1/2010,"U.S. BANCORP INVESTMENTS, INC. (17868)"

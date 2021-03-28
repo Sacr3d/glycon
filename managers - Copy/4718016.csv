@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+145323,4718016,Amir,[AMIR A ATABAKI],Atabaki,5/9/2020,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""False identification to a police officer."",
+    ""Disposition"" : ""Court date is 8/6/20 and there is discussion that these charges may be dropped."",
+    ""Amended Charges"" : ""Court date is 8/6/20 and there is discussion that these charges may be dropped."",
+    ""Amended Charge Type"" : ""MISDEMEANOR""
+  } ],
+  ""Broker Comment"" : ""Case was dismissed.""
+}",9/29/2020 - Current,"HIGHTOWER ADVISORS, LLC (145323)"
+145323,4718016,Amir,[AMIR A ATABAKI],Atabaki,,,,,6/2/2020 - 11/16/2020,FRONTIER INVESTMENT MANAGEMENT CO (110430)
+145323,4718016,Amir,[AMIR A ATABAKI],Atabaki,,,,,4/6/2007 - 6/3/2008,"WACHOVIA SECURITIES, LLC (19616)"
+145323,4718016,Amir,[AMIR A ATABAKI],Atabaki,,,,,3/19/2007 - 6/3/2008,"WACHOVIA SECURITIES, LLC (19616)"

@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108208,2832650,TODD,[],SMITH,3/12/2018,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Customer alleges forgery in connection with their execution of a margin agreement on their account application.  Activity period - 10/26/15 to 03/12/2018"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The client was charged about $11.75 in margin interest due to a duplicate check issued in error.  The account was not under my control when this occurred as I had voluntarily resigned from LPL 11 months prior and moved to a different firm.  The client moved her accounts to me at my new firm about 2 days before she filed the complaint with LPL.""
+}",2/14/2017 - Current,INVESTMENT RESEARCH CORP (108208)
+108208,2832650,TODD,[],SMITH,3/14/2008,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""COMPLAINT ABOUT AUCTION RATE SECURITY THAT ALLEGED MISREPRESENTATION AND FAILURE TO FOLLOW INSTRUCTIONS. DAMAGES UNSPECIFIED."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Customer purchased an auction rate security in an unsolicited order.  Auction markets became illiquid due to the credit crisis and the customer was delayed in receiving his original principal.  Customer received an increase in interest payments from the issuer, while the auction rate markets were illiquid, and received his original principal.  I was no longer at Smith Barney when the auction rate markets were illiquid and the complaint came 3 years after customer purchased the security.""
+}",2/13/2017 - Current,"WORLD CAPITAL BROKERAGE, INC. (37)"
+108208,2832650,TODD,[],SMITH,,,,,10/26/2009 - 2/6/2017,LPL FINANCIAL LLC (6413)
+108208,2832650,TODD,[],SMITH,,,,,10/22/2009 - 2/6/2017,LPL FINANCIAL LLC (6413)
+108208,2832650,TODD,[],SMITH,,,,,6/1/2009 - 10/23/2009,MORGAN STANLEY SMITH BARNEY (149777)
+108208,2832650,TODD,[],SMITH,,,,,4/2/2007 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+108208,2832650,TODD,[],SMITH,,,,,11/13/2006 - 4/2/2007,MORGAN STANLEY (7556)
+108208,2832650,TODD,[],SMITH,,,,,11/10/2006 - 4/2/2007,MORGAN STANLEY DW INC. (7556)
+108208,2832650,TODD,[],SMITH,,,,,6/19/2000 - 11/17/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+108208,2832650,TODD,[],SMITH,,,,,7/7/1998 - 11/17/2006,CITIGROUP GLOBAL MARKETS INC. (7059)

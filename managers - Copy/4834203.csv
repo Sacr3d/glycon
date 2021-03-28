@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4834203,TIMOTHY,[],JOHNSTON,3/1/2016,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""The condo was sold in a short sale process. The sales price was approved by Wells Fargo Home Mortgage and the mortgage account was closed without further financial obligation. This is reflected within Wells Fargo Home Mortgage with the Account Status of \""Closed - Paid and Closed\"" and the Payment Status as \""Current.\""""
+}",3/3/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4834203,TIMOTHY,[],JOHNSTON,,,,,2/27/2007 - 12/31/2016,"FARMERS FINANCIAL SOLUTIONS, LLC (103863)"
+17868,4834203,TIMOTHY,[],JOHNSTON,,,,,3/30/2006 - 2/15/2007,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4834203,TIMOTHY,[],JOHNSTON,,,,,3/7/2005 - 2/15/2007,"U.S. BANCORP INVESTMENTS, INC. (17868)"

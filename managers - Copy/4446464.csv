@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,10/30/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Charles Schwab & Co., Inc."",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""Allegations of inaccurate documentation in the Firm's note taking systems contrary to the Firm's Workplace Behavior Expectations Policy.""
+}",3/15/2021 - Current,FISHER INVESTMENTS (107342)
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,1/28/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the representative's recommendation to invest in Schwab Intelligent Portfolios (SIP)constituted poor advice and requests reimbursement for losses associated with this investment.   Activity period was from 5/21/2015 to 2/9/16."",
+  ""Damage Amount Requested"" : ""$120,000.00"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The firm settled the complaint as a customer service gesture to avoid the cost and uncertainty of litigation, with no admission of wrongdoing and no monetary contribution from the representative.""
+}",6/12/2009 - 11/25/2020,"CHARLES SCHWAB & CO., INC. (5393)"
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,9/26/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""FL RESIDENT WRITES THAT HE TOLD HIS FA HE WAS INTERESTED IN AN INVESTMENT THAT WOULD NOT  LOSE PRINCIPAL.  HE ALSO WRITES THAT HE RECEIVED BAD ADVICE AND HAS PRINCIPAL LOSSES ON THE FIDELITY ADVISOR FREEDOM 2015 THAT HE PURCHASED ON 5/15/07 FOR $43,007.50.  THE CLIENT CURRENTLY HAS PRINCIPAL LOSSES OF $7,279.74."",
+  ""Damage Amount Requested"" : ""$7,279.74"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""DENIED BY FIRM.  THE FIDELITY ADVISOR FREEDOM 2015 WAS IN LINE WITH THE CLIENT'S STATED INVESTMENT OBJECTIVES.  FA EXPLAINED TERMS AND FEATURES OF INVESTMENT TO CLIENT, INCLUDING THE RISK OF MARKET LOSSES.  CLIENT SIGNED DISCLOSURE DOCUMENT AT POINT OF SALE THAT REVIEWED IN WRITING THAT THE CLIENT'S MUTUAL FUND WOULD FLUCTUATE IN VALUE AND INVOLVES RISK, INCLUDING THE POTENTIAL LOSS OF PRINCIPAL.""
+}",6/9/2009 - 11/25/2020,"CHARLES SCHWAB & CO., INC. (5393)"
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,4/20/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT DISSATISFIED WITH PERFORMANCE OF MUTUAL FUNDS"",
+  ""Damage Amount Requested"" : ""$22,189.00"",
+  ""Settlement Amount"" : ""$10,659.50"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/13/2004 - 5/29/2009,"WELLS FARGO ADVISORS, LLC (19616)"
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,,,,,8/12/2004 - 5/29/2009,"WELLS FARGO ADVISORS, LLC (19616)"
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,,,,,12/3/2001 - 8/4/2004,CHASE INVESTMENT SERVICES CORP. (25574)
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,,,,,11/19/2001 - 8/4/2004,CHASE INVESTMENT SERVICES CORP. (25574)
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,,,,,10/2/2001 - 11/19/2001,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+107342,4446464,ILLYA,[ILLYA M BERMANT],BERMANT,,,,,10/2/2001 - 11/19/2001,IDS LIFE INSURANCE COMPANY (6321)

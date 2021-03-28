@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+866,2700798,JOHN,[],LARSON,10/27/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017054082401"",
+  ""DocketNumberAAO"" : ""2017054082401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Larson consented to the sanction and to the entry of findings that he refused to provide information and documents as requested by FINRA in connection with FINRA's investigation into allegations that were filed by his member firm on a Form U5 terminating Larson's registration. The findings stated that the firm filing stated that Larson was permitted to resign during an investigation related to irregularities in expense reports submitted through the company's expense reimbursement process."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""all capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""10/27/2017""
+    } ]
+  } ]
+}",12/15/2009 - 4/28/2017,WADDELL & REED (866)
+866,2700798,JOHN,[],LARSON,4/6/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Ivy Distributors, Inc"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""RR resigned during investigation into irregularities in expense reports submitted through the Company's expense reimbursement process, including discrepancies in vendors submitted for expense reimbursement payments and expense reimbursement payments related to accounts that appear to be held in the name of RR and/or a related party. Investigation identified violation of Company policies, including but not limited to policies on Professional Conduct, Corporate Code of Conduct, Corporate Credit Card Policy, and Employee Travel & Expense Policy. No firm clients involved in activity.""
+}",7/1/2008 - 4/28/2017,"IVY DISTRIBUTORS, INC. (16496)"
+866,2700798,JOHN,[],LARSON,9/5/1990,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""THEFT $200-$750 CHECK"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""I WAS ADDED AS A SIGNOR ON A BANK ACCOUNT OUT OF CONVENIENCE FOR THE OWNER. HE WROTE A BAD CHECK AND LEFT TOWN.""
+}",7/1/2008 - 4/28/2017,WADDELL & REED (866)
+866,2700798,JOHN,[],LARSON,,,,,2/7/2008 - 6/2/2008,"PUTNAM INVESTMENT MANAGEMENT, LLC (106629)"
+866,2700798,JOHN,[],LARSON,,,,,7/5/2006 - 2/1/2008,"PUTNAM INVESTMENT MANAGEMENT, LLC (106629)"
+866,2700798,JOHN,[],LARSON,,,,,5/21/2002 - 6/2/2008,PUTNAM RETAIL MANAGEMENT LIMITED PARTNERSHIP (7325)
+866,2700798,JOHN,[],LARSON,,,,,1/15/2002 - 5/2/2002,"JACKSON NATIONAL LIFE DISTRIBUTORS, INC. (40178)"
+866,2700798,JOHN,[],LARSON,,,,,7/14/2000 - 5/2/2002,NATIONAL PLANNING CORPORATION (29604)
+866,2700798,JOHN,[],LARSON,,,,,3/17/2000 - 7/14/2000,LINSCO/PRIVATE LEDGER CORP. (6413)
+866,2700798,JOHN,[],LARSON,,,,,9/8/1998 - 3/28/2000,"H.D. VEST INVESTMENT SECURITIES, INC. (13686)"
+866,2700798,JOHN,[],LARSON,,,,,2/15/1996 - 4/11/1996,"LEW LIEBERBAUM & CO., INC. (17341)"

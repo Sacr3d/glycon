@@ -1,0 +1,140 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+131392,2131232,WALTER,[],PARKER,12/14/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Titan Securities was not aware of allegation or complaint until 12/14/2020 through DR Portal. Customer alleges $81,000 in damages as a result of \""Breach of Contract and Warranties, Violation of State Securities Statues, Breach of Fiduciary Duty, Negligence and Gross Negligence, Misrepresentation/Omission, Unjust Enrichment, Failure to Supervise, Common Law and Statutory Claims and Damages, Vicarious & Control Person Liability .\"" Per Statement of Claim."",
+  ""Damage Amount Requested"" : ""$81,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/1/2006 - Current,TITAN SECURITIES (131392)
+131392,2131232,WALTER,[],PARKER,12/10/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Titan Securities was not aware of allegation or complaint until 12/10/2020 through DR Portal. Customer alleges $100,000-$500,000 in damages as a result of \""Fraudulent Concealment, Violation of Common Law Fraud, Negligent Misrepresentation, Breach of Fiduciary Duty, Negligent Failure to Supervise, and Negligence.\"" Per Statement of Claim."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/1/2006 - 3/7/2018,TITAN SECURITIES (131392)
+131392,2131232,WALTER,[],PARKER,8/21/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is not happy that 4 of of investments stopped paying out distributions. Claims Parker did not tell him this could happen."",
+  ""Damage Amount Requested"" : ""$25,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/18/2004 - 12/31/2005,"ING FINANCIAL PARTNERS, INC (2882)"
+131392,2131232,WALTER,[],PARKER,7/31/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Breach of Fiduciary Duty, Negligent Supervision, Breach of Contract and Negligence"",
+  ""Damage Amount Requested"" : ""$55,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/1/2004 - 12/31/2005,"ING FINANCIAL PARTNERS, INC. (2882)"
+131392,2131232,WALTER,[],PARKER,6/17/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Allegations per SOC: Fraud, Negligience, Breach of Fiduciary Duty & Breach of Contract regarding United Development Funding IV, Cornerstone REIT & Life Partners Waco Life Settlements."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Cornerstone healthcare REIT/Sentio Healthcare REIT-[REDACTED] invested approximately $88K and had a total return to her upon liquidation of approximately $160K+.  Life Partners (approved outside business activity)-[REDACTED] invested a total of $60K in four fractional shares of life settlement policies for $15k each. Two policies matured in mid 2017 paying out $30k basis plus approximately $30K additional. The other $30k is in an IRA with a current value in excess of $8K. The trustee for the trust anticipates a payout of 90 to 95% of the total value invested over the next 10 +/- years.These projections are those of the trusee. United Development Fund-[REDACTED] invested approximately $30k partially in a traditional IRA and partially in a Roth IRA in 2011. UDF remained non-traded until mid-2014 when it listed on the NASDAQ. UDF performed extremely well until the end of 2015 when UDF was attacked (short and distort scheme) by a Hedge Fund headed by Kyle Bass. Kyle Bass is currently under investigation by the SEC as was disclosed at the last appeals court hearing. Current approximate value is in excess of $8k plus distributions of approximately $2 to $3k. UDF is expecting to release their financials within the next few months and expecting an increase in value of its shares and well as listing back on the NASDAQ.""
+}",1/1/2002 - 1/1/2004,"LOCUST STREET SECURITIES, INC. (1703)"
+131392,2131232,WALTER,[],PARKER,2/28/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Per Statement of Claim: This case involves claims for negligence, gross negligence, over-concentration, breach of fiduciary duty, breach of contract, material misrepresentations and omissions and failure to supervise."",
+  ""Damage Amount Requested"" : ""$270,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Claimant and attorney sent Titan Securities a draft SOC Arbitration for $70,000. The firm refused to settle a case which client has lost $0. Therefore SOC was filed with FINRA for Arbitration. Now SOC is asking for $270,000.""
+}",12/19/2000 - 1/1/2002,"BMA FINANCIAL SERVICES, INC. (7943)"
+131392,2131232,WALTER,[],PARKER,10/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Suitability"",
+  ""Damage Amount Requested"" : ""$85,000.00"",
+  ""Settlement Amount"" : ""$37,991.23"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/22/1995 - 3/17/2004,"BTS ASSET MANAGEMENT, INC. (105215)"
+131392,2131232,WALTER,[],PARKER,7/24/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Suitability"",
+  ""Damage Amount Requested"" : ""$183,691.00"",
+  ""Settlement Amount"" : ""$9,850.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-02577""
+}",2/25/1993 - 1/3/2001,"FORTIS INVESTORS, INC. (421)"
+131392,2131232,WALTER,[],PARKER,4/18/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016050492101"",
+  ""DocketNumberAAO"" : ""2016050492101"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Parker consented to the sanctions and to the entry of findings that he made investment recommendations to a customer that were not suitable given her age, risk tolerance, financial experience and liquidity. The findings stated that the customer had little prior experience investing and no experience investing in alternative investments. Immediately upon opening her account, Parker recommended that the customer invest her funds into illiquid, alternative investments. The source of these funds was the customer's retirement account. The customer suffered significant losses in the alternative investments. She claimed that as a result of her investment losses she was forced to obtain full-time employment. The customer later entered into a settlement with the member firm and Parker to compensate her for her losses in the accounts."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""one month"",
+      ""Start Date"" : ""5/21/2018"",
+      ""End Date"" : ""6/20/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on May 3, 2018.""
+}",3/20/1991 - 3/9/1993,"H.D. VEST INVESTMENT SECURITIES, INC. (13686)"
+131392,2131232,WALTER,[],PARKER,11/15/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claims both UDF & ARC NYC investments were unsuitable for client. UDF IV  purchased 7/18/2011 (states UDF was unsuitable for any investor and not individualized.) ARC NYC purchased 6/5/2014. States this investment is now irredeemable."",
+  ""Damage Amount Requested"" : ""$54,328.54"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+131392,2131232,WALTER,[],PARKER,10/11/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Suitability"",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""Settlement Amount"" : ""$118,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02747""
+}",,
+131392,2131232,WALTER,[],PARKER,5/25/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable product, client states that he did not understand that the product was illiquid."",
+  ""Damage Amount Requested"" : ""$37,119.00"",
+  ""Settlement Amount"" : ""$37,119.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+131392,2131232,WALTER,[],PARKER,8/12/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable product, client states that he did not understand inherent risks and that the product was illiquid."",
+  ""Settlement Amount"" : ""$70,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+131392,2131232,WALTER,[],PARKER,7/8/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable product, client states that he did not understand inherent risks and that the product was illiquid."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$16,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+131392,2131232,WALTER,[],PARKER,11/2/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable Investment / Misrepresentation of Investment"",
+  ""Damage Amount Requested"" : ""$211,974.64"",
+  ""Settlement Amount"" : ""$60,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""15-02351""
+}",,
+131392,2131232,WALTER,[],PARKER,8/31/2012,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""IN APX MAY,2010 CLIENT ALLEGES THAT PARKER RECOMMENDED THEY INVEST IN LIFE SETTLEMENTS AND A REIT THAT WERE NOT SUITABLE."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""TITAN RESPONDED WITH A DENIAL LETTER ON 9/19/2012 AND HAVE NOT HEARD ANYTHING FROM THE CLIENT OR THEIR ATTORNEY""
+}",,

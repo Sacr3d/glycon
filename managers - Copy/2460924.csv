@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,2460924,MICHAEL,[],BECKING,12/13/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""16-00854"",
+  ""DocketNumberAAO"" : ""16-00854"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Becking failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""12/13/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Becking is suspended on December 13, 2016 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",11/1/2011 - 6/22/2015,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2460924,MICHAEL,[],BECKING,4/21/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES INCORRECT AND MISLEADING INFORMATION WHICH RESULTED IN AN UNSUITABLE INVESTMENT. (03/01/2013-03/31/2013)"",
+  ""Damage Amount Requested"" : ""$97,200.00"",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/31/2011 - 6/22/2015,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2460924,MICHAEL,[],BECKING,,,,,3/8/2010 - 10/31/2011,CHASE INVESTMENT SERVICES CORP. (25574)
+19616,2460924,MICHAEL,[],BECKING,,,,,3/5/2010 - 10/31/2011,CHASE INVESTMENT SERVICES CORP. (25574)
+19616,2460924,MICHAEL,[],BECKING,,,,,1/5/2007 - 12/22/2008,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+19616,2460924,MICHAEL,[],BECKING,,,,,3/31/2006 - 1/5/2007,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+19616,2460924,MICHAEL,[],BECKING,,,,,2/14/2000 - 11/29/2001,U.S. BANCORP PIPER JAFFRAY INC. (665)
+19616,2460924,MICHAEL,[],BECKING,,,,,9/26/1997 - 1/5/2007,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+19616,2460924,MICHAEL,[],BECKING,,,,,3/23/1994 - 10/16/1997,FINANCIAL NETWORK INVESTMENT CORPORATION (13572)

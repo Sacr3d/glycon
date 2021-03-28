@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6627,2335606,CRAIG,[],HARTMAN,7/6/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016052604602"",
+  ""DocketNumberAAO"" : ""2016052604602"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Hartman was named a respondent in a FINRA complaint alleging that he willfully failed to timely disclose unsatisfied federal tax liens filed against him, in the total amount of $206,409.54, via the filing of an amended Form U4. The complaint alleges that Hartman made false statements to his member firm regarding the existence of the federal tax liens. Hartman attested, in writing, to the firm in his annual questionnaires, that the information contained in his Form U4 was accurate. The complaint also alleges that Hartman failed to timely respond to FINRA's requests for documents and information made in connection with its investigation into his failure to disclose the federal tax liens. The complaint further alleges that Hartman failed to appear and provide on-the-record testimony requested by FINRA. To date, Hartman has failed to appear and provide the requested testimony."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""12/4/2018""
+    } ]
+  } ],
+  ""Sanctions"" : ""Respondent understands that this settlement includes a finding that he willfully misrepresented and omitted to state a material fact on a Form U4, and that under Section 3(a)(39)(F) of the Securities Exchange Act of 1934 and Article III, Section 4 of FINRA's By-Laws, this omission makes Respondent subject to a statutory disqualification with respect to association with a member."",
+  ""Regulator Statement"" : ""Default decision rendered November 6, 2018. The sanction was based on findings that Hartman twice failed to appear and provide FINRA with requested on-the-record testimony related to an investigation initiated after his member firm filed a Form U5 terminating his employment with the firm for failing to amend his Form U4 in a timely manner. The findings stated that Hartman willfully failed to timely disclose federal tax liens on his Form U4 that were filed against him, in the total amount of $206,409.54 and despite a clear duty to do so. The findings also stated that Hartman twice made false statements to his member firm regarding the accuracy of his Form U4 about tax liens. The findings also included that Hartman failed to timely respond to FINRA requests for documents and information made in connection with its investigation. The decision became final December 4, 2018.""
+}",6/1/2005 - 12/21/2016,"AXA ADVISORS, LLC (6627)"
+6627,2335606,CRAIG,[],HARTMAN,12/20/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""AXA Advisors, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""RR discharged for repeated failure to amend Form U4 in a timely manner.""
+}",4/30/2003 - 6/1/2005,MONY SECURITIES CORPORATION (4386)
+6627,2335606,CRAIG,[],HARTMAN,4/8/1992,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""THE STATE OF SOUTH CAROLINA DEPT OF INSURANCE"",
+  ""Allegations"" : ""I FAILED TO DETAIL MY PRIOR CONVICTION WAS VIOLATIVE OF THAT STATUTE AND ACCORDINGLY EQUATES TO VALID GROUNDS FOR THE DENIAL OF LICENSURE AS A STATE OF SOUTH CAROLINA INSURANCE AGENT"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""ON JUNE 19 1992 THE SC DEPARTMENT OF INSURANCE GRANTED LICENSE UPON THE SUMBISSION OF A NEGOTIATED ADMINISTRATION PENALTY APPLICATION DETAILING CONVICTION"",
+  ""Broker Comment"" : ""ON MAY 27 1991 I HAD BEEN CONVICTED OF DISORDERLY CONDUCT. MY FRIEND OF RICHLAND COUNTY SHERIFF DEPT PICKED ME UP FROM THE CHARLESTON SC JAIL DUE TO THE NATURE OF HIS BUSINESS. I THOUGHT THE CHARGE WAS DROPPED BUT HE PAID MY FINE OF $50. THIS LEFT ME WITH A RECORD THAT I WAS UNAWARE OF SO WHEN FILLING OUT MY APPLICATION, I MADE AN HONEST MISTAKE WITHOUT TRYING TO COVER ANYTHING UP. THE STATE OF SC DEPT OF INSURANCE REALIZED THAT AND ISSUED MY LICENSE WITH A $500 FINE.""
+}",3/10/2003 - 6/1/2005,MONY SECURITIES CORPORATION (4386)
+6627,2335606,CRAIG,[],HARTMAN,,,,,9/10/1998 - 3/3/2003,"THE INVESTMENT CENTER, INC. (17839)"
+6627,2335606,CRAIG,[],HARTMAN,,,,,11/11/1996 - 3/3/2003,"THE INVESTMENT CENTER, INC. (17839)"
+6627,2335606,CRAIG,[],HARTMAN,,,,,11/15/1995 - 11/20/1996,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+6627,2335606,CRAIG,[],HARTMAN,,,,,10/29/1993 - 11/10/1995,NYLIFE SECURITIES INC. (5167)

@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+105360,6733411,CORY,[CORY  OSEKOWSKI],OSEKOWSKI,1/11/2009,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Forgery 1st Degree"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  } ],
+  ""Broker Comment"" : ""Charges were dismissed prior to indictment.""
+}",2/1/2017 - Current,"INVESCO ADVISERS, INC. (105360)"
+105360,6733411,CORY,[CORY  OSEKOWSKI],OSEKOWSKI,,,,,1/12/2017 - Current,"INVESCO DISTRIBUTORS, INC. (7369)"

@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,6/7/2019,Regulatory,Pending,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Washington"",
+  ""Allegations"" : ""S-19-2700-19-TO01 - Mavada Personal Wealth Management, Inc. and Patrick Ebert - Summary Order  On June 6, 2019, the Securities Division entered a Summary Order S-19-2700-19-TO01 summarily suspending the investment adviser registration of Mavada Personal Wealth Management, Inc. (CRD 130750) and the investment adviser representative registration of Patrick Ebert (CRD 2363094) (\""Summary Order\"").  The Summary Order also gave notice of the intent to revoke the registrations, impose a fine, and charge costs.  The Summary Order alleges that Respondents failed to file Mavada Personal Wealth Management's year-end balance sheet.  Respondents have a right to judicial review of the matter."",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""30 days"",
+      ""Start Date"" : ""6/7/2019"",
+      ""End Date"" : ""7/7/2019""
+    } ]
+  } ],
+  ""Sanctions"" : ""Suspension for 30 days Registration was summarily suspended pending an appeal""
+}",3/18/2004 - 2/5/2020,"MAVADA PERSONAL WEALTH MANAGEMENT, INC. (130750)"
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,9/23/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED ADVISOR FAILED TO DISCLOSE OR MISREPRESENT FACTS. CUSTOMER ALLEGED ADVISOR HAS FAILED TO REPAY AN ALLEGED PERSONAL LOAN."",
+  ""Damage Amount Requested"" : ""$13,637.49"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CUSTOMER ACKNOWLEDGED RECEIPT OF COMPLETE WRITTEN DISCLOSURE, PRIVATE PLACEMENT MEMORANDUM, SUBSCRIPTION AGREEMENT AND LLC OPERATING AGREEMENT REGARDING A PRIVATELY ISSUED REAL ESTATE SECURITY. UPON THE SUCCESSFUL COMPLETION OF THE INVESTMENT CUSTOMER BECAME CONFUSED REGARDING THE DETAIL OF THE REAL ESTATE SECURITY THE CUSTOMER PURCHASED. CUSTOMER EARNED A 54% RETURN ON HIS INVESTMENT. IN ORDER TO AVOID THE NUISANCE, EXPENSE, AND UNCERTAINTY OF CIVIL LITIGATION, MR. EBERT REACHED A AMICABLE RESOLUTION TO [CUSTOMER'S] CONCERNS. MR. EBERT DISAGREES WITH [CUSTOMER'S] CONCERNS AND DENIES THERE WAS EVER ANY MERIT TO THEM.""
+}",8/5/2002 - 2/17/2004,COLDSTREAM CAPITAL MANAGEMENT INC (108805)
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,1/14/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""[CUSTOMER] ALLEGED THAT FINANCIAL PLANNING SERVICES WERE TO BE INCLUDED IN INVESTMENT MANAGEMENT SERVICES THAT WERE CONTRACTED FOR WITH MR. EBERT.  MR. EBERT ASSERTS THAT [CUSTOMER] MISUNDERSTOOD THE SCOPE OF SERVICES TO BE PROVIDED."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$13,677.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""N ORDER TO AVOID THE NUISANCE, EXPENSE, AND UNCERTAINTY OF CIVIL LITIGATION, MR. EBERT REACHED A AMICABLE RESOLUTION TO [CUSTOMER'S] CONCERNS. MR. EBERT DISAGREES WITH [CUSTOMER'S] CONCERNS AND DENIES THERE WAS EVER ANY MERIT TO THEM.""
+}",3/21/1997 - 3/18/1998,"H.D. VEST INVESTMENT SECURITIES, INC. (13686)"
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,,,,,1/17/1996 - 10/15/1996,"INVESCO FUNDS GROUP, INC. (289)"
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,,,,,7/21/1995 - 10/3/1995,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+130750,2363094,PATRICK,[JACOB PATRICK EBERT],EBERT,,,,,7/21/1995 - 10/3/1995,IDS LIFE INSURANCE COMPANY (6321)

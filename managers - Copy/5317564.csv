@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,5317564,BRETT,[],BREEN,12/11/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The customer alleged he had been moved into a risky account that was not in his best interest."",
+  ""Damage Amount Requested"" : ""$17,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/2/2008 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5317564,BRETT,[],BREEN,,,,,6/30/2008 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5317564,BRETT,[],BREEN,,,,,12/13/2007 - 7/10/2008,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+42803,5317564,BRETT,[],BREEN,,,,,6/18/2007 - 7/10/2008,"RAYMOND JAMES & ASSOCIATES, INC. (705)"

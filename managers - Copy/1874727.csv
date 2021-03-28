@@ -1,0 +1,61 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+144426,1874727,LARRY,[],BOGGS,9/25/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES THAT HER INVESTMENT ADVISOR MADE UNSUITABLE INVESTMENT RECOMMENDATIONS.  THE COMPLAINT GENERALLY ALLEGES BREACH OF CONTRACT, VIOLATION OF ALABAMA DECEPTIVE TRADE PRACTICES ACT, AND VICARIOUS LIABILITY."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/1/2019 - Current,"INTERNATIONAL ASSETS INVESTMENT MANAGEMENT, LLC (144426)"
+144426,1874727,LARRY,[],BOGGS,2/13/2017,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""Clients allege that their Variable Annuity that was purchased in 2014 was misrepresented."",
+  ""Damages Granted"" : ""$1,488,753.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-03439""
+}",4/8/2019 - Current,"INTERNATIONAL ASSETS ADVISORY, LLC (10645)"
+144426,1874727,LARRY,[],BOGGS,6/16/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer claims her account(s) were mismanaged and she was misled into believing she could not move her account elsewhere."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/18/2014 - 4/5/2019,"FIRST ALLIED ADVISORY SERVICES, INC. (137888)"
+144426,1874727,LARRY,[],BOGGS,6/18/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES AN UNAUTHORIZED REALLOCATION OF THE SUBACCOUNTS OF HER VARIABLE ANNUITY OCCURRED AUGUST 8, 2011."",
+  ""Damage Amount Requested"" : ""$23,303.23"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/27/2011 - 4/5/2019,"FIRST ALLIED SECURITIES, INC. (32444)"
+144426,1874727,LARRY,[],BOGGS,6/24/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THE REPRESENTATIVE CONVINCED HER TO TAKE EARLY RETIREMENT, TO TAKE A LUMP SUM PAYMENT OF HER 401K, AND TO INVEST HER ROLLOVER FUNDS VARIABLE ANNUITY SUB-ACCOUNTS THAT COULD NOT SUSTAIN HIGH MONTHLY WITHDRAWALS."",
+  ""Damage Amount Requested"" : ""$310,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-02696"",
+  ""Broker Comment"" : ""THE REPRESENTATIVE DENIES ANY WRONGDOING. THIS MATTER WAS SETTLED FOR A NOMINAL AMOUNT SOLELY TO AVOID THE COSTS OF ARBITRATION.""
+}",3/4/2004 - 12/31/2004,FSC SECURITIES CORPORATION (7461)
+144426,1874727,LARRY,[],BOGGS,7/9/2007,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGES THE REPRESENTATIVE MISREPRESENTED HER INVESTMENT AND WOULD NOT MAKE CHANGES WHEN SHE REQUESTED THEM."",
+  ""Damage Amount Requested"" : ""$50,406.20"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/21/2003 - 11/3/2011,FSC SECURITIES CORPORATION (7461)
+144426,1874727,LARRY,[],BOGGS,1/10/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""DID NOT PROCESS CLIENT'S REQUEST OF REALLOCATIONS TO GLEN BROOK ANNUITY IN A TIMELY FASHION."",
+  ""Damage Amount Requested"" : ""$8,200.00"",
+  ""Settlement Amount"" : ""$8,200.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""RECEIVED INSTRUCTIONS FROM CLIENT AND COULD NOT EXECUTE CLIENT'S REALLOCATION PRIOR TO DAY'S MARKET CLOSE. TRANSACTION EXECUTED NEXT BUSINESS DAY.""
+}",12/15/1999 - 9/16/2003,"INVESTACORP, INC. (7684)"
+144426,1874727,LARRY,[],BOGGS,,,,,8/14/1998 - 12/20/1999,NEW ENGLAND SECURITIES (615)
+144426,1874727,LARRY,[],BOGGS,,,,,3/1/1996 - 8/26/1998,"MML INVESTORS SERVICES, INC. (10409)"
+144426,1874727,LARRY,[],BOGGS,,,,,6/2/1995 - 3/1/1996,"G. R. PHELPS & CO., INC. (173)"
+144426,1874727,LARRY,[],BOGGS,,,,,4/5/1991 - 7/14/1995,"KEOGLER, MORGAN & COMPANY, INC. (16546)"
+144426,1874727,LARRY,[],BOGGS,,,,,3/6/1990 - 4/8/1991,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+144426,1874727,LARRY,[],BOGGS,,,,,10/19/1988 - 2/23/1990,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+144426,1874727,LARRY,[],BOGGS,,,,,10/19/1988 - 2/23/1990,IDS LIFE INSURANCE COMPANY (6321)

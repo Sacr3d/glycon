@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,8/2/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges poor advice regarding a reallocation"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Supervisory review found that the representative followed all due diligence practices in giving advice in line with the client's stated risk tolerance. Representative will not be given any penalties or punishments, disciplinary actions, compensatory or otherwise, related to this case.  The client chose the exact amount of shares to sell and diversify. This complaint was lodged years after the transaction in question. The client and the firm, including the assignment of the client to the representative, have a continued relationship.""
+}",1/29/2020 - Current,"MANNING & NAPIER ADVISORS, LLC (105992)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,1/23/2020 - Current,"MANNING & NAPIER INVESTOR SERVICES, INC. (26266)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,5/30/2014 - 1/31/2020,"TD AMERITRADE INVESTMENT MANAGEMENT, LLC (111514)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,5/30/2014 - 1/31/2020,"TD AMERITRADE, INC. (7870)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,5/22/2014 - 1/31/2020,"TD AMERITRADE, INC. (7870)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,2/5/2013 - 5/22/2014,"MUTUAL OF OMAHA INVESTOR SERVICES, INC. (611)"
+105992,5604816,JUSTIN,"[JUSTIN A PARISI, JUSTIN  PARISI]",PARISI,,,,,10/20/2008 - 11/28/2012,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)

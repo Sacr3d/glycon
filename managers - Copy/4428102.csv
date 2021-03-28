@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,4428102,JOHN,[],TSOUKALAS,4/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that some investments she began purchasing in 2008 and have recently declined in value are allegedly unsuitable."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""Settlement Amount"" : ""$67,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Settled to avoid time and expense of litigation.""
+}",3/8/2010 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,4428102,JOHN,[],TSOUKALAS,,,,,8/15/2001 - Current,"HENNION & WALSH, INC. (25766)"

@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+155172,6153827,RUSSELL,[RUSS D MCCARY],MCCARY,10/29/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges failure to disclose risks of indexed annuity product."",
+  ""Damage Amount Requested"" : ""$7,667.49"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This customer would have signed the indexed annuity contract which details the risks associated with the product. More importantly this product was recommended for the client because he expressed concerns with market volatility and did not want to take on market risk. I was always very clear with clients regarding indexed annuities that while they provide market downside protection the cost is that one must stay in the contract until the surrender period is over. I never proceeded to have clients sign paperwork until they verbally communicated that they understood that.  After reviewing the situation, VALIC has denied the client's request for damages.""
+}",5/16/2017 - Current,PERSONAL CAPITAL ADVISORS CORPORATION (155172)
+155172,6153827,RUSSELL,[RUSS D MCCARY],MCCARY,11/21/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",2/13/2014 - 5/12/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+155172,6153827,RUSSELL,[RUSS D MCCARY],MCCARY,,,,,1/3/2014 - 5/12/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+155172,6153827,RUSSELL,[RUSS D MCCARY],MCCARY,,,,,3/29/2013 - 12/18/2013,FIDELITY BROKERAGE SERVICES LLC (7784)

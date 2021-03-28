@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,10/14/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019063229301"",
+  ""DocketNumberAAO"" : ""2019063229301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Beasley consented to the sanctions and to the entry of findings that he engaged in outside business activities without providing prior written notice to his member firms. The findings stated that Beasley incorporated a limited liability company and served as its chief executive officer. The incorporation documents for the company stated that its purpose was to market financial services products to groups, associations, clubs, organizations, companies, families and individuals. Beasley personally invested $40,000 in the company and attempted to establish it, through its website, as a financial services marketplace to provide financial counseling services and to connect subscribers with other financial services. In exchange, the company hoped to earn periodic subscriber fees. The company also used its website and other means to try to obtain partners and/or investors. The company was not able to obtain subscribers or investors. Beasley also incorporated a holding company whose stated purpose was to hold and trade assets of the limited liability company. Beasley falsely attested to a firm in written certifications that he was not engaging in any outside business activities. Beasley also engaged in outside business activities in connection with a ministry in which he served as the lead organizer and administrator. The ministry's activities included speaking engagements to church audiences regarding financial investment subjects for which Beasley occasionally received fees as well as the marketing and sale of a financial services book he had written, for which he also occasionally received fees. Beasley did not disclose this business to any of his firms until he disclosed it to one of the firms in April 2019. The findings also stated that Beasley made a false statement to potential investors and subscribers in the limited liability  company. While the company was soliciting potential partners and investors, Beasley stated on its website that, based on industry standards and company projections, the average annual gross income for partners in the company is projected to be anywhere between $500 and $2,000. This statement was false and misleading in that the company did not have any partners who generated any revenue at any time through the company and there was no factual basis for this income projection. The findings also included that Beasley violated FINRA's content standards for communications with the public. Beasley established and maintained the company website and published that the company was a brokerage, financial advisory and consulting firm. Since the company was not a broker-dealer, Beasley's claim was false and misleading. Beasley solicited investors on an outside social media website to invest $250,000 in the company in exchange for a 20 percent equity stake in the company. The solicitation was unclear about what type of transaction was being offered, or how it was structured, and therefore failed to provide a sound basis for evaluating the investment and omitted significant, material information, causing the communication to be misleading. The solicitation further did not properly identify or disclose the potential risks and investment considerations of the proposed investment. At no time thereafter did Beasley provide any additional information to potential investors about his investment proposal. In the same solicitation, Beasley stated that the company had 25 partners across multiple states. This statement was false and misleading because the company did not have any partners."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$12,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Seven months"",
+      ""Start Date"" : ""10/19/2020"",
+      ""End Date"" : ""5/18/2021""
+    } ]
+  } ]
+}",9/19/2019 - 10/30/2019,SUPREME ALLIANCE LLC (45348)
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,7/12/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""W&S Brokerage Services, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated for (i) failing to disclose and receive approval prior to engaging in an outside business activity; (ii) solicitation of capital related to undisclosed outside business activity; (iii) lacking candor during investigation into this activity; and (iv) violating firm policies regarding outside business activities and private securities transactions."",
+  ""Broker Comment"" : ""In 2016, I was asked to develop a digital financial ecosystem for the African American community. According to the Guardian, minority net worth will be 0 in 20 years because of the digital economy. I communicated this to W&S. The ecosystem was founded to sell to non profits and/or for profit business.  Ii I did not raise any monies for the ecosystem. My wife and I separated in November 2018. I got payday loans and loans on my car with OneMain financial. No capital raised for digital ecosystem.  Iii Lacking candor is a biased determination on the part of W&S. I did not share what I was doing with any employee, customers, did not involve any securities transactions or selling away in any fashion.  iv: The ecosystem is a prototype and not a business receiving income of functioning.  I also joined Black Wall Street, a national non profit organization promoting black entrepreneurship in the digital realm.""
+}",9/17/2019 - 10/30/2019,SUPREME ALLIANCE LLC (45348)
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,1/30/2018 - 7/12/2019,"W&S BROKERAGE SERVICES, INC. (8099)"
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,4/28/2014 - 11/14/2017,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,4/3/2014 - 11/14/2017,"ALLSTATE FINANCIAL ADVISORS, LLC (109524)"
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,10/16/2009 - 6/8/2012,EAGLE STRATEGIES LLC (110826)
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,3/20/2009 - 6/8/2012,NYLIFE SECURITIES LLC (5167)
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,3/15/2004 - 12/22/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,1/10/2002 - 12/22/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+45348,3157595,MARCUS,[MARCUS  BEASLEY],BEASLEY,,,,,1/8/1999 - 12/31/2001,"WMA SECURITIES, INC. (32625)"

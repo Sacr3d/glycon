@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6627,6634920,Donald,[DONALD  GARDUNO],Garduno,3/9/2007,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""NMSA 1978, Section 30-6-3; Contributing to the Delinquency of a Minor"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""NMSA 1978, Sections 30-28-2 and 30-16-3A; Conspiracy to Commit a Crime"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""NMSA 1978, Section 30-16-3A; Burglary"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",11/6/2020 - Current,"EQUITABLE ADVISORS, LLC (6627)"
+6627,6634920,Donald,[DONALD  GARDUNO],Garduno,,,,,1/21/2020 - 3/31/2020,VANGUARD MARKETING CORPORATION (7452)
+6627,6634920,Donald,[DONALD  GARDUNO],Garduno,,,,,11/29/2017 - 11/20/2018,THORNBURG INVESTMENT MANAGEMENT INC (106357)
+6627,6634920,Donald,[DONALD  GARDUNO],Garduno,,,,,7/19/2017 - 11/20/2018,THORNBURG SECURITIES CORPORATION (14857)

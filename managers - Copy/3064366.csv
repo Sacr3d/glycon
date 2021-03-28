@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,3064366,DIXIE,[],TURMAN,4/16/2010,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""TEXAS, DEPARTMENT OF SAVINGS & MORGAGE LENDING"",
+  ""Allegations"" : ""FAILURE TO FILE ANNUAL REPORT FOR CALENDAR YEAR 2009"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",8/16/2018 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,3064366,DIXIE,[],TURMAN,,,,,7/14/1998 - Current,STATE FARM VP MANAGEMENT CORP. (43036)

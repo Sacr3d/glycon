@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+147872,2376943,MICHAEL,"[MICHAEL  BABYAK JR, MICHAEL  BABYAK JR II]","BABYAK JR, II",10/31/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015048141701"",
+  ""DocketNumberAAO"" : ""2015048141701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Babyak consented to the sanction and to the entry of findings that he participated in private securities transactions involving customers of a member firm without first providing the firm written or oral notice of his activities. The findings stated that Babyak had the customers invest a total of $4,250,000 into a limited liability company (LLC) that he set up. Babyak was listed on the Certificate of Formation as the LLC's registered agent and authorized representative, obtained a tax identification number for the LLC, arranged for legal representation for the LLC, assisted in wiring funds from the firm's accounts to the borrower and the LLC's bank account, and signed the loan agreement and related security agreement on behalf of the LLC. He then caused the LLC to loan the $4.25 million to a third party for the benefit of his customers. The findings also stated that Babyak arranged for the LLC to use funds repaid from the $4.25 million loan to extend loans on behalf of the customers to two additional borrowers, with one borrower receiving a total of $1,045,862.40, and another a total of $984,804.22. Again, Babyak did not notify the firm that he was participating in these additional transactions."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""10/31/2016""
+    } ]
+  } ]
+}",11/12/2008 - Current,PRECISION FINANCIAL SERVICES (147872)
+147872,2376943,MICHAEL,"[MICHAEL  BABYAK JR, MICHAEL  BABYAK JR II]","BABYAK JR, II",11/17/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Solicited clients regarding unapproved investments. Loaned money to clients without approval, in violation of Firm policy.""
+}",12/2/2015 - 9/19/2016,"LEIGH BALDWIN & CO., LLC (38751)"
+147872,2376943,MICHAEL,"[MICHAEL  BABYAK JR, MICHAEL  BABYAK JR II]","BABYAK JR, II",4/7/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES FAILURES TO FOLLOW INVESTMENT INSTRUCTIONS FROM MAY 2008 TO NOVEMBER 2008, RESULTING IN LOSSES."",
+  ""Damage Amount Requested"" : ""$325,000.00"",
+  ""Settlement Amount"" : ""$160,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-02944""
+}",7/15/1996 - 7/21/2014,LPL FINANCIAL LLC (6413)
+147872,2376943,MICHAEL,"[MICHAEL  BABYAK JR, MICHAEL  BABYAK JR II]","BABYAK JR, II",1/15/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT CERTAIN STOCKS AND MUTUAL FUNDS WERE SOLD WITHOUT HER PERMISSION (IN APRIL 2008 AND SEPTEMBER 2008) AND ALLEGES OVERALL NEGLIGENCE IN THE MANGEMENT OF HER ADVISORY ACCOUNT.  REPRESENTATIVE DENIES AL ALLEGATIONS AND MAINTAINS THAT HE HAD EXPRESS WRITTEN AUTHORIZATION FOR ALL STOCK AND MUTUAL FUND TRANSACTIONS IN CUSTOMER'S ACCOUNT.  REPRESENTATIVE FURTHER DENIES ANY NEGLIGENCE IN THE MANAGEMENT OF CUSTOMER'S ADVISORY ACCOUNT, AND MAINTAINS THAT ALL RECOMMENDATIONS AND MANAGEMENT WERE SUITABLE AND APPROPRIATE, AND WERE CONSISTENT WITH CUSTOMER'S STATED INVESTMENT OBJECTIVE FOR LONG-TERM GROWTH.  REPRESENTATIVE STATES THAT MARKET CONDITIONS ARE RESPONSIBLE FOR THE DECLINE IN THE CURRENT VALUE OF CUSTOMER'S ACCOUNT, NOT ANY ALLEGED NEGLIGENCE OR MISMANGEMENT.  FURTHER, ALTHOUGH CUSTOMER ALLEGES \""LOSSES\"" OF $130,000.00, SUCH ALLEGED AMOUNT IS NOT POSSIBLE WHERE THE ACCOUNT VALUE AT THE BEGINNING OF 2008 WAS $102,670 AND AFTER WITHDRAWALS OF $5,000.00 DURING THE YEAR, WAS $56,680 AS OF YEAR END 2008."",
+  ""Damage Amount Requested"" : ""$130,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/19/1994 - 12/4/2015,LPL FINANCIAL LLC (6413)

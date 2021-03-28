@@ -1,0 +1,70 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,11/2/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MUTUAL SECURITIES, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""FAILURE TO DISCLOSE REPORTABLE EVENTS""
+}",11/7/2018 - 10/24/2019,GREAT PACIFIC SECURITIES (29251)
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,8/9/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,398.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",7/1/2013 - 11/2/2018,"MUTUAL ADVISORS, LLC (167658)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,10/20/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,318.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $9,083""
+}",1/30/2008 - 11/2/2018,"MUTUAL SECURITIES, INC. (13092)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,7/25/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$21,965.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""current balance as of 7/16/18 is $26,224""
+}",9/7/2005 - 2/8/2008,UBS FINANCIAL SERVICES INC. (8174)
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,2/8/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$36,185.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $45,785""
+}",9/17/2002 - 9/12/2005,"WACHOVIA SECURITIES FINANCIAL NETWORK, LLC (11025)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,7/21/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$43,566.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $57,476""
+}",8/22/2001 - 12/9/2005,"SWAN & HERRING, LLC (113540)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,4/4/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,785.22"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The current balance is $7,108""
+}",9/14/1999 - 9/12/2005,"WACHOVIA SECURITIES FINANCIAL NETWORK, LLC (11025)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,12/11/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,000.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""This judgment has been paid, and in the process of getting it released.""
+}",8/22/1997 - 11/3/1999,"FIRST UNION SECURITIES, INC. (19616)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,9/12/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,833.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $11,896""
+}",12/24/1992 - 8/7/1997,PRUDENTIAL SECURITIES INCORPORATED (7471)
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,6/21/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$41,748.64"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $60,230""
+}",4/10/1986 - 1/25/1993,"LIBERTY CAPITAL MARKETS, INC. (16534)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,2/4/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$48,347.06"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $69,825""
+}",8/9/1984 - 10/1/1985,"LIBERTY EQUITIES, INC. (14976)"
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,4/24/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,841.81"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current balance is $3,573""
+}",7/29/1983 - 10/26/1984,CRESCENT SECURITIES CORPORATION (13263)
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,7/6/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$48,836.98"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The current balance is $72,908""
+}",,
+29251,1160034,MICHAEL,"[MICHAEL  EDWARDS, MICHAEL E. SWAN, MICHAEL EDWARD SWAN]",SWAN,1/6/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$197,304.45"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The current balance is $71,607""
+}",,

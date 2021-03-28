@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,2/16/2021,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Texas"",
+  ""Allegations"" : ""While registered with Trinity, three liens and a foreclosure judgment were filed against Respondent as follows: a.On December 19, 2017, the State of California Franchise Tax Board filed a tax lien against Respondent Payne in the amount of $26,913.b. On September 7, 2018, the State of California Franchise Tax Board filed another tax lien against Respondent Payne in the amount of $14,810.c. On October 26, 2018, the U.S. Internal Revenue Service (\""IRS\"") filed a tax lien against Respondent Payne in the amount of $156,923.d. And on October 10, 2019, Respondent Payne entered into a mortgage foreclosure disposition in the amount of $515,128. None of the liens or the mortgage foreclosure were disclosed on Respondent's Form U4 until September 25, 2020. Respondent's failure to report to the Securities Commissioner the change of information reported in Item 14.M on the Form U4 in connection with the three liens and the foreclosure judgment within thirty (30) days of such change is a violation of \\u00a7116.9(a)(6) of the Board Rules. Pursuant to Section 14.A(6) of the Texas Securities Act, Respondent's violation of a Board Rule constitutes a basis for the issuance of an order reprimanding Respondent."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Reprimand""
+}",2/16/2021 - Current,PROSPERITAS WEALTH MANAGEMENT LLC (311310)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,10/10/2019,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""This compromise is not investment related. After relocating his family to Texas in July 2017, Mr. Payne and his wife converted their former California home to a rental for a year. After that period, they made the decision to sell the home. They listed the home on the market using two different real estate agents and were unsuccessful in selling it for the period of a more than a year.""
+}",9/17/2016 - 2/8/2018,INFINITY FINANCIAL SERVICES (144302)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,10/26/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$156,923.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This lien is not investment related. In July 2019, Mr. Payne and his wife submitted an Offer in Compromise with the IRS. Due to the backlog of the IRS after the government shutdown, they received continuances from the IRS on three separate occasions. They are currently working with the IRS to formalize the Offer in Compromise or put a payment plan in place.""
+}",1/29/2016 - 9/6/2016,INVESTORS CAPITAL CORP. (30613)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,9/7/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,810.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This lien is not investment related. Mr. Payne is currently on a payment plan with the Franchise Tax Board.""
+}",12/7/2015 - 1/12/2021,"TRINITY FIDUCIARY PARTNERS, LLC (133873)"
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,12/19/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$26,913.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This lien is not investment related.  Mr. Payne is currently on a payment plan with the Franchise Tax Board.""
+}",2/22/2010 - 12/9/2015,INVESTORS CAPITAL CORP. (30613)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,2/16/2010 - 12/9/2015,INVESTORS CAPITAL ADVISORY (30613)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,11/8/2004 - 2/19/2010,COMMONWEALTH FINANCIAL NETWORK (8032)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,4/5/2002 - 11/10/2004,METLIFE SECURITIES INC. (14251)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,3/11/2002 - 11/10/2004,METLIFE SECURITIES INC. (14251)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,3/11/2002 - 11/10/2004,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,2/28/2001 - 3/6/2002,PRUDENTIAL SECURITIES INCORPORATED (7471)
+311310,4177697,THOMAS,[Thomas H Payne],PAYNE,,,,,6/26/2000 - 3/26/2001,PRUCO SECURITIES CORPORATION (5685)

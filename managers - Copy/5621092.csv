@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+155645,5621092,SHANNON,[],SIMON,8/17/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleged that the representative put her into an unsuitable investment."",
+  ""Damage Amount Requested"" : ""$23,301.12"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The allegations and complaint is not accurate and I vehemently deny the claim. She fully understood this investment as indicated by the documents she signed. The issues she alleges only became an issue when she moved to another broker dealer and they could not accept this type of investment.""
+}",10/16/2018 - Current,"DB & C ADVISORS, LLC (155645)"
+155645,5621092,SHANNON,[],SIMON,,,,,10/10/2018 - Current,LPL FINANCIAL LLC (6413)
+155645,5621092,SHANNON,[],SIMON,,,,,10/10/2018 - 10/10/2018,LPL FINANCIAL LLC (6413)
+155645,5621092,SHANNON,[],SIMON,,,,,5/2/2016 - 10/10/2018,"SECURITIES AMERICA, INC. (10205)"
+155645,5621092,SHANNON,[],SIMON,,,,,5/2/2016 - 10/10/2018,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+155645,5621092,SHANNON,[],SIMON,,,,,3/16/2014 - 5/10/2016,"FIRST ALLIED ADVISORY SERVICES, INC. (137888)"
+155645,5621092,SHANNON,[],SIMON,,,,,3/14/2014 - 5/4/2016,"FIRST ALLIED SECURITIES, INC. (32444)"
+155645,5621092,SHANNON,[],SIMON,,,,,4/26/2011 - 3/14/2014,REGAL INVESTMENT ADVISORS LLC (125004)
+155645,5621092,SHANNON,[],SIMON,,,,,4/21/2011 - 3/14/2014,"AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC. (18487)"
+155645,5621092,SHANNON,[],SIMON,,,,,4/7/2009 - 4/25/2011,INVEST FINANCIAL CORPORATION (12984)
+155645,5621092,SHANNON,[],SIMON,,,,,1/1/2009 - 4/25/2011,INVEST FINANCIAL CORPORATION (12984)

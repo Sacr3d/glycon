@@ -1,0 +1,48 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,11/7/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Virginia State Corporation Commission"",
+  ""Allegations"" : ""The applicant must take the Series 63 exam and obtain a passing score within three (3) months of the date of entry of this Order."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Requalification""
+  }, {
+    ""Sanctions"" : ""Undertaking""
+  } ]
+}",9/7/2017 - Current,NEWBRIDGE SECURITIES CORPORATION (104065)
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,9/3/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2012032740401"",
+  ""DocketNumberAAO"" : ""2012032740401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""COBB WAS NAMED A RESPONDENT IN A FINRA COMPLAINT ALLEGING THAT HE PARTICIPATED IN PRIVATE SECURITIES TRANSACTIONS TOTALING $486,168 IN SALES, FROM WHICH HE RECEIVED $20,736 IN SELLING COMPENSATION, WITHOUT PROVIDING PRIOR NOTICE TO HIS MEMBER FIRM OF HIS PROPOSED ROLES IN, OR THE SELLING COMPENSATION THAT HE MAY RECEIVE FROM, THE TRANSACTIONS. THE COMPLAINT ALLEGES THAT ON ANNUAL COMPLIANCE ACKNOWLEDGMENTS, COBB FALSELY STATED THAT HE HAD NOT ENGAGED IN ANY PRIVATE SECURITIES TRANSACTIONS AWAY FROM THE FIRM."",
+  ""Resolution"" : ""Decision & Order of Offer of Settlement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$12,621.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""three months"",
+      ""Start Date"" : ""5/16/2016"",
+      ""End Date"" : ""8/15/2016""
+    } ]
+  } ],
+  ""Sanctions"" : ""plus interest on disgorgement- Fine paid in full on May 16, 2016."",
+  ""Regulator Statement"" : ""Without admitting or denying the allegations, Cobb consented to the sanctions and to the entry of findings that he, acting outside of the scope of his employment with his member firm, participated in private securities transactions totaling $486,168 in sales, from which he received $20,736 in selling compensation, without providing prior written notice to his firm of his proposed roles in, or the selling compensation that he may receive from the transactions. The findings stated that the private securities were not approved for sale by Cobb's firm and were not available for sale through the firm. Cobb did not notify the firm in any manner that he had participated in the sale of the private securities. Cobb never received his firm's written approval to participate in the private securities transactions. The findings also stated that on annual compliance acknowledgments, Cobb falsely stated that he had not engaged in any private securities transactions away from the firm.""
+}",8/1/2017 - 8/28/2017,"CENTER STREET SECURITIES, INC. (26898)"
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,6/28/2013 - 7/31/2017,FINANCIAL WEST GROUP (16668)
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,8/6/2012 - 6/14/2013,"ALLIED BEACON PARTNERS, INC. (46227)"
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,1/10/2006 - 7/2/2012,"MADISON AVENUE SECURITIES, INC. (23224)"
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,4/17/2000 - 12/31/2005,L.M. KOHN & COMPANY (27913)
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,5/3/1999 - 4/17/2000,PARK AVENUE SECURITIES LLC (46173)
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,1/2/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+104065,1505020,CHARLES,[CHARLES R COBB],COBB,,,,,5/22/1986 - 1/22/1998,NEW ENGLAND SECURITIES (615)

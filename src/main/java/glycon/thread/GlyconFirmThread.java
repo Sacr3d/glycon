@@ -3,10 +3,7 @@ package glycon.thread;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.concurrent.Callable;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.network.RequestURL;
@@ -28,9 +25,50 @@ public class GlyconFirmThread implements Runnable {
 		this.atomicInt = atomicInt;
 	}
 
+	private List<FirmManager> alphabetCrawl(Firm firm, int managersToGet) {
+
+		List<FirmManager> managerList = new ArrayList<>();
+
+		for (int i = 0; i < managersToGet; i += 100) {
+
+			managerList.addAll(JSONParser.parseFirmManagerJSON(
+					new RequestURL().getFirmManagersByRangeAndAlphabeticalJSON(firm.getSecId(), 100, i)));
+
+		}
+
+		return managerList;
+
+	}
+
+	private List<FirmManager> basicCrawl(Firm firm, int managersToGet) {
+
+		List<FirmManager> managerList = new ArrayList<>();
+
+		for (int i = 0; i < managersToGet; i += 100) {
+
+			managerList.addAll(JSONParser
+					.parseFirmManagerJSON(new RequestURL().getFirmManagersByRangeJSON(firm.getSecId(), 100, i)));
+
+		}
+
+		return managerList;
+
+	}
+
 	private List<FirmManager> collectManagersWithDisclosures(Firm firm) {
 
-		int managersToGet = JSONParser.parseFirmHits(RequestURL.probeFirmHits(firm.getSecId()));
+		String firmJSON = "NULL";
+
+		int failCount = 0;
+
+		while (firmJSON.contentEquals("NULL") && failCount < 5) {
+
+			firmJSON = new RequestURL().probeFirmHits(firm.getSecId());
+			failCount++;
+
+		}
+
+		int managersToGet = JSONParser.parseFirmHits(firmJSON);
 
 		if (managersToGet > 0 && managersToGet < 9000) {
 
@@ -45,21 +83,6 @@ public class GlyconFirmThread implements Runnable {
 		return Collections.emptyList();
 	}
 
-	private List<FirmManager> optimisticCrawl(Firm firm, int managersToGet) {
-
-		List<FirmManager> firmManagerList = new ArrayList<>();
-
-//		firmManagerList.addAll(basicCrawl(firm, managersToGet));
-//
-//		firmManagerList.addAll(
-//				ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(alphabetCrawl(firm, managersToGet))));
-
-		firmManagerList.addAll(ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
-
-		return firmManagerList;
-
-	}
-
 	private List<FirmManager> experienceCrawl(Firm firm) {
 
 		List<FirmManager> managerList = new ArrayList<>();
@@ -69,7 +92,18 @@ public class GlyconFirmThread implements Runnable {
 
 		while (startBoundry < 18250) {
 
-			int managersToGet = JSONParser.parseFirmHits(getFirmExpirenceFirms(firm, startBoundry, endBoundry));
+			String firmJSON = "NULL";
+
+			int failCount = 0;
+
+			while (firmJSON.contentEquals("NULL") && failCount < 5) {
+
+				firmJSON = getFirmExpirenceFirms(firm, startBoundry, endBoundry);
+
+				failCount++;
+			}
+
+			int managersToGet = JSONParser.parseFirmHits(firmJSON);
 
 			for (int i = 0; i < managersToGet; i += 100) {
 
@@ -87,54 +121,38 @@ public class GlyconFirmThread implements Runnable {
 	}
 
 	private String getFirmExpirenceFirms(Firm firm, int startBoundry, int endBoundry) {
-		return RequestURL.getFirmManagersByRangeAndExpirienceJSON(firm.getSecId(), 100, 1, startBoundry,
+		return new RequestURL().getFirmManagersByRangeAndExpirienceJSON(firm.getSecId(), 100, 1, startBoundry,
 				startBoundry != 18250 ? Integer.toString(endBoundry - 1) : "*");
 	}
 
-	private List<FirmManager> alphabetCrawl(Firm firm, int managersToGet) {
+	private List<FirmManager> optimisticCrawl(Firm firm, int managersToGet) {
 
-		List<FirmManager> managerList = new ArrayList<>();
+		List<FirmManager> firmManagerList = new ArrayList<>();
 
-		for (int i = 0; i < managersToGet; i += 100) {
+//		firmManagerList.addAll(basicCrawl(firm, managersToGet));
+//
+//		firmManagerList.addAll(
+//				ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(alphabetCrawl(firm, managersToGet))));
 
-			managerList.addAll(JSONParser.parseFirmManagerJSON(
-					RequestURL.getFirmManagersByRangeAndAlphabeticalJSON(firm.getSecId(), 100, i)));
+		firmManagerList.addAll(ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
 
-		}
-
-		return managerList;
-
-	}
-
-	private List<FirmManager> basicCrawl(Firm firm, int managersToGet) {
-
-		List<FirmManager> managerList = new ArrayList<>();
-
-		for (int i = 0; i < managersToGet; i += 100) {
-
-			managerList.addAll(
-					JSONParser.parseFirmManagerJSON(RequestURL.getFirmManagersByRangeJSON(firm.getSecId(), 100, i)));
-
-		}
-
-		return managerList;
+		return firmManagerList;
 
 	}
 
 	@Override
 	public void run() {
-		List<FirmManager> test = new ArrayList<>();
+		List<FirmManager> managersDisclosureList = new ArrayList<>();
 
 		primeFirmList.forEach(firm -> {
 
-			if (!FileUtil
-					.fileExists(FileEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
+			if (!FileUtil.fileExists(FileEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
 
 				List<FirmManager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
 
-				test.addAll(managersWithDisclosuresList);
+				managersDisclosureList.addAll(managersWithDisclosuresList);
 
-				CSVUtil.createCSVFirmFile(test, firm);
+				CSVUtil.createCSVFirmFile(managersDisclosureList, firm);
 
 				atomicInt.addAndGet(1);
 			}

@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+110552,2410063,KENNETH,[KEN  MATHERN],MATHERN,9/26/2017,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Attorney on behalf of beneficiary of two accounts held at the firm alleged that the registered representative failed to change the registration on the now-deceased client's accounts to remove TOD status as instructed by the client and her attorney in a January 2017 telephone conversation. Attorney further alleged that the distribution pursuant to the TOD will cause his client damage."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Registered Representative maintains that instructions were not provided to revoke the TOD agreements. Additionally, no written instructions were received by the firm indicating action should be taken regarding the TOD agreements.  The TOD beneficiaries settled the matter outside of D.A. Davidson.""
+}",6/27/2002 - 12/31/2004,"DAVIDSON INVESTMENT ADVISORS, INC. (110552)"
+110552,2410063,KENNETH,[KEN  MATHERN],MATHERN,12/29/2010,Customer Dispute,Settled,"{
+  ""Allegations"" : ""COMPLAINT ALLEGES DAVIDSON WAS NEGLIGENT BY ALLOWING CUSTOMER TO TRADE, ON AN UNSOLICITED BASIS, LEVERAGED AND INVERSE ETF'S AND OTHER HIGH RISK SECURITIES WHICH CUSTOMER ALLEGES WERE UNSUITABLE."",
+  ""Damage Amount Requested"" : ""$800,000.00"",
+  ""Settlement Amount"" : ""$265,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""WITHOUT ADMISSION OF LIABILITY ON THE PART OF THE REGISTERED REPRESENTATIVE OR THE FIRM, D. A. DAVISON CHOSE TO SETTLE THIS MATTER. THE MATTER HAS ALSO BEEN DISMISSED WITH PREJUDICE BY THE DISTRICT COURT IN WHICH THE CIVIL LITIGATION WAS FILED. IN ADDITION, THE REGISTERED REPRESENTATIVE WAS NOT SPECIFICALLY NAMED AS A DEFENDANT IN THE CIVIL LITIGATION.""
+}",2/14/2000 - 2/4/2019,D.A. DAVIDSON & CO. (199)
+110552,2410063,KENNETH,[KEN  MATHERN],MATHERN,2/24/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""BEGINNING IN OCTOBER 2001, THE [CUSTOMERS] HAVE FILED REPEATED COMPLAINTS WITH THE FIRM AND VARIOUS REGULATORS, CHANGING ALLEGATIONS EACH TIME.  ON 2/24/03, CLIENTS SUBMITTED SPECIFIC DAMAGE CLAIMS AND ALLEGE ACTIVITY WAS UNSUITABLE."",
+  ""Damage Amount Requested"" : ""$64,055.00"",
+  ""Settlement Amount"" : ""$9,999.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE FINAL REGULATORY FILING THE CUSTOMER MADE WAS TO THE STATE OF NORTH DAKOTA SECURITIES DIVISION. BOTH DAVIDSON AND THE STATE CHOSE TO CLOSE THE FILE IN MAY 2003, HOWEVER THE CUSTOMER CONTINUED TO PURSUE THE MATTER. ALTHOUGH NO SALES MISCONDUCT WAS DETERMINED BY THE FIRM, THE FIRM MADE A BUSINESS DECISION TO SETTLE THIS MATTER WITH THE CUSTOMER IN SEPTEMBER 2004. ""
+}",11/5/1993 - 1/31/2019,D.A. DAVIDSON & CO. (199)

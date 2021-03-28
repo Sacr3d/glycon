@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+43100,4623850,PERRY,[],SANTILLO,4/26/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Nevada Securities Division"",
+  ""Allegations"" : ""OPERATING A SCHEME OR ARTIFICE TO DEFRAUD INVESTORS VIA A BAIT AND SWITCH INVESTMENT OPPORTUNITY, IN VIOLATION OF NRS 90.570."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Barred from offerings, soliciting, or selling any securities or investment advisory services."",
+      ""Duration"" : ""Permanent"",
+      ""Start Date"" : ""4/26/2019""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Revocation""
+  } ]
+}",12/1/2006 - 3/20/2007,QUESTAR CAPITAL CORPORATION (43100)
+43100,4623850,PERRY,[],SANTILLO,,,,,2/17/2006 - 12/1/2006,"USALLIANZ SECURITIES, INC. (40875)"
+43100,4623850,PERRY,[],SANTILLO,,,,,3/29/2004 - 12/31/2004,"NATIONWIDE SECURITIES, INC. (11173)"
+43100,4623850,PERRY,[],SANTILLO,,,,,2/21/2003 - 4/5/2004,NYLIFE SECURITIES INC. (5167)

@@ -1,0 +1,116 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,3/28/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""17-02035"",
+  ""DocketNumberAAO"" : ""17-02035"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Cody failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Duration Explanation"" : ""Continues until required payment is made or discharged."",
+      ""Start Date"" : ""3/28/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Cody is suspended on March 28, 2019, for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",1/15/2013 - 8/5/2016,"CONCORDE INVESTMENT SERVICES, LLC (151604)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,2/26/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Petition to Vacate in Part and Confirm in Part FINRA Arbitration Award. Allegations include negligence and breach of fiduciary duty relating to investments made between 2010 to present."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/15/2013 - 8/5/2016,"CONCORDE ASSET MANAGEMENT, LLC (140367)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,12/12/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""New Jersey Bureau of Securities"",
+  ""Allegations"" : ""CODY IS THE SUBJECT OF AN ORDER OF A SELF-REGULATORY ORGANIZATION EXPELLING HER FROM A SELF-REGULATORY ORGANIZATION."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation""
+  } ],
+  ""Sanctions"" : ""The agent and investment adviser representative registrations of Jill M. Cody be REVOKED; and further Cody is denied all exemptions contained in N.J.S.A. 49:3-50 subsections (a) paragraph 9, 10, and 11 and subsection (b); and further, the exemptions to the registration requirements provided by N.J.S.A. 49:3-56(b), N.J.S.A. 49:3-56(c) and N.J.S.A. 49:3-56(g) are hereby revoked.""
+}",12/3/2012 - 1/15/2013,"WESTMINSTER FINANCIAL SECURITIES, INC. (20677)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,9/13/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is alleging fraud and unauthorized trading relating to activities occurring from 2013 to 2016"",
+  ""Settlement Amount"" : ""$56,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02312""
+}",11/27/2012 - 1/15/2013,WESTMINSTER FINANCIAL ADVISORY CORP (110283)
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,8/28/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The client alleges fraud, deceit, and mismanagement of accounts."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$62,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02079""
+}",5/1/2010 - 5/18/2012,"COLUMBIA MANAGEMENT INVESTMENT DISTRIBUTORS, INC. (840)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,8/14/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The client alleges unsuitable recommendations, fraud, misrepresentation and deceit."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-01850""
+}",5/1/2010 - 5/18/2012,"COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLC (108257)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,8/11/2017,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""The client alleges fraud, deceit and mismanagement of accounts."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Damages Granted"" : ""$286,096.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02035""
+}",12/18/2008 - 5/1/2010,"COLUMBIA MANAGEMENT ADVISORS, LLC (107900)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,3/23/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients are alleging negligence, breach of fiduciary duty, suitability and churning, for activities occurring 2013 to 2016."",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-00849""
+}",10/13/2008 - 5/1/2010,"COLUMBIA MANAGEMENT DISTRIBUTORS, INC. (30683)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,2/23/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016051816301"",
+  ""DocketNumberAAO"" : ""2016051816301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Tramontano consented to the sanction and to the entry of findings that she permitted another individual, who had been suspended by FINRA, to engage in securities business while suspended. The findings stated that the individual chose not to inform most of his customers that he was going to be suspended; instead, he told his customers that Tramontano would be working with him. Over the next year, Tramontano was aware that the individual continued to engage in the securities industry while suspended by, among other things, communicating with customers, making securities recommendations to them, and placing trades on their behalf. Indeed, the individual, by using Tramontano as the broker of record, was able to continue to act as a registered representative, unabated, in nearly all respects during his year-long suspension."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""2/23/2017""
+    } ]
+  } ]
+}",3/15/2007 - 10/23/2008,PARK AVENUE SECURITIES LLC (46173)
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,1/18/2017,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client is alleging that funds belonging to the client were taken by representative. Time period is unclear but we believe it covers 2013 to present."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/4/2001 - 9/19/2006,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,12/22/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is alleging fraud, misrepresentation and negligence, in relation to investments made from 2012 to 2016."",
+  ""Settlement Amount"" : ""$190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02608""
+}",,
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,12/20/2016,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client is alleging that funds belonging to the client were taken by representative. Time period is unclear but we believe it covers 2012 to present."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+151604,4333419,JILL,"[JILL MARIE CODY, JILL MARIE TRAMONTANO]",CODY,9/4/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Registered Reps [other firm employee] and Jill Cody received inaccurate information from Lincoln Financial. That information was passed unknowingly on to the client. However, the client received corrected information from Lincoln in time to correct any mistake but took no action to remedy the problem. [other firm employee] and Jill did not receive the corrected information until weeks after the client did and as a result did not have the opportunity themselves to fix the issue as the 30 day window had expired. Activities occurred from 2013-2015."",
+  ""Damage Amount Requested"" : ""$160,000.00"",
+  ""Settlement Amount"" : ""$77,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""15-02545"",
+  ""Broker Comment"" : ""[customer] requested that annuity funds be distributed immediately due to a financial emergency.  [other firm employee] or Jill were not agents of record on the annuity. However,  in the interest of helping a client, they helped [customer] facilitate the withdrawal.  The [customers] were informed by the Annuity company that they violated a condition of a Rider on their policy.  They were also informed they had 30 days from the time of withdrawal to fix the error and restore the policy.  The [customers] did nothing.  The annuity company never informed [other firm employee] or Jill of the violation prior to the distribution.  Although they were already aware of the violation, The [customers] did not inform [other firm employee] or Jill of the violation until after the 30 day period expired. Although the [customers] feel that [other firm employee] or Jill should have known about the rider rule prior to the withdrawal, there was no way for them to know without information from the annuity company or the [customers] as they did not sell the [customers] the policy.  That information was never provided. The [customers] had invested in the policy in 2007.""
+}",,

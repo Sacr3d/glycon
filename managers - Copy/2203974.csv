@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,4/7/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,197.48"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",2/5/2014 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,8/19/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""OREGON DEPARTMENT OF BUSINESS AND CONSUMER SERVICES; DIVISION OF FINANCIAL REGULATION"",
+  ""Allegations"" : ""Failure to timely file amendment to Oregon salesperson license application within 30 days of a material change, in violation of ORS 59.176(6) and OAR 441-175-0105(2)."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  } ]
+}",9/27/2013 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,11/17/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,567.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",4/18/2011 - 6/29/2012,ICMA RETIREMENT CORP (108783)
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,8/24/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,774.81"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",3/8/2007 - 6/29/2012,"ICMA-RC SERVICES, LLC (23189)"
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,,,,,7/16/2002 - 9/19/2006,"ICMA-RC SERVICES, LLC (23189)"
+108958,2203974,ROBERT,[ROBERT DUDLEY GILL III],GILL,,,,,9/7/1999 - 7/5/2002,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

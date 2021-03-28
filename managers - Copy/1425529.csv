@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1588,1425529,ROBERT,[BOB  FORSYTH],FORSYTH,7/30/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018059155701"",
+  ""DocketNumberAAO"" : ""2018059155701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Forsyth consented to the sanctions and to the entry of findings that he executed discretionary transactions in customers' accounts without prior written authorization from the customers and his member firm had not approved any of the accounts for discretionary trading. The findings stated that none of the customers gave the prior written authorization for Forsyth to exercise discretion in their accounts, though some of the customers gave Forsyth express or implied authority to exercise discretion in their accounts."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""15 business days"",
+      ""Start Date"" : ""8/19/2019"",
+      ""End Date"" : ""9/9/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on August 15, 2019.""
+}",1/16/1997 - Current,DAVENPORT & COMPANY LLC (1588)
+1588,1425529,ROBERT,[BOB  FORSYTH],FORSYTH,,,,,2/2/1990 - Current,DAVENPORT & COMPANY LLC (1588)
+1588,1425529,ROBERT,[BOB  FORSYTH],FORSYTH,,,,,11/8/1985 - 2/9/1990,"ANDERSON & STRUDWICK, INCORPORATED (48)"

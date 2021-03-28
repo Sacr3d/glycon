@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,2688706,MATTHEW,[],SMITH,1/8/2004,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED HE WAS LISLEAD AND EROSION OF PRINCIPAL INVESTMENT IN THE VARIABLE ANNUITY."",
+  ""Damage Amount Requested"" : ""$11,200.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/12/2018 - Current,"SECURITIES AMERICA, INC. (10205)"
+10205,2688706,MATTHEW,[],SMITH,10/14/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNSUITABLE RECOMMONDATION BY RR"",
+  ""Damage Amount Requested"" : ""$14,275.86"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/18/2003 - 9/13/2018,"CADARET, GRANT & CO., INC. (10641)"
+10205,2688706,MATTHEW,[],SMITH,,,,,5/13/1996 - 7/30/2003,"NATHAN & LEWIS SECURITIES, INC. (8503)"
+10205,2688706,MATTHEW,[],SMITH,,,,,12/15/1995 - 1/19/1996,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

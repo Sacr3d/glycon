@@ -1,0 +1,5 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6728992,Thomas,[Matt  Hoppius],Hoppius,1/7/2017,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Broker Comment"" : ""This action is the result of an attempt by a creditor to file a garnishment of wages against me. I am protecting myself as the garnishment amount was much more than I could afford. I attempted to work with this creditor and they would not cooperate. This is an account that was a judgment from a period of time when my wife became permanently disabled and lost her income. I was attempting to work through everything as best I could but the garnishment forced me to make this decision.""
+}",1/31/2017 - 10/28/2019,"U.S. BANCORP INVESTMENTS, INC. (17868)"

@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,7002772,NOAH,[Noah Tyler Wright],WRIGHT,11/24/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""VALIC FINANCIAL ADVISORS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Mr. Wright failed to comply with internal company reporting requirements and FINRA disclosure obligations.""
+}",4/22/2019 - 12/11/2020,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,7002772,NOAH,[Noah Tyler Wright],WRIGHT,7/22/2019,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Felony Possession of MJ in the State of Virginia, Amended to a civil Citation when Virginia decriminalized the Possession of the substance on July 1st 2020."",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Simple Possession of MJ"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""Originally charged with a MJ Felony that was later amended to a civil citation based on new Virginia State law.""
+}",3/18/2019 - 12/11/2020,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,7002772,NOAH,[Noah Tyler Wright],WRIGHT,,,,,11/16/2018 - 3/11/2019,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"

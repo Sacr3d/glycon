@@ -1,0 +1,81 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+22982,1010228,Mark,[MARK D MARTINO],Martino,7/2/2020,Civil,Pending,"{
+  ""Initiated By"" : ""Michael Pierce"",
+  ""Allegations"" : ""Purported derivative action in which plaintiff alleges aiding and abetting violations under NY law and other allegations against various other defendants on behalf of investors who purchased limited partnership interests in GPB Automotive Portfolio, LP managed by GPB Capital Holdings, LLC"",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""Mr. Martino is named only because of his representative capacities as indirect owner and principal of AAS.  Defendants are defending the action vigorously.""
+}",2/17/2021 - Current,"THE BENCHMARK COMPANY, LLC (22982)"
+22982,1010228,Mark,[MARK D MARTINO],Martino,6/10/2020,Civil,Pending,"{
+  ""Initiated By"" : ""Mary Purcell, Anthony Purcell. Jennifer Midgett, Matt Midgett"",
+  ""Allegations"" : ""Plaintiff alleges negligence and other violations under California law in connection with the purchase of limited partnership interests in private entities sponsored by GPB Capital Holdings, LLC."",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""Mr. Martino is named only because of his representative capacities as indirect owner and principal of AAS.  Defendants are defending the action vigorously and have made a motion to dismiss on various grounds.""
+}",3/14/2017 - 2/12/2021,"ASCENDANT ALTERNATIVE STRATEGIES, LLC (283881)"
+22982,1010228,Mark,[MARK D MARTINO],Martino,11/25/2019,Civil,Pending,"{
+  ""Initiated By"" : ""Galen G Miller and E. Ruth Miller"",
+  ""Allegations"" : ""Purported derivative action against 11 defendants in which plaintiff alleges aiding and abetting and other violations under NY law and other allegations against various other defendants on behalf of investors who purchased limited partnership interests in GPB Holdings II, LP managed by GBP Capital Holdings, LLC."",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""Mr. Martino is named only because of his representative capacities as indirect owner and principal of AAS.  Defendants are defending the action vigorously.""
+}",3/5/1993 - 3/29/2017,"AXIOM CAPITAL MANAGEMENT, INC. (26580)"
+22982,1010228,Mark,[MARK D MARTINO],Martino,11/6/2019,Civil,Pending,"{
+  ""Initiated By"" : ""Millicent R Barasch"",
+  ""Allegations"" : ""Purported class action against 40 defendants (including auditors and the administrator) in which Plaintiff alleges civil conspiracy under Texas law and other allegations against various other defendants on behalf of investors who purchased limited partnership interests in private entities sponsored by GPB Capital Holdings, LLC."",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""Mr. Martino is named only because of his representative capacities as indirect owner and principal. Defendants are defending the action vigorously and have moved to dismiss the action based on failure to state a claim and other reasons.""
+}",5/22/1989 - 2/25/1993,"SMITH BARNEY, HARRIS UPHAM & CO., INCORPORATED (7059)"
+22982,1010228,Mark,[MARK D MARTINO],Martino,10/25/2019,Civil,Pending,"{
+  ""Initiated By"" : ""Kinnie Ma Individual Retirement Account"",
+  ""Allegations"" : ""Purported class action against 95 defendants (including 42 broker-dealers and 34 registered investment advisors) in which Plaintiff alleges aiding and abetting and control person violations of the Texas Securities Act, as well as other allegations against various other defendants on behalf of investors who purchased limited partnership interests in private entities sponsored by GPB Capital Holdings, LLC."",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""Mr. Martino is named only because of his representative capacities as indirect owner and principal. Defendants are defending the action vigorously and have moved to dismiss the action based on failure to state a claim and other reasons.""
+}",5/25/1988 - 5/22/1989,DREXEL BURNHAM LAMBERT INCORPORATED (7323)
+22982,1010228,Mark,[MARK D MARTINO],Martino,9/5/2003,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""NASD CASE CAF030047"",
+  ""DocketNumberAAO"" : ""030047"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""FAILURE TO ADEQUATELY SUPERVISE ACTIVITIES OF REGISTERED REPS RELATED TO THE ISSUANCE OF 4 RESEARCH REPORTS. "",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Sanctions"" : ""NONE"",
+  ""Sanction Details"" : ""WITHOUT ADMITTING OR DENYING THE ALLEGATIONS, CONSENTED TO $15000 FINE AND 60 DAYS SUPERVISORY SUSPENSION.""
+}",12/4/1985 - 6/2/1988,SHEARSON LEHMAN HUTTON INC. (7506)
+22982,1010228,Mark,[MARK D MARTINO],Martino,1/21/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""SUITABILITY"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$9,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CUSTOMER'S ALLEGATIONS ARE ENTIRELY WITHOUT MERIT. THE LOSSES THE CUSTOMER SUSTAINED WERE THE RESULT OF A DRAMATIC DECLINE IN THE MARKETS. AXIOM SETTLED ON A COST OF DEFENSE BASIS IN ORDER TO AVOID EXTRAORDINARY LEGAL EXPENSE IN DEFENDING CLAIMS.""
+}",4/24/1984 - 12/6/1985,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+22982,1010228,Mark,[MARK D MARTINO],Martino,7/15/2001,Customer Dispute,Settled,"{
+  ""Allegations"" : ""UNSUITABILITY, MISREPRESENTATION, AND BREACH OF FIDUCIARY DUTY."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$95,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""[CUSTOMER] IS AN ACCREDITED INVESTOR AND FULLY UNDERSTANDS THE RISKS INHERENT IN ANY VENTURE CAPITAL INVESTMENT.  HIS CLAIMS ARE WITHOUT MERIT. MATTER WAS SETTLED WITHOUT ANY ADMISSION OF WRONGOING TO AVOID THE COST ASSOCIATED WITH  PROTRACTED ARBITRATION.""
+}",9/29/1981 - 4/18/1984,WEISS PECK & GREER (2998)
+22982,1010228,Mark,[MARK D MARTINO],Martino,1/31/1994,Customer Dispute,Settled,"{
+  ""Allegations"" : ""UNSUITABILITY AND EXCESSIVE TRADING-DAMAGES ALLEGED $1,009,710."",
+  ""Damage Amount Requested"" : ""$1,009,710.00"",
+  ""Settlement Amount"" : ""$837,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""93-05180"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""MATTER SETTLED FOR $837,500. THE FIRM BELIEVES THAT MARTINO WAS NAMED IN THIS ASRBITRATION ONLY BECAUSE HE WAS THE ACCOUNT EXECUTIVE WHO OPENED THE ACCOUNT. THE SUBSTANTIVE ALLEGATIONS RELATED TO THE TWO ACCOUNT EXECUTIVES WHO HANDLED THE ACCOUNT AFTER MARTINOP LEFT TO JOIN ANOTHER FIRM. THIS FILING IS MADE SOLEY TO SATISFY NASD GUIDELINES RELATING TO REPORTING AND SHOULD NOT REFLECT NEGATIVELY AGAINST MARTINO.""
+}",,
+22982,1010228,Mark,[MARK D MARTINO],Martino,5/12/1988,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""SHEARSON LEHMAN HUTTON, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""N/A ON APRIL 25 AND APRIL 26, 1988, WHILE EMPLOYED BY SHEARSON, I PURCHASED 3000 SHARES OF INTERNATIONAL TELECHARGE INC. IN MY OWN ACCOUNT FOR A FRIEND, {REDACTED}. {REDACTED} WAS AN EMPLOYEE OF GOLDMAN SACHS AT THE TIME.  THE TRADE WAS SOLD OUT."",
+  ""Broker Comment"" : ""I WAS SUBSEQUENTLY TERMINATED. Not Provided""
+}",,

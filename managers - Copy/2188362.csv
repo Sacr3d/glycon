@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,3/25/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State of Minnesota Department of Commerce"",
+  ""Allegations"" : ""Respondent certified compliance with insurance continuing education requirements at the time of insurance renewal before she actually completed all of the required continuing education in violation of Minnesota Statute \\u00a7 60K.56 subd 8 (2018)."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""I mistakenly marked 'Yes' on an insurance license renewal application, stating that I completed the required continuing education requirement which I later realized that I had not completed.  The state offered an entry of a consent order that I cited that I neither admitted or denied the allegations, along with a civil fine and to cease and desist from any future violations of their statutes.  I agreed to the consent order to resolve matter, and have my license renewed.""
+}",11/24/2015 - 2/4/2021,"VOYA FINANCIAL ADVISORS, INC. (2882)"
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,,,,,3/11/2014 - 2/4/2021,"VOYA FINANCIAL ADVISORS, INC. (2882)"
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,,,,,12/16/2004 - 5/30/2013,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,,,,,8/25/2004 - 5/30/2013,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,,,,,4/12/1995 - 12/5/2000,PFIC SECURITIES CORPORATION (34941)
+2882,2188362,CHERYL,"[CHERIE  DAVIES, CHERIE  PERRI]",FARINACCI,,,,,11/21/1991 - 2/1/1995,AEGON USA SECURITIES INC. (13302)

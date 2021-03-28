@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,3264478,MARC,[],ZARRO,12/2/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleged FA told her the product purchased was a fixed annuity, but instead a variable annuity was purchased. (7/13/2018)"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Over the course of several months prior to the sale, the client and I had multiple face-to-face meetings as well as phone conversations discussing the advantages and disadvantages, risk-tolerance and objectives, options for retaining and alternatives to her existing variable annuity, including, exchanging all or a portion of it into a Fixed, Indexed or Variable Indexed Product.""
+}",10/28/2016 - Current,"WELLS FARGO CLEARING SERVICES, LLC (19616)"
+19616,3264478,MARC,[],ZARRO,,,,,2/19/2016 - 9/8/2016,"INVESTMENT PROFESSIONALS, INC. (30184)"
+19616,3264478,MARC,[],ZARRO,,,,,1/9/2015 - 9/8/2016,"PENN INVESTMENT ADVISORS, INC. (151715)"
+19616,3264478,MARC,[],ZARRO,,,,,1/5/2015 - 2/19/2016,"EAGLEVIEW SECURITIES, INC (170008)"
+19616,3264478,MARC,[],ZARRO,,,,,1/5/2011 - 12/31/2014,"SUNBELT SECURITIES, INC. (42180)"
+19616,3264478,MARC,[],ZARRO,,,,,1/11/2010 - 12/12/2014,LONGVIEW CAPITAL MANAGEMENT LLC (147235)
+19616,3264478,MARC,[],ZARRO,,,,,1/7/2010 - 12/31/2010,"EVOLVE SECURITIES, INC. (127474)"
+19616,3264478,MARC,[],ZARRO,,,,,3/19/2007 - 1/11/2010,"ING FINANCIAL PARTNERS, INC (2882)"
+19616,3264478,MARC,[],ZARRO,,,,,3/5/2007 - 1/11/2010,"ING FINANCIAL PARTNERS, INC. (2882)"
+19616,3264478,MARC,[],ZARRO,,,,,6/30/2003 - 3/2/2007,"H&R BLOCK FINANCIAL ADVISORS, INC. (5979)"
+19616,3264478,MARC,[],ZARRO,,,,,7/11/2000 - 3/2/2007,"H&R BLOCK FINANCIAL ADVISORS, INC. (5979)"

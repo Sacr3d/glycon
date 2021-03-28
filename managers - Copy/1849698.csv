@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,1849698,RICHARD,[],COLASANTI,9/9/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,931.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I told Don D'Angelo about this in 2006. Currently on an installment agreement which is active.""
+}",2/20/1997 - 12/18/2017,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,1849698,RICHARD,[],COLASANTI,6/18/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$13,292.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Currently on an installment agreement, currently active & paying.""
+}",9/19/1988 - 12/13/1996,METLIFE SECURITIES INC. (14251)
+11173,1849698,RICHARD,[],COLASANTI,3/26/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$78,399.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Currently on an installment agreement. Currently active & paying.""
+}",9/19/1988 - 12/13/1996,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+11173,1849698,RICHARD,[],COLASANTI,12/18/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$37,326.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Currently on an installment agreement, currently active.""
+}",,

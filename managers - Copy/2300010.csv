@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,5/30/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Missouri"",
+  ""Allegations"" : ""Respondent failed to promptly file correcting amendments to Form U4 Applications and failed to timely amend Form U4 to disclose OBAs involving an elderly person."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Prohibition""
+  } ],
+  ""Sanctions"" : ""Costs""
+}",9/26/2014 - 12/9/2015,"BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC. (13609)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,10/25/2012 - 9/26/2014,"BROKERS INTERNATIONAL FINANCIAL SERVICES, LLC. (139627)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,4/6/2010 - 7/17/2012,"WADDELL & REED, INC. (866)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,12/1/2001 - 1/29/2010,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,1/3/2000 - 12/1/2001,"FIRSTAR INVESTMENT SERVICES,INC. (14536)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,7/1/1997 - 1/3/2000,"MERCANTILE INVESTMENT SERVICES, INC. (19908)"
+13609,2300010,DEBBIE,"[DEBBIE  RULON, DEBBIE SUE SIGLER]",RULON,,,,,11/17/1995 - 7/1/1997,"CORELINK FINANCIAL, INC. (23302)"

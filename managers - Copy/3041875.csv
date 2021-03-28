@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1526,3041875,JOSHUA,[],MARTIN,10/26/2019,Financial,Pending,"{
+  ""Type"" : ""Compromise"",
+  ""Broker Comment"" : ""I had a major drop in income which lead to me getting behind. I have worked my way back and am close to being debt free.""
+}",5/22/2018 - Current,"TOUCHSTONE SECURITIES, INC. (1526)"
+1526,3041875,JOSHUA,[],MARTIN,10/14/2019,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a major drop in income which lead to me falling behind.  I have worked my way back, and am close to becoming debt free.""
+}",8/28/2013 - 5/2/2018,"AIG CAPITAL SERVICES, INC. (13158)"
+1526,3041875,JOSHUA,[],MARTIN,1/31/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I had a drastic drop in income that I did not have time to plan for. I added debt and then got behind on debts when my income did not increase. After 4 years, when my income got back to a level that could support us, I reached out to creditors and negotiated settlements. I forgot that compromise with creditors is a question on the U4 until I heard it mentioned in a meeting last week.  I reached out to Compliance as soon as I realized it was reportable.""
+}",4/4/2013 - 9/6/2013,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+1526,3041875,JOSHUA,[],MARTIN,,,,,4/25/2008 - 4/26/2012,"AMERICAN GENERAL DISTRIBUTORS, INC. (37449)"
+1526,3041875,JOSHUA,[],MARTIN,,,,,11/23/2001 - 3/10/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+1526,3041875,JOSHUA,[],MARTIN,,,,,2/15/2001 - 12/3/2001,"FISERV INVESTOR SERVICES, INC. (34637)"
+1526,3041875,JOSHUA,[],MARTIN,,,,,11/18/1999 - 9/14/2000,"FIMI SECURITIES, INC. (37140)"

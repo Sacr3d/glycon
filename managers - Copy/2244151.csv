@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,2244151,THOMAS,[],JACKSON,4/16/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges that in April 2011, FA misrepresented facts and made unsuitable purchases."",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Without admitting any liability, the Firm settled the matter for $75,000.00 solely to avoid the costs and expenses of continued litigation and end the arbitration.  The FA did not contribute to the settlement amount.""
+}",1/1/2008 - Current,"WELLS FARGO CLEARING SERVICES, LLC (19616)"
+19616,2244151,THOMAS,[],JACKSON,,,,,9/15/2005 - 1/1/2008,"A. G. EDWARDS & SONS, INC. (4)"
+19616,2244151,THOMAS,[],JACKSON,,,,,1/18/2001 - 1/3/2008,"A. G. EDWARDS & SONS, INC. (4)"
+19616,2244151,THOMAS,[],JACKSON,,,,,2/14/2000 - 1/23/2001,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+19616,2244151,THOMAS,[],JACKSON,,,,,7/2/1998 - 2/14/2000,INVEST FINANCIAL CORPORATION (12984)
+19616,2244151,THOMAS,[],JACKSON,,,,,7/26/1993 - 7/8/1998,"DEPOSIT GUARANTY INVESTMENTS, INC. (27560)"
+19616,2244151,THOMAS,[],JACKSON,,,,,9/2/1992 - 8/5/1993,"MORGAN KEEGAN & COMPANY, INC. (4161)"

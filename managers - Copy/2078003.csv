@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108050,2078003,JONATHAN,[],HERBRUCK,5/28/2019,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""I had purchased a commercial property in 2006, the building required renovations and a build-out to bring it into compliance with ADA requirements. In addition to the original bank loan, I invested $274,000 in personal money on buildout and remodeling costs. Within 18 months of the purchase, the financial crisis hit which resulted in a severe devaluation of the property and put the property into a negative valuation in respect to the value versus debt and property tax. Over the next several years the property was aggressively marketed for sale without success. In 2015 the bank foreclosed on the building and sold it at auction in 2017 for approximately 40% of the value in 2006. During the period from 2015 through the spring of 2019 numerous settlements offers were made to the bank to avoid the possible need to file for bankruptcy. After trying to work through all the options I had no other reasonable choice but to seek bankruptcy protection when the bank started garnishing all of our other accounts.""
+}",11/7/2000 - Current,"VALMARK ADVISERS, INC. (108050)"
+108050,2078003,JONATHAN,[],HERBRUCK,3/20/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$89,744.92"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Structuring payment plan with IRS""
+}",11/16/1999 - Current,"VALMARK SECURITIES, INC. (31243)"
+108050,2078003,JONATHAN,[],HERBRUCK,1/13/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT THE VARIABLE ANNUITY CONTRACT HE PURCHASED WAS CHANGED WITHOUT HIS KNOWLEDGE AND THAT IT DOES NOT OFFER ANNUAL, GUARANTEED GROWTH THAT HE BELIEVES IT SHOULD.  CUSTOMER IS REQUESTING THAT HE BE ISSUED A NEW POLICY WITH CHANGED RIDER PROVISIONS AND IS REQUESTING AN UNDERMINED AMOUNT OF UNPAID MINIMUM GUARANTEES FROM THE INITIAL ISSUE DATE.  CLAIM DENIED WITHOUT MERIT"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/8/2002 - 10/16/2017,CONCORD ADVISORS RIA (120800)
+108050,2078003,JONATHAN,[],HERBRUCK,,,,,4/2/1991 - 11/15/1999,NEW ENGLAND SECURITIES (615)

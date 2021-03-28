@@ -23,7 +23,7 @@ class GlyconTest {
 			e.printStackTrace();
 		}
 
-		Glycon.createBrokersWithDisclosuresList(new ArrayList<>(Arrays.asList( "759")));
+		Glycon.workOnFirmBrokerList(new ArrayList<>(Arrays.asList("125004")));
 
 	}
 

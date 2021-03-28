@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,6324244,STEPHEN,[],JENKINS,2/1/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client is upset with account performance during the last 11 months. Client is asking for the return of his initial investment with a reasonable return at the one year anniversary of his investment."",
+  ""Damage Amount Requested"" : ""$30,227.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Since the account's inception, the Financial Consultant has had regular discussions with the client and was able to gauge the client's evolving risk tolerance, suitability and investing aptitude. Per the FC, on several occasions the client called him on a unsolicited basis with a desire to invest in biotech stocks. The FC explained the risk and volatility in investing in these individual stocks and the sector as a whole. As an alternative to the individual stocks, the FC recommended a mutual fund in an attempt to lessen the company specific risk. The FC also was hesitant in making recommendations in U.S. equities and discussed his belief they were over-valued in relation to historic price/earnings ratios. As a way to further diversify, the FC recommended developing world and international mutual funds. The FC also recommended three closed-end funds based on their risk and return profiles, but was careful to caution the client that past performance does not guarantee future performance. The FC claims he made no such promise or guarantee of return and the client was given a Fact Sheet for each fund which states that returns vary and are not guaranteed. The client also told the FC he was interested in the oil and gas sector, also known for market risk and volatility. The FC cautioned the client and as an alternative recommended increasing the investment into the existing closed-end funds which were historically less volatile. The FC firmly believes the client understood the specific investments that were recommended as well as the market risks and volatility involved which were suitable for the client.""
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,6324244,STEPHEN,[],JENKINS,8/3/2013,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",8/20/2014 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,6324244,STEPHEN,[],JENKINS,,,,,6/18/2014 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"

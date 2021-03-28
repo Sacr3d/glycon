@@ -1,0 +1,70 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,1388093,ROBERT,[],HISLE,3/28/2003,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""INDIANA"",
+  ""Allegations"" : ""THE COMPLAINT BY AN INDIANA RESIDENT ALLEGED THAT MR. HISLE RECOMMENDED UNSUITABLE SECURITIES."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""A CONSENT AGREEMENT WAS ENTERED INTO; THE TERMS INCLUDED A $2500.00 CIVIL PENALTY, COSTS OF INVESTIGATION, AND THAT MR. HISLE SHOULD NOTIFY THE DIVISION OF ANY COMPLAINTS FROM INDIANA RESIDENTS (FOR A PERIOD OF ONE YEAR).""
+}",3/29/2007 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,1388093,ROBERT,[],HISLE,3/18/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABILITY."",
+  ""Damage Amount Requested"" : ""$193,371.00"",
+  ""Settlement Amount"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-02024"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER CLAIMS ARE COMPLETELY WITHOUT MERIT. STATEMENTS OF CLAIM TO BE ARBITRATED TO THE FULLEST.""
+}",3/9/2007 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,1388093,ROBERT,[],HISLE,3/4/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABILITY"",
+  ""Damage Amount Requested"" : ""$175,000.00"",
+  ""Settlement Amount"" : ""$122,640.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-01566"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CASE WILL BE ARBITRATED. I TOTALLY REFUTE ALL CLAIMS BY CLIENT. ALL CLAIMS ARE WITHOUT MERIT IN MY OPINION.""
+}",8/12/2006 - 3/21/2007,UBS FINANCIAL SERVICES INC. (8174)
+8158,1388093,ROBERT,[],HISLE,2/26/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABLE INVESTMENTS."",
+  ""Damage Amount Requested"" : ""$35,000.00"",
+  ""Settlement Amount"" : ""$59,610.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""04-01710"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER ORIGINALLY HAD 100% IN A JOHN HANCOCK REGIONAL BANK FUND WITH AN 8% SYSTEMATIC WITHDRAWAL. CLIENT THEN MOVED 25% TO THE HANCOCK FUND (TECHNOLOGY) WITH POTENTIAL FOR MORE APPRECIATION. INVESTMENT OBJECTIONS LONG-TERM GROWTH.""
+}",7/19/2005 - 8/12/2006,PIPER JAFFRAY & CO. (665)
+8158,1388093,ROBERT,[],HISLE,2/21/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABILITY"",
+  ""Damage Amount Requested"" : ""$53,000.00"",
+  ""Settlement Amount"" : ""$32,251.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-01361"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I REFUTE ALL CLAIMS. CLAIMS ARE ENTIRELY WITHOUT MERIT. CASE WILL BE ARBITRATED.""
+}",7/16/2002 - 12/31/2004,PIPER JAFFRAY & CO. (665)
+8158,1388093,ROBERT,[],HISLE,2/11/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES NEGLIGENCE, BREACH OF FIDUCIARY DUTY, MISREPRESENTATIONS AND OMISSIONS AND UNSUITABILITY"",
+  ""Damage Amount Requested"" : ""$90,000.00"",
+  ""Settlement Amount"" : ""$67,380.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-00594"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER ALLEGATIONS ARE UNTRUE AND WITHOUT BACKING.""
+}",7/3/2002 - 8/12/2006,PIPER JAFFRAY & CO. (665)
+8158,1388093,ROBERT,[],HISLE,7/2/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABILITY. TIME FRAME OF COMPLAINT IS FROM 2000 THRU 2002. ACCOUNT IS DOWN 70%. LOSSES OF APPROXIMATELY $150,000."",
+  ""Damage Amount Requested"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THIS CUSTOMER COMPLAINT NO LONGER REPORTABLE""
+}",5/21/1992 - 7/8/2002,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+8158,1388093,ROBERT,[],HISLE,,,,,4/19/1991 - 5/26/1992,"SMITH, GAYLOR, INC. (14143)"
+8158,1388093,ROBERT,[],HISLE,,,,,9/25/1985 - 4/25/1991,CITY SECURITIES CORPORATION (1459)

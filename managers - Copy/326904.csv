@@ -1,0 +1,47 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+135414,326904,THOMAS,[],MCDONALD,10/31/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Claimant alleges Mr. McDonald did not disclose, and did not accurately disclose, all material facts in connection with Claimant's investment in a private placement offering, and did not provide updates and other documents after Claimant made the investment."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I believe the claims lack merit, and I intend to vigorously defend against them.""
+}",12/7/2005 - Current,MCDONALD PARTNERS LLC (135414)
+135414,326904,THOMAS,[],MCDONALD,10/15/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege Mr. McDonald did not provide sufficient information regarding source of funds raised for, and used to close, contingency offering, and did not provide accurate information regarding status of underlying project."",
+  ""Damage Amount Requested"" : ""$650,000.00"",
+  ""Settlement Amount"" : ""$65,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-00440"",
+  ""Broker Comment"" : ""The Firm elected to settle the disputed claims with two of the Claimants, a married couple, to avoid the costs and risks associated with further litigating the case. The matter remains pending with the remaining Claimant. I did not personally contribute to the settlement. With regard to the remaining Claimant, I believe the claims lack merit and I intend to continue to vigorously defend against them.""
+}",7/7/2005 - Current,MCDONALD PARTNERS LLC (135414)
+135414,326904,THOMAS,[],MCDONALD,9/30/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege Mr. McDonald did not provide sufficient information regarding source of funds raised for, and used to close, contingency offering, and did not provide accurate information regarding status of underlying project."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""Settlement Amount"" : ""$82,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-02756"",
+  ""Broker Comment"" : ""The Firm elected to settle the disputed claims with the Claimant to avoid the costs and risks associated with further litigating the case. I did not personally contribute to the settlement.""
+}",4/3/2003 - 1/20/2006,WAYNE HUMMER ASSET MANAGEMENT COMPANY (110757)
+135414,326904,THOMAS,[],MCDONALD,5/1/1990,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""HPD - 90 - 74"",
+  ""DocketNumberAAO"" : ""90-74"",
+  ""Initiated By"" : ""NYSE"",
+  ""Allegations"" : ""MCDONALD VIOLATED  EXCHANGE RULE 342 A IN THAT HE FAILED TO REASONABLY SUPERVISE THE ACTIVITIES OF AN EMPLOYEE UNDER HIS SUPERVISION"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""CONSENT TO CENSURE"",
+  ""Broker Comment"" : ""Not Provided""
+}",4/2/2003 - 1/20/2006,WAYNE HUMMER INVESTMENTS L.L.C. (875)
+135414,326904,THOMAS,[],MCDONALD,,,,,3/14/2003 - 4/2/2003,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+135414,326904,THOMAS,[],MCDONALD,,,,,10/9/1991 - 3/14/2003,MCDONALD INVESTMENTS INC. (566)
+135414,326904,THOMAS,[],MCDONALD,,,,,9/4/1990 - 9/27/1991,"KEMPER SECURITIES GROUP, INC. (19616)"
+135414,326904,THOMAS,[],MCDONALD,,,,,3/3/1988 - 9/4/1990,"PRESCOTT, BALL & TURBEN, INC. (7656)"
+135414,326904,THOMAS,[],MCDONALD,,,,,2/15/1988 - 4/9/1988,SHEARSON LEHMAN HUTTON INC. (7506)
+135414,326904,THOMAS,[],MCDONALD,,,,,9/26/1978 - 4/16/1979,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+135414,326904,THOMAS,[],MCDONALD,,,,,7/27/1973 - 2/15/1988,E. F. HUTTON & COMPANY INC (235)
+135414,326904,THOMAS,[],MCDONALD,,,,,7/3/1973 - 9/26/1978,"MERRILL LYNCH, PIERCE, FENNER & SMITH, INC. (572)"

@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,10/30/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018058765701"",
+  ""DocketNumberAAO"" : ""2018058765701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, King consented to the sanctions and to the entry of findings that he, as a managing director in his member firm's research department, co-authored research reports on an issuer without disclosing in any of the reports a material conflict of interest arising from employment discussions with the subject company of those reports. The findings stated that King's omission caused the reports to be misleading. Reasonable readers of the reports would have considered the conflict important to their investment decisions. King had a clear obligation to disclose his employment discussions with the issuer in the research reports, yet he failed to do so. The findings also stated that King completed a quarterly research analyst certification but failed to disclose to compliance that he had received an employment offer from the issuer. The following day King wrote to the issuer's chief executive officer, \""I'd like to figure this out soon because I think I should disclose it to my firm and give notice.\"""",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$20,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Requalification""
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""14 months"",
+      ""Start Date"" : ""11/4/2019"",
+      ""End Date"" : ""1/3/2021""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fine paid in full on January 11, 2021.""
+}",1/25/2021 - Current,"H.C.WAINWRIGHT & CO., LLC (375)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,1/2/2013 - 6/6/2018,JMP SECURITIES LLC (22208)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,9/19/2012 - 12/21/2012,"DAWSON JAMES SECURITIES, INC. (130645)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,7/21/2011 - 9/14/2012,"RODMAN & RENSHAW, LLC (16415)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,3/29/2010 - 10/5/2010,WEDBUSH SECURITIES INC. (877)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,6/17/2009 - 3/23/2010,MERRIMAN CURHAN FORD & CO. (18296)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,5/16/2005 - 4/24/2009,"RODMAN & RENSHAW, LLC (16415)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,7/1/2002 - 5/18/2005,BANC OF AMERICA SECURITIES LLC (26091)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,3/10/1999 - 6/3/2002,"ROBERTSON STEPHENS, INC. (41271)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,2/5/1997 - 9/25/1998,"VECTOR SECURITIES INTERNATIONAL, INC. (22010)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,1/1/1995 - 4/16/1996,"DILLON, READ & CO. INC. (1650)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,12/6/1993 - 10/26/1994,"D. BLECH & COMPANY, INCORPORATED (26063)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,6/4/1990 - 11/10/1993,ALEX. BROWN & SONS INCORPORATED (20)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,2/25/1988 - 5/24/1990,HAMBRECHT & QUIST INCORPORATED (940)
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,7/2/1985 - 3/14/1988,"KIDDER, PEABODY & CO. INCORPORATED (7613)"
+375,1264094,MICHAEL,"[MICHAEL G KING JR, MICHAEL GEORGE KING JR]",KING,,,,,10/16/1984 - 7/9/1985,SUSSEX SECURITIES INCORPORATED (13596)

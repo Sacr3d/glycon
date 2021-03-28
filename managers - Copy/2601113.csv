@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,2601113,NICOLE,[KIMBERLY NICOLE ZIELKE],HARRIS,10/12/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""WRITTEN COMPLAINT DATED 10/5/12, RECEIVED 10/12/12, ALLEGES MISREPRESENTATION OF THE LIQUIDITY OF DCDPF PURCHASED 1/16/07."",
+  ""Damage Amount Requested"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""***UPDATE- THIS DISCLOSURE IS NO LONGER REPORTABLE UNDER THE CURRENT U4 BECAUSE IT WAS FILED MORE THAN 24 MONTHS AGO AND DID NOT SETTLE FOR $15,000 OR MORE***""
+}",2/13/2013 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,2601113,NICOLE,[KIMBERLY NICOLE ZIELKE],HARRIS,10/9/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""RMK COMPLAINT: WRITTEN COMPLAINT RECEIVED OCTOBER 9, 2009, SUBMITTED BY THE CLIENT'S SON AND CO-EXECUTOR OF THE ESTATE, ALLEGES THE FINANCIAL ADVISOR CONTACTED HIM REGARDING BUY AND SELL RECOMMENDATIONS FOR HIS FATHER'S ACCOUNT WITHOUT AUTHORIZATION FROM HIS FATHER TO SHARE THIS INFORMATION."",
+  ""Damage Amount Requested"" : ""$12,889.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/9/2012 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2601113,NICOLE,[KIMBERLY NICOLE ZIELKE],HARRIS,6/29/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIM ALLEGES MISREPRESENTATION AND UNSUITABILITY WITH REGARD TO MUTUAL FUNDS PURCHASED BETWEEN 7/07 AND 6/08."",
+  ""Damage Amount Requested"" : ""$377,000.00"",
+  ""Settlement Amount"" : ""$98,278.76"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/1/1999 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2601113,NICOLE,[KIMBERLY NICOLE ZIELKE],HARRIS,2/9/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIM ALLEGES MISREPRESENTATIONS AND UNSUITIBILITY OF MUTUAL FUNDS PURCHASED BETWEEN 8/03 AND 7/07."",
+  ""Damage Amount Requested"" : ""$300,253.00"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-00460""
+}",12/14/1995 - 4/16/1999,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+705,2601113,NICOLE,[KIMBERLY NICOLE ZIELKE],HARRIS,11/20/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIM ALLEGES UNSUITABILITY OF A VARIABLE ANNUITY PURCHASE. ANNUITY WAS PURCHASED BY AN ELDERLY WOMAN."",
+  ""Damage Amount Requested"" : ""$36,796.86"",
+  ""Settlement Amount"" : ""$9,999.99"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""04-02366"",
+  ""arbitrationDocketNumber"" : """"
+}",,

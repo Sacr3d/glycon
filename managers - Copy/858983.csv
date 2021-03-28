@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+105939,858983,MONTE,[],WHITE,4/1/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT, VIA ATTORNEY, ALLEGES UNSUITABILITY OF INVESTMENTS AND UNAUTHORIZED TRADING BETWEEN SEPTEMBER 2000 AND SEPTEMBER 2001."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""Settlement Amount"" : ""$60,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/15/2002 - 11/15/2011,IMS CAPITAL MANAGEMENT (105939)
+105939,858983,MONTE,[],WHITE,12/24/2001,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES IE MADE UNAUTHORIZED AND EXCESSIVE TRADES IN THE ACCOUNT BETWEEN 9/30/99 AND 3/30/01 RESULTING IN A DECLINE OF APPROXIMATELY $48,800."",
+  ""Damage Amount Requested"" : ""$48,000.00"",
+  ""Settlement Amount"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/12/1994 - 10/17/2001,U.S. BANCORP PIPER JAFFRAY INC. (665)
+105939,858983,MONTE,[],WHITE,11/19/2001,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ATTORNEY ALLEGES MISREPRESENTATION, UNAUTHORIZED TRADING, BREACH OF FIDUCIARY DUTY AND NEGLIGENCE."",
+  ""Damage Amount Requested"" : ""$400,000.00"",
+  ""Settlement Amount"" : ""$169,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/31/1993 - 8/23/1994,SMITH BARNEY INC. (7059)
+105939,858983,MONTE,[],WHITE,,,,,2/15/1988 - 7/31/1993,LEHMAN BROTHERS INC. (7506)
+105939,858983,MONTE,[],WHITE,,,,,11/2/1978 - 2/15/1988,E. F. HUTTON & COMPANY INC (235)

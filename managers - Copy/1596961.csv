@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+30833,1596961,CURTIS,[],EDMARK,4/1/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure""
+}",12/19/2017 - Current,"CENTAURUS FINANCIAL, INC. (30833)"
+30833,1596961,CURTIS,[],EDMARK,1/12/2009,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""05-C29817"",
+  ""DocketNumberAAO"" : ""05-29817"",
+  ""Initiated By"" : ""STATE OF WISCONSIN OFFICE OF THE COMMISSIONER OF INSURANCE"",
+  ""Allegations"" : ""THE COMMISSIONER OF INSURANCE ALLEGED VIOLATIONS OF STATE STATUTE 628.34 (UNFAIR MARKETING PRACTICES) AND ADMINISTRATIVE CODE 2.16 (ADVERTISEMENTS OF AND DECEPTIVE PRACTICES IN LIFE INSURANCE AND ANNUITIES)."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Restitution"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  } ]
+}",11/27/2017 - Current,"CENTAURUS FINANCIAL, INC. (30833)"
+30833,1596961,CURTIS,[],EDMARK,12/23/2005,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""WISCONSIN"",
+  ""Allegations"" : ""CONSENT ORDER OF PROHIBITION WAS ISSUED BASED ON ALLEGATIONS OF ACTING AS AN UNLICENSED SECURITIES AGENT AND FOR SELLING UNREGISTERED SECURITIES IN THE FORM OF VIATICAL SETTLEMENT CONTRACTS ON BEHALF OF BENEFICIAL ASSURANCE, LTD."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ ],
+  ""Broker Comment"" : ""WHEN I RECEIVED THE INQUIRY OF 11/18/05 THE EXAMINER NOTIFIED ME THAT I HAD TO REPORT THE ORDER OF PROHIBITION TO THE COMMISSIONER OF INSURANCE, WHICH I DID PROMPTLY.  I WASN'T TOLD I HAD TO REPORT IT TO PACKERLAND BROKERAGE, AND WASN'T AWARE I HAD TO, AS I WASN'T FULLY LICENSED (ONLY SCHEDULED EXAMS).  I WOULD HAVE HAD I KNOWN.""
+}",2/22/2001 - 10/1/2002,"USALLIANZ SECURITIES, INC. (40875)"
+30833,1596961,CURTIS,[],EDMARK,2/1/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Allegation:  Did not disclose all features of a fixed annuity contract.  Explanation: Wife of [customer] wished to liquidate his annuity at his death to transfer to another company.  The contract would not allow her to do this without penalty.  The contract did allow her to do a spousal continuation or 5 year payout without penalty.  She opted to surrender the contract for a penalty and then filed a complaint."",
+  ""Damage Amount Requested"" : ""$10,000.00"",
+  ""Settlement Amount"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This consumer-initiated complaint resulted in a $5,000.00 restitution for the consumer, not $10,000.00 as previously denoted.  Therefore, it does not meet the criteria as set forth in disclosure question 14I(2)(1). Complaint was initiated by competing broker who wished to have money transferred to his company without penalty.  The insurance company rejected his complaint request, explaining that the client could do a spousal continuation or request a 5 year payout without penalty.  Instead of advising her to take one of these 2 options, he advised her to proceed with the surrender, pay the penalty, and then transfer to his company.  He then helped her file the complaint to the state.""
+}",11/26/1991 - 3/24/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+30833,1596961,CURTIS,[],EDMARK,,,,,12/8/1986 - 11/11/1991,MUTUAL OF OMAHA FUND MANAGEMENT COMPANY (611)

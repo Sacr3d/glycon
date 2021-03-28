@@ -1,0 +1,28 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+43520,3007449,William,[BILL  LEONARD],Leonard,5/31/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""17-01716"",
+  ""DocketNumberAAO"" : ""17-01716"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent William McCabe Leonard failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""5/31/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent William McCabe Leonard is suspended on May 31, 2019, for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",3/28/2018 - 4/9/2019,"J.H. DARBIE & CO., INC. (43520)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,10/1/2015 - 12/15/2017,"BMA SECURITIES, LLC (108219)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,11/18/2014 - 10/9/2015,"MEYERS ASSOCIATES, L.P. (34171)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,9/3/2014 - 11/4/2014,FREEDOM INVESTORS CORP. (23714)
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,6/4/2010 - 11/4/2014,"MERRIMAC CORPORATE SECURITIES, INC. (35463)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,5/11/2010 - 5/20/2010,SCOTTSDALE CAPITAL ADVISORS CORP (118786)
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,1/29/2009 - 3/23/2010,"FINANCE 500, INC. (12981)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,1/16/2008 - 12/18/2008,"THOMAS ANTHONY & ASSOCIATES , INC. (142090)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,8/17/2007 - 2/19/2008,WESTMINSTER SECURITIES CORPORATION (6105)
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,1/19/2007 - 6/1/2007,"SEABOARD SECURITIES, INC. (755)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,11/3/2003 - 2/5/2007,"EMPIRE FINANCIAL GROUP, INC. (28759)"
+43520,3007449,William,[BILL  LEONARD],Leonard,,,,,7/20/1999 - 10/14/2003,"MORGAN KEEGAN & COMPANY, INC. (4161)"

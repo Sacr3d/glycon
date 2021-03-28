@@ -1,0 +1,51 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+121196,1230652,DANIEL,[],POLAND,3/4/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,920.85"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The address on the lien is not correct and the rep was not aware.""
+}",11/6/2007 - Current,MCNALLY FINANCIAL SERVICES CORPORATION (121196)
+121196,1230652,DANIEL,[],POLAND,2/4/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$46,481.26"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The address on the lien is not correct and the rep was not aware.""
+}",5/3/1999 - 11/7/2005,PARK AVENUE SECURITIES LLC (46173)
+121196,1230652,DANIEL,[],POLAND,9/4/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,991.48"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",2/13/1989 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+121196,1230652,DANIEL,[],POLAND,6/19/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$163,122.66"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THE IRA TAX LIEN IS COMPRISE OF THE FOLLOWING:  2003 - 25549.09 2004 - 47946.65 2005 - 19092.62 2006 - 70534.30""
+}",7/7/1986 - 1/12/1989,NEW ENGLAND SECURITIES CORPORATION (615)
+121196,1230652,DANIEL,[],POLAND,8/22/2006,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2005003207201"",
+  ""DocketNumberAAO"" : ""2005003207201"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""NASD RULES 2110, 3030 - DANIEL KEITH POLAND ENGAGED IN AN OUTSIDE BUSINESS ACTIVITY WITHOUT PROVIDING PROMPT WRITTEN NOTICE TO HIS MEMBER FIRM."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Regulator Statement"" : ""WITHOUT ADMITTING OR DENYING THE FINDINGS, POLAND CONSENTED TO THE DESCRIBED SANCTIONS AND TO THE ENTRY OF FINDINGS; THEREFORE, HE IS FINED $7,500 AND SUSPENDED FROM ASSOCIATION WITH ANY NASD MEMBER IN ANY CAPACITY FOR 60 DAYS. THE SUSPENSION IN ANY CAPACITY IS IN EFFECT FROM SEPTEMBER 18, 2006 THROUGH NOVEMBER 16, 2006.  FINES PAID ON 10/19/2007.""
+}",2/11/1985 - 6/14/1986,CALVERT SECURITIES CORPORATION (14035)
+121196,1230652,DANIEL,[],POLAND,12/27/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""EXECUTRIS/BENEFICIARY OF DECEDENT ALLEGES IMPROPER ACTIVITY BY RR POLAND IN CONNECTION WITH ESTATE. SHE SEEKS TO RECOUP ATTORNEY FEES."",
+  ""Damage Amount Requested"" : ""$19,351.00"",
+  ""Settlement Amount"" : ""$24,245.92"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""FOR BUSINESS REASONS, PAS AND THE CLIENT AGREED TO SETTLE THE MATTER FOR $24,245.92 WITH NO ADMISSIONS OF LIABILITY. MR. POLAND DID NOT CONTRIBUTE TO THE SETTLEMENT.""
+}",10/22/1984 - 3/25/1985,"PENN MUTUAL EQUITY SERVICES, INC. (4031)"
+121196,1230652,DANIEL,[],POLAND,12/14/2005,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$21,538.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/25/1984 - 10/18/1984,FSC SECURITIES CORPORATION (7461)
+121196,1230652,DANIEL,[],POLAND,11/4/2005,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PARK AVENUE SECURITIES"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""MR. POLAND ENGAGED IN AN OUTSIDE BUSINESS ACTIVITY BUT DID NOT GIVE PAS PRIOR WRITTEN NOTICE, NOR GET PRIOR WRITTEN APPROVAL.""
+}",2/24/1984 - 6/25/1984,NEL EQUITY SERVICES CORPORATION (615)

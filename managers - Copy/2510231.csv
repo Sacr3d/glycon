@@ -1,0 +1,148 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+453,2510231,CHRISTOPHER,[],BENNETT,7/31/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019061319201"",
+  ""DocketNumberAAO"" : ""2019061319201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Bennett consented to the sanction and to the entry of findings that he failed to provide information and documents requested by FINRA in connection with its investigation in response to an amended Form U5 filed by his former member firm that identified a customer complaint alleging that he had conducted trading in her account without her permission. The findings stated that FINRA's investigation of Bennett expanded to include additional claims by other customers alleging similar misconduct, as well as allegations of unsuitable recommendations."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/31/2020""
+    } ]
+  } ]
+}",1/7/2004 - 10/22/2018,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,2510231,CHRISTOPHER,[],BENNETT,7/8/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""The former clients allege losses in their accounts as the result of advisor's recommendation of unsuitable investments. They further allege unauthorized trading, churning, fraud, as well allege that Hilliard Lyons failed to properly supervise advisor."",
+  ""Damage Amount Requested"" : ""$65,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/13/1995 - 10/22/2018,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,2510231,CHRISTOPHER,[],BENNETT,5/7/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Claimants allege unsuitable investments, unauthorized selling and trading, and excessive trading in their accounts."",
+  ""Damage Amount Requested"" : ""$900,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,2/27/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges violation of the Securities Act of Kentucky, breach of fiduciary duty, and unsuitable investment recommendations."",
+  ""Damage Amount Requested"" : ""$139,214.00"",
+  ""Settlement Amount"" : ""$67,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,2/1/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017054060301"",
+  ""DocketNumberAAO"" : ""2017054060301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Bennett consented to the sanctions and to the entry of findings that he exercised discretionary trading authority in the accounts of several customers, including a senior investor, without express or written authorization from the customers and without seeking or obtaining his member firm's prior written acceptance of the accounts as discretionary."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""15 business days"",
+      ""Start Date"" : ""2/4/2019"",
+      ""End Date"" : ""2/25/2019""
+    } ]
+  } ]
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,1/6/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges unauthorized trading, unsuitablility, overconcentration, churning, and lack of diversification."",
+  ""Damage Amount Requested"" : ""$559,429.00"",
+  ""Settlement Amount"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,12/3/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ERIC PARR WHO WAS GRANTED POWER OF ATTORNEY OVER HIS MOTHER'S (MARY) ACCOUNT FELT A HOLDING IN THE ACCOUNT WAS AN UNSUITABLE INVESTMENT."",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,11/21/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Cl;ient alleges unauthorized trading and suitability issues."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,11/20/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client expressed concerns over losses in securities, alleged the rep had conducted trading without her permission and that she was charged excessive commissions on those trades.  Alleged activity period was 1/1/2014 to 11/20/2018."",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,6/25/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Former client alleges breach of fiduciary duty, violation of Kentucky's Securities Act, common law fraud, breach of contract, restitution, negligence/negligent misrepresentation, ommission, and negligent supervision related to the purchase of Breitburn Energy."",
+  ""Damage Amount Requested"" : ""$550,000.00"",
+  ""Settlement Amount"" : ""$375,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,4/3/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client, through her attorneys-in-fact, allege representative recommended the purchases of unsuitable securities in her accounts.  Alleged activey 10/2013 - 12/2015."",
+  ""Damage Amount Requested"" : ""$1,581,025.00"",
+  ""Settlement Amount"" : ""$470,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,1/26/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Claimant alleges breach of fiduciary duty as well as the misrepresentation and suitability of certain securities."",
+  ""Damage Amount Requested"" : ""$5,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,8/7/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges that registered representative failed to properly diversify and invested in products that exposed the client's portfolio to significant risk.  Alleged activity 2/2011 - 2/2016."",
+  ""Damage Amount Requested"" : ""$311,455.00"",
+  ""Settlement Amount"" : ""$350,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-02011"",
+  ""Broker Comment"" : ""The registered representative and Hilliard Lyons vehemently deny the Claimant's allegations and believe they are without merit.""
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,7/7/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege unauthorized trading and violation of suitability rules with regard to certain securities from 2014 through 2016."",
+  ""Damage Amount Requested"" : ""$330,713.07"",
+  ""Settlement Amount"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-00643""
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,7/7/2017,Customer Dispute,Pending,"{
+  ""Allegations"" : ""A representative for the client alleges breach of fiduciary duty, unauthorized trading, violation of suitability rules and inadequate risk assessment."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,12/10/2016,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""Client's daughter/POA alleges the representative engaged in unauthorized trades that were unsuitable.  UPDATE--Alleged complaint evolved into arbitration which was received on 4/4/2017."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""Damages Granted"" : ""$445,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-00750""
+}",,
+453,2510231,CHRISTOPHER,[],BENNETT,10/25/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges poor performance in their accounts."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

@@ -1,0 +1,45 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+15708,1388190,KENNETH,[],BUTSCHEK,3/26/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019061653401"",
+  ""DocketNumberAAO"" : ""2019061653401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Butschek failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/29/2020""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated March 26, 2020 and April 20, 2020, respectively, on June 29, 2020, Butschek is barred from association with any FINRA member in all capacities. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in all capacities.""
+}",3/11/2004 - 2/15/2019,"PROEQUITIES, INC. (15708)"
+15708,1388190,KENNETH,[],BUTSCHEK,2/14/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""ProEquities, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Solicited ProEquities client to invest in personal investment opportunity involving representative's OBA without firm knowledge or approval. Deposited $60,000 client check into personal checking account.""
+}",4/24/1987 - 3/16/2004,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+15708,1388190,KENNETH,[],BUTSCHEK,1/16/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges that representative deposited funds given to him for investment into the representative's personal bank account."",
+  ""Damage Amount Requested"" : ""$13,185.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/3/1986 - 5/2/1987,PHILADELPHIA LIFE ASSET PLANNING COMPANY (629)
+15708,1388190,KENNETH,[],BUTSCHEK,1/30/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$12,816.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""DOCKET/CASE# IS TAX LIEN SERIAL NUMBER.  FOR TAX PERIOD ENDING 12/31/2016.""
+}",9/30/1985 - 7/3/1986,SOUTHWESTERN MANAGEMENT & RESEARCH CORPORATION (3461)
+15708,1388190,KENNETH,[],BUTSCHEK,8/2/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,816.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""DOCKET/CASE NUMBER LISTED IS THE LIEN SERIAL CERTIFICATE NUMBER.  FOR TAX YEAR ENDING 12/31/2015.""
+}",,
+15708,1388190,KENNETH,[],BUTSCHEK,5/29/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$24,002.76"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""LEVY/LIEN IS FOR TAX PERIOD ENDING 2013.  RR believes that this lien and the $59287.07 (Tax Years 2010, 2014, and 2015) lien may have been consolidated into one but he does not have any documentation to validate that.  In the event that such documentation is provided at a later date an amended filing will be submitted.""
+}",,

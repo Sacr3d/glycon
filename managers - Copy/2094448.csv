@@ -1,0 +1,43 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,8/29/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Massachusetts Securities Division"",
+  ""Allegations"" : ""Sullivan was the subject a regulatory action by FINRA in 2016. Sullivan entered into a Letter of Acceptance, Waiver & Consent (\""AWC\"") with FINRA in which Sullivan consented to FINRA's imposition of a suspension, fine and disgorgement."",
+  ""Resolution"" : ""Consent Order - Conditional Registration"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Undertaking""
+  } ],
+  ""Sanctions"" : ""For a period of two years Sullivan shall be supervised on a heightened basis to include: (1) Sullivan is limited to servicing only Institutional Accounts as defined in FINRA Rule 4512(c) and/or FINRA registered Broker-Dealers, and their respective agents acting on their behalf; and (2) Sullivan shall not participate or purchase in any initial public offering for accounts in which Sullivan has a beneficial interest or ownership or otherwise may reap a benefit without approval and in compliance with FINRA Rules. Two years after the entry of the Order, Sullivan will submit an affidavit stating that he has fully complied with all conditions of the Order.""
+}",11/8/2018 - Current,VISION 4 FUND DISTRIBUTORS (298105)
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,10/4/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048854301"",
+  ""DocketNumberAAO"" : ""2016048854301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Sullivan consented to the sanctions and to the entry of findings that while registered with a member firm, he purchased shares in Initial Public Offerings (IPOs) in disclosed personal brokerage accounts that he held at the firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$4,057.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""10 business days"",
+      ""Start Date"" : ""11/7/2016"",
+      ""End Date"" : ""11/18/2016""
+    } ]
+  } ]
+}",5/31/2017 - 2/27/2019,FIRST DOMINION CAPITAL CORP. (16330)
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,,,,,7/28/2011 - 12/31/2016,"TSC DISTRIBUTORS, LLC (37058)"
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,,,,,8/29/2008 - 8/4/2009,EATON VANCE MANAGEMENT (104859)
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,,,,,11/13/2006 - 7/17/2008,EATON VANCE MANAGEMENT (104859)
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,,,,,3/10/1995 - 8/4/2009,"EATON VANCE DISTRIBUTORS, INC. (37731)"
+298105,2094448,CORNELIUS,[NEAL  SULLIVAN],SULLIVAN,,,,,12/10/1990 - 11/1/1996,"EATON VANCE DISTRIBUTORS, INC. (8039)"

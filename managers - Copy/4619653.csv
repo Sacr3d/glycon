@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,4619653,JAMES,[JIM A TURK],TURK,9/2/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES UNSUITABILITY IN CONNECTION WITH LIFE INSURANCE."",
+  ""Damage Amount Requested"" : ""$15,000.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/1/2016 - Current,LPL FINANCIAL LLC (6413)
+6413,4619653,JAMES,[JIM A TURK],TURK,4/1/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT HE BELIEVED HE WAS PURCHASING MUTUAL FUNDS."",
+  ""Damage Amount Requested"" : ""$15,933.95"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/1/2016 - Current,"PRIVATE ADVISOR GROUP, LLC (155216)"
+6413,4619653,JAMES,[JIM A TURK],TURK,8/29/2006,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT MR. TURK MISREPRESENTED CERTAIN FEATURES OF AN ALLSTATE FIXED ANNUITY THAT SHE PURCHASED."",
+  ""Damage Amount Requested"" : ""$6,456.32"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/21/2017 - 10/6/2020,LPL FINANCIAL LLC (6413)
+6413,4619653,JAMES,[JIM A TURK],TURK,,,,,8/4/2008 - 4/4/2016,"FIFTH THIRD SECURITIES, INC. (628)"
+6413,4619653,JAMES,[JIM A TURK],TURK,,,,,1/17/2003 - 6/23/2008,"U.S. BANCORP INVESTMENTS, INC. (17868)"

@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,10/23/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$81,433.80"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR has been assigned an IRS Agent and is in Compliance with all requests.""
+}",2/25/2013 - Current,"CAMBRIDGE INVESTMENT RESEARCH, INC. (39543)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,10/23/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,778.30"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR has been assigned an IRS Agent and is in Compliance with all requests.""
+}",2/25/2013 - Current,"CAMBRIDGE INVESTMENT RESEARCH ADVISORS, INC. (134139)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,1/31/2020,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""In January 2020, FP refinanced his home through a mortgage company who paid off a number of items. Copies of statements were received showing the items were paid in full. This company did not sent the FP any correspondence indicating that a compromise had taken place and the FP didn't agree to a settlement. FP learned of this event when his B/D pulled a credit report.""
+}",7/30/2012 - 11/26/2013,APPLIED FINANCIAL WISDOM (164428)
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,11/26/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$237,518.35"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",3/19/2012 - 8/3/2012,RESEARCH FINANCIAL STRATEGIES (153247)
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,4/6/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges the advisor did not disclose fees and costs associated with the investments. Client alleges the investments did not align with his investment objective."",
+  ""Damage Amount Requested"" : ""$348,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""RR asserts his paperwork to include suitability and VA disclosure forms are very clear addressing the issues. RR asserts he met with client on many occasions to include delivering his annuity contracts which they revealed in great detail. RR finds this unfortunate because he has been in practice for 50 years without a single complaint and have sold several hundred VAs.""
+}",1/17/2012 - 3/11/2013,LPL FINANCIAL LLC (6413)
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,4/30/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",9/7/2011 - 1/17/2012,"TRIAD ADVISORS, INC. (25803)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,6/23/2010 - 9/12/2011,"GLASS JACOBSON INVESTMENT ADVISORS, LLC (120141)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,3/1/2010 - 1/17/2012,"TRIAD ADVISORS, INC. (25803)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,4/16/2001 - 3/4/2010,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,1/1/1995 - 3/4/2010,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,3/8/1988 - 12/15/1994,CHUBB SECURITIES CORPORATION (3870)
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,8/5/1983 - 6/5/1987,"MML INVESTORS SERVICES, INC. (10409)"
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,6/28/1983 - 6/18/1987,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)
+39543,333445,JOHN,[JOHN A MEZZULLO],MEZZULLO,,,,,1/1/1974 - 3/15/1988,HOME LIFE INSURANCE COMPANY (4184)

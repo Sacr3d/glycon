@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,7/1/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,441.66"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",9/13/2019 - Current,"NEXT FINANCIAL GROUP, INC. (46214)"
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,5/20/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Did not properly report crowdfunding activity to Firm.""
+}",8/26/2019 - Current,"NEXT FINANCIAL GROUP, INC. (46214)"
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,5/1/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,689.81"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",12/17/2015 - 6/19/2019,LPL FINANCIAL LLC (6413)
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,11/1/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,405.28"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",3/7/2013 - 12/22/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,7/10/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT IS ALLEGEDING ADVICE FROM PREVIOUS FINANCIAL ADVISOR TO MOVE TO BLACKROCK FUNDS WAS DETRIMENTAL TO THEIR OVERALL PORTFOLIO PERFORMANCE."",
+  ""Damage Amount Requested"" : ""$70,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AFTER COMPLETION OF FIRM'S INVESTIGATION, COMPLAINT WAS DENIED""
+}",3/24/2011 - 3/12/2013,EDWARD JONES (250)
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,,,,,3/18/2011 - 3/12/2013,EDWARD JONES (250)
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,,,,,7/20/2009 - 3/24/2011,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,,,,,6/8/2007 - 7/15/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+46214,5033453,Jason,[JASON R. PFITZINGER],Pfitzinger,,,,,10/19/2005 - 7/15/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"

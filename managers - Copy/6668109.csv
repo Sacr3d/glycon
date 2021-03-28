@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6668109,Candace,"[Candace Michelle Manny, Candace Michelle Reed, Candace  Reed]",Manny,11/13/2018,Criminal,Pending Charge,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""DOMESTIC BATTERY BY STRANGULATION""
+  }, {
+    ""Charges"" : ""BATTERY""
+  }, {
+    ""Charges"" : ""CHILD ABUSE""
+  } ]
+}",9/19/2016 - 1/10/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

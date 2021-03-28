@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6627,4842392,SEILA,[],PHLONG,11/25/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""AXA Advisors, LLC"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""RR permitted to resign after regulatory action taken by FINRA""
+}",3/9/2016 - 12/2/2016,"AXA ADVISORS, LLC (6627)"
+6627,4842392,SEILA,[],PHLONG,11/2/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015047037402"",
+  ""DocketNumberAAO"" : ""2015047037402"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Phlong consented to the sanctions and to the entry of findings that as his member firm's designated principal for review and approval of trading, despite a lack of prior supervisory experience, Phlong failed to establish, maintain and enforce supervisory systems and procedures reasonably designed to provide for the proper review and approval of daily orders. The findings stated that the firm's Chief Compliance Officer (CCO) gave him no instructions as to his duties, Phlong did not read the firm's written supervisory procedures (WSPs), and he was unaware of what his role or responsibilities as a principal were. Although he was required to do so by the firm's WSPs, Phlong failed to conduct any principal review or approval of the firm's order tickets or daily trade blotters from his designation as principal until the firm ceased trading."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Requalification""
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""principal capacity"",
+      ""Duration"" : ""three months"",
+      ""Start Date"" : ""12/5/2016"",
+      ""End Date"" : ""3/4/2017""
+    } ]
+  } ]
+}",12/23/2015 - 12/2/2016,"AXA ADVISORS, LLC (6627)"
+6627,4842392,SEILA,[],PHLONG,,,,,10/21/2015 - 12/7/2015,IFS SECURITIES (40375)
+6627,4842392,SEILA,[],PHLONG,,,,,4/24/2013 - 12/31/2013,"YIELDQUEST ADVISORS, LLC (132230)"
+6627,4842392,SEILA,[],PHLONG,,,,,4/18/2013 - 11/30/2015,"YIELDQUEST SECURITIES, LLC (135041)"
+6627,4842392,SEILA,[],PHLONG,,,,,7/17/2009 - 4/26/2013,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+6627,4842392,SEILA,[],PHLONG,,,,,6/4/2009 - 4/26/2013,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+6627,4842392,SEILA,[],PHLONG,,,,,9/29/2007 - 2/17/2009,FIDELITY BROKERAGE SERVICES LLC (7784)

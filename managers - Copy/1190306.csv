@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,1190306,LEOTHA,[LEE  THURMAN],THURMAN,8/22/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client [Client's] employer, Cal State, established a group variable annuity contract with The Variable Annuity Life Insurance Company (\""VALIC\"").  [Client] opened accounts,  through her employer, with VALIC.  She also opened  a Roth IRA account with VALIC.  [Client] allegedly executed a change of beneficiary form, dated June 5, 2013, fourteen (14) days prior to her death on June 19, 2013, whereby she changed the primary beneficiary to Claimaint [Customer].   VALIC received the change of beneficiary form upon [Client's] death and also received physicians' statements stating that [Client] was not competent on the date she executed the change of beneficiary form.  Therefore, VALIC initiated a legal review.  The Statement of Claim alleges that the financial advisor, Leotha Thurman, failed to follow the Claimant's instructions to reallocate the account into less \""risky\"" investments during the pendency of the legal review. However, at that time, [Customer] was not the beneficiary owner and did not have authority to make changes to the account. The Statement of Claim also alleges that Mr. Thurman sent the Claimant \""threatening and inappropriate\"" text messages during the pendency of the legal review and upon her request to transfer the funds to another institution. However, the company-issued BlackBerry used by Mr. Thurman at that time did not have the capability to send or receive text messages as the Firm had deactivated the text message function."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-01707""
+}",2/25/2003 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,1190306,LEOTHA,[LEE  THURMAN],THURMAN,,,,,3/23/2004 - 5/2/2009,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (121111)"
+42803,1190306,LEOTHA,[LEE  THURMAN],THURMAN,,,,,4/3/2000 - 9/17/2001,"CHARLES SCHWAB & CO., INC. (5393)"
+42803,1190306,LEOTHA,[LEE  THURMAN],THURMAN,,,,,2/7/1997 - 3/30/2000,PRUDENTIAL INVESTMENT MANAGEMENT SERVICES LLC (18353)
+42803,1190306,LEOTHA,[LEE  THURMAN],THURMAN,,,,,10/3/1983 - 2/14/1997,PRUCO SECURITIES CORPORATION (5685)

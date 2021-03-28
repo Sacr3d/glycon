@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+148148,4776341,CHRISTOPHER,[],HAWN,6/13/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015046760801"",
+  ""DocketNumberAAO"" : ""2015046760801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Hawn consented to the sanctions and to the entry of findings that he participated in two private securities transactions totaling $98,980 without providing prior written notice to his member firm. The findings stated that Hawn participated in the unapproved private securities transactions by, among other things, introducing his friend and an uncle to an investment opportunity in a private placement offering of a security. Both investors each separately purchased membership interests in the private placement offering and invested a total of $98,980. The findings also stated that Hawn distributed to potential investors sales materials, (marketing materials and an information memorandum), prepared by the issuer of the securities that failed to comply with FINRA's content standards for communications with the public. The materials did not include the risks of investing in the private placement offering or provide a sound basis for evaluating the financial information contained in the private placement offering. Furthermore, the information memorandum failed to comply with the applicable FINRA rule in that it contained forecasts of financial information, but failed to include clear language that described the assumptions used for the financial information, or factors that might inhibit achievement of the issuer's projected financial results. The findings also included that Hawn engaged in an outside business activity without providing prior written notice to his firm. Hawn signed a consulting agreement with the outside business as a consultant for the business, a privately owned registered investment advisor, that provided that he will be paid a fee of $100 per hour for his consulting activities, though he was never compensated by the business. FINRA found that Hawn falsely stated on his firm's annual compliance questionnaire that all of his securities related business was done through the firm, which was false because, at the time he completed the questionnaire, Hawn had participated in private securities transactions by introducing, soliciting and referring investors to the offering. Hawn also submitted monthly and annual certifications to another associated firm and falsely certified to that he had disclosed all current outside business activities. The certifications were false because at the time Hawn completed each of these questionnaires, he was engaged in unapproved outside business activities with the outside business."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""six months"",
+      ""Start Date"" : ""6/19/2017"",
+      ""End Date"" : ""12/18/2017""
+    } ]
+  } ]
+}",11/16/2016 - 10/3/2017,LOCUST CAPITAL MANAGEMENT LLC (148148)
+148148,4776341,CHRISTOPHER,[],HAWN,8/10/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""ALPS DISTRIBUTORS, INC."",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""UNDISCLOSED INVESTMENT-RELATED OUTSIDE BUSINESS ACTIVITY""
+}",1/11/2016 - 10/27/2016,"WINTHROP PARTNERS - EPA, LLC (282098)"
+148148,4776341,CHRISTOPHER,[],HAWN,8/10/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""STADION MONEY MANAGEMENT LLC"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""UNDISCLOSED INVESTMENT-RELATED OUTSIDE BUSINESS ACTIVITY""
+}",5/11/2015 - 9/4/2015,"STADION MONEY MANAGEMENT, LLC (112608)"
+148148,4776341,CHRISTOPHER,[],HAWN,,,,,5/23/2013 - 8/26/2015,"ALPS DISTRIBUTORS, INC. (16853)"
+148148,4776341,CHRISTOPHER,[],HAWN,,,,,9/28/2012 - 5/1/2013,"SC DISTRIBUTORS, LLC (151152)"
+148148,4776341,CHRISTOPHER,[],HAWN,,,,,4/19/2011 - 9/6/2012,KBS CAPITAL MARKETS GROUP LLC (132299)
+148148,4776341,CHRISTOPHER,[],HAWN,,,,,1/1/2005 - 4/15/2011,"HARTFORD LIFE DISTRIBUTORS, LLC (8326)"

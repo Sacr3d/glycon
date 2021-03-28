@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,2/3/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The customer alleges that features of the variable annuity were not as presented."",
+  ""Damage Amount Requested"" : ""$25,250.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/7/2013 - Current,"FIFTH THIRD SECURITIES, INC. (628)"
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,7/28/2016,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""The customer claims she was promised a higher fixed interest rate."",
+  ""Damage Amount Requested"" : ""$28,648.47"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Upon further consideration, the customer withdrew her demand to surrender the annuity.""
+}",11/13/2009 - 6/14/2013,PNC INVESTMENTS (129052)
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,7/28/2014,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT'S ESTATE ALLEGING WEALTH TRANSFER PRODUCT WAS UNSUITABLE."",
+  ""Damage Amount Requested"" : ""$28,729.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/13/2008 - 11/13/2009,"NATCITY INVESTMENTS, INC. (17490)"
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,9/6/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THEY WERE NOT ADVISED OF FEES OR RISK ASSOCIATED WITH INVESTMENT."",
+  ""Damage Amount Requested"" : ""$30,802.25"",
+  ""Settlement Amount"" : ""$23,302.25"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/17/2008 - 2/28/2008,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,,,,,10/15/2007 - 2/28/2008,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+628,4829999,MATTHEW,[MATT TODD THOMPSON],THOMPSON,,,,,10/7/2004 - 8/28/2007,"NATCITY INVESTMENTS, INC. (17490)"

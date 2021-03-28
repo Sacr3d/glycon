@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,2933245,DANIEL,[],MCGUIRE,4/4/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges that investment was misrepresented as a non-variable product and that his signatures on the annuity application were \""copied and pasted.\"""",
+  ""Damage Amount Requested"" : ""$9,287.47"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/10/2003 - 5/7/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,2933245,DANIEL,[],MCGUIRE,,,,,4/5/1999 - 5/7/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,2933245,DANIEL,[],MCGUIRE,,,,,12/8/1997 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

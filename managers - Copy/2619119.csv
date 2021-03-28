@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,9/30/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 34-79003, IA Release 4542 / September 30, 2016: The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative and that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 203(k) of the Advisers Act against Joseph Ronald Medley, Jr. (\""Medley or Respondent\""). On the basis of this Order and Respondent's Offer, the Commission finds that this matter concerns Medley's firm's multiple and repeated violations of the Advisers Act, even after the staff of the Commission's Office of Compliance Inspections and Examination (hereinafter, \""exam staff\"") conducted examinations of Medley's firm, Moloney Securities Co., Inc. ( Moloney), and issued three deficiency letters to Moloney in 2006, 2009 and 2012. In the 2006 exam deficiency letter, the exam staff noted, among other items, that Moloney did not have written compliance policies and procedures in place for its investment advisory business. In response, Moloney represented that it would correct the noted deficiencies. While Moloney developed its written compliance policies and procedures for its investment advisory business, the 2009 exam revealed that Moloney did not adequately implement those policies concerning best execution and principal transactions. Furthermore, Moloney did not properly conduct principal transactions. Accordingly, the exam staff issued a deficiency letter in 2009 that identified deficiencies relating to Moloney's practices regarding principal transactions and Moloney's failure to implement its compliance policies and procedures regarding principal transactions and best execution. Moloney responded that it would resolve these deficiencies moving forward. During the relevant period, Medley served as Chief Investment Officer (\""CIO\"") and President of Moloney's investment advisory business. Through these roles, Medley was responsible for overseeing Moloney's investment advisory business during the relevant period and caused Moloney's violations of Sections 206(2), 206(3), 206(4) and 207 of the Advisers Act and Rule 206(4)-7 promulgated thereunder."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""ON 10/1/2016, REGISTRANT, WITHOUT ADMITTING OR DENYING THE FINDINGS, ENTERED INTO A SETTLEMENT OF PUBLIC ADMINISTRATIVE AND CEASE-AND-DESIST PROCEEDINGS WITH THE SEC. NO CUSTOMER COMPLAINTS WERE INVOLVED AND NO RESTITUTION WAS ORDERED. IN DETERMINING TO ACCEPT THE OFFER, THE COMMISSION CONSIDERED VARIOUS REMEDIAL EFFORTS BY THE FIRM AND COOPERATION AFFORDED THE COMMISSION STAFF. SPECIFICALLY, THE FIRM REVISED ITS BEST EXECUTION AND PRINCIPAL TRANSACTIONS POLICIES AND PROCEDURES. FURTHER, THE FIRM RETAINED A CONSULTANT TO ASSIST IT IN DEVELOPING AND IMPLEMENTING POLICIES AND PROCEDURES REASONABLY DESIGNED TO PROMOTE THE FIRM'S COPMLIANCE WITH THE ADVISERS ACT, INCLUDING ITS BEST EXECUTION AND PRINICPAL TRANSACTION OBLIGATIONS.""
+}",2/23/2016 - Current,MOLONEY SECURITIES ASSET MANAGEMENT LLC (282448)
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,4/5/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""BETWEEN MID 2009 THROUGH 2012, REPRESENTATIVE INVESTED COMPLAINANT'S MONEY IN UNSUITABLE INVESTMENTS, RESULTING IN LOSSES."",
+  ""Damage Amount Requested"" : ""$325,000.00"",
+  ""Settlement Amount"" : ""$13,911.75"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE FIRM DENIES THE ALLEGATIONS.""
+}",9/2/1999 - Current,"MOLONEY SECURITIES CO., INC. (38535)"
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,,,,,3/17/2016 - 12/31/2016,MOLONEY INVESTMENT ADVISORY LLC (282140)
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,,,,,5/24/2002 - 4/13/2016,"MOLONEY SECURITIES CO., INC. (38535)"
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,,,,,3/13/1997 - 8/19/1999,"ALLMERICA INVESTMENTS, INC. (3960)"
+282448,2619119,JOSEPH,"[JOSEPH R MEDLEY JR, RON  MEDLEY JR]",MEDLEY,,,,,9/1/1995 - 1/30/1997,RYBACK MANAGEMENT CORPORATION (35084)

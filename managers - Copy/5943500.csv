@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108928,5943500,SEAN,[],CRIBBIN,10/1/2018,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""2C:35-10A(3) Poss CDS 50G Marijuana , 5G Hashish"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Downgraded to Municipal \\nTicket 1110-B-209992, 93 & 94\\nOffense - CDS.  Then downgraded to Disorderly Persons (22-1)"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ]
+}",3/8/2013 - Current,"BLACKROCK INVESTMENT MANAGEMENT, LLC (108928)"
+108928,5943500,SEAN,[],CRIBBIN,,,,,11/7/2012 - Current,"BLACKROCK INVESTMENTS, LLC (38642)"

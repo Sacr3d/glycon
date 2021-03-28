@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1588,1473983,DEAN,[],SCHULTZ,7/23/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Violation of section 18.2-103, Code of Virginia. Without authority and with the intention of converting goods or merchandise to the use of the accused of another person without having paid the full purchase price thereof, or with the intention of defrauding the owner of the value of the goods or merchandise, willfully conceal or take possession of goods or merchandise having a value of less than $200.00"",
+    ""Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""Mr. Schultz was a first time offender and represents that the matter was a misunderstanding related to a merchandise credit.""
+}",5/3/2016 - 10/11/2016,DAVENPORT & COMPANY LLC (1588)
+1588,1473983,DEAN,[],SCHULTZ,,,,,6/6/2014 - 11/3/2015,D.A. DAVIDSON & CO. (199)
+1588,1473983,DEAN,[],SCHULTZ,,,,,10/22/2007 - 5/23/2014,CANTOR FITZGERALD & CO. (134)
+1588,1473983,DEAN,[],SCHULTZ,,,,,6/10/1998 - 10/9/2007,RBC DAIN RAUSCHER INC. (31194)
+1588,1473983,DEAN,[],SCHULTZ,,,,,5/5/1998 - 5/27/1998,DAIN RAUSCHER INCORPORATED (31194)
+1588,1473983,DEAN,[],SCHULTZ,,,,,8/19/1996 - 6/2/1998,FIRST CLEARING CORPORATION (17344)
+1588,1473983,DEAN,[],SCHULTZ,,,,,12/23/1992 - 8/20/1996,"MERIDIAN SECURITIES, INC. (16468)"
+1588,1473983,DEAN,[],SCHULTZ,,,,,8/19/1987 - 1/14/1991,MORGAN STANLEY MARKET PRODUCTS INC. (19794)
+1588,1473983,DEAN,[],SCHULTZ,,,,,5/30/1987 - 1/14/1991,"MORGAN STANLEY & CO., INCORPORATED (8209)"
+1588,1473983,DEAN,[],SCHULTZ,,,,,3/21/1986 - 5/2/1987,PAINEWEBBER INCORPORATED (8174)

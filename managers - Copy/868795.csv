@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2288,868795,ROBERT,[ROBERT LIGINGSTON GIPSON],GIPSON,5/7/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Claimant filed an arbitration against Ingalls & Snyder, LLC in connection with the management of his accounts by the representative. The claim is for damages resulting from the representative's alleged failure to manage Claimant's accounts more conservatively following a claimed notice of retirement stated at a meeting on February 8, 2018."",
+  ""Damage Amount Requested"" : ""$550,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The dispute is founded on the plaintiff's claim that he notified the representative of his imminent retirement at a meeting on February 8, 2018.    The plaintiff's recollection of the meeting is not consistent with those of the representative's, and the matter is pending resolution.""
+}",12/1/1982 - Current,"INGALLS & SNYDER, LLC (2288)"
+2288,868795,ROBERT,[ROBERT LIGINGSTON GIPSON],GIPSON,,,,,7/27/1979 - 12/7/1982,KAHN BROTHERS & CO. INC. (7720)

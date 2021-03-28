@@ -1,0 +1,59 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8174,715423,JOSEPH,[],CURRIER,3/25/1998,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER'S ATTORNEY CLAIMS THAT HER ACCOUNT WAS NEGLIGENTLY HANDLED BY MR. CURRIER. SHE IS SEEKING COMPENSATORY DAMAGES IN EXCESS OF $71,000. PRODUCT: EQUITIES."",
+  ""Damage Amount Requested"" : ""$71,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER HAS NOT RESPONDED TO REQUESTS FOR ADDITIONAL INFORMATION.""
+}",6/13/2001 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,715423,JOSEPH,[],CURRIER,10/19/1992,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""91-D-19"",
+  ""DocketNumberAAO"" : ""91--19"",
+  ""Initiated By"" : ""AMEX"",
+  ""Allegations"" : ""The Exchange instituted a formal disciplinary proceeding against Joseph A. Currier (\""Currier\""), a former registered employee of Prudential Securities, Inc.  A  entered into between Currier and the Exchange and was accepted by an Exchange Disciplinary Panel at a hearing held on October 19, l992.  Currier consented to a finding that he violated: Exchange Rule 923 by recommending unsuitable option transactions in a customer's Regular account; Exchange Rule 411 in that he effected an unsuitable Australian bond purchase in a   customer's \""Special Account\""; Exchange Rule 421 and 924 in that starting in December 1983, he effected unauthorized equity and options transactions in the customer's accounts; Exchange Rule 345(a)(4), by signing a customer's name to an agreement to purchase a limited partnership without her permission while the  Exchange Constitution, in that he willfully engaged in a course of fraudulent conduct in violation of Section 10(b) of the Securities Exchange Act and Rule 10b-5 thereunder, by churning a customer's account."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$25,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""Currier was censured and fined $25,000."",
+  ""Broker Comment"" : ""NOT PROVIDED""
+}",6/1/2001 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,715423,JOSEPH,[],CURRIER,10/10/1986,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ALLEGED VARIOUS VIOLATIONS OF THE FEDERAL SECURITIES LAWS AND OTHER STATE AND FEDERAL LAWS IN THE PURCHASE OF FRANKLIN PARTNERSHIP INVESTMENT BOND. ALLEGED DAMAGES OF APPROX. $103,000.00. PRODUCTS: EQUITIES AND BONDS. OCCURRED PRUDENTIAL-BACHE DURING HIS  EMPLOYMENT THERE."",
+  ""Damage Amount Requested"" : ""$103,000.00"",
+  ""Settlement Amount"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""OUT OF COURT SETTLEMENT FOR $90,000. MY PERSONAL OUT OF COURT SETTLEMENT WAS $40,000. [CUSTOMER] INSTRUCTED ME TO PURCHASE FRANKLIN WOODSOND LIMITED PARTNERSHIP FOR HER ACCOUNT FOR A TOTAL INVESTMENT OF $87,000. APPROXIMATELY 2 YEARS LATER SHE INDICATED SHE WAS DISSATISFIED WITH HER INVESTMENT. [CUSTOMER], HER ACCOUNTANT AND I MET ANNUALY TO DISCUSS HER INVESTMENTS AND I SPOKE MONTHLY WITH HER ACCOUNTANT. [CUSTOMER] WAS OUT OF THE COUNTRY FOR 95% OF THE FIVE YEARS I SERVICED HER ACCOUNT AND I SPOKE WITH HER MONTHLY.""
+}",2/1/2000 - 6/13/2001,J.P. MORGAN SECURITIES INC. (18718)
+8174,715423,JOSEPH,[],CURRIER,1/9/1986,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ALLEGED VARIOUS VIOLATIONS OF THE FEDERAL SECURITIES LAWS AND OTHER STATE AND FEDERAL LAWS. ALLEGED PURCHASE OF PRUTECH L.P. POLARIS L.P., AND $275,000 LOSS IN AUSTRALIAN BOND LOSSES. PRODUCT: EQUITIES AND BONDS. OCCURRED AT PRUDENTIAL-BACHE DURING HIS EMPLOYMENT THERE."",
+  ""Damage Amount Requested"" : ""$600,000.00"",
+  ""Settlement Amount"" : ""$198,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""OUT OF COURT SETTLEMENT FOR $198,000. MY PERSONAL OUT OF COURT SETTLEMENT WAS $25,000. [CUSTOMER] INSTRUCTED ME TO PURCHASE PRUTECH L.P., POLARIS L.P. FOR A TOTAL OF $450,000. HE ALSO INSTRUCTED ME TO BUY AND SELL AUSTRALIAN BONDS. [CUSTOMER] IS PRESIDENT AND COO OF AN OIL NAD GAS EXPLOARTION COMPANY AND HIMSELF AN ISSUER OF OIL AND GAS LIMITED PARTNERSHIPS. I SPOKE WITH [CUSTOMER] DAILY TO DISCUSS HIS TRADES AND MET WITH HIM MONTHLY FOR A THREE YEAR PERIOD.""
+}",7/12/1999 - 2/1/2000,HAMBRECHT & QUIST LLC (940)
+8174,715423,JOSEPH,[],CURRIER,10/5/1970,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1) ONE FELONY COUNT: UNLAWFUL POSSESSION OF NARCOTIC 94/205 (MARIJUANA) 9/71 PLEA: NOT GUILTY. 2) ONE FELONY COUNT: PRESENT WHERE NARCOTICS ILLEGALLY KEPT (94/213A) (MARIJUANA) 9/71 PLEA: NOT GUILTY. "",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""ALL CHARGES WERE DROPPED ; CASE DISMISSED IN FULL.""
+  } ],
+  ""Broker Comment"" : ""NOT PROVIDED""
+}",9/1/1997 - 6/7/1999,BT ALEX. BROWN INCORPORATED (17790)
+8174,715423,JOSEPH,[],CURRIER,,,,,1/1/1993 - 9/1/1997,ALEX. BROWN & SONS INCORPORATED (20)
+8174,715423,JOSEPH,[],CURRIER,,,,,2/28/1990 - 12/7/1992,LEHMAN BROTHERS INC. (7506)
+8174,715423,JOSEPH,[],CURRIER,,,,,8/20/1983 - 3/5/1990,PRUDENTIAL-BACHE SECURITIES INC. (7471)
+8174,715423,JOSEPH,[],CURRIER,,,,,10/6/1982 - 10/18/1983,"KIDDER, PEABODY & CO. INCORPORATED (7613)"
+8174,715423,JOSEPH,[],CURRIER,,,,,1/26/1982 - 10/26/1982,"QUINN & CO., INC. (687)"
+8174,715423,JOSEPH,[],CURRIER,,,,,4/2/1981 - 1/17/1982,"RICHEY, FRANKEL & COMPANY (8548)"
+8174,715423,JOSEPH,[],CURRIER,,,,,9/23/1980 - 4/27/1981,DREXEL BURNHAM LAMBERT INCORPORATED (7323)

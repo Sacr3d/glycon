@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,5077320,JASON,[],OESTREICHER,6/23/2016,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""[Customer] alleges Jason Ryan Oestreicher signed her up for investments she did not want and subjected her to a 15 year surrender period. [Customer] alleges that Oestreicher did not explain the products to her, including surrender periods and fees, and that she did not realize there were surrender fees involved. She also complains that her investments were not profitable enough and stated she was not satisfied with the investment advisory program. [Customer] wants to be able to withdraw her funds without the surrender fees required by her plan. [Customer's] annuity application was received in the Home Office on 12/20/2013."",
+  ""Damage Amount Requested"" : ""$8,000.00"",
+  ""Damages Granted"" : ""$6,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-01609"",
+  ""Broker Comment"" : ""The client made an accusation of an alleged misrepresentation/nondisclosure, omission of facts, and suitability. All disclosures, terms of the contract including surrender charges, fees, and suitability were disclosed to and were signed by the client on 12/20/2013 and 12/27/2013 respectively.  In fact, the applications and disclosures were delivered to my company for compliance approval at which point the contracts were issued and delivered to the client. Over a year after issuance of the contracts on 06/11/2015, the client sent in a complaint to my company. THE FIRM FOUND NO BASIS TO THE CUSTOMER COMPLAINT.  The client then filed a complaint with FINRA. Upon request from FINRA I supplied all documentation signed by the client for their investigation. NO FAULT WAS FOUND ON MY BEHALF.  The client then proceeded to file with arbitration. Upon review by the arbitrator the decision was made awarding the client partial consideration.""
+}",12/4/2009 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5077320,JASON,[],OESTREICHER,4/4/1998,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ONE COUNT - FELONY BURGLARY STRUCTURE REDUCED TO MISDEMEANOR TRESPASS - PLEAD NO CONTEST ONE COUNT - FELONY THEFT - NO PLEA"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""AS A THIRTEEN(13) YEAR OLD JUVENILE, I WAS FOOLING AROUND WITH MUCH OLDER FRIENDS AND RECEIVED THREE MISDEMEANOR CHARGES.  I WAS CHARGED WITH TRESPASSING ON SCHOOL PROPERTY.  AT THE SAME TIME, MY OLDER FRIENDS AND I SET OFF A FIRE EXTINGUISHER IN THE SCHOOL FIELD AFTER SCHOOL HOURS. WHEN THE POLICE ARRIVED, I WAS SCARED AND AT FIRST RAN, BUT IMMEDIATELY RETURNED TO THE SCENE. ALTHOUGH I RETURNED THE POLICE CHARGED ME WITH RESISTING ARREST; HOWEVER, NEVER RESISTED THEM AT ALL.  COMING BACK TO THE SCENE DID NOT MATTER AT THIS POINT.  I WAS CHARGED WITH GRAND THEFT SIMPLY BECAUSE THE FIRE EXTINGUISHER WAS A LIFE SAVING DEVICE.  THE FELONY CHARGE WAS LATER REDUCED TO A MISDEMEANOR AND WAS THAN DROPPED FROM MY RECORD.  THE END RESULT WAS A ONLY A TRESPASSING CHARGE.  I WAS A YOUNG JUVENILE THAT DID NOT KNOW ANY BETTER AND WAS STUPIDLY HANGING AROUND INFLUENTIAL OLDER FRIENDS.""
+}",9/29/2009 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5077320,JASON,[],OESTREICHER,,,,,9/13/2007 - 4/17/2009,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+42803,5077320,JASON,[],OESTREICHER,,,,,8/15/2007 - 4/17/2009,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+42803,5077320,JASON,[],OESTREICHER,,,,,12/20/2006 - 5/15/2007,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"

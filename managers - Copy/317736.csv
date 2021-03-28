@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+140923,317736,KENNETH,[],MALAMED,3/22/2010,Customer Dispute,Settled,"{
+  ""Allegations"" : ""RISKS NOT PROPERLY DISCLOSED"",
+  ""Damage Amount Requested"" : ""$3,400,000.00"",
+  ""Settlement Amount"" : ""$270,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/28/2016 - Current,"L & S ADVISORS, INC (140923)"
+140923,317736,KENNETH,[],MALAMED,9/1/2004,Customer Dispute,Settled,"{
+  ""Allegations"" : ""RISKS NOT PROPERLY DISCLOSED; 1999-2001"",
+  ""Damage Amount Requested"" : ""$4,000,000.00"",
+  ""Settlement Amount"" : ""$5,750,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/6/2010 - 9/30/2016,FIRST WESTERN CAPITAL MANAGEMENT COMPANY (152982)
+140923,317736,KENNETH,[],MALAMED,7/1/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""IMPROPERLY SUPERVISED EQUITY PORTFOLIO; RISKS OF INVESTMENT NOT PROPERLY DISCLOSED; 1999-2003"",
+  ""Damage Amount Requested"" : ""$17,000,000.00"",
+  ""Settlement Amount"" : ""$2,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/3/2010 - 5/19/2010,"FIRST WESTERN INVESTMENT MANAGEMENT, INC. (128013)"
+140923,317736,KENNETH,[],MALAMED,,,,,4/7/1977 - 12/24/1985,"BEAR, STEARNS & CO. INC. (79)"
+140923,317736,KENNETH,[],MALAMED,,,,,4/23/1970 - 7/6/1977,"STERN, FRANK, MEYER & FOX, INCORPORATED (790)"

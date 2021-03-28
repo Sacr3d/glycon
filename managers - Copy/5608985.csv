@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,3/4/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""criminal possession of controlled substance 7th degree"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""Criminal possession of controlled substance 7th degree"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  }, {
+    ""Charges"" : ""Petit Larceny"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""criminal possession of stolen property 5th degree"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Criminal possession of a controlled substance in 4th degree"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Charge Amended to Criminal Possession on Controlled Substance 7th Degree"",
+    ""Amended Charge Type"" : ""MISDEMEANOR""
+  } ]
+}",9/13/2019 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,,,,,9/12/2019 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,,,,,3/6/2019 - 6/6/2019,"MML INVESTORS SERVICES, LLC (10409)"
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,,,,,1/18/2019 - 6/6/2019,"MML INVESTORS SERVICES, LLC (10409)"
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,,,,,5/4/2018 - 11/7/2018,SPIRIT OF AMERICA MANAGEMENT CORP (110023)
+8174,5608985,Matthew,"[MATTHEW A KIMMEL, MATTHEW Alexander KIMMEL]",Kimmel,,,,,9/13/2017 - 11/7/2018,"DAVID LERNER ASSOCIATES, INC. (5397)"

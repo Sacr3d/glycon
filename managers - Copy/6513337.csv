@@ -1,0 +1,52 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+145115,6513337,Jasel,"[JASEL A PATEL, JASEL  PATEL]",Patel,7/25/2016,Criminal,Pending Charge,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""POSSESSION OF A FALSE GOVERNMENT ISSUED ID, 2C:21-2.ID, DEGREE: 4"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""USE OF ID OF ANOTHER- DRIVER LICENSE/BIRTH CERT ETC, 2C:21-17.2A, DEGREE: 2"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""TAMPER WITH PUBLIC RECORDS- FALSE ENTRY WITH PURPOSE OF DEFRAUD/INJURY, 2C:28-7A(1), DEGREE:3"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""CONSPIRACY-AGREE/ENGAGE IN CONDUCT CONSITUTE A CRIME, 2C:5-2A(1), POSSESSION OF A FALSE GOVERNMENT ISSUED ID, 2C: 21-2.1D, DEGREE: 4"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""FORGERY-ALT/CHNG WRITING WITHOUT AUTHORIZATION-GOVERNMENT DOCUMENT ETC./CHCK/15+RECPT, 2C:21-1A(1), DEGREE: 3"",
+    ""Disposition"" : ""Dismissed""
+  } ]
+}",6/7/2018 - 7/24/2019,MOELIS & COMPANY LLC (145115)
+145115,6513337,Jasel,"[JASEL A PATEL, JASEL  PATEL]",Patel,4/30/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""CONSPIRACY - AGREE/ENGAGE IN CONDUCT CONSTITUTE A CRIME, 2C:5-2A(1), POSSESSION OF A FALSE GOVERNMENT ISSUED ID, 2C:21-2.1D, DEG:4"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""USE OF PERSONAL IDENTIFYING INFO OF ANOTHER"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""USE OF ID INFO OF ANOTHER-DRIVE LICENSE/BIRTH CERT ETC, 2C:21-17.2A, DEG: 2"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""USE OF PERSONAL IDENTIFYING INFO OF ANOTHER"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""TAMPER W/PUB RECS-FALSE ENTRY W/PURP DEFRAUD/INJR, 2C:28-7A(1), DEG: 3"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""USE OF PERSONAL IDENTIFYING INFO OF ANOTHER"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""POSSESSION OF A FALSE GOVERNMENT ISSUED ID, 2C:21-2.ID, DEG:4"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""USE OF PERSONAL IDENTIFYING INFO OF ANOTHER"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""FORGRY-ALT/CHNG WRIT W/O AUTH-GOV DOC ETC/CHCK/15+RECPT, 2C:21-1A(1), DEG: 3"",
+    ""Disposition"" : ""Pre-trial Intervention"",
+    ""Amended Charges"" : ""USE OF PERSONAL IDENTIFYING INFO OF ANOTHER"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pre-trial Intervention""
+  } ]
+}",8/30/2017 - 5/15/2018,WILLIAM BLAIR (1252)

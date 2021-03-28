@@ -1,0 +1,39 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+14251,3141703,JASPER,"[JASPER EUGENE BOYKIN, JASPER EUGENE BYKIN JR]",BOYKIN,10/16/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016049508602"",
+  ""DocketNumberAAO"" : ""2016049508602"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Boykin was named a respondent in a FINRA complaint alleging that he failed to timely respond FINRA's requests for information and documents and later completely failed to respond to additional requests for information and documents. The complaint alleges that FINRA was investigating whether Boykin had failed to disclose certain outside business activities and whether he received compensation from unapproved outside business activities."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""3/12/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Default Decision rendered February 12, 2018. The sanction was based on findings that Boykin failed to respond timely to three FINRA requests for information and documents, and later failed to respond to three additional FINRA requests for documents. The findings stated that FINRA was investigating whether Boykin had failed to disclose outside business activities to his member firm. The decision became final March 12, 2018.""
+}",4/29/2015 - 4/1/2016,METLIFE SECURITIES INC. (14251)
+14251,3141703,JASPER,"[JASPER EUGENE BOYKIN, JASPER EUGENE BYKIN JR]",BOYKIN,8/9/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016049508601"",
+  ""DocketNumberAAO"" : ""2016049508601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Boykin failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""9/2/2016"",
+      ""End Date"" : ""11/22/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated August 9, 2016, Boykin is suspended on September 2, 2016 from associating with any FINRA member firm in any capacity. If Boykin fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on November 14, 2016 from association with any FINRA member in any capacity pursuant to FINRA Rule 9552(h).  Suspension lifted on November 22, 2016.""
+}",12/6/2013 - 1/6/2015,"QUEST CAPITAL STRATEGIES, INC. (16783)"
+14251,3141703,JASPER,"[JASPER EUGENE BOYKIN, JASPER EUGENE BYKIN JR]",BOYKIN,3/22/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MetLife"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Registered Representative did not follow Firm policy with respect to outside business activities.""
+}",2/3/1999 - 3/6/2013,"NATIONWIDE SECURITIES, LLC (11173)"

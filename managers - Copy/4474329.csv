@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+665,4474329,CODY,[],WILSON,12/18/2020,Investigation,,"{
+  ""Initiated By"" : ""FINRA"",
+  ""Description of Investigation"" : ""Failure to disclose an outside business activity""
+}",1/12/2021 - Current,PIPER SANDLER & CO. (665)
+665,4474329,CODY,[],WILSON,2/7/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""STIFEL, NICOLAUS & COMPANY, INCORPORATED"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failure to report outside business activity.""
+}",1/2/2015 - 2/24/2020,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+665,4474329,CODY,[],WILSON,,,,,3/31/2008 - 1/2/2015,"MERCHANT CAPITAL, L.L.C. (5680)"
+665,4474329,CODY,[],WILSON,,,,,9/2/2004 - 11/16/2005,"A. G. EDWARDS & SONS, INC. (4)"
+665,4474329,CODY,[],WILSON,,,,,7/25/2002 - 9/9/2004,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+665,4474329,CODY,[],WILSON,,,,,12/5/2001 - 8/6/2002,"A. G. EDWARDS & SONS, INC. (4)"

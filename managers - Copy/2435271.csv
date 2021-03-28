@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+109623,2435271,JESSE,[N/A],MCRAE,3/14/2001,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C06000029"",
+  ""DocketNumberAAO"" : ""06000029"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS"",
+  ""Allegations"" : ""NASD RULES 2110 AND 2440 - PURCHASED SHARES OF STOCK AND SOLD THESE SHARES TO A PUBLIC CUSTOMER AT A PRICE WHICH INCLUDED THE FIRM'S AVERAGE COST PLUS A MARK-UP; HOWEVER, THE MARK-UP WAS 8.4 PERCENT OVER THE FIRM'S AVERAGE COST AND WAS UNFAIR AND EXCESSIVE."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement/Restitution""
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""WITHOUT ADMITTING OR DENYING THE ALLEGATIONS, MCRAE CONSENTED TO THE DESCRIBED SANCTIONS AND TO THE ENTRY OF FINDINGS, THEREFORE, HE IS FINED $5,000, JOINTLY AND SEVERALLY, AND ORDERED TO PAY $2,300 IN RESTITUTION TO CUSTOMERS. ""
+}",1/6/2005 - 7/3/2006,HESTER CAPITAL MANAGEMENT LLC (109623)
+109623,2435271,JESSE,[N/A],MCRAE,9/26/1997,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C06970031"",
+  ""DocketNumberAAO"" : ""06970031"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$800.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",5/14/2002 - 11/11/2003,"GRAY CAPITAL PARTNERS, LLC (103701)"
+109623,2435271,JESSE,[N/A],MCRAE,,,,,5/14/1994 - 2/5/2002,WALTON JOHNSON & COMPANY (26448)

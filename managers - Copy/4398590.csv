@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4398590,Elizabeth,"[ELIZABETH A KILMER, ELIZABETH  KILMER, ELIZABETH A KIMLER, ELIZABETH KILMER SCHENKHUIZEN, ELIZABETH KILMER SCHEWKHUIZEN]",Kilmer,11/13/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges that the rep assured them that she was placing their funds into investments to protect them from any downturns in the market."",
+  ""Damage Amount Requested"" : ""$19,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The following comment was provided by the representative:  There was not a loss to his portfolio. The client's concern was only surrounding an unrealized portfolio value. The client stated he was satisfied with the outcome as he had realized a gain on the liquidation of his portfolio.""
+}",4/16/2012 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4398590,Elizabeth,"[ELIZABETH A KILMER, ELIZABETH  KILMER, ELIZABETH A KIMLER, ELIZABETH KILMER SCHENKHUIZEN, ELIZABETH KILMER SCHEWKHUIZEN]",Kilmer,6/12/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges that representative made variable annuity and REIT investments without her full consent or understanding."",
+  ""Damage Amount Requested"" : ""$361,476.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/14/2010 - 4/16/2012,"UNIONBANC INVESTMENT SERVICES, LLC (14455)"
+17868,4398590,Elizabeth,"[ELIZABETH A KILMER, ELIZABETH  KILMER, ELIZABETH A KIMLER, ELIZABETH KILMER SCHENKHUIZEN, ELIZABETH KILMER SCHEWKHUIZEN]",Kilmer,8/26/1996,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ONE COUNT, FELONY CHANGED TO MISDEMEANOR, NO CONTEST PLEA"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""A. INFRACTION, B. 10/24/1997, C. 15 DAYS PUBLIC WORK SERVICE, $400 FINE, 100 RESTITUTION, COMPLETE SHOPLIFTING COURSE, D. 3 YEARS PROBATION, E. 10/24/1994, F. $400 + $100 RESTITUTION G. PAID ON 12/10/1997""
+  } ],
+  ""Broker Comment"" : ""THE CHARGES WERE BROUGHT AGAINST ME BY NORDSTROM RACK FOR SHOPLIFTING ON AUGUST 26, 1996.  I HAVE NEVER HAD ANYTHING ON MY RECORDS AND I DEEPLY REGRET THE INCIDENT.""
+}",6/3/2008 - 2/1/2010,WESTERN FINANCIAL ADVISORS (35098)
+17868,4398590,Elizabeth,"[ELIZABETH A KILMER, ELIZABETH  KILMER, ELIZABETH A KIMLER, ELIZABETH KILMER SCHENKHUIZEN, ELIZABETH KILMER SCHEWKHUIZEN]",Kilmer,,,,,2/15/2008 - 2/1/2010,WFP SECURITIES (35098)
+17868,4398590,Elizabeth,"[ELIZABETH A KILMER, ELIZABETH  KILMER, ELIZABETH A KIMLER, ELIZABETH KILMER SCHENKHUIZEN, ELIZABETH KILMER SCHEWKHUIZEN]",Kilmer,,,,,7/17/2001 - 1/17/2007,"WM FINANCIAL SERVICES, INC. (599)"

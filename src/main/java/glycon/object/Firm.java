@@ -5,19 +5,11 @@ public class Firm {
 	private String firmName;
 	private String secId;
 
-	public String getFirmName() {
-		return firmName;
-	}
+	private String firmId;
 
-	public void setFirmName(String firmName) {
+	public Firm(String firmId, String secId, String firmName) {
 		this.firmName = firmName;
-	}
-
-	public String getSecId() {
-		return secId;
-	}
-
-	public void setSecId(String secId) {
+		this.firmId = firmId;
 		this.secId = secId;
 	}
 
@@ -25,15 +17,23 @@ public class Firm {
 		return firmId;
 	}
 
+	public String getFirmName() {
+		return firmName;
+	}
+
+	public String getSecId() {
+		return secId;
+	}
+
 	public void setFirmId(String firmId) {
 		this.firmId = firmId;
 	}
 
-	private String firmId;
-
-	public Firm(String firmId, String secId, String firmName) {
+	public void setFirmName(String firmName) {
 		this.firmName = firmName;
-		this.firmId = firmId;
+	}
+
+	public void setSecId(String secId) {
 		this.secId = secId;
 	}
 }

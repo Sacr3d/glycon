@@ -1,0 +1,57 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+45040,234793,WILLIAM,[],HAMBRECHT,3/28/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013037680202"",
+  ""DocketNumberAAO"" : ""2013037680202"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Hambrecht consented to the sanctions and to the entry of findings that he willfully failed to amend his Form U4 to timely disclose unsatisfied judgments relating to outside businesses totaling approximately $22.5 million, which were entered against him between April 2012 and August 2013. The findings stated that the judgments were not disclosed on Hambrecht's Form U4 until either April 2014 or July 2014."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""one year"",
+      ""Start Date"" : ""4/4/2016"",
+      ""End Date"" : ""4/3/2017""
+    } ]
+  } ],
+  ""Sanctions"" : ""Respondent understands that this settlement includes a finding that he willfully omitted to state a material fact on a Form U4, and that under Section 3(a)(39)(F) of the Securities Exchange Act of 1934 and Article III, Section 4 of FINRA's By-Laws, this omission makes Respondent subject to a statutory disqualification with respect to association with a member.  Fine paid in full on May 18, 2016."",
+  ""Regulator Statement"" : ""Fine paid in full on May 18, 2016."",
+  ""Broker Comment"" : ""All of the judgments arose from outside businesses which had nothing to do with WR Hambrecht + Company, LLC.""
+}",12/12/2007 - 7/29/2010,"W.R. HAMBRECHT + CO., LLC (45040)"
+45040,234793,WILLIAM,[],HAMBRECHT,6/26/2000,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C01000011"",
+  ""DocketNumberAAO"" : ""01000011"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS"",
+  ""Allegations"" : ""NASD RULE 2110 - RESPONDENT MEMBER ACTING THROUGH RESPONDENT HAMBRECHT, ENGAGED IN SALES ACTIVITIES IN CONTRAVENTION OF A WRITTEN AGREEMENT WITH THE NASD WHICH PROVIDED THAT THE FIRM WOULD REFRAIN FROM ENGAGING IN SUCH ACTIVITIES UNTIL IT RECEIVED APPROVAL FROM THE NASD; AND, PERMITTED AN INDIVIDUAL TO ENGAGE IN THE INVESTMENT BANKING OR SECURITIES BUSINESS OF THE FIRM WITHOUT SATISFYING THE QUALIFICATION REQUIREMENTS.   NASD COMPLAINT NO. C01000011 RECEIVED ON 07/25/2000 CONTAINS NO SUBSTANTIVE CHANGES."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""FINED $15,000 JOINTLY AND SEVERALLY, AND ASSESS COSTS OF $1,930.25, JOINTLY AND SEVERALLY. THE CHARGES IN THE SECOND CAUSE OF COMPLAINT REGARDING PERMITTING UNQUALIFIED INDIVIDUAL TO ENGAGE IN THE SECURITIES BUSINESS WAS DISMISSED IN THAT, RATHER THAN CHARGING A DISTINCT VIOLATION, THE SECOND CAUSE REPRESENTS MERELY A SOMEWHAT DIFFERENT AND LESS SATISFACTORY ARTICULATION OF THE CHARGE MADE IN THE FIRST CAUSE OF COMPLAINT. IF NO FURTHER ACTION, DECISION IS FINAL MARCH 5, 2001.  MARCH 5, 2001 - DECISION IS FINAL.  "",
+  ""Broker Comment"" : ""VIOLATION OF NASD RULE 2110 BY FAILING TO COMPLY WITH A COMMITMENT THE FIRM AND THE CONTROL AFFILIATE MADE TO THE NASD IN CONNECTION WITH THE FIRM'S APPLICATION FOR MEMBERSHIP THAT THE FIRM WOULD \""REFRAIN FROM ACTING IN ANY SECURITIES ACTIVITIES UNTILL IT... RECEIVED APPROVAL FROM THE NASD REGULATION, INC.\"". THE SCOND CHARGE STATED IN ITEM 7 ABOVE WAS DISMISSED.""
+}",7/23/1998 - 3/9/2016,"W.R. HAMBRECHT + CO., LLC (45040)"
+45040,234793,WILLIAM,[],HAMBRECHT,2/1/1989,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MR. HAMBRECHT AND OTHERS ARE DEFENDANTS IN SEVERAL SUITS FILED ON BEHALF OF PURCHASERS OF MINISCRIBE CORPORATION STOCK AND DEBENTURES. THESE SUITS ALLEGE VIOLATIONS OF THE SECURITIES LAWS AND RICO RELATING TO THE OFFER AND SALE OF MINISCRIBE DEBENTURES IN 1987 AND IN CONNECTION WITH TRADING IN MINISCRIBE SECURITIES FROM 1986 TO 1989. MR. HAMBRECHT IS ALLEGED TO HAVE BEEN A DIRECTOR OF MINISCRIBE DURING THIS PERIOD."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ALL CASES RELATING TO MINISCRIBE IN WHICH MR. HAMBRECHT WAS A PARTY WERE SETTLED IN A GLOBAL SETTLEMENT AGREEMENT ON 5/31/92. NO PAYMENT WAS REQUIRED OF MR. HAMBRECHT. Not Provided""
+}",7/21/1993 - 1/30/1998,RVR SECURITIES CORP. (33938)
+45040,234793,WILLIAM,[],HAMBRECHT,3/16/1982,Customer Dispute,Settled,"{
+  ""Allegations"" : ""VIOLATIONS OF SECTION 10 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED AND RULE 10B-5 THEREUNDER"",
+  ""Settlement Amount"" : ""$11,475,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""PLEADINGS IN BOTH ACTIONS WERE CONSOLIDATED. A SETTLEMENT OF THE LITIGATION WAS REACHED AND APPROVED BY ALL PARTIES AND BY THE COURT. PURSUANT TO THE TERMS OF THE SETTLEMENT, THE SETTLING DEFENDANTS AGREED TO CREATE A SETTLEMENT FUND TOTALING $11,475,000 OF WHICH $2,096,000 WAS CONTRIBUTED BY THE MEMBERS OF THE UNDERWRITING SYNDICATE ($334,312 CONTRIBUTED BY H&Q) AND $209,600 WAS CONTRIBUTED BY MR. HAMBRECHT. Not Provided""
+}",5/13/1968 - 1/30/1998,HAMBRECHT & QUIST LLC (940)

@@ -1,0 +1,43 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,1055460,KENNETH,[],GUARD,10/21/1993,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ALLEGATIONS UNKNOWN"",
+  ""Damage Amount Requested"" : ""$7,004.00"",
+  ""Settlement Amount"" : ""$11,118.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/7/2012 - Current,"SECURITIES AMERICA, INC. (10205)"
+10205,1055460,KENNETH,[],GUARD,10/20/1993,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Petit Theft"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Dismissed"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ]
+}",12/7/2012 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,1055460,KENNETH,[],GUARD,12/13/1983,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""WA-421"",
+  ""DocketNumberAAO"" : ""421"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""AS A HIRED NON-OWNER OF THE FIRM I DID NOT HAVE ACCESS TO CHECK BOOK & INFO NECCESSARY TO FILL OUT FOCUS FORMS. MAIL WENT OUT SAME DAY AS SUSPENSION WAS IMPOSED.""
+}",10/7/1999 - 12/31/2012,"INVESTORS SECURITY COMPANY, INC. (2331)"
+10205,1055460,KENNETH,[],GUARD,8/19/1970,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""THREATENING BODILY HARM, CHARGED WITH FELONY, CHARGED DISMISSED "",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""CHARGES DISMISSED""
+  } ]
+}",7/11/1990 - 12/7/2012,"INVESTORS SECURITY COMPANY, INC. (2331)"
+10205,1055460,KENNETH,[],GUARD,,,,,1/23/1987 - 8/7/1990,FSC SECURITIES CORPORATION (7461)
+10205,1055460,KENNETH,[],GUARD,,,,,2/29/1984 - 1/19/1987,PRUDENTIAL-BACHE SECURITIES INC. (7471)
+10205,1055460,KENNETH,[],GUARD,,,,,6/26/1982 - 11/9/1983,"MOUNT VERNON EQUITY SALES, INC. (10567)"

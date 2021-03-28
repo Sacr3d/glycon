@@ -1,0 +1,43 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+4173,1048010,RONNIE,[],SHAFFER,2/14/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""OneAmerica Securities"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failure to respond to a regulatory inquiry in a timely manner.""
+}",7/23/2010 - 2/15/2019,"ONEAMERICA SECURITIES, INC. (4173)"
+4173,1048010,RONNIE,[],SHAFFER,9/19/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,799.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/3/1999 - 2/22/2010,PARK AVENUE SECURITIES LLC (46173)
+4173,1048010,RONNIE,[],SHAFFER,12/22/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$35,884.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",1/5/1989 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+4173,1048010,RONNIE,[],SHAFFER,11/14/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$12,280.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",2/22/1985 - 10/31/1988,"MML INVESTORS SERVICES, INC. (10409)"
+4173,1048010,RONNIE,[],SHAFFER,3/7/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$69,098.01"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",9/17/1984 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)
+4173,1048010,RONNIE,[],SHAFFER,12/12/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$21,075.10"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+4173,1048010,RONNIE,[],SHAFFER,7/6/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$38,470.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+4173,1048010,RONNIE,[],SHAFFER,6/7/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$49,984.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+4173,1048010,RONNIE,[],SHAFFER,4/12/2005,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$19,047.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+4173,1048010,RONNIE,[],SHAFFER,6/9/2003,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$125,000.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THERE IS AN ACTIVE PAYMENT ARRANGEMENT WITH THE IRS. THIS IS A MONTHLY PAYOUT AND EVERYTHING IS CURRENT AND BEING PAID ON SCHEDULE THIS IS TO RESOLVE THE MATTER.""
+}",,

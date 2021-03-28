@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,3017080,IRIS,[IRIS HISAKO KUWAYNE],KUWAYE,3/31/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State of Hawaii DCCA - DFI"",
+  ""Allegations"" : ""Mortgage Loan Originator Companies was required to file 3rd qtr 2015 MCR by 11/14/15.  Report was uploaded on 11/8/15 but the \""attested and submit\"" button was no selected."",
+  ""Resolution"" : ""Letter of Agreement"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Letter of Agreement to no fine assessed with the condition that the Company does not have any violations for 2 yrs""
+}",2/1/2019 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,3017080,IRIS,[IRIS HISAKO KUWAYNE],KUWAYE,9/15/2014,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF HAWAII DIVISION OF FINANCIAL INSTITUTIONS DEPARTMENT OF COMMERCE AND CONSUMER AFFAIRS"",
+  ""Allegations"" : ""FILED 2013 SECOND QUARTER MCR CALL REPORT 9 DAYS AFTER REPORT WAS DUE. VIOLATION OF SECTION 454F-16"",
+  ""Resolution"" : ""AGREEMENT LETTER"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$900.00""
+    } ]
+  } ]
+}",4/29/1998 - Current,STATE FARM VP MANAGEMENT CORP. (43036)
+3487,3017080,IRIS,[IRIS HISAKO KUWAYNE],KUWAYE,9/30/2013,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF HAWAII, DIVISION OF FINANCIAL INSTITUTIONS, DEPARTMENT OF COMMERCE AND CONSUMER AFFAIRS"",
+  ""Allegations"" : ""FILED THE FOURTH QUARTER MORTGAGE CALL REPORT 32 DAYS AFTER THE REPORT WAS DUE, A VIOLATION OF SECTION 454F."",
+  ""Resolution"" : ""AGREEMENT LETTER"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,200.00""
+    } ]
+  } ]
+}",,

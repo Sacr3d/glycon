@@ -1,0 +1,69 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,2664848,John,[],Grosshans,8/24/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges the investment was inappropriate and contrary to the stated goal and instructions."",
+  ""Damage Amount Requested"" : ""$9,877.74"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/21/2010 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2664848,John,[],Grosshans,4/19/2010,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""CHASE INVESTMENT SERVICES CORP"",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""REGISTERED REP RESIGNED UNDER INVESTIGATION OF ALLEGATIONS THAT REGISTERED REP ENGAGED IN AND SOLICITED NON SECURITIES RELATED PERSONAL TRANSACTIONS WITH A CUSTOMER.""
+}",5/4/2010 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2664848,John,[],Grosshans,11/13/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES SUITABILITY AND MISREPRESENTATION REGARDING A UIT INVESTMENT.  ACTIVITY DATES 08/12/2008-08/12/2008."",
+  ""Damage Amount Requested"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/2/2009 - 4/20/2010,CHASE INVESTMENT SERVICES CORP. (25574)
+17868,2664848,John,[],Grosshans,7/18/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNAUTHORIZED TRADING ON A DEBT-CORPORATE PRODUCT.  ACTIVITY DATES 06/23/2009-06/25/2009."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$36,672.30"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/2/2007 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+17868,2664848,John,[],Grosshans,12/17/2004,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT ALLEGES REGISTERED REPRESENTATIVE DID NOT PROPERLY EXPLAIN THE WITHDRAWAL PRIVILEGES. THUS INCURRED A SURRENDER CHARGE ON FUNDS LIQUIDATED IN A VARIABLE ANNUITY PURCHASED IN OCTOBER 2003."",
+  ""Damage Amount Requested"" : ""$6,727.15"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLIENT DID NOT ACCEPT GOODWILL SETTLEMENT OFFER WITHIN PRESCRIBED TIMEFRAME.""
+}",1/1/1998 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+17868,2664848,John,[],Grosshans,3/3/2004,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES HE PAID DOUBLE FEES AND EXPERICENCED A LOSS IN HIS MUTUAL FUND PURCHSE IN NOVEMBER 1999."",
+  ""Damage Amount Requested"" : ""$50,682.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""TRADES APPEAR SUITABLE; ALL DOCUMENTS APPEAR TO BE IN GOOD ORDER; FULL AND FAIR DISCLOSURES APPEARS TO HAVE BEEN MADE; ALL FEES APPEAR TO BE APPROPRIATE.""
+}",10/25/1995 - 5/3/1996,"MURPHEY FAVRE, INC. (599)"
+17868,2664848,John,[],Grosshans,11/29/2000,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THE REPRESENTATIVE INFORMED THEM THAT THEY HAD A 30 DAY FREE LOOK ON MUTUAL FUND PURCHASES, CLIENT WANTED TO CANCEL AFTER 20 DAYS REPRESENTATIVE INFORMED CLIENT THAT THERE WOULD BE FEES TO DO SO."",
+  ""Damage Amount Requested"" : ""$19,647.76"",
+  ""Settlement Amount"" : ""$19,647.76"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+17868,2664848,John,[],Grosshans,8/17/2000,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES SHE WANTED A CERTIFICATE OF DEPOSIT AND NOT AN ANNUITY. DATE OF PURCHASE 6/14/2000."",
+  ""Damage Amount Requested"" : ""$5,250.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLIENT WANTED TO \""FREE LOOK\"" ANNUITY CONTRACT AFTER 30 DAY WINDOW AND NOT INCURR PENALTY.  CLAIM WAS DENIED, ALL PAPERWORK IN GOOD ORDER. TRADE APPEARS SUITABLE.""
+}",,
+17868,2664848,John,[],Grosshans,4/20/2000,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNAUTHORIZED PURCHASE OF STOCK IN HIS ACCOUNT. CLIENT ALSO ALLEGES FINANCIAL CONSULTANT PURCHASED THE WRONG MUTUAL FUND."",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""Settlement Amount"" : ""$3,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED AS A GOODWILL GESTURE. IT APPEARS THE CLIENT IS AN EXPERIENCE INVESTOR. CONSIDERING THE LAPSE IN TIME BETWEEN THE PURCHASES MADE AND WHEN THE COMPLAINT WAS FILED, IT APPEARS THE COMPAINT COMES ONLY AFTER THE DECLINE IN THE VALUE OF THE EQUITIES. INFORMATION AND DOCUMENTATION IN FILE INDICATES WHAT TRANSACTIONS WERE AUTHORIZED.""
+}",,

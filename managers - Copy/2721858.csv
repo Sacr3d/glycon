@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,2721858,Steven,[],Topping,1/31/2013,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""I notarized a mortgage document, and omitted a line in error. Collateral was stripped from the note, and title insurance company sued me and won for damages. I filed bankruptcy against the court awarded judgement. The bankruptcy status is discharged.""
+}",12/6/2018 - 9/4/2020,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,2721858,Steven,[],Topping,,,,,10/10/2002 - 12/31/2004,"CAPITAL ANALYSTS, INCORPORATED (5478)"
+11173,2721858,Steven,[],Topping,,,,,1/20/1998 - 10/3/2002,"WRP INVESTMENTS, INC. (7365)"

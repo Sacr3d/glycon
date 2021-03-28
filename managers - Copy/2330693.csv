@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+146051,2330693,SCOTT,[],WILLIAMS,6/10/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients allege advisor recommended unsuitable and concentrated positions. Alleged Activity Dates: 2/1/11 - 10/30/15"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Registered representative denies the allegations of the statement of claim""
+}",8/29/2018 - Current,ADVISORY SERVICES NETWORK (146051)
+146051,2330693,SCOTT,[],WILLIAMS,2/15/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges churning in unsuitable investments in individual equities and penny stocks between March 2017 and March 2018 resulting in excessive commissions."",
+  ""Damage Amount Requested"" : ""$79,299.83"",
+  ""Settlement Amount"" : ""$61,050.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-00481"",
+  ""Broker Comment"" : ""Registered representative denies the allegations of the statement of claim""
+}",2/24/2017 - 8/7/2018,LPL FINANCIAL LLC (6413)
+146051,2330693,SCOTT,[],WILLIAMS,7/10/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Violation of Firm policy regarding discretion.""
+}",1/19/2011 - 2/27/2017,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+146051,2330693,SCOTT,[],WILLIAMS,1/26/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED HE INSTRUCTED REGISTERED REPRESENTATIVE NOT TO LET THE TOTAL VALUE OF HIS ACCOUNTS FALL BELOW A SPECIFIED VALUE."",
+  ""Damage Amount Requested"" : ""$112,010.94"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/14/2011 - 2/27/2017,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+146051,2330693,SCOTT,[],WILLIAMS,,,,,3/30/2004 - 1/19/2011,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+146051,2330693,SCOTT,[],WILLIAMS,,,,,4/15/1993 - 1/19/2011,"J.J.B HILLIARD, W.L. LYONS, LLC (453)"

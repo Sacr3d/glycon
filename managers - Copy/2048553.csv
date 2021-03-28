@@ -1,0 +1,32 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,11/29/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF ILLINOIS, ILLINOIS SECURITIES DEPARTMENT"",
+  ""Allegations"" : ""A REVIEW OF MCCONNELL'S APPLICATION INDICATED THAT HE HAD FAILED TO FILE CERTAIN INCOME TAX RETURNS IN THE STATE OF ILLINOIS, FAILED TO PAY CERTAIN TAXES OWED TO THE STATE OF ILLINOIS, FAILED TO DISCLOSE IN HIS APPLICATION CERTAIN ILLINOIS DEPARTMENT OF REVENUE AND IRS TAX LIENS, AND FAILED TO DISCLOSE IN HIS APPLICATION A CUSTOMER COMPLAINT THAT RESULTED IN A $331,500 SETTLEMENT."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""On December 29, 2016 Doug McConnell signed a consent order in regards to the state's allegations.  To be clear, the \""customer complaint\"" in question was a ruling by a bankruptcy Trustee ordering the \""clawback\"" of certain fees earned by a now defunct company of which Doug McConnell was a 50% owner.  Doug's personal obligation reflects his 50% ownership.  Doug has cooperated in all regards with the Trustee's rulings.  In regards to the income taxes, all taxes have been fully paid and all liens released.""
+}",3/26/2018 - Current,MARCH CAPITAL CORP. (24142)
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,9/17/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The chief executive officer and chairman of the board of Peregrine, Russell Wasendorf, was fraudulent.  It was not until Wasendorf attempted to commit suicide that his fraudulent conduct was discovered.   Wasendorf was charged in July 2012, with numerous crimes after which he pled guilty to criminal charges, including lying to regulators, embezzlement and mail fraud.  Prior to such disclosure, Halyard and Peregrine Financial Group had entered into a written agreement pursuant to which Halyard agreed to provide investment banker services.  Peregrine paid Halyard in accordance with such agreement over a period of several months between March 2011 and June 2012.  Peregrine sought Bankruptcy protection.  The Chapter 7 Trustee brought statutory claims under Iowa's Fraudulent Transfer Act and under the Bankruptcy Code's provisions which allow the recovery of transfers of funds by a debtor as avoidable transfers.  As indicated in the Affirmative Defenses to the Chapter 7 Trustee's Complaint, Peregrine, McConnell and Klein were fraudulently induced by Wasendorf to enter into the written agreement with Halyard.    Halyard, McConnell and Klein did not violate Iowa's Fraudulent Transfer Act in any respect.  Indeed, they were the victims of Wasendorf's fraudulent scheme perpetrated on them through Peregrine.  Accordingly, they asserted their equitable defense and sought the remedy of recoupment to recoup the value of their services.   McConnell and Halyard settled because, although they had perfect defenses to the Iowa Fraudulent Transfer Act claims, they still faced potential personal and corporate liabilities arising out of the Bankruptcy Code's avoidable transfer claims.    To be clear, there was never any finding or evidence of fraud at all by McConnell or Halyard."",
+  ""Damage Amount Requested"" : ""$665,000.00"",
+  ""Settlement Amount"" : ""$331,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/29/2016 - 12/26/2017,"METROPOLITAN CAPITAL INVESTMENT BANC, INC. (148820)"
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,3/15/2016 - 9/2/2016,"METROPOLITAN CAPITAL INVESTMENT BANC, INC. (148820)"
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,4/4/2014 - 7/2/2014,"AMERICAN TRUST INVESTMENT SERVICES, INC. (3001)"
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,3/4/2010 - 3/14/2012,"MCCLENDON, MORRISON & PARTNERS, INC. (14684)"
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,6/5/2006 - 12/31/2009,FELTL & COMPANY (6905)
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,3/31/2000 - 2/10/2006,WILLIAM BLAIR & COMPANY L.L.C. (1252)
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,6/27/1996 - 7/8/1998,NESBITT BURNS SECURITIES INC. (7299)
+24142,2048553,DOUGLAS,[DOUG  MCCONNELL],MCCONNELL,,,,,5/19/1995 - 6/4/1996,DUFF & PHELPS SECURITIES CO. (36927)

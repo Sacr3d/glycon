@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,6/1/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED THE VARIABLE ANNUITY INVESTMENT WAS UNSUITABLE. (6/12/2007 AND 12/19/2007)."",
+  ""Damage Amount Requested"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Financial Advisor met with Investor several times to determine his Investment Objectives and Risk Parameters.  Multiple investment options were offered with varying degrees of risk.  Investor elected a Variable Annuity, with guaranteed income rider, stating that he did not need the funds near term.   FA thoroughly reviewed the features and drawbacks of the Annuity and investor agreed  to the stipulations of the contract.  Investor authorized the investment and signed all the disclosure documents.  Investor elected to make a subsequent investment into the existing contract.  The  client made unanticipated, large withdrawals from the annuity during a volatile market period which negatively impacted his contract value and income benefit.  The claim was submitted 8 years after the initial purchase.""
+}",4/4/2016 - Current,LPL FINANCIAL LLC (6413)
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,4/1/2016 - Current,LPL FINANCIAL LLC (6413)
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,1/3/2011 - 4/5/2016,"WELLS FARGO ADVISORS, LLC (19616)"
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,3/7/2006 - 1/3/2011,"WELLS FARGO INVESTMENTS, LLC (10582)"
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,7/8/1997 - 3/17/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,12/11/1995 - 3/17/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,5/27/1994 - 12/15/1995,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"
+6413,2314528,PAMELA,[PAMELA  GIVENS],GIVENS,,,,,8/17/1993 - 11/8/1993,"BARABAN SECURITIES, INC. (7659)"

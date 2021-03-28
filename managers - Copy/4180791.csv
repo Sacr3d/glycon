@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107342,4180791,WENDY,[],NICHOLSEN,12/9/2016,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""Paid to $0 and closed""
+}",8/4/2014 - Current,FISHER INVESTMENTS (107342)
+107342,4180791,WENDY,[],NICHOLSEN,7/13/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""Citibank Balance 16928.64 Settlement amount 5925.02 Paid in full 12/7/16 Third party administrator: Freedom Financial""
+}",11/22/2005 - 1/12/2011,FISHER INVESTMENTS (107342)
+107342,4180791,WENDY,[],NICHOLSEN,5/13/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""Bank of America Balance 8439.09 Settlement amount 4642 Paid in full 5/27/16 Third party administrator: Freedom Financial""
+}",3/21/2002 - 4/2/2004,CREDIT SUISSE FIRST BOSTON LLC (816)
+107342,4180791,WENDY,[],NICHOLSEN,12/19/2014,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""Rise Loan Balance 2962.79 Settlement amount 1777.67 Paid in full 11/30/15 Third party administrator: Freedom Financial""
+}",,

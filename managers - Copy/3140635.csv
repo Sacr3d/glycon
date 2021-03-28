@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,3140635,STEPHANIE,[],JAMISON,9/4/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$15,397.17"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I was just made aware of this tax debt on 10/04/2019; payment arrangements are being made to address this tax issue.""
+}",4/30/2020 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,3140635,STEPHANIE,[],JAMISON,4/5/2018,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Dismissed"",
+  ""Broker Comment"" : ""Based upon ill advisement from my attorney, I filed bankruptcy as an effort to resolve my debt but later learned that course of action was not in my best interest. I am currently taking steps to rectify the matter.""
+}",7/3/2014 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,3140635,STEPHANIE,[],JAMISON,6/15/2012,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""CHAPTER 13 WAS CONVERTED TO A CHAPTER 7 BANKRUPTCY""
+}",1/3/2011 - 7/25/2014,"ING FINANCIAL PARTNERS, INC. (2882)"
+42803,3140635,STEPHANIE,[],JAMISON,,,,,11/2/2007 - 1/3/2011,"ING FINANCIAL ADVISERS, LLC (34815)"
+42803,3140635,STEPHANIE,[],JAMISON,,,,,4/28/1999 - 11/12/2007,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,3140635,STEPHANIE,[],JAMISON,,,,,4/28/1999 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

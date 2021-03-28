@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2288,48057,RICHARD,[],CLARKE,9/3/1974,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""AWC-169"",
+  ""DocketNumberAAO"" : ""169"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$100.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",6/25/1981 - 11/23/2001,"INGALLS & SNYDER, LLC (2288)"
+2288,48057,RICHARD,[],CLARKE,,,,,8/15/1967 - 7/26/1981,RICHARD W. CLARKE & CO. (1466)
+2288,48057,RICHARD,[],CLARKE,,,,,10/21/1965 - 8/14/1981,RICHARD W. CLARKE CORPORATION (1467)

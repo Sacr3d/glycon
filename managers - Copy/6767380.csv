@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6767380,Michael,[],Edmondson,1/18/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Petit Larceny"",
+    ""Disposition"" : ""Dismissed""
+  } ]
+}",7/27/2017 - 5/4/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

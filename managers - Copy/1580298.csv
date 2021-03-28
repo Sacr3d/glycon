@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,10/8/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges Intervest Int'l Equities Corp was involved with a fraudulent wire in the amount of $40,000 from [REDACTED] IRA account held at Fringe Benefit Design Inc, a third-party administrator which is an outside business activity for respondent Kevin Miller. Kevin Miller was no longer registered with Intervest Int'l Equities Corp when this occurred. The wire was the result of Fringe Benefits (OBA) forms which instructed the wire to take place."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$42,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-0551"",
+  ""Broker Comment"" : ""Customer initially contacted Fringe Benefits Design (\""FBD\"") for a partial distribution of his IRA. The distribution was promptly process with no issues. Several months later FBD was contacted via email through the customer's email address for another partial distribution. FBD called the customer's telephone number on multiple occasions to confirm the request, but the customer never answered. The customer had disconnected his phone due to harassing calls and did not inform FBD. FBD emailed the customer to have him call FBD to confirm/validate the distribution request. The customer's email had been hacked and the impostor had all of the customer's personal information. The impostor intercepted the FBD email requesting confirmation and called FBD with the customer's personal information for validation purposes. The impostor submitted a voided check displaying the same bank used for the customer's initial distribution, and explained they changed to a new branch for convenience sake. FBD advanced the paperwork to the IRA custodian. The impostor's signature was significantly similar to the client's signature on the paperwork for the first distribution. The IRA custodian sent the money via ACH to the account number listed on the voided check, which was not the customer's account. This was an administrative issue only, and not a security related issue.""
+}",5/19/2020 - Current,FBD ASSET MGMT (307216)
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,2/28/2020 - Current,"SYSTELLIGENCE, LLC (283582)"
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,7/30/2007 - 12/31/2019,"INTERVEST INTERNATIONAL, INC. (111516)"
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,6/28/1995 - 4/22/2016,INTERVEST INTERNATIONAL EQUITIES CORPORATION (20289)
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,2/27/1991 - 5/24/1995,LINSCO/PRIVATE LEDGER CORP. (6413)
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,7/1/1988 - 12/31/1990,"MONARCH SECURITIES, INC. (2809)"
+307216,1580298,KEVIN,[KEVIN R MILLER],MILLER,,,,,11/5/1986 - 6/28/1988,NWNL MANAGEMENT CORPORATION (2882)

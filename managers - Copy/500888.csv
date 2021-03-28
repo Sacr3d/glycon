@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,3/23/2017,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Over an 18 year relationship, claimant alleged that during the period of time from 2010 to 2016 that representative Stanczyk recommended unsuitable investments to her."",
+  ""Damage Amount Requested"" : ""$266,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/24/2013 - 12/31/2016,"LEIGH BALDWIN & CO., LLC (38751)"
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,2/1/2016,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Client alleged unsuitable trades/investments."",
+  ""Damage Amount Requested"" : ""$490,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/8/2007 - 5/28/2013,"PINNACLE INVESTMENTS, LLC (142910)"
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,10/17/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""PLAINTIFFS ALLEGE THAT FA IMPLEMENTED INVESTMENT STRATEGIES AND SELECTED INVESTMENTS THAT WERE INCONSISTANT WITH THEIR GOALS AND SITUATION RATHER THAN DIVERSIFYING THEIR PORTFOLIO FA INVESTED OVER 80% IN A SINGLE STOCK."",
+  ""Damage Amount Requested"" : ""$54,291.52"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""2002-010802"",
+  ""arbitrationDocketNumber"" : """"
+}",6/22/2006 - 7/16/2007,"PINNACLE INVESTMENTS, INC. (40686)"
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,2/6/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT'S DAUGHTER ALLEGED UNSUITABILITY OF INVESTMENTS IN A MANAGED ACCOUNT 8/26/96 THROUGH 10/19/01."",
+  ""Damage Amount Requested"" : ""$40,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CLAIM WAS DENIED.""
+}",7/1/2003 - 6/23/2006,"WACHOVIA SECURITIES, LLC (19616)"
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,7/17/2000,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT ALLEGED THAT HER FC PURCHASED STOCKS IN HER ACCOUNT AFTER SHE HAD ASKED HIM NOT TO MAKE ANY MORE PURCHASES AND THAT THE FC DID NOT FOLLOW THROUGH ON HER REQUEST TO SELL STOCK IN THE FALL OF 1999.  ALLEGED DAMAGES UNSPECIFIED."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CLIENT'S CLAIM WAS DENIED.""
+}",10/6/2000 - 7/1/2003,PRUDENTIAL SECURITIES INCORPORATED (7471)
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,,,,,7/31/1993 - 10/19/2000,SALOMON SMITH BARNEY INC. (7059)
+38751,500888,MARK,[MARK  STANCZYK],STANCZYK,,,,,12/3/1984 - 7/31/1993,LEHMAN BROTHERS INC. (7506)

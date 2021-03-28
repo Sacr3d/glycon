@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+142820,4508491,MICHAEL,[],FREEBURG,2/20/1997,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""NYME 97-F114"",
+  ""DocketNumberAAO"" : ""97-114"",
+  ""Initiated By"" : ""COMMODITY EXCHANGE INC."",
+  ""Allegations"" : ""Unintentional prohibited bid"",
+  ""Resolution"" : ""paid fine without admitting or denying"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""paid fine without admitting or denying""
+}",12/3/2010 - Current,"GREENWICH WEALTH MANAGEMENT, LLC (142820)"
+142820,4508491,MICHAEL,[],FREEBURG,2/29/1992,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""COMMODITY FUTURES TRADING COMMISSION"",
+  ""Allegations"" : ""In 1992 Freeburg settled a CFTC administrative action and accepted a conditional registration for 1 year."",
+  ""Resolution"" : ""Full unconditional registration resumed after the 1 year time period."",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""RESTIRCTED REGISTRATION""
+}",11/30/2015 - 12/1/2016,"PRIVATE CLIENT SERVICES, LLC (120222)"
+142820,4508491,MICHAEL,[],FREEBURG,6/25/1991,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CEI CASE NO. AT-91-12"",
+  ""DocketNumberAAO"" : ""91-12"",
+  ""Initiated By"" : ""COMMODITY EXCHANGE INC."",
+  ""Allegations"" : ""APPLICANT FAILED TO ENSURE THE SUBMISSION OF ACCURATE TRADE EXECUTION TIMES TO THE EXCHANGE."",
+  ""Resolution"" : ""Monetary Fine $250"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Monetary Fine $250"",
+  ""Broker Comment"" : ""THE WAS THE FIRST AND ONLY AUDIT TRAIL VIOLATION""
+}",8/2/2013 - 12/1/2015,"LEIGH BALDWIN & CO., LLC (38751)"
+142820,4508491,MICHAEL,[],FREEBURG,1/1/1987,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""COMMODITY EXCHANGE INC."",
+  ""Allegations"" : ""In 1986 Freeburg and two other members of the Commodity Exchange were involved in an altercation."",
+  ""Resolution"" : ""Monetary Fine/Suspension $25,000"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Trading privileges were suspended for two weeks,fined $25,000."",
+  ""Broker Comment"" : ""No recurrence prior to or since this incident.""
+}",1/18/2007 - 3/24/2008,"GREENWICH WEALTH MANAGEMENT, LLC (142820)"
+142820,4508491,MICHAEL,[],FREEBURG,,,,,12/20/2006 - 8/19/2013,"SAXONY SECURITIES, INC. (115547)"
+142820,4508491,MICHAEL,[],FREEBURG,,,,,7/22/2004 - 12/20/2006,"JVB FINANCIAL GROUP, LLC (104412)"
+142820,4508491,MICHAEL,[],FREEBURG,,,,,3/15/2002 - 7/30/2004,"FIRST ALLIED SECURITIES, INC. (32444)"

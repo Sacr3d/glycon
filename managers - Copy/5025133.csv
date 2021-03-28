@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,5025133,JOSEPH,[],MCELWEE,4/10/2000,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Contribute to condition of child/deliquent"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""CDS possession of marijuana"",
+    ""Disposition"" : ""Deferred Adjudication""
+  }, {
+    ""Charges"" : ""CDS possess with intent to distribute"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""CDS paraphernalia"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""Felony charge was dropped and misdemeanor charge was non financial""
+}",9/13/2006 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,5025133,JOSEPH,[],MCELWEE,,,,,3/9/2006 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

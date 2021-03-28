@@ -1,0 +1,106 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+39262,4478074,ROBERT,[],CHAN,9/11/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Customer alleges misrepresentation against the representative regarding his variable annuity."",
+  ""Damage Amount Requested"" : ""$120,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/30/2014 - 12/22/2014,"WESTERN INTERNATIONAL SECURITIES, INC. (39262)"
+39262,4478074,ROBERT,[],CHAN,10/11/2016,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Customer alleges misrepresentation against the representative regarding his variable annuity."",
+  ""Damage Amount Requested"" : ""$24,788.42"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/29/2014 - 12/22/2014,WESTERN INTERNATIONAL SECURITIES (39262)
+39262,4478074,ROBERT,[],CHAN,10/27/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""14-00832"",
+  ""DocketNumberAAO"" : ""14-00832"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Chan failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""10/27/2015"",
+      ""End Date"" : ""3/3/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Chan is suspended on October 27, 2015 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance. Suspension lifted on March 3, 2016.""
+}",4/2/2012 - 1/13/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+39262,4478074,ROBERT,[],CHAN,4/22/2015,Customer Dispute,Final,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES MISREPRESENTATION WAS COMMITTED BY THE REPRESENTATIVE IN CONNECTION WITH HIS PURCHASE OF A NON-TRADED REIT."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/30/2012 - 1/13/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+39262,4478074,ROBERT,[],CHAN,5/23/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT REP MISREPRESENTED A NON-TRADED REIT AS A SHORT-TERM INVESTMENT VEHICLE"",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$5,232.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I HAVE DISCUSSED WITH ALL MY CLIENTS WHO OWN DIVIDEND CAPITAL'S NON-TRADED REIT, AFTER THE PURCHASE, THAT THEY HAVE BEEN TRYING TO HAVE THE REIT COME FULL CYCLE MUCH FASTER THAN WE INITIALLY THOUGHT.  THEY ARE HOPING TO FIND A BUYER AND/OR GO PUBLIC WITHIN THIS YEAR.  I HAVE BEEN TELLING THIS TO MANY OF MY CLIENTS, US BANCORP HAS NOT DONE THE RESEARCH ON THIS PARTICULAR PRODUCT AND HAS NOW BEEN TELLING THE CLIENTS THAT THIS IS NOT TRUE AND THAT THIS IS A 8-10 YEAR HOLD, FOR CERTAIN.  US BANCORP HAS ALSO BEEN PUTTING IN PENALTY AMOUNTS WHICH ARE OUTRAGEOUS FOR THE VALUE THE CLIENTS HAVE INVESTED IN THE ACTUAL REIT, IF THE TRUE PENALTIES ARE SHOWN THIS COMPLAINT WILL NOT SHOW UP ON MY U4.""
+}",11/18/2009 - 3/30/2012,"PRIMEVEST FINANCIAL SERVICES, INC. (15340)"
+39262,4478074,ROBERT,[],CHAN,2/10/2014,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT REP MISREPRESENTED A NON-TRADED REIT AS A SHORT-TERM INVESTMENT VEHICLE."",
+  ""Damage Amount Requested"" : ""$53,755.37"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I HAVE SPOKEN TO THE CLIENT NUMEROUS TIMES AFTER THEY BOUGHT DIVIDEND CAPITAL NON-TRADED REIT.  IN OUR MOST RECENT MEETINGS I REVIEWED THE INVESTMENT AND TOLD THEM THAT THE REIT WILL BE COMING FULL CYCLE MUCH FASTER THAN WE ANTICIPATED.  DIVIDEND CAPITAL INFORMED US THAT THEY HAVE FILED TO GO FULL CYCLE AND THEY ANTICIPATE THE TIMEFRAME TO BE END OF 2014 TO FIRST HALF OF 2015, ALTHOUGH THAT DOESN'T GUARANTEE IT, IT LOOKS LIKE ITS A MUCH FASTER EXIT THAN WE INITIALLY THOUGHT.  [CUSTOMER] & [CUSTOMER] HAS 100K IN DIVIDEND CAPITAL AND I HAVE NO IDEA HOW THE LOSS COULD BE 53K AS IT STATES ON THE COMPLAINT.  THE CLIENTS SEEMED VERY HAPPY WITH THE INVESTMENT LAST TIME WE SPOKE, PRIOR TO MY DEPARTURE FROM US BANCORP.""
+}",11/16/2009 - 3/30/2012,"PRIMEVEST FINANCIAL SERVICES, INC. (15340)"
+39262,4478074,ROBERT,[],CHAN,12/18/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT REP DID NOT TELL HER ABOUT THE LARGE AMOUNT OF PENALTY WHEN SELLING HER THE EQUITY/INDEX LINKED CDS."",
+  ""Damage Amount Requested"" : ""$7,881.98"",
+  ""Settlement Amount"" : ""$8,980.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/5/2007 - 6/8/2009,"WELLS FARGO INVESTMENTS, LLC (10582)"
+39262,4478074,ROBERT,[],CHAN,10/9/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""COMPLAINANT ALLEGES THE REPRESENTATIVE MISLED THEM BY TELLING THEM THE CD WAS LIQUID, AND THAT IF THEY HELD IT FOR 90-DAYS THEY COULD CASH OUT WITHOUT PENALTY."",
+  ""Damage Amount Requested"" : ""$26,460.00"",
+  ""Settlement Amount"" : ""$26,254.40"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""BASED ON THE FIRM'S REVIEW OF THE CUSTOMER COMPLAINT, THE FIRM BELIEVES IT WOULD HAVE BEEN APPROPRIATE FOR THE REPRESENTATIVE TO MAKE AN INDIVIDUAL, FINANCIAL CONTRIBUTION TOWARD THE SETTLEMENT OF THE COMPLAINT. HOWEVER, THE FIRM WAS NOT ABLE TO CHARGE THE REPRESENTATIVE FOR THE SETTLEMENT DUE TO STATE REGULATIONS.""
+}",5/18/2006 - 5/30/2006,"UVEST FINANCIAL SERVICES GROUP, INC. (13787)"
+39262,4478074,ROBERT,[],CHAN,10/19/2011,Customer Dispute,Denied,"{
+  ""Allegations"" : ""ALLEGATION(S) AND A BRIEF SUMMARY OF EVENTS RELATED TO THE ALLEGATION(S) INCLUDING DATES WHEN ACTIVITIES LEADING TO THE ALLEGATION(S) OCCURRED: CLIENT STATED \""I NEVER DID GET WHAT [THE FA] PROMISED ME, YOU CAN SAY HE LIED TO ME. I NEVER DID GET THE 8% THAT [THE FA] SAID I WOULD.\"" DAMAGES UNSPECIFIED. OCCURRENCE 01-05-2007."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/1/2003 - 5/24/2007,CITICORP INVESTMENT SERVICES (23988)
+39262,4478074,ROBERT,[],CHAN,3/18/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED MISREPRESENTATION WITH RESPECT TO ANNUITY - 3/7/2006."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLAIM DENIED.""
+}",4/17/2002 - 9/29/2003,"WELLS FARGO INVESTMENTS, LLC (10582)"
+39262,4478074,ROBERT,[],CHAN,1/5/2009,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT ALLEGED THAT THE PURCHASE OF A VARIABLE ANNUITY IN 2005 WAS MISREPRESENTED. DAMAGES UNSPECIFIED."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLAIM ABANDONED.""
+}",1/23/2002 - 9/29/2003,"WELLS FARGO INVESTMENTS, LLC (10582)"
+39262,4478074,ROBERT,[],CHAN,11/3/2008,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT REVERSE CONVERTIBLE BOND WAS PORTRAYED AS LOW RISK, AND REQUESTS RETURN OF ALL LOSSES ON POSITION, WHICH WE CALCULATE AS GREATER THAN $5,000."",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+39262,4478074,ROBERT,[],CHAN,7/17/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""MISREPRESENTATION (FAILURE TO DISCLOSE CURRENCY RISK FLUCTUATION).  CLIENT ASKS FOR A RETURN OF PRINCIPAL INVESTMENT PLUS INTEREST IN THE AMOUNT OF THE BOND COUPON.  GIVEN THE MATURITY VALUE OF THE NOTE, THIS ADJUSTMENT WOULD RESULT IN A CORRECTION >$5,000."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

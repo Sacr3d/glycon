@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,1422173,JORDAN,[],RODDEN,8/15/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017054221701"",
+  ""DocketNumberAAO"" : ""2017054221701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Rodden failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""11/20/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated August 15, 2017 and September 8, 2017, respectively, on November 20, 2017, Rodden is barred from association with any FINRA member in all capacities. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in all capacities.""
+}",4/12/2005 - 5/9/2017,LPL FINANCIAL LLC (6413)
+6413,1422173,JORDAN,[],RODDEN,4/18/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Violation of the Firm's document signature policy.""
+}",6/28/2002 - 4/20/2005,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+6413,1422173,JORDAN,[],RODDEN,10/16/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$15,238.92"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",10/21/1999 - 4/20/2005,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+6413,1422173,JORDAN,[],RODDEN,3/22/2005,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""RAYMOND JAMES & ASSOCIATES, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""FAILURE TO FOLLOW CLIENT'S INSTRUCTIONS.""
+}",4/28/1995 - 6/15/2000,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+6413,1422173,JORDAN,[],RODDEN,,,,,9/27/1988 - 5/9/1995,"RAFFENSPERGER, HUGHES & CO., INC. (699)"
+6413,1422173,JORDAN,[],RODDEN,,,,,11/15/1985 - 9/28/1988,"FIRST AFFILIATED SECURITIES, INC. (6871)"

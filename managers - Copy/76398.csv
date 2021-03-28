@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,11/28/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The clients allege the rep misrepresented the fixed income securities purchased in the account. The positions were purchased with a prior firm before being transferred to a Hilliard Lyons account."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/19/2017 - 2/28/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,6/6/2017,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy""
+}",2/28/2017 - 2/28/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,2/28/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""THE INVESTMENT CENTER INC"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""MR. EIFLER, SR. WAS A DEFENDANT IN A LAWSUIT FILED IN STATE COURT AGAINIST MR. TOM EIFLER, JR AND MR. TOM EIFLER, SR. REGARDING A BUSINESS THAT WAS NOT INVOLVED IN PROVIDING ANY INVESTMENT RELATED SERVICES. THE COURT FOUND MR.EIFLER, SR. LIABLE FOR TORTIOUS INTERFERENCE WITH PROSPECTIVE CONTRACTUAL RIGHTS, AIDING AND ABETTING, CIVIL CONSPIRACY, PUNITIVE DAMAGES FROM TORTIOUS INTERFERENCE, AND PUNITIVE DAMAGES FOR FRAUD. NONE OF THE FINDINGS INVOLVED ANY INVESTMENT RELATED SERVICES."",
+  ""Broker Comment"" : ""Mr. Tom Eifler, Sr. was a defendant in a lawsuit filed in state court against Mr. Eifler's son, Tom Eifler, Jr. regarding a business that was not involved in providing any investment related services.  The lawsuit alleged tortious interference with contract and civil conspiracy to defraud against Mr. Eifler, Sr., not involving any investment related services.  Mr. Eifler Sr. is appealing the judgment that has been entered against him in that case.""
+}",6/2/2006 - 3/7/2017,"IC ADVISORY SERVICES, INC. (140190)"
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,2/28/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""THE INVESTMENT CENTER INC"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""FRAUD AND BREACH OF CONTRACT IN A STATE COURT ACTION FILED BY AN ALLEGED BUSINESS PARTNERS' CLAIMS FOR 50% OWNERSHIP OF A COMPANY ( OWNED BY REPRESENTATIVE ) AND FOR COMPENSATION AND EXPENSES FOR WORK ALLEGEDLY PERFORMED."",
+  ""Broker Comment"" : ""Mr. Tom Eifler, Sr. was a defendant in a lawsuit filed in state court against Mr. Eifler's son, Tom Eifler, Jr. regarding a business that was not involved in providing any investment related services.  The lawsuit alleged tortious interference with contract and civil conspiracy to defraud against Mr. Eifler, Sr., not involving any investment related services.  Mr. Eifler Sr. is appealing the judgment that has been entered against him in that case.""
+}",1/8/2001 - 6/2/2006,"THE INVESTMENT CENTER, INC. (17839)"
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,12/14/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,038,000.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""This Judgment arises from a lawsuit that was unrelated to the securities industry or my work as a investment advisor.  The judgment is under appeal.""
+}",10/26/1999 - 3/7/2017,"THE INVESTMENT CENTER, INC. (17839)"
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,,,,,9/16/1977 - 10/29/1999,PRUDENTIAL SECURITIES INCORPORATED (7471)
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,,,,,8/27/1976 - 9/16/1977,BACHE HALSEY STUART INC. (7238)
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,,,,,2/27/1976 - 8/27/1976,BACHE & CO INCORPORATED (7058)
+453,76398,THOMAS,[TOM  EIFLER],EIFLER,,,,,10/25/1973 - 2/27/1976,"BACHE & CO., INCORPORATED (66)"

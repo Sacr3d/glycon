@@ -1,0 +1,139 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,4/8/1998,Customer Dispute,Denied,"{
+  ""Allegations"" : ""\""PROFESSIONAL NEGLIGENCE, BREACH OF CONTRACT AND BREACH OF FIDUCIARY DUTY,\"" \""SEEKING NOT ONLY AMOUNT LOST IN TRANSACTIONS HANDLED BY FOSS BUT A REASONABLE RATE OF RETURN ON THE FUNDS HAD THEY BEEN INVESTED IN SUITABLE TRANSACTIONS,(ANOTHER APROXIMATELY $450,000),\"""",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""NO RESPONSE FROM CLIENT - MATTER DROPPED.""
+}",11/10/1995 - 12/31/2017,FINANCIAL WEST GROUP (16668)
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,12/1/1995,Customer Dispute,Settled,"{
+  ""Allegations"" : ""INAPPROPRIATE INVESTMENT FOR SIXTY YEAR OLD INDIVIDUAL."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$21,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE GENERAL PARTNER HAS AGREED TO EXCHANGE INTEREST IN EXISTING PARTNERSHIP WITH INTEREST IN ANOTHER PARTNERSHIP.""
+}",8/7/1987 - 11/10/1992,"CORPORATE BENEFIT SECURITIES, INC. (13975)"
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,11/1/1995,Customer Dispute,Settled,"{
+  ""Allegations"" : ""REQUEST FOR REFUND OF $84,500 IN INVESTMENTS DUE TO POOR PERFORMANCE AND LACK OF SUITABILITY."",
+  ""Damage Amount Requested"" : ""$84,500.00"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""WHILE APPLICANT HAS AGREED TO PAY CUSTOMER $20,000, BOTH PARTIES HAVE SIGNED AGREEMENT AND MUTUAL RELEASE DENYING LIABILITY. NOT PROVIDED""
+}",12/12/1986 - 11/10/1995,UNICORP FINANCIAL GROUP (17644)
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,5/15/1995,Customer Dispute,Settled,"{
+  ""Allegations"" : ""COMPLAINT OF FRAUD, BREACH OF FIDUCIARY DUTY. REQUESTING $500,000.00"",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""BROKER HAS AGREED TO PAY CUSTOMER SETTLEMENT MONEY OF $65,000.00 WHILE ALL PARTIES HAVE AGREED TO HAVE SIGNED A MUTUAL RELEASE DENYING LIABILITY.""
+}",7/21/1983 - 12/16/1986,"CHRISTOPHER WEIL & COMPANY, INC (6566)"
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,4/17/1995,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""FRAUD AND BREACH OF FIDUCIARY DUTY IN SALE OF SECURITY TO CUSTOMER.  PARTNERSHIP IS IN RECEIVERSHIP. CUSTOMER IS REQUESTING $75,000 INVESTMENT BACK. LACK OF SUPERVISION."",
+  ""Damage Amount Requested"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ISSUE WAS SETTLED PRIOR TO COMPLETION OF ARBITRATION WITH BROKER PAYING 40,000.  CIVIL CASE WITHDRAWN.""
+}",5/15/1982 - 10/25/1982,FINANCIAL PLANNERS EQUITY CORPORATION (7420)
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,1/10/1995,Customer Dispute,Dismissed,"{
+  ""Allegations"" : ""OMMISSIONS OF MATERIAL FACTS, MISREPRESENTATION, NEGLIGENCE AND FRAUD CONCERNING THE RECOMMENDATION OF INVESTMENT RECOMMENDATIONS"",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER WITHDREW CIVIL LITIGATION - NO LONGER PENDING. SETTLED FOR ANTICIPATED COURT COSTS.""
+}",11/10/1978 - 2/2/1984,CASEY FOSS SECURITIES CORPORATION (7709)
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,2/1/1991,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Alaska Securities Division"",
+  ""Allegations"" : ""Foss and Unicorp Financial Group failed to file amended U-4 to report complaint of Gavrilovich v. Foss, et al., Superior Court, Anchorage, AK filed 8/27/88, file 3AN-88-8658.  No hearing requested."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$400.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""Foss paid $400 fine 3/8/91, Unicorp Financial Group (BD 17644) paid $300 fine 3/18/91."",
+  ""Broker Comment"" : ""$400 FINE PAID.""
+}",2/22/1978 - 3/22/1979,"CHRISTOPHER WEIL & COMPANY, INC (6566)"
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,7/29/1988,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THAT THEY PURCHASED TWO PARTNERSHIPS BASED ON MR. FOSS'S REPRESENTATION THAT HE WOULD PURCHASE THE UNITS BACK AT ANY TIME [CUSTOMER] WANTED. ASKING FOR THE RETURN OF THE ORIGINAL INVESTMENTS ($70,000) AND RELEASE FROM PAYING ON HIS PROMISSORY NOTES."",
+  ""Damage Amount Requested"" : ""$70,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""UPON PAYMENT OF $10,000 BY FOSS TO THE [CUSTOMER'S], ALL CLAIMS BY EITHER SIDE HAVE BEEN DISMISSED.""
+}",9/24/1973 - 2/23/1978,SUTRO & CO. INCORPORATED (801)
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,2/2/1986,Customer Dispute,Settled,"{
+  ""Allegations"" : ""INAPPROPRIATE PENSION INVESTMENTS"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$27,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""LITIGATION WITHDRAWN - SETTLEMENT PAID.""
+}",3/11/1970 - 9/3/1973,"MITCHUM, JONES & TEMPLETON INCORPORATED (584)"
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,1/10/1986,Customer Dispute,Settled,"{
+  ""Allegations"" : ""INAPPROPRIATE PENSION INVESTMENTS"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""LITIGATION WITHDRAWN - CASE CLOSED.""
+}",,
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,2/21/1984,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""SF-1019"",
+  ""DocketNumberAAO"" : ""1019"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""U4 SUBMITTED BY FINANCIAL PLANNERS EQUITY CORP. DISCLOSES FOSS WAS CENSURED AND FINED BY THE NASD IN COMPLAINT NO. SF-1019.""
+}",,
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,6/24/1981,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CA-873"",
+  ""DocketNumberAAO"" : ""873"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""U4 SUBMITTED BY FINANCIAL PLANNERS EQUITY CORP. DISCLOSES FOSS WAS CENSURED AND FINED IN COMPLAINT NO. CA-873.""
+}",,
+16668,211655,JOHN,[JOHN JOE FOSS],FOSS,3/2/1981,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CA-799"",
+  ""DocketNumberAAO"" : ""799"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""U4 SUBMITTED BY FINANCIAL PLANNERS EQUITY CORP. DISCLOSES FOSS WAS CENSURED AND FINED IN COMPLAINT NO. CA-799.""
+}",,

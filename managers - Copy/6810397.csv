@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46106,6810397,Matthew,"[MATTHEW DAVID MONGEAU, Matt David Mongeau]",Mongeau,6/29/2009,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Chapter 266, Section 18 - Breaking & Entering Building in Daytime with Intent to Commit a Felony"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""The charge was nolle prossed and the case was dismissed.""
+}",2/10/2021 - Current,"FORESIDE FUND SERVICES, LLC (46106)"
+46106,6810397,Matthew,"[MATTHEW DAVID MONGEAU, Matt David Mongeau]",Mongeau,,,,,10/2/2018 - 11/13/2020,"AMUNDI PIONEER INSTITUTIONAL ASSET MANAGEMENT, INC. (138756)"
+46106,6810397,Matthew,"[MATTHEW DAVID MONGEAU, Matt David Mongeau]",Mongeau,,,,,9/28/2018 - 11/13/2020,"AMUNDI PIONEER DISTRIBUTOR, INC. (24497)"
+46106,6810397,Matthew,"[MATTHEW DAVID MONGEAU, Matt David Mongeau]",Mongeau,,,,,12/8/2017 - 5/7/2018,MCADAM LLC (170914)
+46106,6810397,Matthew,"[MATTHEW DAVID MONGEAU, Matt David Mongeau]",Mongeau,,,,,10/30/2017 - 11/30/2017,PURSHE KAPLAN STERLING INVESTMENTS (35747)

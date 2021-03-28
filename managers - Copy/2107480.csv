@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,7/23/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PROEQUITIES, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Representative exercised discretion in client brokerage account and entered trade after client's date of death in violation of firm policy.""
+}",1/27/2020 - Current,"MILLENNIAL ADVISERS, LLC. (170847)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,7/20/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""A court-appointed personal representative for deceased client alleges that the registered representative took advantage of the client, who was not competent, in opening the account and conducted discretionary trading. Allegations also include unauthorized trading after the representative became aware of the client's death."",
+  ""Damage Amount Requested"" : ""$13,000.00"",
+  ""Settlement Amount"" : ""$12,525.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The registered representative was not listed as a party to the complaint and had no opportunity to present evidence in his defense.  The registered representative had served as the broker for the customer's father for many years.  After the father passed away, the customer and his brother inherited their father's estate and both sought to open accounts with a registered representative.  The customer and his brother met with a registered representative and discussed a plan of investment.  The Customer was competent at the time of opening of his account and gave the registered representative price and time discretion to execute the trades proposed in the plan of investment.  Both the customer and the registered representative's former employer signed off on the on the plan and its suitability for the customer, and the customer received confirmations of the trades as they took place and never raised an issue.  After the customer's death, a state-appointed executor raised the issues of competence and unauthorized trading.  The allegations of unauthorized trading in the customer account's after his death resulted from one trade that was accidentally placed in the customer's account instead of an account of a similar name. As soon as the registered representative became aware of the mistake he offered to rescind the trade.""
+}",7/26/2018 - Current,"ALLIED MILLENNIAL PARTNERS, LLC (16569)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,3/12/2004,Customer Dispute,Denied,"{
+  ""Allegations"" : ""ALLEGED UNAUTHORIZED TRADING  RECOMMENDED UNSUITABLE INVESTMENTS"",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/29/2018 - 12/31/2019,"MILLENNIAL ADVISERS, LLC. (170847)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,8/20/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER EXPRESSED DISSATISFACTION WITH THE SALES PRACTICES OF AGENT BEAHON.  SPECIFICALLY, CUSTOMER ALLEGED AGENT BEAHON MISREPRESENTED THE FEES AND INTEREST RATE OF A UNIT INVESTMENT TRUST."",
+  ""Damage Amount Requested"" : ""$5,107.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/10/2017 - 7/24/2018,"PROEQUITIES, INC. (15708)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,9/30/2016 - 8/18/2017,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,3/10/2009 - 8/18/2017,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,11/30/2005 - 3/10/2009,"BUTLER, WICK & CO., INC. (120)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,1/17/2003 - 12/20/2005,"ADVEST, INC. (10)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,4/21/1999 - 1/21/2003,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,12/23/1994 - 4/21/1999,PNC BROKERAGE CORP (34671)
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,1/17/1994 - 12/23/1994,PNC SECURITIES CORP (15647)
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,1/1/1991 - 4/14/1993,"WHEAT, FIRST SECURITIES, INC. (6124)"
+170847,2107480,DARRELL,[DARRELL RICHARD BEAHON],BEAHON,,,,,11/27/1990 - 1/1/1991,BUTCHER & SINGER INC. (6517)

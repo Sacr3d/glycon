@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107319,4647174,BRYAN,[],BOHLMAN,3/13/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Minnesota Department of Commerce"",
+  ""Allegations"" : ""In November 2017, I submitted for renewal of my MN Insurance Licenses and paid renewal fees.  I did not notice that in applying for renewal that I was also affirming that my Continuing Education was completed for the year.  Even though the application was made in good faith, and I was in good standing with my Continuing Education with my Insurance Licenses, I was given a Civil Penalty of $500 from the MN Department of Commerce for affirming that my Continuing Education was completed when it was not.  I have paid the penalty, completed all of the necessary credits for Continuing Education as soon as my error was discovered, and my insurance license with my resident state of MN is back in good standing."",
+  ""Resolution"" : ""Settled"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ]
+}",1/31/2017 - Current,"TRANSAMERICA RETIREMENT ADVISORS, LLC (107319)"
+107319,4647174,BRYAN,[],BOHLMAN,,,,,7/30/2013 - Current,TRANSAMERICA INVESTORS SECURITIES CORPORATION (32205)
+107319,4647174,BRYAN,[],BOHLMAN,,,,,1/3/2011 - 7/2/2013,"WELLS FARGO ADVISORS, LLC (19616)"
+107319,4647174,BRYAN,[],BOHLMAN,,,,,3/26/2008 - 1/3/2011,"WELLS FARGO INVESTMENTS, LLC (10582)"
+107319,4647174,BRYAN,[],BOHLMAN,,,,,11/25/2003 - 9/13/2004,PRINCOR FINANCIAL SERVICES CORPORATION (1137)
+107319,4647174,BRYAN,[],BOHLMAN,,,,,6/10/2003 - 6/30/2003,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+107319,4647174,BRYAN,[],BOHLMAN,,,,,6/10/2003 - 6/30/2003,IDS LIFE INSURANCE COMPANY (6321)

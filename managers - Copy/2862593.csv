@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+18272,2862593,DANIEL,"[DANIEL EDWARD HELKOWSKI, DANIEL  HELKOWSKI 111, DANIEL  HELKOWSKI]",HELKOWSKI,2/17/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015047245301"",
+  ""DocketNumberAAO"" : ""2015047245301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Helkowski failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""5/20/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's  Notice of Suspension and Suspension from Association letters dated February 17, 2016 and March 14, 2016, respectively, on May 20, 2016, Helkowski is barred from association with any FINRA member in any capacity.  Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",5/19/2006 - 10/6/2015,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,2862593,DANIEL,"[DANIEL EDWARD HELKOWSKI, DANIEL  HELKOWSKI 111, DANIEL  HELKOWSKI]",HELKOWSKI,10/1/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Allstate Financial Services, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Discharge for failure to fully respond and provide documentation regarding possible U4 amendment issue.""
+}",2/24/1999 - 3/13/2006,"NATIONWIDE SECURITIES, INC. (11173)"

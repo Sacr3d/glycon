@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,223145,BEN,[],GLISAN,4/22/1976,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Theft"",
+    ""Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""This was a dispute with merchant over an item that I ordered and was received defective. I refused to pay and the merchant filed charges. I was advised to plead guilty because the item was less than $50.00.""
+}",5/1/1985 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,223145,BEN,[],GLISAN,,,,,1/2/1975 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)
+10409,223145,BEN,[],GLISAN,,,,,3/28/1972 - 12/14/1974,PACIFIC EQUITY SALES COMPANY (4452)

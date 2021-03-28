@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,6/25/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PNC Investments, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Carol Bendik was terminated for violation of firm policy.  Specifically, Ms. Bendik was found to have falsified records in the firm's database indicating she had held required annual managed account reviews with specific clients on specific dates.  Several of those clients stated no annual review was done"",
+  ""Broker Comment"" : ""I spoke to my customers who had managed money accounts, several times throughout the year.  I feel these allegations are false.  At this point PNC has not provided any details to me regarding specific customers broadly stated in PNC's allegation.""
+}",8/25/2016 - Current,"ALLSTATE FINANCIAL ADVISORS, LLC (109524)"
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,5/18/1999,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER [CUSTOMER] ALLEGED DISSATISFACTION ASSOCIATED WITH SALES PRACTICES OF INVESTMENT CONSULTANT CAROL DOBRANSKY.  SPECIFICALLY, [CUSTOMER] ALLEGED THAT THE PRODUCT INVESTED WAS UNSUITABLE, BASED UPON HER OBJECTIVES."",
+  ""Damage Amount Requested"" : ""$9,050.00"",
+  ""Settlement Amount"" : ""$5,250.52"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/24/2016 - Current,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,,,,,4/4/2005 - 7/19/2016,PNC INVESTMENTS (129052)
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,,,,,1/1/2004 - 7/19/2016,PNC INVESTMENTS (129052)
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,,,,,6/1/2002 - 1/1/2004,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,,,,,6/1/1994 - 6/1/2002,PNC BROKERAGE CORP (34671)
+109524,2129466,CAROL,"[CAROL LYNN BENDIK, CAROL LYNN DOBRANSKY]",BENDIK,,,,,3/19/1991 - 6/13/1994,"GNA SECURITIES, INC. (10465)"

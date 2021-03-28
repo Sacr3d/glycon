@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107342,5825060,BRIAN,[],O'NEILL,8/13/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Clients alleged FA assured them they would never lose principal and could withdraw money at any time without penalty. (3/5/2015)"",
+  ""Damage Amount Requested"" : ""$80,912.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/22/2018 - Current,FISHER INVESTMENTS (107342)
+107342,5825060,BRIAN,[],O'NEILL,7/27/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES BROKERED CD THAT MAY FLUCTUATE IN VALUE WAS NOT A SUITABLE INVESTMENT AND BELIEVED SHE WAS PURCHASING A TRADITIONAL BANK CD. (04/29/2015)"",
+  ""Damage Amount Requested"" : ""$6,000.00"",
+  ""Settlement Amount"" : ""$2,214.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/2/2018 - 8/20/2018,"PROFUNDS DISTRIBUTORS, INC. (19541)"
+107342,5825060,BRIAN,[],O'NEILL,,,,,7/7/2017 - 5/17/2018,"CAMBRIDGE INVESTMENT RESEARCH, INC. (39543)"
+107342,5825060,BRIAN,[],O'NEILL,,,,,7/7/2017 - 5/17/2018,"CAMBRIDGE INVESTMENT RESEARCH ADVISORS, INC. (134139)"
+107342,5825060,BRIAN,[],O'NEILL,,,,,1/10/2014 - 7/13/2017,"WELLS FARGO CLEARING SERVICES, LLC (19616)"
+107342,5825060,BRIAN,[],O'NEILL,,,,,9/14/2010 - 1/13/2014,EDWARD JONES (250)
+107342,5825060,BRIAN,[],O'NEILL,,,,,8/27/2010 - 1/13/2014,EDWARD JONES (250)

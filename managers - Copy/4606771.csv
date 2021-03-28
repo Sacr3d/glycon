@@ -1,0 +1,46 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4606771,SHANNON,"[SHANNON KATHLEEN BRYANT, SHANNON K DANIELS, SHANNON KATHLEEN STERLIN]",DANIELS,12/5/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Missouri"",
+  ""Allegations"" : ""Multiple violations of dishonest and unethical practices regarding theft of funds; multiple violations of willful violation or willful failure to comply with the Missouri Securities Act of 2003 for repeated theft of funds; and multiple violations of engaging in an act, practice or course of business that would operate as a fraud or deceit upon another person in connection with an offer, sale, or purchase of a security or provision of investment advice regarding the repeated thefts of funds."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$50,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Restitution"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$457,040.53""
+    } ]
+  } ]
+}",11/30/2011 - 7/22/2016,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4606771,SHANNON,"[SHANNON KATHLEEN BRYANT, SHANNON K DANIELS, SHANNON KATHLEEN STERLIN]",DANIELS,8/15/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016050764201"",
+  ""DocketNumberAAO"" : ""2016050764201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Daniels failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""11/18/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated August 15, 2016 and September 8, 2016, respectively, on November 18, 2016, Daniels is barred from association with any FINRA member in any capacity. Respondent failed to request termination of her suspension within three months of the date of the Notice of Suspension; therefore, she is automatically barred from association with any FINRA member in any capacity.""
+}",9/29/2005 - 11/18/2011,"COMMERCE BROKERAGE SERVICES, INC (17140)"
+17868,4606771,SHANNON,"[SHANNON KATHLEEN BRYANT, SHANNON K DANIELS, SHANNON KATHLEEN STERLIN]",DANIELS,6/29/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bancorp Investments, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated for misappropriation of client funds.""
+}",5/7/2004 - 11/18/2011,"COMMERCE BROKERAGE SERVICES, INC. (17140)"
+17868,4606771,SHANNON,"[SHANNON KATHLEEN BRYANT, SHANNON K DANIELS, SHANNON KATHLEEN STERLIN]",DANIELS,,,,,11/26/2002 - 4/22/2004,"PRUCO SECURITIES, LLC. (5685)"

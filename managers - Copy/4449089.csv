@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+106357,4449089,GREGORY,[],FELDMAN,6/24/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048853301"",
+  ""DocketNumberAAO"" : ""2016048853301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Feldman consented to the sanctions and to the entry of findings that while registered with his member firm, he purchased shares in 15 initial public offerings (IPOs) in two disclosed personal brokerage accounts he held at another member firm. The findings stated that Feldman sold all of the shares in several of the IPOs for a profit of $7451.02."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,451.02""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""10 business days"",
+      ""Start Date"" : ""7/5/2016"",
+      ""End Date"" : ""7/18/2016""
+    } ]
+  } ]
+}",3/15/2017 - Current,THORNBURG INVESTMENT MANAGEMENT INC (106357)
+106357,4449089,GREGORY,[],FELDMAN,4/1/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Lord, Abbett & Co., LLC"",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""Mr. Feldman purchased IPOs in personal accounts.""
+}",2/10/2017 - Current,THORNBURG SECURITIES CORPORATION (14857)
+106357,4449089,GREGORY,[],FELDMAN,,,,,3/11/2004 - 4/27/2016,"LORD, ABBETT & CO. LLC (110391)"
+106357,4449089,GREGORY,[],FELDMAN,,,,,4/4/2003 - 4/27/2016,LORD ABBETT DISTRIBUTOR LLC (530)
+106357,4449089,GREGORY,[],FELDMAN,,,,,12/2/2002 - 3/21/2003,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+106357,4449089,GREGORY,[],FELDMAN,,,,,11/16/2001 - 3/21/2003,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

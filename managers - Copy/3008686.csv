@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,12/17/2018,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy""
+}",10/29/2020 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,10/16/2013,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Dismissed""
+}",10/28/2019 - 10/12/2020,"PRUCO SECURITIES, LLC. (5685)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,3/17/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$11,263.11"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""THE SOCIAL SECURITY # FOR THE PERSON LISTED ON THE JUDGMENT DOES NOT MATCH. THIS JUDGMENT IS CURRENTLY BEING CHALLENGED. THIS IS A CASE OF MISTAKEN IDENTITY""
+}",5/23/2017 - 11/26/2019,"ONEAMERICA SECURITIES, INC. (4173)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,12/19/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,353.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I dont remember being served  This was a judgement for someone with my same name but a different ss#.  judgement was granted against me as a result of identity theft.""
+}",12/4/2015 - 11/26/2019,"ONEAMERICA SECURITIES, INC. (4173)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,7/24/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,928.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I dont remember being served. This was a judgement for someone with my same name but a different ss# judgement was granted against me as a result of identity theft.""
+}",10/25/2007 - 11/10/2015,"MML INVESTORS SERVICES, LLC (10409)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,,,,,11/3/2003 - 10/5/2007,PARK AVENUE SECURITIES LLC (46173)
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,,,,,3/19/1999 - 9/3/2003,"MML INVESTORS SERVICES, INC. (10409)"
+10409,3008686,ALBERTO,[Tico  Gutierrez],GUTIERREZ,,,,,6/11/1998 - 12/17/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

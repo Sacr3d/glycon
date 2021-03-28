@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3870,5642146,DEREK,[],WILSON,3/7/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$40,653.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current status: Installment agreement set up with IRS as of March 2018. Making monthly installment payments to pay amount in full.""
+}",9/3/2019 - Current,LINCOLN FINANCIAL SECURITIES CORPORATION (3870)
+3870,5642146,DEREK,[],WILSON,5/17/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$39,452.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Current status: Installment agreement set up with IRS as of March 2018.  Making monthly installment payments to pay amount in full.""
+}",1/20/2015 - 9/3/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+3870,5642146,DEREK,[],WILSON,,,,,3/7/2011 - 9/3/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+3870,5642146,DEREK,[],WILSON,,,,,10/20/2009 - 3/1/2011,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"

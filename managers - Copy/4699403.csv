@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+282990,4699403,SEAN,[],KREJCI,4/23/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Statement of Claim dated April 9, 2019, alleging that U.S. Bancorp Investments, Inc. engaged in an unsuitable investment strategy and liquidated securities to purchase unsuitable and inappropriate insurance products, during an approximate period from September 2012 through September 2016, involving claimants [REDACTED] and Registered Representative Sean J. Krejci. Claimants also allege that Mr. Krejci engaged in fraud and/or other misconduct with respect to promissory notes they purchased through Mr. Krejci after he left the employment of U.S. Bancorp Investments, Inc."",
+  ""Damage Amount Requested"" : ""$1,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/1/2016 - 6/30/2017,JOSEPH FINANCIAL INVESTMENT ADVISORS LLC (282990)
+282990,4699403,SEAN,[],KREJCI,5/6/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNAUTHORIZED TRADING REGARDING MUTUAL FUND INVESTMENT. ACTIVITY DATES 08/21/2008-01/06/2009."",
+  ""Damage Amount Requested"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/17/2012 - 9/7/2016,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+282990,4699403,SEAN,[],KREJCI,,,,,4/16/2012 - 9/7/2016,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+282990,4699403,SEAN,[],KREJCI,,,,,1/6/2010 - 4/16/2012,"UNIONBANC INVESTMENT SERVICES, LLC (14455)"
+282990,4699403,SEAN,[],KREJCI,,,,,1/5/2010 - 4/16/2012,"UNIONBANC INVESTMENT SERVICES, LLC (14455)"
+282990,4699403,SEAN,[],KREJCI,,,,,5/2/2009 - 1/4/2010,CHASE INVESTMENT SERVICES CORP. (25574)
+282990,4699403,SEAN,[],KREJCI,,,,,3/15/2007 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+282990,4699403,SEAN,[],KREJCI,,,,,8/25/2003 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"

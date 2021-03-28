@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+281554,2516998,SCOTT,[],HARRIS,7/13/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""Disregarded Firm policy to notify Firm and receive approval for transfer of customer assets to non-Firm custodian.""
+}",7/6/2020 - Current,INTRUA FINANCIAL (281554)
+281554,2516998,SCOTT,[],HARRIS,7/2/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""GOLDEN STATE WEALTH MANAGEMENT"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Disregarded broker-dealer policy to notify broker-dealer and receive approval for transfer of customer assets to non-broker-dealer custodian and used an unsecured and unapproved chat program to transmit personally identifiable client information as well as the use of an unapproved email system in violation of RIA and broker-dealer policy.""
+}",2/15/2017 - 7/31/2020,"GOLDEN STATE WEALTH MANAGEMENT, LLC (167995)"
+281554,2516998,SCOTT,[],HARRIS,,,,,7/23/2007 - 6/1/2017,LPL FINANCIAL LLC (6413)
+281554,2516998,SCOTT,[],HARRIS,,,,,9/1/2006 - 7/24/2020,LPL FINANCIAL LLC (6413)
+281554,2516998,SCOTT,[],HARRIS,,,,,2/12/1998 - 9/12/2006,EDWARD JONES (250)
+281554,2516998,SCOTT,[],HARRIS,,,,,7/22/1994 - 3/5/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

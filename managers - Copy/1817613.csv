@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,8/12/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Breach of Fiduciary Duty, Common Law Fraud, Negligence/Negligent Misrepresentation/Omission, Breach of Contract, Restitution, Negligent Supervision"",
+  ""Damage Amount Requested"" : ""$425,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/16/2016 - Current,"MUTUAL ADVISORS, LLC (167658)"
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,8/13/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Fraud, Lack of Supervision and Suitability."",
+  ""Damage Amount Requested"" : ""$1,100,000.00"",
+  ""Settlement Amount"" : ""$510,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Respondent Mid Atlantic Capital Corporation (MACC) while denying all allegations of wrongdoing or impropriety, and to avoid the further cost of litigation, settled FINRA Arbitration Case no. 18-02761 on March 28, 2019. The firm settled this matter in the amount of $510,000.00. Payment in full was remitted to plaintiff's council on April 22, 2019.""
+}",5/24/2017 - 12/31/2019,"MUTUAL SECURITIES, INC. (13092)"
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,5/22/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Common law fraud, breach of fiduciary duty, negligent failure to supervise, negligence related to the sale of a private placement fund in 2006."",
+  ""Settlement Amount"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/21/2016 - 8/12/2016,CONCERT WEALTH MANAGEMENT (141253)
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,7/22/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""SUITABILITY, FAILURE TO SUPERVISE AND OTHER CHARGES RELATED TO THE SALE OF LIMITED PARTNERSHIP INTEREST IN 2007. ALL CLAIMS ARE DENIED."",
+  ""Damage Amount Requested"" : ""$450,000.00"",
+  ""Settlement Amount"" : ""$285,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""15-01319"",
+  ""Broker Comment"" : ""Claimant dismissed his claim against Respondent David C. Boydell without prejudice. David C. Boydell has been removed as an active party of this arbitration.""
+}",5/4/2004 - 6/1/2016,"MID ATLANTIC FINANCIAL MANAGEMENT, INC. (109771)"
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,,,,,5/3/2004 - 4/1/2016,MID ATLANTIC CAPITAL CORPORATION (10674)
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,,,,,10/25/2001 - 5/4/2004,LONDON PACIFIC ADVISORS (104601)
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,,,,,10/9/2001 - 5/3/2004,"LONDON PACIFIC SECURITIES, INC. (25089)"
+167658,1817613,DAVID,"[DAVE  BOYDELL, DAVID  BOYDELL]",BOYDELL,,,,,9/8/1993 - 10/12/2001,MONY SECURITIES CORPORATION (4386)

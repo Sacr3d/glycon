@@ -1,0 +1,53 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,10/4/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Complaint filed alleging replacement of a variable annuity for $52,000 invested in Allianz 365i on 6/7/2017 was unsuitable and the client had no recollection of signing any paperwork for the purchase."",
+  ""Damage Amount Requested"" : ""$52,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I met with the client on two separate occasions and spoke over the phone after the two meetings. The client was not satisfied with the VA performance which was allocated to the fixed account. She did not want to take market risk for potentially greater return. I recommended a fixed index annuity that provides no market risk but still has potential for greater returns than the fixed account for the VA. All features were discussed and acknowledged including surrender period. No concerns were expressed over the surrender period. The Firm has denied the claim as having no merit and I deny any wrongdoing.""
+}",3/6/2019 - Current,LINCOLN INVESTMENT (519)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,1/14/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""ATTORNEY REPRESENTING THE CUSTOMER CLAIMS THAT MR HERMAN LIQUIDATED SECURITIES IN ORDER TO SELL THE CUSTOMER A FIXED INSURANCE POLICY THAT WAS AN UNSUITABLE INVESTMENT FOR A PERSON WHO IS UNMARRIED WITH NO CHILDREN."",
+  ""Damage Amount Requested"" : ""$350,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE COMPLAINANT IS A 65 YEAR OLD WITH 100% OF HIS $1.3 MILLION IN ASSETS INVESTED IN EQUITIES. HE WAS CONCERNED ABOUT MARKET RISK AND AFTER ANALYZING HIS SITUATION, I RECOMMENDED INVESTMENT OPTIONS AIMED AT DIVERSIFYING HIS PORTFOLIO AND REDUCING HIS RISK. HE CHOSE TO LIQUIDATE APPROXIMATELY 30% OF HIS EQUITIES AND PURCHASE AN EQUITY INDEXED ANNUITY, WHICH PROTECTS PRINCIPAL FROM MARKET RISK, IS TAX-DEFERRED AND OFFERS 10% PENALTY-FREE ACCESS PER YEAR. COMPLAINANT'S NEIGHBOR THEREAFTER ALLEGEDLY EXTORTED $250,000 FROM COMPLAINANT AND COMPLAINANT GOT THE FUNDS BY WITHDRAWING FROM HIS EIA, WHICH RESULTED IN A PENALTY. COMPLAINANT NOW ALLEGES THE ANNUITY WAS UNSUITABLE AND I SHOULD SOMEHOW HAVE STOPPED HIS NEIGHBOR'S EXTORTION. STATE SECURITIES REGULATORS REVIEWED THIS CASE AND HAVE TAKEN NO ACTION AGAINST ME. MY RECOMMENDATIONS WERE APPROPRIATE AND I DENY ANY WRONGDOING IN THIS MATTER.""
+}",2/14/2019 - Current,LINCOLN INVESTMENT (519)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,10/25/2010,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""MAINE STATE INSURANCE DEPT"",
+  ""Allegations"" : ""THAT I DID NOT FULLY EXPLAIN THE 30 DAY FREE LOOK PROVISION FOR A FIXED ANNUITY."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""NONE - WAS NOT REGISTERED AT THE TIME"",
+      ""Duration"" : ""TWO WEEKS - (14) CALENDAR DAYS"",
+      ""Start Date"" : ""10/25/2010"",
+      ""End Date"" : ""11/8/2010""
+    } ]
+  } ]
+}",2/14/2019 - Current,CAPITAL ANALYSTS (162200)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,2/22/2002,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Manufacture, Sale and Possession of False ID"",
+    ""Disposition"" : ""Found not guilty""
+  } ],
+  ""Broker Comment"" : ""The event occurred on March 11, 2002 while attending Franklin Pierce College.  I was out to dinner with friends at a Chinese restaurant.  I presented a false ID to obtain an alcoholic beverage when I was 20 years old.  I was young and in school and made a decision that I regret to this day.  The mistake that I made 18 years ago does not reflect the man that I am today.""
+}",1/25/2019 - 2/15/2019,REGAL INVESTMENT ADVISORS LLC (125004)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,1/24/2019 - 2/15/2019,"REGULUS ADVISORS, LLC (150631)"
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,2/18/2016 - 1/28/2019,"QUESTAR ASSET MANAGEMENT, INC. (133358)"
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,2/17/2016 - 1/25/2019,QUESTAR CAPITAL CORPORATION (43100)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,12/1/2010 - 3/9/2016,"PROEQUITIES, INC. (15708)"
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,3/7/2010 - 3/10/2016,INVESTMENT ADVISORS (15708)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,10/31/2005 - 5/28/2010,"UVEST FINANCIAL SERVICES GROUP, INC. (13787)"
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,12/10/2003 - 10/4/2005,PRUDENTIAL FINANCIAL PLANNING SERVICES (5685)
+519,4686382,MATTHEW,[MATTHEW E. HERMAN],HERMAN,,,,,9/17/2003 - 10/4/2005,"PRUCO SECURITIES, LLC. (5685)"

@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6897925,BAILEY,[BAILEY  RIHNER],RIHNER,10/5/2010,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Possesion of Marijuana, With Intent A Schedule 1 Controlled Substance"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  }, {
+    ""Charges"" : ""Conspiracy to Possess Marijuana, With Intent to Distribute A Schedule1 Controlled Substance"",
+    ""Disposition"" : ""Pre-trial Intervention""
+  } ],
+  ""Broker Comment"" : ""A package came in the mail while I was at a friends house addressed to him and both of us were arrested and charged. I then completed Pretrial Intervention and the charges were dismissed.""
+}",2/21/2019 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6897925,BAILEY,[BAILEY  RIHNER],RIHNER,,,,,3/23/2018 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

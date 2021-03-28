@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+149018,1950226,SHARON,[],HYER,8/27/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client claims product was misrepresented and income information on application was incorrect."",
+  ""Damage Amount Requested"" : ""$13,100.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I conducted a thorough suitability analysis of assets and income based on information that was provided by client.  Appropriate concentration ratio to investable assets and cap on REIT investments was explained.  Client signed illiquidity acknowledgment and confirmed calculations.  Prospectus, brochure and all firm documents were given to client and are on file with Cetera.  Client stated that she fully understood the product and that it should be used for intended purpose only. I provided full disclosure that if tendered/liquidated prior to a REIT initiated liquidation the result could be a lower price per share.""
+}",6/19/2017 - Current,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+149018,1950226,SHARON,[],HYER,8/1/2012,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED HE DID NOT INITIAL CHANGES TO THE CHANGE OF DEALER FORM"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""NEITHER THE FIRM NOR FINRA NOR THE STATE OF NE COULD DETERMINE THE ORIGIN OF THE CUSTOMER'S INITIALS. NO EVIDENCE THEY WERE ADDED BY REPRESENTATIVE. CASE CLOSED, NO ACTION.""
+}",6/14/2017 - Current,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+149018,1950226,SHARON,[],HYER,,,,,1/21/2014 - 6/13/2017,CETERA INVESTMENT ADVISERS LLC (105644)
+149018,1950226,SHARON,[],HYER,,,,,6/30/2011 - 1/21/2014,CETERA INVESTMENT SERVICES LLC (15340)
+149018,1950226,SHARON,[],HYER,,,,,6/22/2011 - 6/13/2017,CETERA INVESTMENT SERVICES LLC (15340)
+149018,1950226,SHARON,[],HYER,,,,,10/31/2003 - 6/28/2011,"SPECTRUM CAPITAL, INC. (28303)"
+149018,1950226,SHARON,[],HYER,,,,,11/4/1998 - 6/28/2011,"SPECTRUM CAPITAL, INC. (28303)"
+149018,1950226,SHARON,[],HYER,,,,,3/19/1996 - 11/18/1998,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+149018,1950226,SHARON,[],HYER,,,,,5/31/1994 - 3/29/1996,INVEST FINANCIAL CORPORATION (12984)

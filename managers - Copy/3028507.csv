@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+158292,3028507,CHRISTOPHER,"[CHRIS  WACKER, CHRISTOPHER LAWRENCE WACKER, CHRISTOPHER  WACKER]",WACKER,7/18/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014041510201"",
+  ""DocketNumberAAO"" : ""2014041510201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Wacker consented to the sanctions and to the entry of findings that an unregistered administrative assistant fabricated order tickets directing the sale of securities from a customer account without the customer's knowledge or consent, and the assistant gave the tickets to Wacker to execute. The findings stated that in connection with the tickets, Wacker made false statements to personnel on the member firm's trading desk that he had spoken with the customer regarding her purported sell orders on several occasions, when, in fact, he had not done so."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""7/18/2016"",
+      ""End Date"" : ""9/17/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on December 7, 2017.""
+}",12/22/2017 - Current,"GLOBAL VIEW CAPITAL MANAGEMENT, LTD (158292)"
+158292,3028507,CHRISTOPHER,"[CHRIS  WACKER, CHRISTOPHER LAWRENCE WACKER, CHRISTOPHER  WACKER]",WACKER,5/1/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PARK AVENUE SECURITIES"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""MR. WACKER DID NOT FOLLOW REGULATORY GUIDELINES WHEN PLACING SPECIFIC CUSTOMER TRADES WITH THE FIRM'S ORDER DESK."",
+  ""Broker Comment"" : ""IN REGARDS TO MY ASSOCIATION WITH PARK AVENUE SECURITIES, I HAVE NEVER HAD A COMPLAINT OVER MY SEVENTEEN YEARS OF QUALITY REPRESENTATION WORKING WITH HUNDREDS OF CLIENTS.  AN ADMINISTRATIVE ASSISTANT IN OUR OFFICE DECEIVED MANY PEOPLE IN AND OUT OF THE OFFICE, INCLUDING MISLEADING ME INTO NOT FOLLOWING PROCEDURES WHEN PLACING SOME STOCK TRADES FOR ANOTHER FINANCIAL REP.  NO ONE, IN THE ENTIRE ORGANIZATION, KNEW OF HER ACTIONS UNTIL IT WAS DISCOVERED WITHIN OUR OFFICE.  MY INTENTIONS WERE TO TAKE CARE OF A CLIENT NEED.""
+}",12/22/2000 - 5/29/2015,PARK AVENUE SECURITIES LLC (46173)
+158292,3028507,CHRISTOPHER,"[CHRIS  WACKER, CHRISTOPHER LAWRENCE WACKER, CHRISTOPHER  WACKER]",WACKER,,,,,5/3/1999 - 5/29/2015,PARK AVENUE SECURITIES LLC (46173)
+158292,3028507,CHRISTOPHER,"[CHRIS  WACKER, CHRISTOPHER LAWRENCE WACKER, CHRISTOPHER  WACKER]",WACKER,,,,,6/19/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

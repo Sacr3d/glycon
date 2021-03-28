@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+167848,5031995,DEREK,[DEREK R. GORDON],GORDON,12/7/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF ILLINOIS, ILLINOIS SECURITIES DEPARTMENT"",
+  ""Allegations"" : ""PREPARED FALSE ACCOUNT STATEMENTS"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation""
+  } ]
+}",7/29/2013 - 12/31/2015,"B2 CAPITAL MANAGEMENT, LLC (167848)"
+167848,5031995,DEREK,[DEREK R. GORDON],GORDON,9/28/2016,Criminal,Pending Charge,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Money Laundering/Know/<$10K"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Wire Fraud"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Forgery/Issue/Deliver Document"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Theft/Deception/>$500K"",
+    ""Amended Charges"" : ""THEFT/DECEPTION >$100K-500K"",
+    ""Amended Charge Type"" : ""FELONY"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Compfraud/Obtain Money/>$50K"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Financial Institution Fraud/Defraud"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",6/4/2007 - 12/3/2010,"VALMARK ADVISERS, INC. (108050)"
+167848,5031995,DEREK,[DEREK R. GORDON],GORDON,5/18/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""AGG DUI/NO VALID DL"",
+    ""Disposition"" : ""Pled guilty""
+  } ]
+}",6/1/2007 - 12/3/2010,"VALMARK SECURITIES, INC. (31243)"
+167848,5031995,DEREK,[DEREK R. GORDON],GORDON,,,,,12/13/2005 - 6/8/2007,"AXA ADVISORS, LLC (6627)"
+167848,5031995,DEREK,[DEREK R. GORDON],GORDON,,,,,10/13/2005 - 6/8/2007,"AXA ADVISORS, LLC (6627)"

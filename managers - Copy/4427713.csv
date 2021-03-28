@@ -1,0 +1,41 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,4427713,BRIAN,[],RIEMAN,7/31/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Alleged unsuitable investments recommended beginning in 2009"",
+  ""Damage Amount Requested"" : ""$52,530.00"",
+  ""Settlement Amount"" : ""$19,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Settled to avoid the time and expense of litigation.""
+}",2/11/2008 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,4427713,BRIAN,[],RIEMAN,7/3/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""client alleges unsuitable recommendations"",
+  ""Settlement Amount"" : ""$14,999.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Settled to avoid the time and expense of litigation. Customer's portfolio was profitable.""
+}",8/14/2001 - Current,"HENNION & WALSH, INC. (25766)"
+126236,4427713,BRIAN,[],RIEMAN,6/26/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Unsuitable recommendations"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Neither Hennion & Walsh nor its brokers are responsible for market conditions or poor performance.""
+}",,
+126236,4427713,BRIAN,[],RIEMAN,2/5/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""2010 through 2013 unsuitable product recommendations"",
+  ""Damage Amount Requested"" : ""$230,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+126236,4427713,BRIAN,[],RIEMAN,11/9/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients claim poor performance and misrepresentation"",
+  ""Damage Amount Requested"" : ""$44,055.49"",
+  ""Settlement Amount"" : ""$44,055.49"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Settled to avoid time and expense of litigation.""
+}",,

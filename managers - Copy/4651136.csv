@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4651136,RANCE,[RANCE KEVIN MORGAN],MORGAN,4/21/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges that features of Indexed Annuity, including surrender charges and rider features were not adequately disclosed."",
+  ""Damage Amount Requested"" : ""$5,568.52"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""After a review of the allegations, the complaint was denied.  I also believe this complaint to be without merit as the product was suitable for the customer and all material features of the indexed annuity were thoroughly explained prior to the purchase.""
+}",2/6/2013 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4651136,RANCE,[RANCE KEVIN MORGAN],MORGAN,,,,,12/11/2009 - 2/22/2013,LPL FINANCIAL LLC (6413)
+42803,4651136,RANCE,[RANCE KEVIN MORGAN],MORGAN,,,,,1/1/2004 - 12/23/2009,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4651136,RANCE,[RANCE KEVIN MORGAN],MORGAN,,,,,5/5/2003 - 12/23/2009,"VALIC FINANCIAL ADVISORS, INC. (42803)"

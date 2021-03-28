@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+37,1485422,MICHAEL,[],KHERIATY,12/3/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013039564501"",
+  ""DocketNumberAAO"" : ""2013039564501"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the allegations, Kheriaty consented to the sanction and to the entry of findings that he willfully failed to amend his Uniform Application for Securities Registration (Form U4) in a timely manner to disclose a federal tax lien and a bankruptcy proceeding."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""six months"",
+      ""Start Date"" : ""12/7/2015"",
+      ""End Date"" : ""6/6/2016""
+    } ]
+  } ],
+  ""Sanctions"" : ""The settlement includes a finding that Kheriaty willfully failed to disclose a material fact on a Form U4, and that under section 3(a)(39)(f) of the Securities Exchange Act of 1934 and Article III, Section 4 of the FINRA By-Laws, this omission make him subject to a statutory disqualification with respect to association with a member.""
+}",1/23/2013 - 12/31/2013,"WORLD CAPITAL BROKERAGE, INC. (37)"
+37,1485422,MICHAEL,[],KHERIATY,5/31/2012,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Broker Comment"" : ""I MAKE MONTHLY PAYMENTS 480. 60 MONTHS TO CHAPTER 13 TRUSTEE. THIS ACTION PROTECTS ME FROM 51,000 GARNISHMENT FROM INSURANCE AGENCY EMPLOYED ME 6 YEARS AGO CIG INC, UNSETTLE BUY OUT DISPUTE. I CONTEND AND PROVED THE AGENCY HID FROM ME THEN 30,000 COMMISSION I EARNED BUT NEVER RECEIVED JUST PRIOR TO BEING TERMINATED AND OFFERED A BUY OUT WHICH I PAID EXCEPT THE ABOVE AMOUNT DUE.""
+}",3/1/2010 - 12/20/2012,"WORLD CAPITAL BROKERAGE, INC. (37)"
+37,1485422,MICHAEL,[],KHERIATY,10/11/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$25,409.28"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THIS LIEN WAS PLACED BY THE IRS ADMINISTRATOR F. DONAHUE AT THAT TIME MY REQUEST FOR OFFER IN COMPROMISE WAS DENIED. LIEN WAS PLACED AS A PROCEDURE. I CURRENTLY PAY THIS IRS DEBT THRU MY CHAPTER 13 PAYMENT MONTHLY TO TRUSTEE FILED 05/12/2012""
+}",8/1/2008 - 11/20/2009,"NATIONWIDE SECURITIES, LLC (11173)"
+37,1485422,MICHAEL,[],KHERIATY,11/20/2009,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""NATIONWIDE SECURITIES INC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""FAILED TO DO REGULATORY ELEMENT CONTINUING EDUCATION."",
+  ""Broker Comment"" : ""I INTENTIONALLY PLANNED TO MOVE MY BROKER DEALER BECAUSE NATIONWIDE SECURITIES REQUIRED SELLING NATIONWIDE LIFE PRODUCTS.""
+}",1/10/2003 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+37,1485422,MICHAEL,[],KHERIATY,,,,,9/28/1992 - 11/20/2002,NATIONAL PLANNING CORPORATION (29604)
+37,1485422,MICHAEL,[],KHERIATY,,,,,7/24/1986 - 10/10/1990,"MONARCH SECURITIES, INC. (2809)"

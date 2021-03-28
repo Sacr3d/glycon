@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,3091938,MATTHEW,[],GAGLIO,4/21/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""In connection with the sale of a defined benefit plan, plaintiff alleges various violations, including breach of fiduciary duty, fraudulent misrepresentations, and omissions of material facts."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""Settlement Amount"" : ""$47,853.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The matter was settled for $47,853 along with an agreement to exchange the life insurance policy type.""
+}",1/9/2014 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,3091938,MATTHEW,[],GAGLIO,12/18/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THAT TWO SECURITIES WERE SOLD WITHOUT HIS AUTHORIZATION."",
+  ""Damage Amount Requested"" : ""$32,745.50"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE FIRM HAS DETERMINED THE COMPLAINT TO BE MERITLESS.  THE CUSTOMER SIGNED A WRITTEN AUTHORIZATION TO LIQUIDATE THE SECURITIES IN QUESTION.""
+}",5/3/1999 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,3091938,MATTHEW,[],GAGLIO,,,,,9/16/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

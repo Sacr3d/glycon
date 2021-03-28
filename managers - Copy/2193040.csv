@@ -1,0 +1,81 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,9/19/2019,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client alleges Variable Universal Life Insurance policy was misrepresented as paid up. Policy now requires additional premium to avoid lapsing."",
+  ""Damage Amount Requested"" : ""$90,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/5/2015 - Current,"SANCTUARY ADVISORS, LLC (226606)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,11/17/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES THAT CLA IMANT WAS PLACED IN UNSUITABLE INVESTMENTS FOR THEIR AGE AND RISK TOLERANCE, THAT SAID INVESTMENTS WERE UNAUTHORIZED AND THAT THE FA CHURNED THE ACCOUNT. FROM 10/1/2012 TO 12/31/2015."",
+  ""Settlement Amount"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-03037"",
+  ""Broker Comment"" : ""Mr. Mancusi had detailed discussions with [Redacted] about the type of investments she wanted, given her request for more distributions from her account, in light of her age and risk tolerance.  Thus, the investments, to provide the cash needed for [Redacted], were appropriate.  In the four years Mr. Mancusi worked with [Redacted], there were relatively few trades and there was no \""churning\"" of her account.The statement of claim did not specifically allege churning.""
+}",11/4/2015 - Current,"SANCTUARY SECURITIES, INC. (205)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,10/27/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015048159201"",
+  ""DocketNumberAAO"" : ""2015048159201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Mancusi consented to the sanctions and to the entry of findings that he exercised discretion in effecting 45 transactions in a customer's accounts without prior written authorization from the customer to exercise discretion in these accounts and without the accounts having been approved for discretionary trading by his member firm. The findings stated that the discretionary trades did not occur before the end of a business day on which time and price discretion had been given. Mancusi also executed three transactions in another customer's account without prior authorization. The customer was out of the country and could not be reached to approve the sale of a security owned in a non-discretionary account. Mancusi sold the security and used the proceeds to purchase two other securities in the customer's account to replace it. As a result, the customer incurred fees, commissions, and ultimately a loss in disposing of an unwanted purchase into a new position, totaling $2,966.97."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""11/20/2017"",
+      ""End Date"" : ""1/19/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fine paid in full on November 9, 2017.""
+}",11/9/2012 - 11/18/2015,OPPENHEIMER & CO. INC. (249)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,7/29/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT'S ATTORNEY ALLEGES UNAUTHORIZED TRANSACTIONS TOOK PLACE IN THE CLIENT'S ACCOUNTS. NO TIME PERIOD SPECIFIED, BUT ACCOUNTS WERE OPEN FROM NOVEMBER 2012 THROUGH NOVEMBER 2014."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""Settlement Amount"" : ""$60,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/14/2012 - 11/18/2015,OPPENHEIMER & CO. INC. (249)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,7/18/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ON JULY 22, 2013 FIRM RECEIVED NOTICE OF ARBITRATION FILING BY FORMER CLIENTS ALLEGING FRAUDULENT AND IMPROPER ACTIVITIES BY FORMER AGENT LUIGI MANCUSI. THE CLIENTS WERE ADVISED BY MR. MANCUSI FROM MAY 2005 - MARCH 2012. THE CLAIM ALLEGES THAT MR. MANCUSI RECOMMENDED INVESTMENTS WHICH WERE \""COMPLETELY UNSUITABLE AND RECKLESS IN DISREGARD OF THEIR AGE, RISK TOLERANCE, AND INCOME NEEDS.\"" THE CLIENTS REQUEST RELIEF ALLEGING VIOLATIONS OF THE ILLINOIS SECURITIES ACT OF 1953, BREACH OF FIDUCIARY DUTY, NEGLIGENCE, NEGLEGENT MISREPRESENTATION, FAILURE TO SUPERVISE/NEGLIGENT SUPERVISION, AND RESPONDENT SUPERIOR."",
+  ""Damage Amount Requested"" : ""$322,000.00"",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""\""THE VALUE OF THE ACCOUNT DECREASED SUBSTANTIALLY BECAUSE THE CLIENTS WITHDREW SO MUCH MONEY TO FUND THEIR LIFESTYLE; THE DECREASE DID NOT OCCUR BECAUSE OF THE SECURITIES IN THE ACCOUNT.\""""
+}",10/4/2006 - 10/12/2012,WAYNE HUMMER INVESTMENTS L.L.C. (875)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,10/13/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT AS TRUSTEE OPENED 2 BROKERAGE ACCOUNTS WITH MR. MANCUSI IN JULY 2007.  BETWEEN JULY 2007 AND OCTOBER 2008, MR. MANCUSI SOLD CLIENT A SERIES OF MUTUAL FUND AND UNIT INVESTMENT TRUSTS. CLIENT ALLEGES THE FOLLOWING: 1.  THAT THE UITS SOLD WERE MISREPRESENTED - CLAIMING MR. MANCUSI REPRESENTED THAT UITS WERE SIMILAR TO BONDS AND WERE SAFE AND LIQUID INVESTMENTS.  CLIENT FURTHER ALLEGES THAT MR. MANCUSI REPRESENTED THAT THESE UIT RECOMMENDATIONS WOULD GUARANTEE A 9% ANNUAL RETURN AND DID NOT DISCLOSE THE RISKS ASSOCIATED WITH THESE INVESTMENTS. 2.  THE UIT INVESTMENTS WERE NOT CONSISTENT WITH CLIENT GOALS, AGE, RISK TOLERANCE, AND OBJECTIVES. 3.  UNAUTHORIZED PURCHASES OF 2 ADDITIONAL UITS IN NOVEMBER 2007.    CLIENT REPRESENTS THAT INVESTMENT LOSSES AND LOST INCOME ARE THE RESULT OF THE ACTIONS NOTED ABOVE AND THE CLIENT IS SEEKING DAMAGES IN THE AMOUNT OF NO LESS THAN $250,000."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""Settlement Amount"" : ""$80,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-05455"",
+  ""Broker Comment"" : ""MR. MANCUSI DENIES THE CLIENT ALLEGATIONS STATING THAT THE INVESTMENTS WERE SUITABLE BASED ON THE ACCOUNT OBJECTIVES, FULL DISCLOSURE OF THE FEATURES AND RISKS OF THE PRODUCTS SOLD WERE PROVIDED TO THE CLIENT, AND NO TRADES WERE PLACED WITHOUT THE CLIENT'S AUTHORIZATION. MR. MANCUSI BELIEVES THE COMPLAINT TO BE MOTIVATED BY THE CLIENT'S DESIRE TO RECOUP THEIR LOSSES BY HAVING MR. MANCUSI AND WAYNE HUMMER INVESTMENTS \""INSURE\"" THE LOSSES.  FIRM MADE BUSINESS DECISION TO SETTLE RATHER THAN INCUR ADDITIONAL ATTORNEYS FEES IN ARBITRATION.""
+}",7/11/2005 - 12/31/2007,WAYNE HUMMER ASSET MANAGEMENT COMPANY (110757)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,9/25/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""JULY 2001 CLIENT MET WITH BROKER AT NORTHERN TRUST BANK IN LAKE FOREST.  CUSTOMER WANTED TO BUY INSURANCE ANNUITY FOR DAUGHTER.  CUSTOMER ALLEGES SHE INSTRUCTED BROKER TO PURCHASE FIXED ANNUITY, SIMILAR TO EXISTING POLICY FOR OTHER DAUGHTER.  CUSTOMER ALSO ALLEGES SHE NEVER RECEIVED A COPY OF THE ANNUITY CONTRACT.  IN JULY 2002, CUSTOMER RECEIVED STATEMENT AND NOTICED ACCOUNT VALUE HAD DECREASED. CONCERNED, THE CUSTOMER CONTACTED THE BROKER WHO INDICATED THE ACCOUNT VALUE HAD DECREASED DUE TO MARKET FLUCTUATIONS.  CUSTOMER ALLEGES SHE REPEATEDLY ASKED IF ANNUITY WAS THE SAME AS OTHER DAUGHTERS.  THE BROKER BELIEVED IT WAS.  THE CLIENT WAS SOLD A VARIABLE ANNUITY."",
+  ""Damage Amount Requested"" : ""$30,000.00"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/13/2002 - 10/12/2012,WAYNE HUMMER INVESTMENTS L.L.C. (875)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,5/6/2002 - 11/14/2002,"NORTHERN TRUST SECURITIES, INC (7927)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,10/2/2000 - 11/21/2002,"VISION INVESTMENT SERVICES, INC. (46609)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,5/15/2000 - 10/3/2000,INVEST FINANCIAL CORPORATION (12984)
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,4/27/2000 - 11/14/2002,"NORTHERN TRUST SECURITIES, INC. (7927)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,1/1/2000 - 4/25/2000,"CHARTER ONE SECURITIES, INC. (13373)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,12/15/1995 - 1/1/2000,"INVESTMENT NETWORK, INC. (7685)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,10/28/1994 - 11/20/1995,"FORTH FINANCIAL SECURITIES, CORPORATION (14363)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,5/16/1994 - 10/24/1994,"MARKETING ONE SECURITIES, INC. (16611)"
+226606,2193040,LUIGI,[LOU  MANCUSI],MANCUSI,,,,,5/29/1992 - 5/31/1994,"INVESTMENT NETWORK, INC. (7685)"

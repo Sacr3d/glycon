@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,7068348,Daniel,[],Leathers,4/7/2008,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Agg Aslt - Victim Restrained"",
+    ""Disposition"" : ""Pled guilty"",
+    ""Amended Charges"" : ""Aggrevated Assault Class 1 Misdemeanor  Non Dangerous - Non Repetitive"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Assault - Touched to Injure"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Dismissed Due to Plea on other count"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Resisting Arrest"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Dismissed charge"",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""Aggravated Assault amended to misdemeanor with probation beginning 05/06/2008.    IF late fee is charged, please note, this is to ammend an incorrect date (clerical update) from the intial filing, not a late filing.""
+}",5/17/2019 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"

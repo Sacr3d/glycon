@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6312,5117930,JESUS,[],QUEZADA,4/20/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$29,678.95"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Original lien amount was $29,678.95. Payment of $19,000 on 5/15/17 brought balance down to $10,714.95. Installment agreement was accepted by the IRS on 5/18/17.""
+}",2/28/2017 - Current,"CROWN CAPITAL SECURITIES, L.P. (6312)"
+6312,5117930,JESUS,[],QUEZADA,8/15/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges Elder abuse  in regards to life insurance policy obtained by Representative"",
+  ""Settlement Amount"" : ""$36,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Representative adamantly denies allegation. Only met and spoke with individual once. Never proceeded to do any type of business/investment ever. Representative does not understand why he is even involved in this complaint""
+}",2/27/2017 - Current,"CROWN CAPITAL SECURITIES, L.P. (6312)"
+6312,5117930,JESUS,[],QUEZADA,,,,,1/2/2015 - 2/28/2017,REGAL INVESTMENT ADVISORS LLC (125004)
+6312,5117930,JESUS,[],QUEZADA,,,,,5/28/2014 - 12/31/2014,BRIGHT OWL INVESTMENT ADVISORS (168851)
+6312,5117930,JESUS,[],QUEZADA,,,,,5/27/2014 - 2/28/2017,"REGULUS ADVISORS, LLC (150631)"
+6312,5117930,JESUS,[],QUEZADA,,,,,4/2/2012 - 6/23/2014,"CENTAURUS FINANCIAL, INC. (30833)"
+6312,5117930,JESUS,[],QUEZADA,,,,,3/30/2012 - 6/23/2014,"CENTAURUS FINANCIAL, INC. (30833)"
+6312,5117930,JESUS,[],QUEZADA,,,,,5/2/2009 - 4/2/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+6312,5117930,JESUS,[],QUEZADA,,,,,12/15/2008 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"
+6312,5117930,JESUS,[],QUEZADA,,,,,9/7/2006 - 5/2/2009,"WAMU INVESTMENTS, INC. (599)"

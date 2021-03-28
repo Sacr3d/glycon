@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,7127844,Samuel,[],Warren,6/2/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Criminal Damage"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Endangerment"",
+    ""Disposition"" : ""2 counts fully dismissed, 1 count amended"",
+    ""Amended Charges"" : ""One endangerment charge was reduced to an \""undesignated offense\"", I completed 9 months of adult probation and successfully went a full year without any further charges or arrest. After meeting these stipulations and paying all fines and fees it was designated a misdemeanor charge."",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""I was charged with four initial felony charges as result of driving while intoxicated and getting into an accident when I was 19. I was originally charged with 4 felonies which were all dismissed. I plead to one misdemeanor DUI charge and an undesignated endangerment charge. After paying all fines and completing adult probation early the charge was officially designated a misdemeanor.""
+}",11/25/2019 - 3/10/2020,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

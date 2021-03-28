@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+155291,501417,JOHN,[],STEPP,3/14/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 34-77369, IA Release 40-4352, Investment Company Act Release 40-32027 / March 14, 2016: The Securities and Exchange Commission deems it appropriate and in the public interest that public administrative and cease-and-desist proceedings be, and hereby are, instituted against John D. Stepp (\""Stepp\"" or \""Respondent Stepp\"") pursuant to Sections 15(b)(6), 15B(c)(4), and 21C of the Exchange Act and Section 203(f) of the Advisers Act. \""). On the basis of this Order and Respondents' Offers, the Commission finds that these proceedings arise out of the breach of fiduciary duty by Respondent's firm, a municipal advisor, and its associated persons, including the Respondent. In April 2011, a municipal entity (hereinafter referred to as the \""City\"") hired Respondent's firm to serve as its municipal advisor. Throughout the remainder of 2011, the firm provided advice to the City on three separate municipal debt offerings totaling $14.68 million. The City relied on the firm to advise it on the terms of the offerings, including interest rates, the selection of underwriters, and underwriting fees. The firm assigned two of its associated persons to work with the City on behalf of the firm. They, in consultation with Stepp, arranged to have the City's offerings underwritten by a broker-dealer with which they including Stepp were still working as registered representatives (hereinafter referred to as the \""Broker-Dealer\""). Therefore, prior to and throughout the City's 2011 municipal debt offerings, employees of the firm - including the two assigned associated person and Stepp - provided both underwriting services and municipal advisor services for the offerings. In connection with the offerings, the firm collected $130,120 in municipal advisor fees and the Broker-Dealer collected $121,530 in underwriting fees, 90% of which it remitted to the firm. The firm then paid commissions to the two assigned associated person based on both the municipal advisor services and the underwriting services they performed. However, Respondent Stepp failed to disclose to the City: (1) the fact that certain of the firm's employees also worked for the Broker-Dealer; (2) the fact that certain of the firm's employees were performing both municipal advisor services and underwriting services for the Offerings; and (3) the fact that certain of the firm's employees had a conflict of interest because they were receiving a direct financial benefit from the underwriting services. As a result, Respondent breached his fiduciary duty to the City. Respondent willfully violated Section 15B(c)(1) of the Exchange Act and MSRB Rules G-17 and G-23 thereunder."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$17,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""see comment"",
+      ""Duration"" : ""Six months"",
+      ""Start Date"" : ""3/28/2016"",
+      ""End Date"" : ""9/27/2016""
+    } ]
+  } ]
+}",9/13/2011 - Current,"CENTRAL STATES CAPITAL MARKETS, LLC (155291)"
+155291,501417,JOHN,[],STEPP,,,,,1/2/2008 - 11/18/2011,"DEWAAY FINANCIAL NETWORK, LLC (30767)"
+155291,501417,JOHN,[],STEPP,,,,,8/31/2006 - 1/26/2007,GOLD CAPITAL MANAGEMENT INC. (7036)
+155291,501417,JOHN,[],STEPP,,,,,6/1/2006 - 1/2/2008,"M&I BROKERAGE SERVICES, INC. (16517)"
+155291,501417,JOHN,[],STEPP,,,,,4/19/2001 - 6/1/2006,GOLD CAPITAL MANAGEMENT INC. (7036)
+155291,501417,JOHN,[],STEPP,,,,,2/13/1996 - 4/19/2001,"GOLD CAPITAL MANAGEMENT, INC. (39880)"

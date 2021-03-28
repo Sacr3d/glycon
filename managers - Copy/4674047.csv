@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+125004,4674047,JAY,[],MABRY,9/17/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015046202001"",
+  ""DocketNumberAAO"" : ""2015046202001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Mabry failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""12/21/2015""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated September 17, 2015 and October 13, 2015, respectively, on December 21, 2015, Mabry is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",3/2/2011 - 2/19/2013,REGAL INVESTMENT ADVISORS LLC (125004)
+125004,4674047,JAY,[],MABRY,7/14/2006,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""THE REPRESENTATIVE WAS DISCHARGED WHEN, AS A RESULT OF THE HOME OFFICE'S INVESTIGATION OF A CUSTOMER COMPLAINT, IT WAS DETERMINED THAT THE REPRESENTATIVE ACCEPTED LIFE INSURANCE PREMIUM PAYMENTS FROM A CUSTOMER, DEPOSITED THESE PAYMENTS INTO HIS OWN PERSONAL CHECKING ACCOUNT, THEN PAID THE CUSTOMER'S INSURANCE PREMIUMS FROM FUNDS DRAWN FROM HIS PERSONAL ACCOUNT.  IT WAS ALSO DETERMINED THAT THE REPRESENTATIVE MADE ONE INSURANCE PREMIUM PAYMENT USING HIS OWN PERSONAL FUNDS.""
+}",5/18/2007 - 3/4/2009,"INTERSECURITIES, INC. (16164)"
+125004,4674047,JAY,[],MABRY,,,,,5/16/2007 - 3/4/2009,"INTERSECURITIES, INC. (16164)"
+125004,4674047,JAY,[],MABRY,,,,,2/25/2004 - 8/8/2006,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"
+125004,4674047,JAY,[],MABRY,,,,,12/17/2003 - 1/16/2004,"CHICAGO INVESTMENT GROUP, LLC (11853)"
+125004,4674047,JAY,[],MABRY,,,,,10/24/2003 - 11/25/2003,"A. G. EDWARDS & SONS, INC. (4)"
+125004,4674047,JAY,[],MABRY,,,,,9/17/2003 - 11/25/2003,"A. G. EDWARDS & SONS, INC. (4)"

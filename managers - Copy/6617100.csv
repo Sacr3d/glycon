@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6617100,Amy,[],Woodworth,1/1/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,334.79"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Agreed to monthly payment arrangement of $50.00 per month, and after six months, regular monthly payments. Creditor will be applying a credit of the exact amount.""
+}",3/14/2016 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6617100,Amy,[],Woodworth,7/1/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure""
+}",,
+17868,6617100,Amy,[],Woodworth,7/1/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",,

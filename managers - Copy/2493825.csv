@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+154957,2493825,JOSEPH,[JOE  GENGO],GENGO,1/30/2020,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$31,676.24"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The IRS tax lien is the result of taxes that the IRS alleges are overdue. As explained to the IRS, the issue was caused by a retirement plan rollover into my current IRA that was erroneously categorized as a distribution.  My accountant and I have disputed the IRS tax lien several times, communicating with the IRS verbally as well as hard copy letters and are continuing to work to resolve the matter.""
+}",2/14/2011 - Current,PIMCO INVESTMENTS LLC (154957)
+154957,2493825,JOSEPH,[JOE  GENGO],GENGO,,,,,12/17/2002 - 8/17/2007,ALLIANZ GLOBAL INVESTORS MANAGED ACCOUNTS LLC (108057)
+154957,2493825,JOSEPH,[JOE  GENGO],GENGO,,,,,1/22/1996 - 2/14/2011,ALLIANZ GLOBAL INVESTORS DISTRIBUTORS LLC (25567)
+154957,2493825,JOSEPH,[JOE  GENGO],GENGO,,,,,8/16/1994 - 2/6/1995,"CHATFIELD DEAN & CO., INC. (14714)"

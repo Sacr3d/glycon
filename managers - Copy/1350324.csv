@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,1350324,TIMOTHY,[],DANAHY,3/9/2020,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""The complainant alleges that he was unaware of the type of policy that he had purchased in 1991 and that had he been aware, he would have never purchased it."",
+  ""Damage Amount Requested"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The policy in question is part of a nationwide class action settlement (Varacallo v. MassMutual). Internal case #202036772.""
+}",4/9/1987 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,1350324,TIMOTHY,[],DANAHY,,,,,9/14/2015 - 12/31/2016,"MML INVESTORS SERVICES, LLC (10409)"
+10409,1350324,TIMOTHY,[],DANAHY,,,,,3/25/1985 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

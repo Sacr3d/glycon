@@ -1,66 +1,163 @@
 package glycon.object;
 
-public class FirmManager {
+import java.util.ArrayList;
+import java.util.List;
 
-	private String ind_source_id;
+import glycon.network.RequestURL;
+import glycon.parser.JSONParser;
 
-	private String ind_firstname;
+public abstract class FirmManager {
+
+	protected String firmFinraJSON;
+
+	protected String firmSecJSON;
+
+	protected String ind_source_id;
+
+	protected String ind_firstname;
 
 	private String ind_middlename;
 
-	private String ind_lastname;
+	protected String ind_lastname;
 
 	private String ind_bc_disclosure_fl;
 
-	private String[] ind_other_names;
+	protected String[] ind_other_names;
 
+	private List<Disclosure> discolsures = new ArrayList<>();
 
-	public String getInd_source_id() {
-		return ind_source_id;
+	protected List<CurrentEmployment> currentMangerEmployments = new ArrayList<>();
+
+	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
+
+	private String getJSON(char c) {
+		String managerJSON = "NULL";
+
+		int failCount = 0;
+
+		while (managerJSON.contentEquals("NULL") && failCount < 5) {
+
+			if (c == 'F') {
+
+				managerJSON = new RequestURL().getManagerFinraJSON(ind_source_id);
+
+			} else {
+
+				managerJSON = new RequestURL().getAdviserinfoJSON(ind_source_id);
+
+			}
+
+			failCount++;
+
+		}
+		return managerJSON;
 	}
 
-	public void setInd_source_id(String ind_source_id) {
-		this.ind_source_id = ind_source_id;
+	public String getMostRecentFirmId() {
+		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).firmId
+				: this.previousMangerEmployments.get(0).firmId;
 	}
 
-	public String getInd_firstname() {
-		return ind_firstname;
+	public void generateInfo() {
+
+		String managerFinraJSON = getJSON('F');
+
+		this.firmFinraJSON = managerFinraJSON;
+
+		String managerSecJSON = getJSON('C');
+
+		this.firmSecJSON = managerSecJSON;
+
+		JSONParser.parseManagerJSON(this);
+
 	}
 
-	public void setInd_firstname(String ind_firstname) {
-		this.ind_firstname = ind_firstname;
+	public List<CurrentEmployment> getCurrentMangerEmployments() {
+		return currentMangerEmployments;
 	}
 
-	public String getInd_middlename() {
-		return ind_middlename;
+	public List<Disclosure> getDiscolsures() {
+		return discolsures;
 	}
 
-	public void setInd_middlename(String ind_middlename) {
-		this.ind_middlename = ind_middlename;
-	}
-
-	public String getInd_lastname() {
-		return ind_lastname;
-	}
-
-	public void setInd_lastname(String ind_lastname) {
-		this.ind_lastname = ind_lastname;
+	public String getFirmFinraJSON() {
+		return firmFinraJSON;
 	}
 
 	public String getInd_bc_disclosure_fl() {
 		return ind_bc_disclosure_fl;
 	}
 
-	public void setInd_bc_disclosure_fl(String ind_bc_disclosure_fl) {
-		this.ind_bc_disclosure_fl = ind_bc_disclosure_fl;
+	public String getInd_firstname() {
+		return ind_firstname;
+	}
+
+	public String getInd_lastname() {
+		return ind_lastname;
+	}
+
+	public String getInd_middlename() {
+		return ind_middlename;
 	}
 
 	public String[] getInd_other_names() {
 		return ind_other_names;
 	}
 
+	public String getInd_source_id() {
+		return ind_source_id;
+	}
+
+	public List<PreviousEmployment> getPreviousMangerEmployments() {
+		return previousMangerEmployments;
+	}
+
+	public void setCurrentMangerEmployments(List<CurrentEmployment> currentMangerEmployments) {
+		this.currentMangerEmployments = currentMangerEmployments;
+	}
+
+	public void setDiscolsures(List<Disclosure> discolsures) {
+		this.discolsures = discolsures;
+	}
+
+	public void setFirmFinraJSON(String firmFinraJSON) {
+		this.firmFinraJSON = firmFinraJSON;
+	}
+
+	public void setInd_bc_disclosure_fl(String ind_bc_disclosure_fl) {
+		this.ind_bc_disclosure_fl = ind_bc_disclosure_fl;
+	}
+
+	public void setInd_firstname(String ind_firstname) {
+		this.ind_firstname = ind_firstname;
+	}
+
+	public void setInd_lastname(String ind_lastname) {
+		this.ind_lastname = ind_lastname;
+	}
+
+	public void setInd_middlename(String ind_middlename) {
+		this.ind_middlename = ind_middlename;
+	}
+
 	public void setInd_other_names(String[] ind_other_names) {
 		this.ind_other_names = ind_other_names;
+	}
+
+	public void setInd_source_id(String ind_source_id) {
+		this.ind_source_id = ind_source_id;
+	}
+
+	public void setPreviousMangerEmployments(List<PreviousEmployment> previousMangerEmployments) {
+		this.previousMangerEmployments = previousMangerEmployments;
+	}
+
+	public String getFirmSecJSON() {
+		return firmSecJSON;
+	}
+
+	public void setFirmSecJSON(String firmSecJSON) {
+		this.firmSecJSON = firmSecJSON;
 	}
 
 }

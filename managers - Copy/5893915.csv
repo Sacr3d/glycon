@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,5893915,STEVEN,"[STEVEN G BENTLEY, STEVEN  BENTLEY]",BENTLEY,3/11/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client stated that he was not made aware that he had to pay taxes on distributions taken from his IRA. We discussed this and client didn't want to have tax withheld as he had just retired."",
+  ""Damage Amount Requested"" : ""$8,100.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/13/2019 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5893915,STEVEN,"[STEVEN G BENTLEY, STEVEN  BENTLEY]",BENTLEY,9/15/2016,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy""
+}",11/12/2019 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5893915,STEVEN,"[STEVEN G BENTLEY, STEVEN  BENTLEY]",BENTLEY,,,,,4/20/2015 - 9/26/2019,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42803,5893915,STEVEN,"[STEVEN G BENTLEY, STEVEN  BENTLEY]",BENTLEY,,,,,4/1/2015 - 9/26/2019,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42803,5893915,STEVEN,"[STEVEN G BENTLEY, STEVEN  BENTLEY]",BENTLEY,,,,,4/6/2011 - 4/26/2013,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"

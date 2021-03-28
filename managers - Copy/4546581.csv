@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,4/30/2001,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Ohio department of insurance"",
+  ""Allegations"" : ""I was convicted of misdemeanor petit theft for shoplifting a $19 clothing tie in 1991"",
+  ""Resolution"" : ""paid a fine of $2000"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Had to pay a fine of $2000"",
+  ""Broker Comment"" : ""In 1991, I applied for an insurance license and did not disclose a misdemeanor petit theft charge in my background.  There was a hearing and a fine issued. I paid it, passed the exam, and have been licensed since 2001""
+}",1/21/2020 - Current,"VALMARK ADVISERS, INC. (108050)"
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,1/8/1991,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1 COUNT OF - SHOPLIFTING-34-2300 MISDEMEANOR PLEA - GUILTY NOT INVESTMENT RELATED "",
+    ""Charge Type"" : ""MISDEMEANOR"",
+    ""Disposition"" : ""FINE $100, 180 DAYS, SUSP/$800, 180 DAYS PROB/2 YEARS UNSUPERVISED""
+  } ]
+}",1/16/2020 - Current,"VALMARK SECURITIES, INC. (31243)"
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,1/28/2010 - 10/29/2010,GENWORTH FINANCIAL SECURITIES CORPORATION (10358)
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,4/7/2006 - 11/24/2008,THE HUNTINGTON INVESTMENT COMPANY (16986)
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,1/31/2006 - 11/24/2008,THE HUNTINGTON INVESTMENT COMPANY (16986)
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,4/12/2005 - 1/11/2006,"FIFTH THIRD SECURITIES, INC. (628)"
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,1/24/2003 - 3/31/2005,"AXA ADVISORS, LLC (6627)"
+108050,4546581,Jeffrey,"[JEFF KENNETH GARNICA, JEFFERY KENNETH GARNICA]",Garnica,,,,,8/23/2002 - 3/31/2005,"AXA ADVISORS, LLC (6627)"

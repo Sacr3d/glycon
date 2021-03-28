@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,7/16/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Florida Office of Financial Regulation"",
+  ""Allegations"" : ""Conducted investment advisory business from offices within this state without the benefit of lawful registration."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""Mr. Sutton consents, without admitting or denying the findings, and solely for the purpose of this proceeding, prior to a hearing and without an adjudication of any issue of law or fact, to the findings of the Office.  The Office found that due to an administrative error, Raymond James did not submit an application for Respondent for registration as an associated person of a federal advisor when he relocated to Florida from Tennessee in June 2017.  As a result, David Anderson Sutton engaged in investment advisory business from offices within this state without the benefit of lawful registration""
+}",12/9/2014 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,7/2/2002 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,9/12/2012 - 3/14/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,4/23/2001 - 7/9/2002,WILLIAM BLAIR & COMPANY L.L.C. (1252)
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,9/17/1999 - 3/15/2001,U.S. BANCORP PIPER JAFFRAY INC. (665)
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,9/11/1998 - 9/30/1999,"JOHN NUVEEN & CO., INCORPORATED (469)"
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,8/30/1990 - 7/21/1998,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,1700740,DAVID,[DAVID ANDERSON SOTTON],SUTTON,,,,,12/20/1988 - 3/14/1990,DREXEL BURNHAM LAMBERT INCORPORATED (7323)

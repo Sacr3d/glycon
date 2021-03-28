@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42132,5748560,JAMES,"[JAMES  CLAY, Jimmy  Clay]",CLAY,10/4/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014039775501"",
+  ""DocketNumberAAO"" : ""2014039775501"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Clay was named a respondent in a FINRA complaint alleging that he engaged in an undisclosed and unapproved outside business activity involving the acquisition and management of 49 rental properties located in Clarksville, Tennessee. The complaint alleges that Clay's real estate venture was the byproduct of his relationship with a then 86-year old customer of his member firm. The customer and Clay entered into an agreement whereby the customer would sell Clay the rental properties for $1 million, finance Clay's purchase, and make an additional $500,000 loan to Clay for repairs and upgrades. In furtherance of his undisclosed outside business, Clay established a company and collected and deposited into his personal bank account nearly $6,000 in rent proceeds from the Rental Properties' tenants. In addition, in order to fund the $500,000 loan, Clay liquidated nearly $500,000 worth of securities held in customer's firm advisory account. Ultimately, the customer's son successfully prevented Clay from receiving the proposed loan and complained to the firm about Clay's acquisition of the rental properties. The complaint also alleges that during the firm's investigation into the complaint, Clay repeatedly lied to a firm supervisor claiming, among other things, that he was not personally involved in any outside business activity, but merely facilitating his sister's purchase of the rental properties. The complaint further alleges that Clay repeated these misrepresentations concerning his purchase of the rental properties to FINRA in both written responses to requests for information and on-the-record interviews."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""11/1/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Hearing Panel decision rendered September 14, 2018 wherein respondent is barred from association with any FINRA member in any capacity and ordered to pay the costs of the hearing in the amount of $5,483.79. The sanctions are based on findings that Clay engaged in outside business activities without providing prior written notice to his member firm. The findings stated that Clay used his relationship with an elderly customer to buy real estate from the customer under terms that benefited only himself. Clay drafted and signed a hand-written agreement to purchase the customer's rental property for $1 million, with the customer financing the entire amount. Under the agreement, Clay also borrowed $500,000 from the customer to fund Clay's down payment on the property and improvements to it. Clay established a limited liability company to manage the rental property and began collecting rent. Clay never provided written notice of this outside business to his firm. The findings also stated that after the customer's family complained to the firm, Clay falsely told the firm his sister purchased the rental property, and he was not personally involved in the purchase or subsequent management of the property. The findings also included that Clay provided false information to FINRA in response to requests for information and documents. This information was pivotal to FINRA's investigation, and Clay's misrepresentations were designed to conceal his misconduct and divert the investigation away from him. The decision became final on November 1, 2018.""
+}",2/4/2014 - 7/7/2017,"CUSO FINANCIAL SERVICES, L.P. (42132)"
+42132,5748560,JAMES,"[JAMES  CLAY, Jimmy  Clay]",CLAY,12/16/2013,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. BANCORP INVESTMENTS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""VIOLATION OF CODE OF ETHICS BY ENTERING INTO A PERSONAL TRANSACTION WITH A KNOWN USBI CUSTOMER."",
+  ""Broker Comment"" : ""I HAD ATTEMPTED TO PROVIDE ASSISTANCE TO A CLIENT WHO WAS SELLING A RENTAL PROPERTY BY INTRODUCING HIM TO MY SISTER, WHO HAD AN INTEREST IN PURCHASING A RENTAL PROPERTY.  ULTIMATELY, THE TRANSACTION DID NOT TAKE PLACE. I RECEIVED NO COMPENSATION IN ANY FORM FROM THIS EVENT, NOR HAD I ANTICIPATED ANY FURTHER INVOLVEMENT IN THE BUSINESS OR TRANSACTION - I WAS ONLY MAKING THE INTRODUCTION BETWEEN THE TWO PARTIES.""
+}",8/24/2012 - 1/13/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+42132,5748560,JAMES,"[JAMES  CLAY, Jimmy  Clay]",CLAY,,,,,3/9/2010 - 8/27/2012,EDWARD JONES (250)
+42132,5748560,JAMES,"[JAMES  CLAY, Jimmy  Clay]",CLAY,,,,,2/19/2010 - 8/27/2012,EDWARD JONES (250)

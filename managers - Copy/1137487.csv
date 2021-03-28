@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3487,1137487,RUPERT,[],BROWN,1/3/2008,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""FLORIDA DEPARTMENT OF FINANCIAL SERVICES"",
+  ""Allegations"" : ""DID NOT COMPLETE THE APPROPRIATE NUMBER OF CE HOURS"",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""$250 FINE, PAID ON 02/14/2008""
+}",10/18/2018 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+3487,1137487,RUPERT,[],BROWN,,,,,1/17/2000 - Current,STATE FARM VP MANAGEMENT CORP. (43036)

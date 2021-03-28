@@ -1,0 +1,56 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+28784,2089974,ROBERT,[],HEATH,8/12/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015046946301"",
+  ""DocketNumberAAO"" : ""2015046946301"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Heath consented to the sanctions and to the entry of findings that while he was registered with a member firm, he borrowed money from a customer when the firm's procedures prohibited its registered representatives from borrowing from customers under any circumstances. The findings stated that the loan was undocumented, and Heath would make monthly payments to the customer until the loan was repaid. Heath has not repaid the customer any principal since taking the loan, and he has made only one monthly interest payment to the customer, but has not made any additional interest payments."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Restitution"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""three months"",
+      ""Start Date"" : ""8/15/2016"",
+      ""End Date"" : ""11/14/2016""
+    } ]
+  } ]
+}",12/3/2012 - 9/11/2015,"PRESIDENTIAL BROKERAGE, INC. (28784)"
+28784,2089974,ROBERT,[],HEATH,8/13/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""PRESIDENTIAL BROKERAGE, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""THE FIRM WAS CONTACTED BY AN INDIVIDUAL SEEKING ASSISTANCE IN RECOVERING FUNDS PLACED IN AN OUTSIDE INVESTMENT THROUGH SOLICITATION BY THE REP WHILE AT A PRIOR FIRM. NO EVIDENCE OR DOCUMENTATION SURFACED SUPPORTING THE EXISTENCE OF THE INVESTMENT OR THAT THE INVESTMENT WAS SUBSEQUENTLY MADE. IN JULY 2012 A CHECK FROM THE CUSTOMER IN THE AMOUNT OF $7500 WAS DEPOSITED INTO A COPRORATE ACCOUNT UNDER THE CONTROL OF THE REGISTERED REPRESENTATIVE AND WAS SUBSEQUENTLY TRANSFERRED OVER A PERIOD OF SEVERAL DAYS TO HIS PERSONAL BANK ACCOUNT CONSTITUTING A POSSIBLE CONVERSION OF CUSTOMER FUNDS.""
+}",12/17/2008 - 12/4/2012,"AXA ADVISORS, LLC (6627)"
+28784,2089974,ROBERT,[],HEATH,10/28/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT'S TRANSFER REQUEST WAS NOT SUBMITTED FOR PROCESSING AFTER BEING GIVEN TO ADVISOR."",
+  ""Damage Amount Requested"" : ""$7,878.00"",
+  ""Settlement Amount"" : ""$7,878.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ADVISOR HAD TERMINATED PRIOR TO RESOLUTION OF COMPLAINT.  LOSSES WERE REINSTATED DUE TO DELAY IN SUBMISSION OF TRANSFER REQUEST.""
+}",3/24/1998 - 12/22/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+28784,2089974,ROBERT,[],HEATH,6/17/1976,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""2 COUNTS MISDEMEANOR PLEA OF GUILTY CHARGE - - THEFT UNDER $200"",
+    ""Charge Type"" : ""MISDEMEANOR"",
+    ""Disposition"" : ""CONVICTED 06/17/1976 A SMALL FINE WAS PAID""
+  } ],
+  ""Broker Comment"" : ""I MOVED OUT OF AN APARTMENT SHARED WITH SOMEONE ELSE.  I TOOK A BRASS PLANTER THAT DID NOT BELONG TO ME FOR NON PAYMENT OF A DEBT.  I WAS CHARGED WITH THEFT LESS THAN $200.  I RETURNED THE PLANTER AND PAID A FINE PLUS COURT COST.   THE JUDGE TOLD ME THAT HE CONSIDERED THIS MORE OF A DISAGREEMENT THAN A THEFT AND SAID THIS WOULD NOT BE RECORDED AS AN ADMISSION OFF GUILT.""
+}",3/17/1998 - 12/22/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+28784,2089974,ROBERT,[],HEATH,10/27/1972,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1.   1 - FELONY - NO BILLED -POSSESSION OF MARIJUANA"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""CHARGE WAS POSSESSION OF MARIJUANA WHICH RESULTED IN A DISMISSAL ON 10/27/1972.""
+  } ]
+}",9/21/1990 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,7/15/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014042580701"",
+  ""DocketNumberAAO"" : ""2014042580701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Gutierrez consented to the sanctions and to the entry of findings that he failed to provide prior written notice to his member firm of his outside business activity with a mailbox service, his reasonable expectation of compensation from the outside business activity, or of his actual receipt of compensation from the outside business activity. The findings stated that prior to Gutierrez joining his firm, he was the managing member of a mail service that provided customers domiciled outside the United States with a private mail box. Just prior to joining the firm, Gutierrez amended the Articles of Organization of the mail service to remove himself as a managing member. However, while he was employed with the firm, Gutierrez remained involved with the mail service, acted as the custodian of its bank account and was paid $25,000 in compensation."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""20 business days"",
+      ""Start Date"" : ""7/18/2016"",
+      ""End Date"" : ""8/12/2016""
+    } ]
+  } ]
+}",11/13/2013 - 9/23/2014,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,11/7/2013 - 9/23/2014,"WELLS FARGO ADVISORS, LLC (19616)"
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,4/30/2012 - 12/12/2012,EATON VANCE MANAGEMENT (104859)
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,4/24/2012 - 12/12/2012,"EATON VANCE DISTRIBUTORS, INC. (37731)"
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,11/30/2011 - 4/9/2012,SCHRODER FUND ADVISORS LLC (24129)
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,8/28/2008 - 12/1/2011,EATON VANCE MANAGEMENT (104859)
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,5/21/2003 - 12/1/2011,"EATON VANCE DISTRIBUTORS, INC. (37731)"
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,1/19/1995 - 7/13/1999,"IAI SECURITIES, INC. (27917)"
+19616,2246876,JORGE,"[JORGE ENRIQUE GUTIERREZ JR, JORGE ENRIQUE GUTIERREZ]",GUTIERREZ GOMEZ,,,,,8/19/1992 - 2/26/1993,"W. S. GRIFFITH & CO., INC. (10410)"

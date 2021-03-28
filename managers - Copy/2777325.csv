@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,9/8/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015044038001"",
+  ""DocketNumberAAO"" : ""2015044038001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Wooden failed to respond to FINRA request for information."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""12/11/2015""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated September 8, 2015 and October 2, 2015, respectively, on December 11, 2015, Wooden is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",6/5/2012 - 12/26/2014,EDWARD JONES (250)
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,6/1/2012 - 1/9/2015,EDWARD JONES (250)
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,7/23/2010 - 6/5/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,7/14/2010 - 6/5/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,9/26/2007 - 6/22/2010,"AMERICAN FUNDS DISTRIBUTORS, INC. (6247)"
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,3/8/2006 - 9/12/2006,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,3/7/2006 - 9/12/2006,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,6/13/2005 - 3/1/2006,"AIG SUNAMERICA CAPITAL SERVICES, INC. (13158)"
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,4/8/2004 - 6/22/2005,CITIGROUP GLOBAL MARKETS INC. (7059)
+250,2777325,KENNETH,[KEN  WOODEN],WOODEN,,,,,8/27/1996 - 6/22/2005,CITIGROUP GLOBAL MARKETS INC. (7059)

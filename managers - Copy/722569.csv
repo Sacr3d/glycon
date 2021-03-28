@@ -1,0 +1,139 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+39262,722569,DENNIS,[],MEHRINGER,2/14/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Unsuitability; Breach of Fiduciary Duty"",
+  ""Damage Amount Requested"" : ""$3,084,342.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/3/2015 - 5/7/2018,WESTERN INTERNATIONAL SECURITIES (39262)
+39262,722569,DENNIS,[],MEHRINGER,10/18/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019061994701"",
+  ""DocketNumberAAO"" : ""2019061994701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Mehringer consented to the sanction and to the entry of findings that he refused to appear for on-the-record testimony requested by FINRA during the course of an examination involving possible unsuitable trading and other misconduct."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""10/18/2019""
+    } ]
+  } ]
+}",3/16/2009 - 5/7/2018,"WESTERN INTERNATIONAL SECURITIES, INC. (39262)"
+39262,722569,DENNIS,[],MEHRINGER,5/22/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitability; Misrepresentation & Fraud; Unauthorized Trading; Breach of Fiduciary Duty"",
+  ""Damage Amount Requested"" : ""$433,079.00"",
+  ""Settlement Amount"" : ""$225,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-01253""
+}",5/11/2004 - 3/18/2009,"FIRST ALLIED SECURITIES, INC. (32444)"
+39262,722569,DENNIS,[],MEHRINGER,11/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitability; Breach of Fiduciary Duty"",
+  ""Damage Amount Requested"" : ""$1,761,558.00"",
+  ""Settlement Amount"" : ""$1,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-00667""
+}",3/28/2002 - 6/21/2004,FSC SECURITIES CORPORATION (7461)
+39262,722569,DENNIS,[],MEHRINGER,2/22/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,031.08"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",8/9/2001 - 6/21/2004,FSC SECURITIES CORPORATION (7461)
+39262,722569,DENNIS,[],MEHRINGER,5/17/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer unhappy with performance of fixed income investment"",
+  ""Damage Amount Requested"" : ""$62,250.00"",
+  ""Settlement Amount"" : ""$62,250.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The investment was suitable for the customer.  The customer wanted higher returns than the customer was receiving from common stocks, and was fully advised of the possible risks of the investment.  As with all investments, performance cannot be guaranteed.""
+}",10/6/1995 - 9/4/2001,"WALNUT STREET SECURITIES, INC. (15840)"
+39262,722569,DENNIS,[],MEHRINGER,3/10/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Unsuitable recommendations"",
+  ""Damage Amount Requested"" : ""$231,688.55"",
+  ""Settlement Amount"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/7/1994 - 10/24/1994,"UNITED PACIFIC SECURITIES, INC. (21986)"
+39262,722569,DENNIS,[],MEHRINGER,12/16/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014041868001"",
+  ""DocketNumberAAO"" : ""2014041868001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Mehringer was named a respondent in a FINRA complaint alleging that he made unsuitable recommendations that caused a customer to engage in excessively expensive short-term trading and intra-day switching of mutual fund Class A shares. The complaint alleges that Mehringer repeatedly recommended, and caused the customer to engage in, short-term purchases and sales of 84 mutual fund Class A positions (involving the sale of shares within a year of purchasing them) in five of the customer's accounts. In 47 of the 84 purchase transactions, the customer paid front-end sales loads ranging from four to five percent. All but 17 of these 84 mutual fund positions were held for less than six months, and approximately 35 of them were held for less than three months. Five were held for less than one week. Mehringer received $169,735 in commissions from the transactions. Mehringer recommended the short-term mutual fund trading and the intra-day mutual fund switching alleged above without reasonable grounds to believe that the recommendations were suitable for the customer in light of the frequency and nature of the transactions, including the associated sales loads, based on the customer's investment objectives. Given the long-term nature of Class A mutual fund share investments, along with the sales loads incurred in connection with frequent trading and switching between the relevant mutual funds and mutual fund families, Mehringer's short-term trading and switching was also unsuitable for any customer. The complaint also alleges that Mehringer exercised discretion in the same customer's accounts without obtaining the customer's written authorization and his member firm's approval to do so. The complaint further alleges that Mehringer failed to fulfill his fiduciary obligations to a charitable trust he had helped create when, as trustee, he violated the purported charitable purposes of the trust. Mehringer also endangered the favorable tax treatment for donations to the trust, temporarily held trust assets in his own name, and made a risky investment of trust assets without conducting due diligence or taking reasonable steps to protect those assets, and without putting the invested funds into escrow or documenting the investment. Generally, Mehringer breached his fiduciary obligation to the trust by establishing it in such a manner as to give himself potential ownership of the trust's assets and by failing to ensure that it would fulfill its purported charitable purposes of funding scholarships and educational expenses for underprivileged children at private schools. In addition, the complaint alleges that Mehringer provided false information to his firm when questioned about the use of assets from the trust. Moreover, the complaint alleges that Mehringer settled a customer complaint without providing notice to his firm. Particularly, Mehringer did not disclose either the complaint or the settlement to his firm's compliance department or to his supervisor. Furthermore, the complaint alleges that Mehringer submitted false responses to his firm in an annual compliance questionnaire about the complaint and settlement."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/15/2020""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$108,131.21""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$8,218.90""
+    } ]
+  } ],
+  ""Sanctions"" : ""prejudgment interest on disgorgement"",
+  ""Regulator Statement"" : ""Extended Hearing Panel decision rendered April 30, 2018. The sanctions were based on findings that Mehringer made unsuitable recommendations that resulted in excessive trading in mutual fund Class A shares in a customer's accounts. The findings stated that Mehringer solicited all of the purchase and sale transactions in Class A shares. Mehringer engaged in a pattern of buying and selling that involved many transactions in Class A shares. There were so many transactions in Class A shares that it would have been impossible for the customer to keep track of them. Mehringer held the shares for short periods of time before selling them. That he frequently broke up the buy and sell transactions constitutes a pattern demonstrating that his true objective was to maximize commissions. The findings also stated that Mehringer exercised discretion without authority by executing unauthorized trades in Class A shares in the customer's accounts. Mehringer evaded supervision by failing to obtain written permission from the customer and his member firm to exercise discretion before making trades in the accounts. The findings also included that Mehringer breached his fiduciary obligations by failing to organize and operate a charitable trust as a tax-exempt charity, and ensure that its funds were used for tax-exempt purposes and not primarily to benefit a client's family. Because the entity was not in fact a charitable trust, the Hearing Panel declined to find violations as to the additional allegations that Mehringer breached his fiduciary obligations to the trust by commingling trust money with his own money when he invested in the a property and investing trust funds recklessly in a nursing home. FINRA found that Mehringer made false and misleading statements to his firm about his use of trust funds, failed to disclose a customer complaint and his settlement with the customer, and falsely told his firm he had not settled a customer complaint. On May 23, 2018, Mehringer appealed the decision to the National Adjudicatory Council (NAC).   NAC decision rendered June 15, 2020 wherein the findings made are modified and the sanctions imposed by the Hearing Panel are affirmed in relevant part. The NAC dismissed the third cause of action related to Mehringer's breach of his fiduciary obligations to the trust.  The decision is final as of July 20, 2020."",
+  ""Broker Comment"" : ""Extended Hearing Panel decision rendered April 30, 2018 wherein Mehringer was fined $50,000, barred from association with any FINRA member in all capacities, ordered to disgorge $108,131.21, plus prejudgment interest, and ordered to pay costs of $6,568.43. In light of the bar, the Panel did not impose additional sanctions. The sanctions were based on findings that Mehringer made unsuitable recommendations that resulted in excessive trading in mutual fund Class A shares in a customer's accounts. The findings stated that Mehringer solicited all of the purchase and sale transactions in Class A shares. Mehringer engaged in a pattern of buying and selling that involved many transactions in Class A shares. There were so many transactions in Class A shares that it would have been impossible for the customer to keep track of them. Mehringer held the shares for short periods of time before selling them. That he frequently broke up the buy and sell transactions constitutes a pattern demonstrating that his true objective was to maximize commissions. The findings also stated that Mehringer exercised discretion without authority by executing unauthorized trades in Class A shares in the customer's accounts. Mehringer evaded supervision by failing to obtain written permission from the customer and his member firm to exercise discretion before making trades in the accounts. The findings also included that Mehringer breached his fiduciary obligations by failing to organize and operate a charitable trust as a tax-exempt charity, and ensure that its funds were used for tax-exempt purposes and not primarily to benefit a client's family. Because the entity was not in fact a charitable trust, the Hearing Panel declined to find violations as to the additional allegations that Mehringer breached his fiduciary obligations to the trust by commingling trust money with his own money when he invested in the a property and investing trust funds recklessly in a nursing home. FINRA found that Mehringer made false and misleading statements to his firm about his use of trust funds, failed to disclose a customer complaint and his settlement with the customer, and falsely told his firm he had not settled a customer complaint. If no further action is taken, the decision will become final on June 18, 2018.""
+}",10/19/1992 - 1/19/1994,NEW ENGLAND SECURITIES (615)
+39262,722569,DENNIS,[],MEHRINGER,7/24/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MATTER WAS SETTLED BETWEEN REP & CLIENT FOR A TRADE NOT EXECUTED ON 05/20/2014"",
+  ""Damage Amount Requested"" : ""$47,000.00"",
+  ""Settlement Amount"" : ""$47,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/26/1991 - 2/11/1992,U.S. SECURITIES CLEARING CORP. (15403)
+39262,722569,DENNIS,[],MEHRINGER,5/22/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""EXCESSIVE & IMPROPER COMMISSION CHARGES IN ADDITION TO UNAUTHORIZED TRADING during the period 2010 through 2013"",
+  ""Damage Amount Requested"" : ""$165,000.00"",
+  ""Settlement Amount"" : ""$290,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""14-02643""
+}",6/6/1990 - 2/8/1996,"EQUICO SECURITIES, INC. (6627)"
+39262,722569,DENNIS,[],MEHRINGER,8/6/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""OVER CONCENTRATION WITH INADEQUATE PUT COVERAGE"",
+  ""Damage Amount Requested"" : ""$140,000.00"",
+  ""Settlement Amount"" : ""$81,296.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/6/1990 - 2/8/1996,THE EQUITABLE LIFE ASSURANCE SOCIETY OF THE UNITED STATES (4039)
+39262,722569,DENNIS,[],MEHRINGER,1/5/2009,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT IS ALLEGING THAT REGISTERED REPRESENTATIVE, ALONG WITH ANOTHER INSURANCE AGENT, MISLEAD HER REGARDING THE STATUS OF A RIDER GUARANTEE ON HER ANNUITY CONTRACT."",
+  ""Damage Amount Requested"" : ""$35,535.36"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/16/1987 - 3/6/1989,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+39262,722569,DENNIS,[],MEHRINGER,10/17/2008,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""IN 2005 THE FC HAD ADVISED THE CUSTOMER OF THE ADVANTAGES OF A DEFINED BENEFIT PLAN.  THE CUSTOMER ALLEGES THAT THE FC GAVE THEM ERRONEOUS ADVICE CONCERNING LOANS MADE FROM THE DBP AND PURCHAE OF REAL PROPERTY."",
+  ""Damages Granted"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/7/1984 - 5/20/1987,PML SECURITIES COMPANY (4082)
+39262,722569,DENNIS,[],MEHRINGER,4/24/2007,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT CLAIMS HE DID NOT SIGN THE OPTION AGREEMENT, SIGNED 12/19/2006, TO EFFECT PURCHASE OF REVERSE CONVERTIBLE NOTES."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/2/1981 - 10/1/1984,NEL EQUITY SERVICES CORPORATION (615)
+39262,722569,DENNIS,[],MEHRINGER,10/4/2006,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""[CUSTOMER] ALLEGED THAT SHE WAS NOT INFORMED OF HOW THE STRUCTURED PRODUCTS HELD IN HER DEFINED BENEFIT PLAN COULD POTENTIALLY LOSE VALUE BECAUSE OF THE STOCK PUT OPTION ASSOCIATED WITH THEM.  SHE BEGAN FORMALLY QUESTIONING THIS ACTIVITY IN HER LETTER DATED 8/28/06.  IN HER LETTER OF 10/4/2006 SHE REQUESTS REIMBURSEMENT OF $7402.88 FOR \""DEFICIENCIES\"" IN HER ACCOUNT."",
+  ""Damage Amount Requested"" : ""$7,402.88"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

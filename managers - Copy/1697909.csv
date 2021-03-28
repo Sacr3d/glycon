@@ -1,0 +1,28 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,1/17/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The complainant alleges that in or around 2013, the rep misrepresented facts that led the complainant to believe that he could roll over his variable life insurance policy via a 1035 exchange into a whole life insurance policy, which wouldn't require him to pay taxes or take out a loan on the new policy."",
+  ""Settlement Amount"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/23/2014 - 9/6/2016,"FARMERS FINANCIAL SOLUTIONS, LLC (103863)"
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,3/28/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT SHE WAS ASSURED THAT IF SHE NEEDED TO ACCESS HER MONEY THAT SHE WOULD BE ABLE TO GET HER MONEY AT ANY TIME."",
+  ""Damage Amount Requested"" : ""$104,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ON 5/13/2008 THE FIRM HAS DETERMINED THAT THERE IS NO BASIS TO THE ALLEGATIONS.""
+}",8/6/1997 - 12/31/2013,"MML INVESTORS SERVICES, LLC (10409)"
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,9/30/1999,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THE REPRESENTATIVE FAILED TO PREPARE AND/OR FORWARD TO GREAT WEST THE CHANGE OF BENEFICIARY FORMS AS REQUESTED BY [THIRD PARTY] NAMING [CUSTOMER] AS THE BENEFICIARY OF ANY AND ALL THE DEATH BENEFITS PAYABLE UPON THE DEATH OF [THIRD PARTY] ON OR ABOUT JANUARY 1998."",
+  ""Damage Amount Requested"" : ""$77,184.24"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""DEFENDENTS DISMISSED WITH PREJUDICE.""
+}",11/29/1996 - 4/29/1997,"BENEFITSCORP EQUITIES, INC. (13109)"
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,,,,,12/21/1992 - 11/29/1996,THE GREAT-WEST LIFE ASSURANCE COMPANY (5927)
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,,,,,7/21/1987 - 7/2/1997,"MML INVESTORS SERVICES, INC. (10409)"
+103863,1697909,DANIEL,[DAN  MONTOYA],MONTOYA,,,,,7/21/1987 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,261180,GARY,[GARY PHILLIP JONES],JONES,5/4/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""The customer alleged that the representative was negligent in following procedures designed to prevent theft by accepting transfers of funds and beneficiary changes without proper authorization."",
+  ""Damage Amount Requested"" : ""$5,000.01"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Internal Case #202037231""
+}",4/1/2003 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,261180,GARY,[GARY PHILLIP JONES],JONES,12/21/2012,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",10/7/1982 - Current,"MML INVESTORS SERVICES, LLC (10409)"
+10409,261180,GARY,[GARY PHILLIP JONES],JONES,,,,,11/2/1981 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)
+10409,261180,GARY,[GARY PHILLIP JONES],JONES,,,,,5/14/1973 - 2/10/1984,NEW YORK LIFE VARIABLE CONTRACTS CORPORATION (5167)

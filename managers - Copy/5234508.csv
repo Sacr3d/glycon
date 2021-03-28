@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2881,5234508,DANIEL,[DANNY AARON NEWMAN],NEWMAN,2/1/2019,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",2/20/2013 - Current,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"
+2881,5234508,DANIEL,[DANNY AARON NEWMAN],NEWMAN,2/1/2019,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Compromise settled with a final payment of $13,323.00 on 10/31/2019.""
+}",3/19/2012 - 1/31/2013,KEY INVESTMENT SERVICES LLC (136300)
+2881,5234508,DANIEL,[DANNY AARON NEWMAN],NEWMAN,3/3/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Monthly payments""
+}",6/1/2007 - 3/21/2012,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+2881,5234508,DANIEL,[DANNY AARON NEWMAN],NEWMAN,3/2/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Resolved - Payments Completed""
+}",5/1/2007 - 3/21/2012,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

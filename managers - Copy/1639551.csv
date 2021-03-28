@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,11/9/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Washington"",
+  ""Allegations"" : ""S-18-2404-18-CO01 - Bayhill Advisors, Inc. and Michael Tumer - Consent Order  On November 9, 2018, the Securities Division entered into a Consent Order with Respondents Bayhill Advisors, Inc. and Michael Tumer. In the Consent Order, the Securities Division alleged that the Respondents violated the Securities Act by acting as an investment adviser and/or an investment adviser representative while not registered to do so. Without admitting or denying the Securities Division's allegations, Respondents agreed to cease and desist from violations of RCW 21.20.040, the registration provisions of the Securities Act. Respondents Bayhill Advisors, Inc. and Michael Tumer agreed to pay a fine of $20,000. Respondents Bayhill Advisors, Inc. and Michael Tumer waived their right to a hearing and judicial review of the matter."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$20,000.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""Fines""
+}",8/8/2000 - Current,"BAYHILL ADVISORS, INC. (127419)"
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,1/5/2006 - 10/15/2008,"COMPREHENSIVE ASSET MANAGEMENT AND SERVICING, INC. (43814)"
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,1/29/2003 - 1/5/2004,INVESTMENT SECURITY CORPORATION (47536)
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,1/2/2001 - 5/16/2001,"NORTHEAST SECURITIES, INC. (25996)"
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,4/12/2000 - 10/19/2000,"SUNAMERICA SECURITIES, INC. (20068)"
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,7/1/1996 - 3/31/2000,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,8/12/1994 - 7/1/1996,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,5/31/1991 - 1/1/1994,FINANCIAL WEST GROUP (16668)
+127419,1639551,MICHAEL,"[MUSTAFA  TUMER, SAVAS MUSTAFA TUMER]",TUMER,,,,,3/25/1987 - 5/22/1991,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)

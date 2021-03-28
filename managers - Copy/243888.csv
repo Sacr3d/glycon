@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,243888,HENRY,[],HERMANN,3/25/1983,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""SF-967"",
+  ""DocketNumberAAO"" : ""967"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,328.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",5/3/1999 - 8/18/2003,PARK AVENUE SECURITIES LLC (46173)
+46173,243888,HENRY,[],HERMANN,,,,,2/8/1974 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,243888,HENRY,[],HERMANN,,,,,9/23/1970 - 2/8/1974,"GLICOA ASSOCIATES, INC. (1947)"

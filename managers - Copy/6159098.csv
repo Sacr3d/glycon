@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6159098,WILLIAM,[],MCDONALD,1/21/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The client alleges the financial advisor (her ex-husband) removed funds from her account in September 2013 and October 2013 without her authorization."",
+  ""Damage Amount Requested"" : ""$20,778.50"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/11/2013 - 1/10/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6159098,WILLIAM,[],MCDONALD,1/14/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT WILLIAM MCDONALD IN HIS CAPACITY AS A FINANCIAL ADVISOR DID INTENTIONALLY AND WITHOUT AUTHORITY WITHDRAW FUNDS FROM CLIENT'S ACCOUNT."",
+  ""Damage Amount Requested"" : ""$116,254.00"",
+  ""Settlement Amount"" : ""$116,254.91"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/10/2013 - 10/7/2013,EDWARD JONES (250)
+42803,6159098,WILLIAM,[],MCDONALD,,,,,3/21/2013 - 10/7/2013,EDWARD JONES (250)

@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+37813,5083839,BRADLEY,"[BRAD MARTIN WEBER, BRADLEY M WEBER]",WEBER,11/23/2016,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""The clients allege that the investments they purchased in 2012 were not suitable for their portfolio."",
+  ""Damage Amount Requested"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/4/2016 - 12/8/2016,FSIC (37813)
+37813,5083839,BRADLEY,"[BRAD MARTIN WEBER, BRADLEY M WEBER]",WEBER,4/15/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The claimants are alleging that the investments they purchased in 2013 and 2014 were unsuitable and misrepresented by the representative. The claimants are also alleging that the firm failed to supervise the representative."",
+  ""Damage Amount Requested"" : ""$70,700.00"",
+  ""Settlement Amount"" : ""$19,995.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-01822""
+}",8/19/2008 - 3/7/2016,"BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC. (13609)"
+37813,5083839,BRADLEY,"[BRAD MARTIN WEBER, BRADLEY M WEBER]",WEBER,,,,,7/13/2006 - 6/20/2008,ASSOCIATED PLANNERS INVESTMENT ADVISORY INC (104790)
+37813,5083839,BRADLEY,"[BRAD MARTIN WEBER, BRADLEY M WEBER]",WEBER,,,,,7/13/2006 - 6/20/2008,ASSOCIATED SECURITIES CORP. (12969)
+37813,5083839,BRADLEY,"[BRAD MARTIN WEBER, BRADLEY M WEBER]",WEBER,,,,,1/27/2006 - 6/20/2008,ASSOCIATED SECURITIES CORP. (12969)

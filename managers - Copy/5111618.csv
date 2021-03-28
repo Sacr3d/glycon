@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,5111618,Dustin,"[Craig  Unger, Dustin  Unger]",Unger,1/20/2021,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Customer alleges that the rep sold the stock before they had made a final decision or signed any paperwork, which the rep had told them nothing would be done till the papers were signed."",
+  ""Damage Amount Requested"" : ""$30,005.15"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/8/2015 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,5111618,Dustin,"[Craig  Unger, Dustin  Unger]",Unger,3/12/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THIRD PARTY ALLEGES CHECK SENT FROM CLIENTS ACCOUNT AND ACCOUNT CLOSED WITHOUT AUTHORIZATION"",
+  ""Damage Amount Requested"" : ""$50,024.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/13/2009 - 6/15/2015,PNC INVESTMENTS (129052)
+17868,5111618,Dustin,"[Craig  Unger, Dustin  Unger]",Unger,,,,,9/14/2006 - 11/13/2009,"NATCITY INVESTMENTS, INC. (17490)"
+17868,5111618,Dustin,"[Craig  Unger, Dustin  Unger]",Unger,,,,,5/18/2006 - 8/15/2006,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+17868,5111618,Dustin,"[Craig  Unger, Dustin  Unger]",Unger,,,,,5/17/2006 - 8/15/2006,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"

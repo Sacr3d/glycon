@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,8/26/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Unsuitable Investment in PFLEX (PIMCO Flexible Credit Income Fund) within an advisory account."",
+  ""Damage Amount Requested"" : ""$9,040.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""In January 2020 the client invested in a diversified income fund meant to be a long term core holding.  The fund was purchased using authorized investment discretion and held for approximately two months before unforeseen events negatively impacted the credit markets for a short time in March 2020 producing unrealized losses in the fund.  This purchase was suitable for the client's account based on their risk tolerance and time horizon, and the client and advisor had multiple contacts and reviews after the investment purchase and no issues or concerns were raised at any point in time. The firm and the Advisor deny the validity of this complaint and maintain that the advisor at all times acted in the client's best interest.""
+}",7/23/2020 - Current,PURSHE KAPLAN STERLING INVESTMENTS (35747)
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,,,,,8/23/2007 - Current,"SARD WEALTH MANAGMENT GROUP, LLC (123457)"
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,,,,,8/15/2002 - 7/22/2020,"SECURITIES SERVICE NETWORK, LLC (13318)"
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,,,,,12/18/1996 - 8/15/2002,"TOWER EQUITIES, INC. (16195)"
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,,,,,9/9/1994 - 3/30/1995,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+35747,2330785,JONATHAN,[JONATHAN (NO MIDDLE NAME) SARD],SARD,,,,,4/7/1993 - 11/12/1993,"MML INVESTORS SERVICES, INC. (10409)"

@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+154706,2477897,MARK,[MARK  OKADA],OKADA,2/16/2013,Customer Dispute,Pending,"{
+  ""Allegations"" : ""PLAINTIFFS HAVE ASSERTED CLAIMS FOR FRAUD, BREACH OF FIDUCIARY DUTY, AND NEGLIGENT MISREPRESENTATION AGAINST THE HIGHLAND DEFENDANTS."",
+  ""Damage Amount Requested"" : ""$2,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/29/2014 - 5/15/2018,"GRANITE BAY ADVISORS, L.P. (154706)"
+154706,2477897,MARK,[MARK  OKADA],OKADA,7/9/2009,Customer Dispute,Pending,"{
+  ""Allegations"" : ""DEFENDANT'S SUED FOR ALLEGED RESCISSION AMONG OTHER CLAIMS"",
+  ""Damage Amount Requested"" : ""$45,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/15/1998 - 10/30/2020,"HIGHLAND CAPITAL MANAGEMENT, L.P. (110126)"
+154706,2477897,MARK,[MARK  OKADA],OKADA,3/30/2009,Customer Dispute,Pending,"{
+  ""Allegations"" : ""PLAINTIFF SUED FOR A REFUND OF THE AMOUNT THEY INVESTED INTO THE FUND"",
+  ""Damage Amount Requested"" : ""$1.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+154706,2477897,MARK,[MARK  OKADA],OKADA,3/29/2009,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""THE PLAINTISS ALLEGES VIOLATIONS OF STATUTES AND DUTIES AMONG OTHER THINGS."",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

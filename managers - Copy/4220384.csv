@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,7/15/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$45,111.42"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",9/11/2000 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,4/17/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$42,276.21"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Taxes owed due to spouse being self-employed. We are currently repaying tax debt in order to have the lien removed.""
+}",,
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,5/14/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$43,041.95"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""THIS LIEN IS DUE TO UNPAID TAXES FOR MY HUSBAND WHO IS CURRENTLY SELF-EMPLOYED. WE ARE CURRENTLY WORKING WITH A 3RD PARTY AND THE IRS TO HAVE THE LIEN REMOVED.""
+}",,
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,5/14/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$24,166.55"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,11/29/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,580.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""These were federal tax liens filed on my property due to some back taxes owed for prior years; currently repaying through a monthly payment arrangement.""
+}",,
+42803,4220384,MONA,"[MONA ALICIA CLEVELAND, MONA ALICIA PETERS]",HARRIS,9/14/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$32,201.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""These were federal tax liens filed on my property due to some back taxes owed for prior years; currently repaying through a monthly payment arrangement.""
+}",,

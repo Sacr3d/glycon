@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+292454,2881591,THOMAS,[THOMAS P BURDEN],BURDEN,11/3/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""short sale"",
+  ""Broker Comment"" : ""Divorce was a major factor leading to the short sale. And my ex-wife's job loss while we were married.""
+}",7/6/2020 - Current,"PEOPLE'S UNITED ADVISORS, INC. (292454)"
+292454,2881591,THOMAS,[THOMAS P BURDEN],BURDEN,10/14/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",10/27/2000 - Current,"PEOPLE'S SECURITIES, INC. (13704)"
+292454,2881591,THOMAS,[THOMAS P BURDEN],BURDEN,,,,,8/29/2016 - 3/31/2020,"PEOPLE'S SECURITIES, INC. (13704)"
+292454,2881591,THOMAS,[THOMAS P BURDEN],BURDEN,,,,,6/9/1997 - 1/13/1999,"SIGNATOR INVESTORS, INC. (468)"

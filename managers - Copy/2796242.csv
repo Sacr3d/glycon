@@ -1,0 +1,65 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,1/16/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The complainant's allege Unfair and Deceptive Trade Practices and Fraud, regarding the advisor's recommendations to invest in private securities commencing in January and August of 2001."",
+  ""Settlement Amount"" : ""$440,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/18/1999 - 11/12/2015,METLIFE SECURITIES INC. (14251)
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,1/16/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""The complainant alleged Unfair and Deceptive Trade Practices and Fraud regarding the advisor's recommendation to divest his share of a private security commencing in March of 2007."",
+  ""Damage Amount Requested"" : ""$1,000,000.01"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/18/1999 - 7/9/2007,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,11/18/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""The complainant's allege Unfair and Deceptive Trade Practices and Fraud, regarding the advisor's recommendation to invest in private securities commencing in January and August of 2001."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/3/1999 - 11/16/1999,PARK AVENUE SECURITIES LLC (46173)
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,7/1/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing in 2012."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$680,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/15/1997 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,3/21/2019,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing in 2005 and 2016."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,1/7/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiff alleged Unfair and Deceptive Trade Practice, State Securities Fraud regarding an investment into a fictitious entity, in 2008, approximately."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$86,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,12/31/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing 1999."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$1,190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,10/17/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Plaintiff alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing 2000."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+14251,2796242,JOHN,"[JD  PHILLIPS, JOHN D PHILLIPS]",PHILLIPS,5/14/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Plaintiffs have alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding investments known as the Wall Street Capitol Ponzi Scheme, commencing in 2015."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

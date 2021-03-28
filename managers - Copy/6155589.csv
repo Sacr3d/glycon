@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,6155589,DAVID,[],SHOULTS,6/30/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""State of Washington Office of the Insurance Commissioner"",
+  ""Allegations"" : ""Consent Order from the State of Washington Office of the Insurance Commissioner indicating that he was in violation of RCW 48.17.530(1)(b), RCW 48.17.530(1)(l) and RCW 48.17.450(1) of the Revised Code of Washington."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,000.00""
+    } ]
+  } ]
+}",1/1/2014 - 1/10/2018,"NATIONWIDE SECURITIES, LLC (11173)"

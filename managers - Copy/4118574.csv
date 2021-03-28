@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+116379,4118574,VITALY,[VITALY  KORCHEVSKY CFA],KORCHEVSKY,8/5/2015,Criminal,Pending Charge,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""18 U.S.C. 1349 and 3551 ET SEQ., CONSPIRACY TO COMMIT WIRE FRAUD"",
+    ""Disposition"" : ""Pled not guilty""
+  }, {
+    ""Charges"" : ""18 U.S.C. 1956(h) AND 3551 ET SEQ., MONEY LAUNDERING CONSPIRACY"",
+    ""Disposition"" : ""Pled not guilty""
+  }, {
+    ""Charges"" : ""18 U.S.C. 371 AND 3551 ET SEQ., CONSPIRACY TO COMMIT SECURITIES FRAUD"",
+    ""Disposition"" : ""Pled not guilty""
+  }, {
+    ""Charges"" : ""15 U.S.C. 78j(b) AND 78ff; 18 U.S.C. 2 AND 3551 ET SEQ., SECURITIES FRAUD - PR NEWSWIRE HACK"",
+    ""Disposition"" : ""Pled not guilty""
+  }, {
+    ""Charges"" : ""15 U.S.C. 78j(b) AND 78ff; 18 U.S.C. 2 AND 3551 ET SEQ., SECURITIES FRAUD - MARKETWIRED HACK"",
+    ""Disposition"" : ""Pled not guilty""
+  } ]
+}",11/16/2005 - 11/6/2009,INVESTMENT COUNSELORS OF MARYLAND (116379)
+116379,4118574,VITALY,[VITALY  KORCHEVSKY CFA],KORCHEVSKY,,,,,4/10/2001 - 10/3/2001,"MORGAN STANLEY DISTRIBUTION, INC. (30344)"

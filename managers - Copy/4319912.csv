@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4319912,LINDA,"[LINDA S GUTHRIE, LINDA SUE GUTHRIE, LINDA SUE O'NEAL]",VALLANCE,11/18/2008,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""MARYLAND INSURANCE ADMINISTRATION"",
+  ""Allegations"" : ""PERMITTED AN UNLICENSED EMPLOYEE TO PROVIDE QUOTES AND COMPLETE APPLICATIONS FOR AUTO INSURANCE POLICIES"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""CONSENT ORDER"",
+  ""Sanction Details"" : ""$500.00 FINE - PAID 11/14/08""
+}",2/26/2001 - 11/7/2013,"NATIONWIDE SECURITIES, LLC (11173)"

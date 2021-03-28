@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6996246,KETURA,"[Ketura V Bradley, Ketura  Bradley]",BRADLEY,6/27/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""The reason for the settlement was for personal reasons including a divorce that left me in a bad financial spot.""
+}",5/4/2020 - 8/5/2020,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6996246,KETURA,"[Ketura V Bradley, Ketura  Bradley]",BRADLEY,,,,,11/19/2018 - 3/26/2020,J.P. MORGAN SECURITIES LLC (79)

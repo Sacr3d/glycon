@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+43036,3150109,TONY,[],GERVASI,8/17/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Deed in Lieu"",
+  ""Broker Comment"" : ""Had a loan on a commercial building that housed my business.  Agreed to a deed-in-lieu with the bank and closed the escrow on 8/17/2012. The LLC was dissolved on 12/3/2012.""
+}",4/19/2016 - 9/7/2016,STATE FARM VP MANAGEMENT CORP. (43036)
+43036,3150109,TONY,[],GERVASI,,,,,10/29/2002 - 12/31/2008,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
+43036,3150109,TONY,[],GERVASI,,,,,1/27/1999 - 12/19/2008,STATE FARM VP MANAGEMENT CORP. (43036)

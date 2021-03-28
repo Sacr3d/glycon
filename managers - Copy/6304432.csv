@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6304432,KENDRICK,"[KEN  KING, KENDRICK  KING]",KING,1/17/1992,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ARTICLE 134 - CODE OF CONDUCT OFFENSE"",
+    ""Disposition"" : ""Article 134 is not a separate charge from Article 121 but was merely added to include a thorough account of the proceedings"",
+    ""Amended Charges"" : ""Sentence adjudged. The execution of the part of the sentence extending to to confinement in excess of one month, fine of $2000.00 and reduction in rate below E-3, is suspended/vacated/remitted without further action."",
+    ""Amended Charge Type"" : ""OTHER"",
+    ""Amended Charge Disposition"" : ""Article 134 is limited to a \""code of conduct offense\"" and not a crime due to Article 121 Larceny meeting set minimum requirement""
+  }, {
+    ""Charges"" : ""ARTICLE 121 - LARCENY AND WRONGFUL APPROPRIATION"",
+    ""Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""AFTER TURNING IN MARRIAGE CERTIFICATE WHICH INCREASED MY PAY.  I SOON AFTER SEPARATED FROM WOMAN. I NEEDED TO INFORM NAVY IMMEDIATELY I WAS NOT MARRIED. I DID NOT DO SO.  I WAS SUBSEQUENTLY PAID FOR BEING MARRIED.  I WAS NOT. I TURNED MYSELF IN FOR RECEIVING MONEY I WAS NOT ENTITLED TO. I WAS CONVICTED OF A MILITARY OFFENSE IN AN ADMINISTRATIVE COURT PROCEEDING (INDICATED BY TIME SENTENCED 90 DAYS AND AMOUNT FINED $2,000) . I SUBSEQUENTLY PAID THE MONEY BACK AND REMAINED IN THE NAVY.  ARTICLE 134 MAINLY DOCUMENTS THAT ARTICLE 121 VIOLATION OCCURRED.""
+}",2/7/2017 - 1/26/2018,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6304432,KENDRICK,"[KEN  KING, KENDRICK  KING]",KING,,,,,8/23/2016 - 2/14/2017,"HORNOR, TOWNSEND & KENT, INC. (4031)"
+42803,6304432,KENDRICK,"[KEN  KING, KENDRICK  KING]",KING,,,,,9/16/2014 - 8/12/2016,"MSI FINANCIAL SERVICES, INC. (14251)"

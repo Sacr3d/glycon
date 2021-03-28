@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+18272,3139436,DIANA,"[DIANA  CHADWICK, DIANA SUE DABLEMONT]",CHADWICK,9/19/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Missouri"",
+  ""Allegations"" : ""Violation of FINRA rules 8210 and 2010 by making false on-the-record testimony or written responses, and by making misleading statements during her on-the-record testimony."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Life"",
+      ""Duration Explanation"" : ""Respondent is barred from registering as a broker-dealer, investment adviser, broker-dealer agent or investment adviser representative in the State of Missouri."",
+      ""Start Date"" : ""9/19/2016""
+    } ]
+  } ]
+}",8/6/2010 - 7/31/2015,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,3139436,DIANA,"[DIANA  CHADWICK, DIANA SUE DABLEMONT]",CHADWICK,7/14/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013039630302"",
+  ""DocketNumberAAO"" : ""2013039630302"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Chadwick consented to the sanctions and to the entry of findings that she directed a more junior registered representative at her member firm to mislead FINRA in her on-the-record interview, and then repeated the same false claim during her own on-the-record interview. The findings stated that Chadwick was attempting to transfer the assets of an elderly customer to the firm. The customer's son had a power of attorney that had been executed many years earlier but had been unsuccessful in obtaining information about his mother's accounts. Chadwick directed the representative to obtain the customer's statements from the customer's existing firm. The representative called the firm and claimed that she was a relative of the customer in order to obtain copies of the account statements. The other firm ultimately provided the son with the requested documents after determining that he had a valid power of attorney to act on behalf of his mother. After Chadwick learned that FINRA was investigating the junior employee's claims that she was the customer's relative, Chadwick told the employee to testify to FINRA that she had only stated that she was \""like\"" the son's daughter during the telephone calls with the other firm. Chadwick also repeated this false claim during her own on-the-record testimony with FINRA, and she was aware that the employee had claimed to be the customer's relative."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/14/2016""
+    } ]
+  } ]
+}",7/3/2002 - 4/13/2009,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,3139436,DIANA,"[DIANA  CHADWICK, DIANA SUE DABLEMONT]",CHADWICK,,,,,12/18/1998 - 6/24/2002,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"

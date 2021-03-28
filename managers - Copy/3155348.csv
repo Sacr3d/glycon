@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+149777,3155348,RICHARD,[],PERKINS,11/29/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges, inter alia, selling away with respect to investments - Jan, 2011-Dec, 2016."",
+  ""Damage Amount Requested"" : ""$5,492,162.00"",
+  ""Settlement Amount"" : ""$850,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""20-03891""
+}",5/5/2011 - 1/20/2017,MORGAN STANLEY (149777)
+149777,3155348,RICHARD,[],PERKINS,12/22/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MSWM"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Allegations related to exercise of discretion and delivery of correspondence without Firm approval.""
+}",5/2/2011 - 1/20/2017,MORGAN STANLEY (149777)
+149777,3155348,RICHARD,[],PERKINS,9/3/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNSUITABILITY, INTER ALIA, WITH RESPECT TO INVESTMENTS SEPTEMBER 2012 - OCTOBER 2013."",
+  ""Damage Amount Requested"" : ""$1,000,000.00"",
+  ""Settlement Amount"" : ""$245,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Mr. Perkins vehemently denies any allegations of wrongdoing.  Mr. Perkins was not a party to the action and had no involvement in the Firm's decision to settle the matter.  The client was an extremely sophisticated investor with extensive financial sector experience who understood the risks associated with the investment strategies employed in her accounts.  It is Mr. Perkins' understanding that the matter was settled by the Firm for a portion of the alleged damages in order to avoid the costs and uncertainties of arbitration.""
+}",7/9/2009 - 5/3/2011,UBS FINANCIAL SERVICES INC. (8174)
+149777,3155348,RICHARD,[],PERKINS,,,,,12/7/2000 - 7/10/2009,"SANFORD C. BERNSTEIN & CO., LLC (104474)"
+149777,3155348,RICHARD,[],PERKINS,,,,,3/25/1999 - 12/7/2000,"SANFORD C. BERNSTEIN & CO., INC. (1232)"
+149777,3155348,RICHARD,[],PERKINS,,,,,2/2/1999 - 7/16/2009,ALLIANCEBERNSTEIN L.P. (108477)

@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6313746,JENNIFER,[Jennifer Lynn Bankhead],HATFIELD,1/1/1994,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Misdemeanor theft less than $250"",
+    ""Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""At the age of 13 around the year 1994 I was a minor shopping at the mall with other friends.  I was with several friends who took 2 t-shirts from a store in the Citadel Mall.  Since I was with them when they were caught I was also given a misdemeanor charge.  This has since been expunged from my records since I was a minor at the time.  I had to do 8 hours of community service and pay $200 fine.""
+}",11/17/2015 - 11/22/2016,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

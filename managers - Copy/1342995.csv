@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,7/5/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053569601"",
+  ""DocketNumberAAO"" : ""2017053569601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Garrison failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""10/10/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated July 5, 2017 and July 31, 2017, respectively, on October 10, 2017, Garrison is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",12/31/2001 - 3/10/2017,DAVENPORT & COMPANY LLC (1588)
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,11/17/2000 - 3/10/2017,DAVENPORT & COMPANY LLC (1588)
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,10/1/1999 - 12/13/2000,"FIRST UNION SECURITIES, INC. (19616)"
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,8/26/1989 - 10/1/1999,FIRST UNION CAPITAL MARKETS CORP. (6124)
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,8/2/1989 - 8/24/1989,"WHEAT, FIRST SECURITIES, INC. (6124)"
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,2/24/1988 - 8/14/1989,THOMSON MCKINNON SECURITIES INC. (829)
+1588,1342995,CHARLES,[ED  GARRISON],GARRISON,,,,,2/21/1985 - 2/24/1988,CAROLINA SECURITIES CORPORATION (142)

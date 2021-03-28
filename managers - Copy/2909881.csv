@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,7/30/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$453.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",5/22/2018 - 5/29/2019,"TD AMERITRADE INVESTMENT MANAGEMENT, LLC (111514)"
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,4/29/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,641.19"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",5/22/2018 - 5/29/2019,"TD AMERITRADE, INC. (7870)"
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,3/13/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,960.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",2/5/2018 - 5/29/2019,"TD AMERITRADE, INC. (7870)"
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,2/13/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,339.82"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",7/18/2001 - 5/13/2003,"RITTENHOUSE ASSET MANAGEMENT, INC. (106562)"
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,12/17/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$35,880.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",7/3/2000 - 5/13/2003,NUVEEN ASSET MANAGEMENT INC (104626)
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,11/20/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,663.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""This is a Disputed State Lien for a Business I sold and the new Partners filed Sales Tax Returns 2007 using my State Sales Tax Number. Due to not being able to locate the Partners after I was made aware, it remains Outstanding. If I sell the Real Estate I will have to pursue this matter with my Lawyer and prove I am not liable or pay it off prior to closing.""
+}",10/1/1999 - 5/8/2003,"NUVEEN INVESTMENTS, LLC (469)"
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,11/6/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,439.80"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+111514,2909881,DONALD,[DONALD R CURRY],CURRY,2/9/2005,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,925.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,

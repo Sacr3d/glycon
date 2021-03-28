@@ -1,0 +1,57 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,4/7/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Unauthorized trading.  Customer accounts were inadvertently reallocated during a bulk re-balancing."",
+  ""Damage Amount Requested"" : ""$24,607.07"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/1/2004 - Current,CETERA ADVISORS LLC (10299)
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,9/9/2019,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Client alleges of lack of fee disclosure."",
+  ""Damage Amount Requested"" : ""$8,176.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Client returned a disclosure document on which he had written a comment that indicated uncertainty with the transaction, and a lack of clarity on its purpose.   In later discussions, the Client explained to the firm's Chief Compliance Officer that his comments were not intended to be a complaint against his Representative.""
+}",12/7/1999 - 1/1/2004,VESTAX SECURITIES CORPORATION (10332)
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,6/26/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT THE REPRESENTATIVE NEGLIGENTLY SET AN UNSUSTAINABLE 72T DISTRIBUTION SCHEDULE AND PLACED THE CLIENT IN UNSUITABLE INVESTMENTS."",
+  ""Damage Amount Requested"" : ""$99,000.00"",
+  ""Settlement Amount"" : ""$30,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""12-02186"",
+  ""Broker Comment"" : ""I ABSOLUTELY REPUDIATE THE ALLEGATION THAT THE CLIENT WAS UNAWARE OF HIS EXCESSIVE 72T DISTRIBUTIONS AS WE ALERTED HIM TO THIS SITUATION AT LEAST 6 TIMES IN THE 3 PRIOR YEARS.  HE DISREGARDED OUR ADVICE TO REDUCE THE AMOUNT OF HIS LIQUIDATIONS/WITHDRAWALS, AND THEN FILED THIS BASELESS LITIGATION.  A BUSINESS DECISION WAS MADE AGAINST MY WISHES TO SETTLE THIS ARBITRATION.""
+}",10/18/1999 - 12/31/2005,THE MILLENNIAL GROUP (121500)
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,3/16/2009,Customer Dispute,Denied,"{
+  ""Allegations"" : ""MISREPRESENTATION OF DEATH BENEFIT IN 1035 EXCHANGE"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/13/1995 - 1/1/2004,VESTAX SECURITIES CORPORATION (10332)
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,2/28/2002,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT THE REPRESENTATIVE DID NOT DISCLOSE FEE'S INVOLVED REGARDING THE PURCHASE OF A JACKSON NATIONAL VARIABLE ANNUITY."",
+  ""Damage Amount Requested"" : ""$23,011.61"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ALLEGATIONS COULD NOT BE SUBSTANTIATED THEREFORE THE COMPLAINT HAS BEEN CLOSED WITH NO ACTION.""
+}",4/8/1993 - 4/11/1995,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,2/25/2002,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT THE REPRESENTATIVE DID NOT DISCLOSE FEE'S INVOLVED REGARDING THE PURCHASE OF A PACIFIC LIFE VARIABLE ANNUITY."",
+  ""Damage Amount Requested"" : ""$30,608.47"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ALLEGATIONS COULD NOT BE SUBSTANTIATED THEREFORE THE COMPLAINT HAS BEEN CLOSED WITH NO ACTION.""
+}",9/26/1990 - 4/16/1993,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,11/28/2001,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES REGISTERED REPRESENTATIVE NEGLECTED TO NOTIFY THE CLIENT WHEN HE NOTICED A TRADE ERROR IN HER ACCOUNT IN DECEMBER 1998."",
+  ""Damage Amount Requested"" : ""$27,064.00"",
+  ""Settlement Amount"" : ""$9,999.99"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""02-02496"",
+  ""arbitrationDocketNumber"" : """"
+}",1/5/1989 - 10/4/1990,"E.I. SALES, INC. (1703)"
+10299,1742952,JESS,"[JESS WAYNE HURST, JESSE WAYNE HURST]",HURST,,,,,9/24/1987 - 12/19/1988,"JOHN HANCOCK DISTRIBUTORS, INC. (468)"

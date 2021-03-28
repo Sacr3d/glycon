@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+288590,4370566,DAVID,[],PROVOLT,3/12/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleged that representative did not accurately represent the tax liabilities regarding the sales of certain securities."",
+  ""Damage Amount Requested"" : ""$75,962.00"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/13/2018 - Current,FIDELITY PERSONAL AND WORKPLACE ADVISORS (288590)
+288590,4370566,DAVID,[],PROVOLT,5/21/2013,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",9/24/2013 - Current,FIDELITY BROKERAGE SERVICES LLC (7784)
+288590,4370566,DAVID,[],PROVOLT,,,,,12/3/2013 - 7/13/2018,STRATEGIC ADVISERS LLC (104555)
+288590,4370566,DAVID,[],PROVOLT,,,,,9/30/2010 - 4/23/2012,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+288590,4370566,DAVID,[],PROVOLT,,,,,11/17/2003 - 10/12/2010,"WELLS FARGO INVESTMENTS, LLC (10582)"
+288590,4370566,DAVID,[],PROVOLT,,,,,6/21/2001 - 11/13/2003,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+288590,4370566,DAVID,[],PROVOLT,,,,,5/17/2001 - 11/13/2003,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

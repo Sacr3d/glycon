@@ -1,0 +1,49 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4279005,MARK,[],DUNN,8/16/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT STATED THAT SHE DID NOT FULLY UNDERSTAND THE INTEREST RATE DETAILS OF A TRANSFER.  SHE ASKED THAT HER TRANSFER BE REVERSED AND ALL FUNDS RETURNED TO THE ORIGINAL ACCOUNT.  THE REQUEST TO REVERSE FROM THE NEW ACCOUNT WOULD HAVE MEANT THE WAIVER OF SURRENDER CHARGES TOTALING IN EXCESS OF $5000.00."",
+  ""Damage Amount Requested"" : ""$18,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/8/2010 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4279005,MARK,[],DUNN,8/1/2011,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED A VARIABLE ANNUITY SOLD TO HIM IN 2005 WAS MISREPRESENTED"",
+  ""Damage Amount Requested"" : ""$5,433.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/19/2010 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4279005,MARK,[],DUNN,3/31/2006,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE CLIENT CLAIMED THE SIGNATURE ON A MEMO INDICATING SHE UNDERSTOOD THE TAX CONSEQUENCES OF SURRENDERING A PORTION OF A VARIABLE ANNUITY WAS NOT HERS.  THE MEMO IS DATED, BUT THE TRANSACTION IN QUESTION WAS PLACED IN FEBRUARY 2005."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$7,696.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/15/2000 - 7/20/2005,"AMERICAN EXPRESS FINANCIAL ADVISORS, INC. (6363)"
+42803,4279005,MARK,[],DUNN,2/14/2006,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT CLAIMED THE ADVISOR FAILED TO DISCLOSE THE TAX CONSQUENCES OF SURRENDERING A PORTION OF HER VARIABLE ANNUITY IN FEBRUARY 2005"",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/1/2000 - 7/20/2005,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+42803,4279005,MARK,[],DUNN,10/3/2005,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT ALLEGED THE SINGLE PREMIUM VARIABLE LIFE INSURANCE POLICY WAS UNSUITABLE FOR HER GOALS AND THAT SHE WAS NOT ADVISED OF THE COST OF INSURANCE NOR THE TAX CONSEQUENCES OF THE PRODUCT.  THE CIENT REQUESTED TO BE MOVED INTO AN ANNUITY OR SIMILAR PRODUCT."",
+  ""Damage Amount Requested"" : ""$21,599.99"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/1/2000 - 7/20/2005,IDS LIFE INSURANCE COMPANY (6321)
+42803,4279005,MARK,[],DUNN,7/19/2005,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""AMERICAN EXPRESS FINANCIAL ADVISORS"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""VIOLATION OF THE FRANCHISE AGREEMENT""
+}",,
+42803,4279005,MARK,[],DUNN,3/31/2005,Customer Dispute,Denied,"{
+  ""Allegations"" : ""THE CLIENT CLAIMED HE BORROWED THE ADVISOR MONEY TO INVEST IN HS AMERICAN EXPRESS FRANCHISE IN 2004.  THE CLIENT REQUESTED THE LOAN BE REPAID PLUS FUNDS TO COVER THE COSTS OF THE LOAN."",
+  ""Damage Amount Requested"" : ""$215,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

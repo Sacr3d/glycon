@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+32625,2043618,JEFFREY,[],MARSHALL,10/9/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C07980066"",
+  ""DocketNumberAAO"" : ""07980066"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$35,750.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement/Restitution""
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ]
+}",2/3/1997 - 9/10/1997,"WMA SECURITIES, INC. (32625)"
+32625,2043618,JEFFREY,[],MARSHALL,,,,,10/3/1996 - 12/31/1996,"WMA SECURITIES, INC. (32625)"
+32625,2043618,JEFFREY,[],MARSHALL,,,,,6/25/1990 - 1/1/1992,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

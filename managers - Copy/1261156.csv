@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8032,1261156,RICK,[],STAGGS,10/14/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The customer alleged that the representative placed trades in her account in 2009, after having already resigned himself as her advisor in 2008, without any communication prior to or after the transactions."",
+  ""Damage Amount Requested"" : ""$16,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The individual in question was not a client of mine.  Rather, she was the daughter of a long-standing client that had passed away.  I merely processed the distribution of her inheritance to her beneficiary IRA account from her father's estate.  When I became aware of a forgery on her part I informed the executor of the estate and removed myself from this individual's account, as she notes, in 2008. Accordingly, it would have been impossible for me to have made any transactions for her in 2009. Further, one has to question the motive behind a complaint brought 10 years after the allegation supposedly occurred.""
+}",7/22/2011 - Current,COMMONWEALTH FINANCIAL NETWORK (8032)
+8032,1261156,RICK,[],STAGGS,,,,,1/29/2007 - 7/26/2011,"MML INVESTORS SERVICES, LLC (10409)"
+8032,1261156,RICK,[],STAGGS,,,,,7/23/1984 - 7/26/2011,"MML INVESTORS SERVICES, LLC (10409)"
+8032,1261156,RICK,[],STAGGS,,,,,7/23/1984 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

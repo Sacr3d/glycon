@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+23131,602566,BRADFORD,[],HAIT,7/7/1981,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""81-0068"",
+  ""DocketNumberAAO"" : ""81-0068"",
+  ""Initiated By"" : ""CHICAGO BOARD OPTIONS EXCHANGE"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ]
+}",11/19/1989 - 6/30/2000,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+23131,602566,BRADFORD,[],HAIT,4/7/1977,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""CA-613"",
+  ""DocketNumberAAO"" : ""613"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ]
+}",11/3/1988 - 11/19/1989,INTEGRATED RESOURCES EQUITY CORPORATION (6403)
+23131,602566,BRADFORD,[],HAIT,,,,,10/9/1987 - 11/3/1988,"CHRISTOPHER WEIL & COMPANY, INC (6566)"
+23131,602566,BRADFORD,[],HAIT,,,,,11/22/1977 - 8/15/1987,SHEARSON LEHMAN BROTHERS INC. (7506)
+23131,602566,BRADFORD,[],HAIT,,,,,11/17/1976 - 11/22/1977,SHEARSON HAYDEN STONE INC. (7295)
+23131,602566,BRADFORD,[],HAIT,,,,,11/8/1974 - 11/17/1976,SHEARSON HAYDEN STONE INC. (6774)
+23131,602566,BRADFORD,[],HAIT,,,,,3/14/1973 - 11/8/1974,HAYDEN STONE INC. (6567)
+23131,602566,BRADFORD,[],HAIT,,,,,9/11/1970 - 3/14/1973,HAYDEN STONE INC. (972)

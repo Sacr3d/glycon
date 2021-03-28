@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,5983646,CHRISTOPHER,[CHRIS  TALBOT],TALBOT,12/1/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges adviser moved her from a variable annuity to an index annuity without authorization. Client claims she did not know she was signing an annuity application."",
+  ""Settlement Amount"" : ""$203,232.56"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/4/2012 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,5983646,CHRISTOPHER,[CHRIS  TALBOT],TALBOT,,,,,1/1/2012 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

@@ -1,0 +1,68 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+282824,4596113,DARRELL,[],POPE,2/4/2021,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Kentucky"",
+  ""Allegations"" : ""Respondent made four misleading filings with the Department in violation of KRS 292.440."",
+  ""Resolution"" : ""Settled"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All"",
+      ""Duration"" : ""2 months"",
+      ""Start Date"" : ""2/1/2021"",
+      ""End Date"" : ""4/1/2021""
+    } ]
+  } ]
+}",3/2/2016 - Current,LEAD POINT WEALTH MANAGEMENT LLC (282824)
+282824,4596113,DARRELL,[],POPE,9/8/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015048303401"",
+  ""DocketNumberAAO"" : ""2015048303401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Pope consented to the sanctions and to the entry of findings that he engaged in an outside business activity outside the scope of his employment with his member firm. The findings stated that Pope attempted to secure a buyer for 10 sellers of Iraqi Dinar currency in anticipation of a finder's fee. Pope had a company established in order to conduct this activity and used his personal email address to communicate with the sellers and potential buyers about the potential terms of a sale. Pope also conducted due diligence on potential buyers, prepared transaction-related documentation, and made arrangements to facilitate a potential currency sale. Pope did not notify the firm about this outside business activity. The findings also stated that Pope stated on a firm annual compliance form that he agreed to notify the firm about any outside business activity. However, Pope did not notify the firm about his outside business activity."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""four months"",
+      ""Start Date"" : ""9/18/2017"",
+      ""End Date"" : ""1/17/2018""
+    } ]
+  } ],
+  ""Broker Comment"" : ""The AWC resulted from an unreported outside business activity while he was with USBancorp and not Lead Point Wealth Management, LLC. Also, it is important to note that no investors were harmed because of the unreported outside business activity. Clients are encouraged to speak with Mr. Pope should they have any questions.""
+}",5/1/2006 - 12/21/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+282824,4596113,DARRELL,[],POPE,12/4/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bancorp Investments, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failure to report outside business activities pursuant to FINRA Rule 3270 and firm policies.""
+}",4/26/2006 - 12/21/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+282824,4596113,DARRELL,[],POPE,12/1/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""There was $332.58 in unauthorized on the charge account.  I disputed the charges and agreed to pay $133.03 and asked for the account to be closed.  The disputed portion was removed but the store reported the disputed portion as a charge off without telling me.""
+}",9/16/2004 - 3/28/2006,"NATCITY INVESTMENTS, INC. (17490)"
+282824,4596113,DARRELL,[],POPE,3/1/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Part of divorce, ex-wife refused to help pay when the end of child support occurred.  Talked to company about options and agree to pay down. Paid off early.""
+}",10/23/2003 - 9/17/2004,"FRONTIER FINANCIAL CONSULTANTS, INC. (44792)"
+282824,4596113,DARRELL,[],POPE,1/19/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES SHE DID NOT REQUEST ANNUITY AND THOUGHT WITHDRAWALS FROM ANNUITY WOULD CONSIST OF EARNINGS."",
+  ""Damage Amount Requested"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/16/2003 - 10/30/2003,"AMERICAN EXPRESS FINANCIAL ADVISORS, INC. (6363)"
+282824,4596113,DARRELL,[],POPE,,,,,1/23/2003 - 10/30/2003,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)
+282824,4596113,DARRELL,[],POPE,,,,,1/23/2003 - 10/30/2003,IDS LIFE INSURANCE COMPANY (6321)

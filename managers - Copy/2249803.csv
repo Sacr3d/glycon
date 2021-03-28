@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,5/28/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018057545401"",
+  ""DocketNumberAAO"" : ""2018057545401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Panas consented to the sanctions and to the entry of findings that after accepting an offer to join another FINRA member firm, he improperly took nonpublic personal customer information from his member firm, without the firm's or the customers' knowledge or consent. The findings stated that as a result, Panas caused his firm to violate the SEC's Regulation S-P, regarding privacy of consumer financial information and safeguarding personal information."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""10 business days"",
+      ""Start Date"" : ""6/17/2019"",
+      ""End Date"" : ""6/28/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on June 6, 2019.""
+}",7/1/2019 - Current,"KESTRA INVESTMENT SERVICES, LLC (42046)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,7/1/2019 - Current,"KESTRA ADVISORY SERVICES, LLC (283330)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,1/29/2018 - 6/19/2019,"KESTRA ADVISORY SERVICES, LLC (283330)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,1/25/2018 - 6/19/2019,"KESTRA INVESTMENT SERVICES, LLC (42046)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,12/19/2005 - 2/21/2018,SUMMIT FINANCIAL RESOURCES INC (104990)
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,7/28/2005 - 2/21/2018,SUMMIT EQUITIES INC (11039)
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,7/5/2005 - 2/21/2018,"SUMMIT EQUITIES, INC. (11039)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,8/19/2003 - 10/6/2005,STONEBRIDGE CAPITAL MANAGEMENT (106341)
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,1/2/1998 - 7/8/2005,"CADARET, GRANT & CO., INC. (10641)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,7/22/1996 - 1/20/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,4/27/1995 - 12/31/1996,"CADARET, GRANT & CO., INC. (10641)"
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,8/20/1993 - 4/28/1995,FINANCIAL NETWORK INVESTMENT CORPORATION (13572)
+42046,2249803,ALEXANDER,"[ALEX  PANAS III, ALEXANDER MICHAEL PANAS]",PANAS,,,,,7/13/1992 - 8/19/1993,"CADARET, GRANT & CO., INC. (10641)"

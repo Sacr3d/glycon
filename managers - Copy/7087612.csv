@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,7087612,Jessica,[],Bodiford,11/8/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$3,138.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/2/2019 - 2/8/2021,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,7087612,Jessica,[],Bodiford,10/26/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",,

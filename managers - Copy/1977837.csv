@@ -1,0 +1,49 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,1977837,ANTHONY,[ANTHONY THOMAS MEGARO],MEGARO,10/21/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""New York State Department of Financial Services"",
+  ""Allegations"" : ""The RR entered into a Stipulation with the New York Department of Financial Services for his failure to timely report the final disposition of two administrative actions against him, in violation of section 2110(i) of the Insurance Law."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,000.00""
+    } ]
+  } ]
+}",10/6/2003 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,1977837,ANTHONY,[ANTHONY THOMAS MEGARO],MEGARO,6/25/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Ohio Department of Insurance"",
+  ""Allegations"" : ""On May 21, 2019, the RR applied for an insurance license in the State of Ohio. On his application, he failed to disclose a Consent Order he entered into with the State of NJ Department of Banking and Insurance on March 15, 2002. RR Megaro violated section 3905.114(B)(1) of the State's Revised Code."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ]
+}",5/3/1999 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,1977837,ANTHONY,[ANTHONY THOMAS MEGARO],MEGARO,11/30/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges the sale of a variable annuity was an unsuitable investment. Client is requesting a full refund of her total deposits, less any subsequent withdrawals and free of any surrender charges."",
+  ""Damage Amount Requested"" : ""$215,699.68"",
+  ""Settlement Amount"" : ""$24,764.99"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Without admitting fault or Liability, PAS along with Guardian Insurance and Annuity Company, Inc (\""GIAC\"") agreed to extend the free look period for the annuity contract. The settlement amount is the difference between the market value at time of surrender and the initial premium.""
+}",3/15/1990 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,1977837,ANTHONY,[ANTHONY THOMAS MEGARO],MEGARO,3/15/2002,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""New Jersey Department of Banking and Insurance"",
+  ""Allegations"" : ""From August, 2001 to November, 2001, the RR distributed a solicitation for health insurance to New Jersey residents that was misleading and deceptive, in that it lead prospective purchasers to believe that they were guaranteed premium savings with the same or better coverage, in violation of NJSA 17B:30-4, NJSA 17:22A-17a(20) and NJAC 11:2-11.2."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  } ]
+}",9/22/1989 - 1/17/1990,CHUBB SECURITIES CORPORATION (3870)

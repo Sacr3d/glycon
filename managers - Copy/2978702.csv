@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,2978702,MELVIN,[],JENKINS,11/1/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""VALIC FINANCIAL ADVISORS, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Did not comply with internal company reporting requirements and FINRA disclosure obligations.""
+}",2/16/2007 - 11/27/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,2978702,MELVIN,[],JENKINS,5/8/2019,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Financial transaction card fraud"",
+    ""Disposition"" : ""The state declined to prosecute and the indictment, upon motion of Asst. Dist Attorney, was Nol.Prossed as to the entire case.""
+  } ]
+}",7/23/1998 - 2/15/2007,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42803,2978702,MELVIN,[],JENKINS,,,,,4/8/1998 - 2/15/2007,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42803,2978702,MELVIN,[],JENKINS,,,,,4/8/1998 - 7/3/2006,IDS LIFE INSURANCE COMPANY (6321)
+42803,2978702,MELVIN,[],JENKINS,,,,,12/10/1997 - 2/24/1998,RAS SECURITIES CORP. (28212)

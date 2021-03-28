@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,1266012,SCOTT,[SCOTT JEFFREY ALTERS],ALTERS,5/30/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$33,753.85"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/3/1999 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,1266012,SCOTT,[SCOTT JEFFREY ALTERS],ALTERS,4/24/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$183,299.79"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Rep says the lien started out as $82,415.66 but the IRS added interest to the initial amount owed over the years to bring it to the current total.""
+}",8/6/1984 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,1266012,SCOTT,[SCOTT JEFFREY ALTERS],ALTERS,7/15/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$48,777.99"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""RR says he has an installment agreement to payback the outstanding taxes which is $1490 per month.  The State of New Jersey added additional taxes and interest to the original amount owed.""
+}",,

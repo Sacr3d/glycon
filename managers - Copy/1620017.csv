@@ -1,0 +1,58 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,1620017,THOMAS,[],LENNON,4/10/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$86,264.10"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/3/1988 - 8/30/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,1620017,THOMAS,[],LENNON,8/7/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NORTH CAROLINA DEPARTMENT OF INSURANCE"",
+  ""Allegations"" : ""REGISTERED REPRESENTATIVE VIOLATED NORTH CAROLINA GENERAL STATUTE 58-33-46(a)(1) WHEN DURING INITIAL REQUEST FOR LICENSE AS A NON-RESIDENT PRODUCER, HE INACCURATELY ANSWERED 'NO' TO THE QUESTION RELATING TO BEING NAMED IN AN ADMINISTRATION PROCEEDING BY ANOTHER REGULATOR."",
+  ""Resolution"" : ""Voluntary Settlement Agreement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",,
+11173,1620017,THOMAS,[],LENNON,8/2/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""DELAWARE INSURANCE DEPARTMENT"",
+  ""Allegations"" : ""REGISTERED REPRESENTATIVE VIOLATED 18 DEL.C. \\u00a71719 BY NOT REPORTING AN ADMINISTRATIVE ACTION TAKEN BY ANOTHER JURISDICTION TO THE DELAWARE INSURANCE COMMISSIONER."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ]
+}",,
+11173,1620017,THOMAS,[],LENNON,10/6/2008,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""DELAWARE INSURANCE DEPARTMENT"",
+  ""Allegations"" : ""VIOLATION OF DELAWARE STATE CODE FOR NOT REPORTING AN ADMINISTRATION ACTION TAKEN BY ANOTHER JURISDICTION."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$300.00""
+    } ]
+  } ]
+}",,
+11173,1620017,THOMAS,[],LENNON,7/16/2007,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""COMMONWEALTH OF PENNSYLVANIA INSURANCE DEPARTMENT"",
+  ""Allegations"" : ""SUB AGENTS CHARGED BROKER FEES DISCLOSED TO CLIENT BUT FAILED TO GET FORM SIGNED"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  } ],
+  ""Broker Comment"" : ""ASSOCIATE AGENTS DIDN'T GET BROKER FEE FORM SIGNED BY CLIENT ALTHOUGH IT WAS DISCLOSED TO CLIENT Per RR:  In 2005 I purchased a non standard independent agency that could charge fees of $50.00 per application.  The reason for this was that most policies had to be rewritten due to cancellation.  My associate agent at that time told clients of the fee but failed to put it in writing.""
+}",,

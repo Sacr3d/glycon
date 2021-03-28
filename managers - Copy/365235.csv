@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+759,365235,BILLY,[],POLLAN,8/30/1973,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""TEXAS"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ],
+  ""Broker Comment"" : ""I FILLED OUT THE NASD APPLICATION CORRECT.  BUT WHEN I FILLED OUT THE TEXAS APPLICATION I FAILED TO DISCLOSE ALL AGAIN. ""
+}",8/1/1973 - 7/19/2002,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+759,365235,BILLY,[],POLLAN,6/27/1961,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""CATTLE THEFT- BURGLARY"",
+    ""Disposition"" : ""SERVED PRISON SENTENCE FROM SEPTEMBER - 1963 TO FEBURARY 24- 1965""
+  } ],
+  ""Broker Comment"" : ""I STILL BELIEVE THAT ALL THE CHARGES WERE UNFAIR AND UNJUST AS INDICATED AS THE DOCUMENTS ATTACHED. ""
+}",,

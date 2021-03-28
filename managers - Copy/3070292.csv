@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,3070292,John,[],Mikhael,1/5/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""In the process of improving my family's financial health and achieving my goal of zero debt, I negotiated with creditors for reduced payoff amounts.""
+}",3/25/2019 - 7/8/2020,"AMERIPRISE FINANCIAL SERVICES, LLC. (6363)"
+6363,3070292,John,[],Mikhael,4/24/2013,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED THAT FORMER RR MADE UNSUITABLE RECOMMENDATIONS THAT RESULTED IN THE CLIENT BEING SUBJECT TO ADDITIONAL SURRENDER CHARGES."",
+  ""Damage Amount Requested"" : ""$7,238.17"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/19/2019 - 7/8/2020,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,3070292,John,[],Mikhael,,,,,9/10/2013 - 11/16/2015,PARK AVENUE SECURITIES LLC (46173)
+6363,3070292,John,[],Mikhael,,,,,8/21/2013 - 11/16/2015,PARK AVENUE SECURITIES LLC (46173)
+6363,3070292,John,[],Mikhael,,,,,3/31/2011 - 8/9/2012,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+6363,3070292,John,[],Mikhael,,,,,3/30/2011 - 8/9/2012,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+6363,3070292,John,[],Mikhael,,,,,2/13/2009 - 3/28/2011,"WELLS FARGO ADVISORS, LLC (19616)"
+6363,3070292,John,[],Mikhael,,,,,11/3/2006 - 2/17/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+6363,3070292,John,[],Mikhael,,,,,5/10/2004 - 11/13/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+6363,3070292,John,[],Mikhael,,,,,4/16/2004 - 11/13/2006,CITIGROUP GLOBAL MARKETS INC. (7059)
+6363,3070292,John,[],Mikhael,,,,,8/18/2003 - 4/6/2004,OPPENHEIMER & CO. INC. (249)
+6363,3070292,John,[],Mikhael,,,,,5/6/2002 - 1/24/2003,SALOMON SMITH BARNEY INC. (7059)

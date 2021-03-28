@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,6/22/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""16-01228"",
+  ""DocketNumberAAO"" : ""16-01228"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Bennett failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Duration Explanation"" : ""Continues until required payment is made or discharged."",
+      ""Start Date"" : ""6/22/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Bennett is suspended on June 22, 2018, for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",11/24/2015 - 7/13/2018,"BANCWEST INVESTMENT SERVICES, INC. (29357)"
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,,,,,6/30/2014 - 7/23/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,,,,,3/13/2012 - 5/13/2014,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,,,,,3/12/2012 - 5/13/2014,"STIFEL, NICOLAUS & COMPANY, INCORPORATED (793)"
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,,,,,2/12/2007 - 3/14/2012,EDWARD JONES (250)
+29357,5142893,THOMAS,[THOMAS  BENNETT],BENNETT,,,,,7/13/2006 - 3/14/2012,EDWARD JONES (250)

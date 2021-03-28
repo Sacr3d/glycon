@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+110023,1251122,ANTHONY,[],MEERE,12/8/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""omission/misrepresentation in connection with hold recommendation of Puerto Rico Bonds."",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/23/2018 - Current,SPIRIT OF AMERICA MANAGEMENT CORP (110023)
+110023,1251122,ANTHONY,[],MEERE,,,,,3/29/1984 - Current,"DAVID LERNER ASSOCIATES, INC. (5397)"

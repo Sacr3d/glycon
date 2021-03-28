@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,5261911,Bianca,[BIANCA JADE LEE],Ince,7/10/2018,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ASSAULT-FIRST DEGREE"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""ASSAULT-SEC DEGREE"",
+    ""Disposition"" : ""Disposition: Stet""
+  } ],
+  ""Broker Comment"" : ""Official comment has been added to broker check. Currently in the process of having charges expunged.""
+}",3/19/2021 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,5261911,Bianca,[BIANCA JADE LEE],Ince,10/5/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$21,133.50"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Student loan should be in forbearance status""
+}",3/11/2015 - 8/13/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,5261911,Bianca,[BIANCA JADE LEE],Ince,7/11/2014,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",,

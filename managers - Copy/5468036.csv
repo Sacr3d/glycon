@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,5468036,THOMAS,"[THOMAS  BUSHMAN, TOM  BUSHMAN]",BUSHMAN,9/3/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""In conducting a transaction from an existing non-qualified account in February 2015, customer alleges that he was not informed that the proceeds would need to be split between a Roth IRA and a traditional mutual fund account due to IRS contribution limits.  The customer alleges that the producer was aware that he was involved in bankruptcy proceeding and that since the monies in excess of the contribution limits were put into the traditional mutual fund, the assets were seized by the IRS."",
+  ""Damage Amount Requested"" : ""$12,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/9/2012 - 7/5/2017,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,5468036,THOMAS,"[THOMAS  BUSHMAN, TOM  BUSHMAN]",BUSHMAN,,,,,1/28/2008 - 6/1/2012,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"

@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,9/15/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$21,127.23"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/13/2019 - 3/20/2020,LINCOLN INVESTMENT (519)
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,6/27/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$62,421.83"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",1/3/2017 - 3/20/2020,LINCOLN INVESTMENT (519)
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,2/13/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$111,189.99"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/24/2011 - 10/4/2019,"LEGEND ADVISORY, LLC (104761)"
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,9/11/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,740.16"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Notice of court proceedings was sent to the wrong address.  Upon finding out about the default judgment, rep attempted to reopen the case, however, the judge sided with the plaintiff and would not reopen the proceedings.""
+}",3/21/2006 - 1/3/2017,LEGEND EQUITIES CORPORATION (30999)
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,1/13/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT MR. TISHFIELD \""ALLOWED INAPRREIATE [SIC] SALES + UNAUTHORIZED SALES OF SHARES."",
+  ""Damage Amount Requested"" : ""$3,000.00"",
+  ""Settlement Amount"" : ""$475.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""TO AVOID THE COST AND UNCERTAINTY OF LITIGATION AND WITHOUT ADMITTING ANY LIABILITY THE FIRM SETTLED THIS MATTER.""
+}",3/16/2006 - 3/27/2006,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,,,,,8/19/2005 - 1/30/2006,"OHIO SAVINGS SECURITIES, INC. (13945)"
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,,,,,9/28/2001 - 8/22/2005,MORGAN STANLEY DW INC. (7556)
+519,4165432,STEVEN,"[STEVEN B TISHFIELD, STEVEN B. TISHFIELD]",TISHFIELD,,,,,5/4/2000 - 10/23/2001,"DAVID LERNER ASSOCIATES, INC. (5397)"

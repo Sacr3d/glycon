@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17618,1643850,DAVID,[DAVID C MCLAURIN],MCLAURIN,12/17/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ]
+}",10/29/1997 - 10/20/1998,"REGIONS INVESTMENT COMPANY, INC. (17618)"
+17618,1643850,DAVID,[DAVID C MCLAURIN],MCLAURIN,8/13/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C05980033"",
+  ""DocketNumberAAO"" : ""05980033"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ]
+}",6/17/1997 - 8/20/1997,"LEGG MASON WOOD WALKER, INCORPORATED (6555)"
+17618,1643850,DAVID,[DAVID C MCLAURIN],MCLAURIN,,,,,6/17/1988 - 12/31/1989,"G. R. PHELPS & CO., INC. (173)"
+17618,1643850,DAVID,[DAVID C MCLAURIN],MCLAURIN,,,,,4/10/1987 - 7/15/1987,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)
+17618,1643850,DAVID,[DAVID C MCLAURIN],MCLAURIN,,,,,4/10/1987 - 7/14/1987,"MML INVESTORS SERVICES, INC. (10409)"

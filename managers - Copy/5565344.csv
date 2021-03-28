@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,5565344,MATTHEW,[MATTHEW M HUNT],HUNT,5/10/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$28,896.35"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I was previously employed and paid as a 1099 when I should've been W-2 employee.  I am currently on an installment agreement to pay off this item.""
+}",11/3/2009 - 10/2/2019,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,5565344,MATTHEW,[MATTHEW M HUNT],HUNT,5/10/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$103,440.05"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""7/5/15 I suffered a broker neck and spinal cord injury and spent 17 days in the hospital without health insurance.  I'm working through options to resolve.""
+}",12/8/2008 - 10/1/2009,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"

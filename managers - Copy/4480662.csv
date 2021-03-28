@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,4480662,JOHN,[],WRIGHT,4/7/1992,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Class B Misdemeanor Theft by Check"",
+    ""Disposition"" : ""Pled guilty"",
+    ""Amended Charges"" : ""Reduced to Class C Misdemeanor"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""When the fines, court costs, processing fee and restitution were made, I was unaware of pleading guilty to a misdemeanor. I simply walked down the hall to the \""Hot Check\"" department and made payment.  I never appeared in court or in front of a Judge.""
+}",4/30/2020 - Current,"WELLS FARGO CLEARING SERVICES, LLC (19616)"
+19616,4480662,JOHN,[],WRIGHT,7/24/1989,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Class B Misdemeanor Theft by Check"",
+    ""Disposition"" : ""Pled guilty"",
+    ""Amended Charges"" : ""Class C Misdemeanor Theft by Check"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""When the fees, court costs, processing fees and restitution were paid, I walked down to the \""Hot check\"" department and paid.  I was unaware to I was pleading guilty to a misdemeanor;  I never appeared in front of a judge""
+}",6/1/2009 - 5/1/2020,MORGAN STANLEY (149777)
+19616,4480662,JOHN,[],WRIGHT,2/10/1986,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Class B Misdemeanor Theft by Check"",
+    ""Disposition"" : ""Pled guilty"",
+    ""Amended Charges"" : ""Class C Misdemeanor"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""Fines, court costs, processing fee and restitution were made, I was unaware that of pleading guilty to a Class C Misdemeanor.  I simply walked down the hall to the \""Hot Check\"" department and made payment.  I did not appear in court in front of a judge.""
+}",11/20/2007 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+19616,4480662,JOHN,[],WRIGHT,,,,,10/26/2007 - 6/1/2009,MORGAN STANLEY & CO. INCORPORATED (8209)
+19616,4480662,JOHN,[],WRIGHT,,,,,4/10/2007 - 8/23/2007,"NATIONWIDE SECURITIES, INC. (11173)"
+19616,4480662,JOHN,[],WRIGHT,,,,,1/16/2002 - 3/2/2007,"FARMERS FINANCIAL SOLUTIONS, LLC (103863)"

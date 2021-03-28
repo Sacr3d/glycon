@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+312073,1070464,KEVIN,[],CLARK,6/8/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Suitability.  Activity dates 2/13/13-6/8/16.  Update - This disclosure is no longer reportable on the current U4 because it was filed more than 24 months ago and did not settle for $15,000 or more"",
+  ""Damage Amount Requested"" : ""$51,515.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Update - This disclosure is no longer reportable on the current U4 because it was filed more than 24 months ago and did not settle for $15,000 or more""
+}",2/18/2021 - Current,"WEST MICHIGAN ADVISORS, LLC (312073)"
+312073,1070464,KEVIN,[],CLARK,,,,,10/12/2010 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+312073,1070464,KEVIN,[],CLARK,,,,,8/10/2007 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+312073,1070464,KEVIN,[],CLARK,,,,,10/23/1992 - 8/21/2007,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+312073,1070464,KEVIN,[],CLARK,,,,,10/11/1989 - 11/3/1992,"RAFFENSPERGER, HUGHES & CO., INC. (699)"
+312073,1070464,KEVIN,[],CLARK,,,,,10/20/1982 - 10/12/1989,"EDWARD D. JONES & CO., L.P. (250)"

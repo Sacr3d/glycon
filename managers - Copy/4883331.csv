@@ -1,0 +1,28 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+3978,4883331,RODNEY,[],REPKO,1/11/2021,Customer Dispute,Pending,"{
+  ""Allegations"" : ""The client alleges the RR processed withdrawals from his variable annuity without his consent and harming the guarantees provided by the annuity."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/10/2014 - 1/6/2020,LINCOLN FINANCIAL ADVISORS CORPORATION (3978)
+3978,4883331,RODNEY,[],REPKO,12/31/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2020067708701"",
+  ""DocketNumberAAO"" : ""2020067708701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Repko failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Duration Explanation"" : ""Continues until required information is provided to FINRA or the suspension converts to a bar."",
+      ""Start Date"" : ""1/25/2021""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated December 31, 2020, Repko is suspended on January 25, 2021 from associating with any FINRA member firm in all capacities.  If Repko fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on April 5, 2021 from association with any FINRA member in all capacities pursuant to FINRA Rule 9552(h).""
+}",5/23/2005 - 11/13/2014,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+3978,4883331,RODNEY,[],REPKO,8/3/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,350.17"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",12/10/2004 - 11/13/2014,"VALIC FINANCIAL ADVISORS, INC. (42803)"

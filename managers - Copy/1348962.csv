@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13158,1348962,DAVID,[],DENBOER,10/13/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013038033601"",
+  ""DocketNumberAAO"" : ""2013038033601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, den Boer consented to the sanctions and to the entry of findings that he failed to ensure that his member firm established, maintained and enforced a reasonably designed compliance reporting system relating to the accuracy of customer complaint reporting. As a result, the firm failed to accurately report certain customer complaints, including reporting complaints that should not have been reported pursuant to FINRA Rule 4530. Specifically, den Boer failed to ensure that the firm's employees reviewing and processing of customer complaints relating to both the firm and its affiliated issuer were categorized and coded correctly, and failed to ensure that the firm's employees were properly disclosing and disclosing customer complaints on Form U4 and Form U5 for registered representatives associated with the firm. den Boer was the firm's chief compliance officer and was designated in the firm's written supervisory procedures as the principal responsible for supervising the firm's process for reporting customer complaints in compliance with FINRA Rule 4530. The findings stated that while den Boer delegated certain of the firm's complaint reporting process responsibilities to one of his direct reports and provided informal training of that individual, the number and types of errors made in the firm's rule 4530 filings reflects that his delegation, training and supervision were not reasonable or adequate."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""all supervisory capacities"",
+      ""Duration"" : ""30 business days"",
+      ""Start Date"" : ""10/19/2015"",
+      ""End Date"" : ""11/30/2015""
+    } ]
+  } ]
+}",6/28/2013 - 9/27/2013,"SUNAMERICA CAPITAL SERVICES, INC. (13158)"
+13158,1348962,DAVID,[],DENBOER,,,,,8/6/2002 - 5/2/2009,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (121111)"
+13158,1348962,DAVID,[],DENBOER,,,,,6/5/2001 - 10/16/2013,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+13158,1348962,DAVID,[],DENBOER,,,,,10/17/2000 - 6/28/2013,"AMERICAN GENERAL DISTRIBUTORS, INC. (37449)"
+13158,1348962,DAVID,[],DENBOER,,,,,10/13/2000 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+13158,1348962,DAVID,[],DENBOER,,,,,10/19/1999 - 10/16/2013,"VALIC FINANCIAL ADVISORS, INC. (42803)"

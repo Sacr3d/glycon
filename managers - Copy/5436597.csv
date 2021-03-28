@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+5475,5436597,CHRISTOPHER,[CJ  Lason],LASON,2/27/2018,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Possession of a controlled substance"",
+    ""Disposition"" : ""case is pending, has not yet been assigned a docket number""
+  } ],
+  ""Broker Comment"" : ""I was arrested for bringing edible marijuana gummies across the border from Colorado to Texas.  I was a resident of Colorado for over 10 years and had a medical marijuana card.  I was prescribed this medication for insomnia and migraines, and it was purchased legally in the state of Colorado.  Because it is not legal in Texas, I was arrested and charged with the highest degree of felony.  I accepted a plea deal of guilty for deferred adjudication with community supervision in lieu of a conviction.  Once my probation is complete, the charges are effectively dismissed at the state level.""
+}",1/8/2018 - 8/23/2018,USAA INVESTMENT MANAGEMENT COMPANY (5475)
+5475,5436597,CHRISTOPHER,[CJ  Lason],LASON,,,,,3/10/2017 - 1/8/2018,USAA FINANCIAL PLANNING SERVICES (106352)
+5475,5436597,CHRISTOPHER,[CJ  Lason],LASON,,,,,12/15/2016 - 8/23/2018,"USAA FINANCIAL ADVISORS, INC. (129035)"
+5475,5436597,CHRISTOPHER,[CJ  Lason],LASON,,,,,5/4/2016 - 12/2/2016,"SCOTTRADE, INC. (8206)"
+5475,5436597,CHRISTOPHER,[CJ  Lason],LASON,,,,,6/11/2008 - 3/1/2013,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,5562238,MARC,[MARR S STRAFARI],STRAFACI,4/4/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients allege bonds purchased beginning in 2011 were unsuitable."",
+  ""Settlement Amount"" : ""$6,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""No merit - market condition/poor performance complaint. Settled solely to avoid the time and expense of arbitration.""
+}",3/25/2015 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,5562238,MARC,[MARR S STRAFARI],STRAFACI,5/17/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""unsuitable recommendation Approximately 2012 - 2013"",
+  ""Damage Amount Requested"" : ""$175,000.00"",
+  ""Settlement Amount"" : ""$83,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Settled solely to avoid legal expense""
+}",8/22/2008 - Current,"HENNION & WALSH, INC. (25766)"
+126236,5562238,MARC,[MARR S STRAFARI],STRAFACI,6/6/2014,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT INVESTMENT RECOMMENDATIONS WERE NOT SUITABLE CAUSING BOTH REALIZED AND UNREALIZED LOSSES."",
+  ""Damage Amount Requested"" : ""$700,000.00"",
+  ""Settlement Amount"" : ""$84,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I DENY THE ALLEGATIONS AND WILL VIGOROUSLY DEFEND MYSELF""
+}",,

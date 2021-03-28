@@ -1,0 +1,43 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,4176077,CHARLES,[MYRICK  WINSTEAD],WINSTEAD,4/22/2019,Regulatory,Pending,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 34-85704, IA Release  5225 / April 22, 2019: The Securities and Exchange Commission deems it appropriate and in the public interest that public administrative proceedings be instituted against Charles Myrick Winstead (\""Respondent\"" or \""Winstead\""). After an investigation, the Division of Enforcement alleges that on January 22, 2018, a judgment of conviction was entered against Winstead based on his plea of guilty to one count of embezzlement in violation of Section 97-23- 19(d) of the Mississippi Code of 1972, before the Circuit Court of Madison County, Mississippi, in State of Mississippi v. Charles Myrick Winstead, Cause No. 2017-0386. On January 29, 2018, Winstead was sentenced to a prison term of 20 years, with the final 10 years suspended, and was ordered to pay restitution of $121,811.56."",
+  ""SanctionDetails"" : [ ]
+}",4/29/2005 - 8/7/2014,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,4176077,CHARLES,[MYRICK  WINSTEAD],WINSTEAD,7/24/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014042205601"",
+  ""DocketNumberAAO"" : ""2014042205601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""WITHOUT ADMITTING OR DENYING THE FINDINGS, WINSTEAD CONSENTED TO THE SANCTION AND TO THE ENTRY OF FINDINGS THAT HE REFUSED TO RESPOND TO REQUEST FOR DOCUMENTS AND INFORMATION MADE BY FINRA DURING THE COURSE OF ITS INVESTIGATION INTO ALLEGATIONS THAT HE FAILED TO PROPERLY DEPOSIT AND PROCESS A CUSTOMER'S PREMIUM PAYMENT FOR A UNIVERSAL LIFE INSURANCE POLICY, AND WHETHER HE FAILED TO TIMELY DISCLOSE MULTIPLE TAX LIENS AND CIVIL JUDGMENTS ON HIS FORM U4."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Start Date"" : ""7/24/2015""
+    } ]
+  } ]
+}",8/28/2000 - 3/8/2005,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+11173,4176077,CHARLES,[MYRICK  WINSTEAD],WINSTEAD,4/1/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""converted funds"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",,
+11173,4176077,CHARLES,[MYRICK  WINSTEAD],WINSTEAD,10/29/1981,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""1 COUNT MISDEMEANOR, GRAND LARCENY, NO CONTEST"",
+    ""Charge Type"" : ""MISDEMEANOR"",
+    ""Disposition"" : ""DISMISSED 10/30/1981, NO FINE, NO PROBATION.  CHARGES DROPPED WITH RECOMMENDATION TO ENTER MILITARY SERVICE.""
+  } ],
+  ""Broker Comment"" : ""MY FRIENDS AND I DROVE A COUPLE OF GOLF CARTS INTO A NEARBY POND.""
+}",,
+11173,4176077,CHARLES,[MYRICK  WINSTEAD],WINSTEAD,8/1/1981,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""LEFT BLANK"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""LEFT BLANK""
+  } ]
+}",,

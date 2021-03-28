@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,3185847,RICHARD,[],STEPHENS,3/22/1997,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF COLORADO DIVISION OF INSURANCE"",
+  ""Allegations"" : ""I DID NOT RECEIVE THE LICENSE RENEWAL BILL IN THE MAIL AND LICENSE WENT OUT OF  FORCE"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,500.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""PAID $1,500 FINE COMPANY PAID $3,000 FINE"",
+  ""Broker Comment"" : ""Not Provided""
+}",9/1/1999 - 11/27/2000,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (42803)"
+42803,3185847,RICHARD,[],STEPHENS,,,,,4/5/1999 - 11/27/2000,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

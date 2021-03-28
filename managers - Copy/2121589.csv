@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+129052,2121589,THOMAS,[],OMARK,11/15/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015047550801"",
+  ""DocketNumberAAO"" : ""2015047550801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Omark consented to the sanctions and to the entry of findings that he exercised discretion in executing transactions, without written authorization, in clients' accounts. The findings stated that in addition, Omark mismarked order tickets in customers' accounts for the purchase of preferred stock for his member firm affiliated company, inaccurately indicating that the purchases were unsolicited. The firm's policy prohibited its representatives from soliciting the purchase of any affiliate company's stock."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$15,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any and all capacities"",
+      ""Duration"" : ""six months"",
+      ""Start Date"" : ""11/21/2016"",
+      ""End Date"" : ""5/20/2017""
+    } ]
+  } ]
+}",1/1/2004 - 10/30/2015,PNC INVESTMENTS (129052)
+129052,2121589,THOMAS,[],OMARK,,,,,6/11/2003 - 1/1/2004,HILLIARD LYONS ASSET MANAGEMENT (453)
+129052,2121589,THOMAS,[],OMARK,,,,,4/21/1999 - 1/1/2004,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+129052,2121589,THOMAS,[],OMARK,,,,,12/23/1994 - 4/21/1999,PNC BROKERAGE CORP (34671)
+129052,2121589,THOMAS,[],OMARK,,,,,1/28/1991 - 12/23/1994,PNC SECURITIES CORP (15647)

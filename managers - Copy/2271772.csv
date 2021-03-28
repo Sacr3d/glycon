@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+45040,2271772,ELIZABETH,"[BETSY  HAMBRECHT, ELIZABETH BOYER HAMBRECHT-EU]",HAMBRECHT,1/6/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013037842601"",
+  ""DocketNumberAAO"" : ""2013037842601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Hambrecht consented to the sanctions and to the entry of findings that she submitted a complete draft research report containing the research rating, price target and research summary to a subject company before the publication of the report, and submitted the draft report to the subject company without first providing the complete draft of the research report to her member firm's legal or compliance department. The findings stated that specifically, before the publication of a pre-deal research reports that was published and distributed by a co-manager on an initial public offering (IPO), an officer of the subject company requested a copy of the draft report from the co-manager that authored the report. The co-manager declined to provide it. However, after discussions with Hambrecht and the officer of the subject company, the co-manager sent a copy of the complete draft report to Hambrecht, stating that the report will be published the next day at 1:45 p.m. After receiving the draft report and prior to the report's publication, Hambrecht shared the complete draft research report with the subject company. Thereafter, Hambrecht told the co-manager that the officer of the subject company felt the projections in the draft report were conservative in light of the imminent closing of the subject company's fiscal year. Hambrecht also told the co-manager that she and the officer of the subject company wanted to have a telephone call before the publication of the report. The report was not changed after it was shared with the subject company."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""10 business days"",
+      ""Start Date"" : ""2/1/2016"",
+      ""End Date"" : ""2/12/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fine paid in full on February 4, 2016."",
+  ""Broker Comment"" : ""As noted in the AWC, the research report at issue was not changed after it was shared with the subject company.""
+}",9/21/2010 - 6/8/2018,"W.R. HAMBRECHT + CO., LLC (45040)"
+45040,2271772,ELIZABETH,"[BETSY  HAMBRECHT, ELIZABETH BOYER HAMBRECHT-EU]",HAMBRECHT,,,,,10/11/1992 - 5/31/1995,"GOLDMAN, SACHS & CO. (361)"

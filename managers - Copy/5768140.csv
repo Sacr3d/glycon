@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,5768140,RENEE,[Renee Michelle Powers],GUTHRIE,12/21/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Compromise"",
+  ""Broker Comment"" : ""This is a settlement in a credit card modification program for my American Express ending in 61008.""
+}",3/6/2020 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,5768140,RENEE,[Renee Michelle Powers],GUTHRIE,6/26/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure"",
+  ""Broker Comment"" : ""This is a settlement in a credit card modification program for my Barclay's Card ending in 4346.""
+}",5/5/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,5768140,RENEE,[Renee Michelle Powers],GUTHRIE,,,,,4/27/2010 - 11/29/2011,"U.S. BANCORP INVESTMENTS, INC. (17868)"

@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+291396,1866991,CYNTHIA,[CINDY  SCHULTE],SCHULTE,5/3/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The client alleges the RR electronically signed her name and her son's name on a fixed insurance electronic application without their permission or consent."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The affiliate insurance company investigated the matter and concluded that the RR met with the clients in person and assisted them in completing the fixed life insurance electronic application. The RR confirmed their intent by asking to see their driver's licenses and input the appropriate information into the electronic application.  She asked them to read the information confirming they wanted her to submit the application, at which point the RR thought she had the client's permission to click the signature button on the electronic application to complete the application process.    After submitting, they discussed the need to procure an oral swab specimen for underwriting the policy.  It was at this point they decided to withdraw the application.  The RR immediately printed off the submission page and asked for a written signature withdrawing the application.  This was submitted electronically to the home office and the fixed life insurance application was stopped from processing.  No premiums were charged or paid.""
+}",8/14/2018 - Current,"FBL WEALTH MANAGEMENT, LLC (291396)"
+291396,1866991,CYNTHIA,[CINDY  SCHULTE],SCHULTE,,,,,11/25/1988 - Current,"FBL MARKETING SERVICES, LLC (5309)"
+291396,1866991,CYNTHIA,[CINDY  SCHULTE],SCHULTE,,,,,9/8/2008 - 8/10/2018,"FBL INVESTMENT MANAGEMENT SERVICES, INC. (5308)"

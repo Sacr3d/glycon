@@ -1,0 +1,26 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,9/26/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$8,425.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/26/2020 - 7/29/2020,"W&S BROKERAGE SERVICES, INC. (8099)"
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,4/28/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$16,054.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""CURRENTLY MAKING MONTHLY PAYMENTS""
+}",9/4/2002 - 11/14/2003,"HORNOR, TOWNSEND & KENT, INC. (4031)"
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,1/29/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$19,441.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/12/2000 - 7/9/2002,"NATIONWIDE SECURITIES, INC. (11173)"
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,12/29/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$32,771.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""CURRENTLY MAKING MONTHLY PAYMENTS""
+}",8/19/1999 - 5/31/2000,"FULCRUM FINANCIAL ADVISORS, INC. (44972)"
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,5/22/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$73,863.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""CURRENTLY MAKING MONTHLY PAYMENTS""
+}",10/16/1997 - 7/27/1999,MONY SECURITIES CORPORATION (4386)
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,,,,,6/12/1997 - 12/30/1997,FRANKLIN FINANCIAL SERVICES CORPORATION (5435)
+8099,853501,Curtis,[CURT  WHEATON],Wheaton,,,,,8/26/1986 - 6/4/1997,PRUCO SECURITIES CORPORATION (5685)

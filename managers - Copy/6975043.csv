@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+61,6975043,Patrick,[],Moran,8/18/2015,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Aggravated Unlawful Restraint"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""Aggravated Battery-Deadly weapon/not firearm"",
+    ""Disposition"" : ""All felony charges dropped-reduced to misdemeanor battery"",
+    ""Amended Charges"" : ""Reduced to misdemeanor battery"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Armed Robbery"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""In August 2015, I was charged with felonies related to an incident where my friends and I were trying to help recover a stolen bicycle. The felony charges were ultimately dismissed and I pled guilty to a single misdemeanor battery charge.""
+}",1/13/2020 - Current,B. C. ZIEGLER AND COMPANY (61)

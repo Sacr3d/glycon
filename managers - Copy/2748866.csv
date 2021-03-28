@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+110518,2748866,DANNY,[],SAWYER,1/9/2014,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""breach of contract and warranties; promissory estoppel; violations of Oregon securities statutes and claims under common law"",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""14-00096"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""On February 19, 2015, this matter was settled as to respondent Securities America, Inc. for $18,000. Mr. Sawyer contributed $14,868.42 to this settlement.  On March 24, 2015, an arbitration panel found Mr. Sawyer's prior firm liable for compensatory damages of $476,583 plus interest until paid in full to claimants. Representative's comments: Regarding Valic Financial Advisors (VFA) arbitration award, I do oppose the ruling and served the clients well while employed with VFA through October 2008 and successively from March 2009 thorugh 2013 while affiliated with SAI.""
+}",2/13/2009 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+110518,2748866,DANNY,[],SAWYER,,,,,11/25/2008 - Current,"SECURITIES AMERICA, INC. (10205)"
+110518,2748866,DANNY,[],SAWYER,,,,,3/17/1998 - 10/31/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+110518,2748866,DANNY,[],SAWYER,,,,,6/12/1996 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

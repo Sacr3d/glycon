@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,2148780,PAMELA,[PAMELA WYRICK ATCHLEY],BAIRD,9/7/2010,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""CLAIM ALLEGES UNSUITABILITY WITH REGARD TO MUTUAL FUNDS PURCHASED IN 2005 AND 2006."",
+  ""Damage Amount Requested"" : ""$25,000.00"",
+  ""Damages Granted"" : ""$4,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I was not named as a respondent in this arbitration. The claimant based his claims on issues surrounding the marketing of Regions Morgan Keegan funds and the fact that these investments failed in the 2007 financial crisis. The failure was not attributable to me, but was caused by a systematic failure of the marketplace. The fund in question was a suitable recommendation based on the client's net worth, investment objectives and past investing experience. I did not participate in the settlement.""
+}",2/13/2013 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,2148780,PAMELA,[PAMELA WYRICK ATCHLEY],BAIRD,2/26/2010,Customer Dispute,Dismissed,"{
+  ""Allegations"" : ""CLAIM ALLEGES MISREPRESENTATION AND UNSUITABILITY WITH REGARD TO MUTUAL FUNDS PURCHASED BETWEEN 1999 AND 2007."",
+  ""Damage Amount Requested"" : ""$557,784.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I was not named as a respondent in this arbitration. The claimant based his claims on issues surrounding the marketing of Regions Morgan Keegan funds and the fact that these investments failed in the 2007 financial crisis. The failure was not attributable to me, but was caused by a systematic failure of the marketplace. The fund in question was a suitable recommendation based on the client's net worth, investment objectives and past investing experience. I did not participate in the settlement.""
+}",8/19/1999 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2148780,PAMELA,[PAMELA WYRICK ATCHLEY],BAIRD,8/18/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIM ALLEGES MISREPRESENTATION AND UNSUITABILITY WITH REGARD TO MUTUAL FUNDS PURCHASED IN 2006."",
+  ""Damage Amount Requested"" : ""$30,000.00"",
+  ""Settlement Amount"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I was not named as a respondent in this arbitration. The claimant based his claims on issues surrounding the marketing of Regions Morgan Keegan funds and the fact that these investments failed in the 2007 financial crisis. The failure was not attributable to me, but was caused by a systematic failure of the marketplace. The fund in question was a suitable recommendation based on the client's net worth, investment objectives and past investing experience. I did not participate in the settlement.""
+}",11/10/1994 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2148780,PAMELA,[PAMELA WYRICK ATCHLEY],BAIRD,,,,,11/27/1991 - 11/25/1994,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"
+705,2148780,PAMELA,[PAMELA WYRICK ATCHLEY],BAIRD,,,,,6/3/1991 - 8/28/1991,"CENTRAL BROKERAGE SERVICES, INC. (17086)"

@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+2525,1833751,TIMOTHY,[TIMOTHY F SEXTON],SEXTON,6/30/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Releases 33-10384, 34-81071, IA Release 40-4724, Investment Company Act Release 40-32721 / June 30, 2017: The Securities and Exchange Commission deems it appropriate and in the public interest that public administrative and cease-and-desist proceedings be instituted against Respondent Timothy F. Sexton, Jr. and his firm Bantry Bay Capital, LLC.  On the basis of this Order and Respondent's Offer, the Commission finds that beginning in late 2013 and continuing through 2015, Bantry Bay, a SEC registered investment adviser during the relevant period, and its CEO, Timothy F. Sexton, Jr., charged their two clients more than $200,000 in excessive advisory fees. In addition, during 2014 and 2015, Sexton convinced these clients to wire approximately $250,000 to an account at Bantry Bay for an alleged investment in a purported money market fund. Sexton, however, never invested the clients' money in any money market fund, and instead, he misappropriated the clients' money for his own personal expenses. In addition to the fraudulent activity described above, Sexton improperly registered Bantry Bay with the Commission as an investment adviser based on false representations made on Forms ADV. Bantry Bay and Sexton claimed in the \""Assets Under Management\"" section of Forms ADV filed with the Commission during 2011 through 2015 that Bantry Bay had $200 million or more in assets under management and numerous clients. In reality, during all relevant times, Bantry Bay had only two advisory clients and had less than $4 million in assets under management. Sexton and Bantry Bay also violated client custody rules and failed to make, keep, and preserve required books and records, or make them available to SEC examiners for the period 2011 through 2015. As a result of the conduct, Sexton willfully violated and willfully aided and abetted and caused Bantry Bay's violations of Section 17(a) of the Securities Act and, Section 10(b) of the Exchange Act and Rule 10b-5 thereunder; willfully aided and abetted and caused Bantry Bay's violations of Section 203A of the Advisers Act; willfully aided and abetted and caused Bantry Bay's violations of Section 204 of the Advisers Act, and Rules 204-2(a), 204-2(b), 204-2(c)(1), 204-2(e)(1), and 204-2(f); willfully violated and willfully aided and abetted and caused Bantry Bay's violations of Sections 206(1) and 206(2) of the Advisers Act; willfully aided and abetted and caused Bantry Bay's violations of Section 206(4) of the Advisers Act and Rule 206(4)-2(a) thereunder; and willfully violated and willfully aided and abetted and caused Bantry Bay's violations of Section 207 of the Advisers Act."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/30/2017""
+    } ]
+  }, {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$100,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Prohibition""
+  } ]
+}",10/21/2003 - 11/29/2010,DEUTSCHE BANK SECURITIES INC. (2525)
+2525,1833751,TIMOTHY,[TIMOTHY F SEXTON],SEXTON,,,,,5/30/2003 - 10/21/2003,"SCUDDER INVESTOR SERVICES, INC. (754)"
+2525,1833751,TIMOTHY,[TIMOTHY F SEXTON],SEXTON,,,,,1/13/2001 - 5/30/2003,DEUTSCHE BANK SECURITIES INC. (2525)
+2525,1833751,TIMOTHY,[TIMOTHY F SEXTON],SEXTON,,,,,9/25/1997 - 1/13/2001,DB ALEX. BROWN LLC (17790)
+2525,1833751,TIMOTHY,[TIMOTHY F SEXTON],SEXTON,,,,,6/1/1992 - 5/19/1995,MITCHELL HUTCHINS ASSET MANAGEMENT INC. (583)

@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10409,1170876,THOMAS,[PAWLECKI],PAWLECKI,7/31/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""The customer alleged that the representative provided poor advice in regard to investment options and riders selected on her annuity contract since it's inception in April of 2009."",
+  ""Damage Amount Requested"" : ""$26,709.62"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/24/2008 - 6/30/2011,"MML INVESTORS SERVICES, LLC (10409)"
+10409,1170876,THOMAS,[PAWLECKI],PAWLECKI,,,,,1/22/2004 - 4/10/2006,"MML INVESTORS SERVICES, INC. (10409)"
+10409,1170876,THOMAS,[PAWLECKI],PAWLECKI,,,,,9/15/1983 - 4/10/2006,"MML INVESTORS SERVICES, INC. (10409)"
+10409,1170876,THOMAS,[PAWLECKI],PAWLECKI,,,,,8/23/1983 - 1/2/1988,MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY (2682)

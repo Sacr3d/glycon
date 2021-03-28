@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,2457288,JOHN,[],SHIELDS,5/2/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$23,550.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",8/1/2008 - 12/31/2017,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,2457288,JOHN,[],SHIELDS,1/26/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,476.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",11/18/2000 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+11173,2457288,JOHN,[],SHIELDS,12/29/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$56,614.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",3/28/1994 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+11173,2457288,JOHN,[],SHIELDS,12/29/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$71,219.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,

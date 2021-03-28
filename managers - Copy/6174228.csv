@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,6174228,STEVEN,[],HYNSON,12/15/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client claims product not due to market value decline"",
+  ""Damage Amount Requested"" : ""$6,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/2/2016 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,6174228,STEVEN,[],HYNSON,,,,,1/27/2014 - Current,"HENNION & WALSH, INC. (25766)"

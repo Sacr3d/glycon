@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,7087640,Michael,[],Eloranto,11/15/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,661.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/29/2019 - 2/10/2020,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,7087640,Michael,[],Eloranto,3/27/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,260.78"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I learned of the existence of the judgment lien in June 2019 when a Writ of Garnishment was issued, and I have been paying toward the judgment with wage garnishments since then.  Through 8/31/19 I have paid $1806.08 toward the judgment lien.""
+}",,
+8348,7087640,Michael,[],Eloranto,4/30/2013,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Colorado Supreme Court  / Office of Attorney Registration"",
+  ""Allegations"" : ""I did not complete annual registration requirements and pay fees with the State of Colorado to maintain active status as a practicing attorney beyond 2013."",
+  ""Resolution"" : ""Administrative Suspension"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Active practice of law"",
+      ""Duration"" : ""6.5 years"",
+      ""Duration Explanation"" : ""No duration of suspension, it is in place until such time as I pay registration fees dating back to 2013."",
+      ""Start Date"" : ""4/30/2013""
+    } ]
+  } ],
+  ""Broker Comment"" : ""My license to practice law as an Attorney in Active status is currently under administrative suspension until such time as I register and pay annual registration fees. The Colorado Supreme Court / Office of Attorney Registration has verbally assured me that if I wished to be an actively registered attorney, payment of fees and filing registration documents would result in removal of the suspension.  The suspension is NOT in any way disciplinary in nature.""
+}",,

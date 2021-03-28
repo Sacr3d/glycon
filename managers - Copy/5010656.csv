@@ -1,0 +1,41 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+453,5010656,TYSON,[],PALYKA,12/1/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015047511701"",
+  ""DocketNumberAAO"" : ""2015047511701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Palyka consented to the sanctions and to the entry of findings that he engaged in discretionary trading when he effected securities transactions in the accounts of customers. The findings stated that Palyka exercised discretion without having obtained prior written authorization from customers to exercise discretion and prior written acceptance of the accounts as discretionary from his member firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""20 business days"",
+      ""Start Date"" : ""12/5/2016"",
+      ""End Date"" : ""1/3/2017""
+    } ]
+  } ]
+}",1/8/2013 - 10/26/2015,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,5010656,TYSON,[],PALYKA,10/20/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""J.J.B. Hilliard, W.L. Lyons, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failed to comply with firm policy as it relates to proper trading authorization.""
+}",12/21/2012 - 10/26/2015,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+453,5010656,TYSON,[],PALYKA,10/5/2015,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Unauthorized Trading and excessive commissions."",
+  ""Damage Amount Requested"" : ""$14,483.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/12/2011 - 1/2/2013,"HANTZ FINANCIAL SERVICES, INC. (46047)"
+453,5010656,TYSON,[],PALYKA,4/4/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""CONT. SUBSTANCE-DELIVERY/MANUFACTURE POSSESS WITH INTENT TO DELIVER THE CONTROLLED SUBSTANCE MARIJUANA, 1 COUNT, FELONY, STANDS MUTE (NOLO CONTENDRE)"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""A. ACQUITTAL B. 05/18/1995""
+  } ]
+}",10/6/2005 - 1/2/2013,"HANTZ FINANCIAL SERVICES, INC. (46047)"

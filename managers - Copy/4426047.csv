@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+126236,4426047,RACHEL,"[RACHEL REYES CABILTES, RACHEL C LEVENTHAL]",LEVENTHAL,10/9/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client's recently appointed agent culled select under-performing products from a profitable portfolio the client established several years previously and alleged that they are \""unsuitable.\"""",
+  ""Damage Amount Requested"" : ""$340,608.62"",
+  ""Settlement Amount"" : ""$14,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Allegations were found to be false and this matter was ordered to be expunged, FINRA Case #20-03159.""
+}",7/14/2008 - Current,"HENNION & WALSH ASSET MANAGEMENT, INC. (126236)"
+126236,4426047,RACHEL,"[RACHEL REYES CABILTES, RACHEL C LEVENTHAL]",LEVENTHAL,,,,,8/15/2001 - Current,"HENNION & WALSH, INC. (25766)"

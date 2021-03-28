@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+291014,716811,CHARLES,[],KNOTT,4/20/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Sentinel Capital Solutions, Inc."",
+  ""Termination Type"" : ""Permitted to Resign"",
+  ""Allegations"" : ""Failure to follow internal firm policies and procedures.""
+}",12/5/2018 - 12/31/2019,"KNOTT CONSULTING, LLC (291014)"
+291014,716811,CHARLES,[],KNOTT,3/28/2016,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",7/16/2013 - 4/20/2017,SENTINEL CAPITAL SOLUTIONS (157844)
+291014,716811,CHARLES,[],KNOTT,,,,,5/6/2013 - 7/5/2013,"KNOTT JR., CHARLES ARTHUR (167655)"
+291014,716811,CHARLES,[],KNOTT,,,,,1/22/1999 - 6/30/2011,KNOTT CAPITAL MANAGEMENT (108461)

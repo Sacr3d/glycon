@@ -1,0 +1,31 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,6/6/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$66,695.15"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",3/4/2020 - Current,"ARCHER DISTRIBUTORS, LLC (158961)"
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,2/14/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""loss of employment led to house being sold in a short sale""
+}",10/19/2010 - 11/3/2016,"AMERICAN BEACON ADVISORS, INC. (105552)"
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,6/28/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$344,281.48"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/26/2009 - 10/18/2016,"FORESIDE FUND SERVICES, LLC (46106)"
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,7/1/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$112,218.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Lien is part of installment agreement with the IRS.""
+}",6/7/2002 - 10/23/2008,"INVESCO AIM PRIVATE ASSET MANAGEMENT, INC. (109264)"
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,5/19/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$228,496.76"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Agreed to an installment payment plan with the IRA to satisfy this.""
+}",11/1/1994 - 10/23/2008,"INVESCO AIM DISTRIBUTORS, INC. (7369)"
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,2/24/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$175,076.67"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Currently in an installment agreement, which aggregated all due taxes from all liens.""
+}",9/12/1991 - 9/7/1994,VAN KAMPEN MERRITT INC. (6939)
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,,,,,5/2/1986 - 8/22/1991,RELATED EQUITIES CORPORATION (11218)
+158961,1303753,SCOTT,[SCOTT EARTH WIDDER],WIDDER,,,,,1/1/1985 - 9/27/1985,"ESI SECURITIES, INC. (7905)"

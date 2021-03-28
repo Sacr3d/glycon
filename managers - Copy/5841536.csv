@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+21675,5841536,THOMAS,[],LARSON,10/23/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$815.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""LANDLORD DISPUTE OVER PAYING RENT FOR LAST MONTHNOF RESIDENCE.  THERE WERE SITUATIONS THAT OCCURRED THAT FELL UNDER THE IOWA LANDLORD/TENATE LAWS THAT WE FELT WERE IN VIOLATION OF THIS LAW.  CASE WAS LOST.""
+}",10/22/2010 - 7/7/2011,DIRECTED SERVICES LLC (21675)
+21675,5841536,THOMAS,[],LARSON,3/12/2005,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""THEFT 3RD DEGREE"",
+    ""Disposition"" : ""Pled guilty"",
+    ""Amended Charges"" : ""THEFT 4TH DEGREE"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ]
+}",,

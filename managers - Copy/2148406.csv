@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,2/2/2021,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2020067304101"",
+  ""DocketNumberAAO"" : ""2020067304101"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Viohl failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Duration Explanation"" : ""Continues until required information is provided to FINRA or the suspension converts to a bar."",
+      ""Start Date"" : ""2/26/2021""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated February 2, 2021, Viohl is suspended on February 26, 2021 from associating with any FINRA member firm in all capacities. If Viohl fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on May 5, 2021 from association with any FINRA member in all capacities pursuant to FINRA Rule 9552(h).""
+}",12/4/2018 - 7/20/2020,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,7/6/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""U.S. Bancorp Investments, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Rep was terminated for depositing checks and withdrawing funds from personal bank account without sufficient funds.""
+}",10/6/2015 - 12/27/2018,LPL FINANCIAL LLC (6413)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,9/22/2015 - 12/27/2018,LPL FINANCIAL LLC (6413)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,1/21/2014 - 9/15/2015,CETERA INVESTMENT ADVISERS LLC (105644)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,12/7/2010 - 1/21/2014,CETERA INVESTMENT SERVICES LLC (15340)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,9/21/2010 - 9/15/2015,CETERA INVESTMENT SERVICES LLC (15340)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,6/7/2006 - 9/11/2009,"TRANSAMERICA CAPITAL, INC. (8217)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,8/11/2005 - 6/6/2006,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,2/12/2004 - 8/15/2005,METLIFE SECURITIES INC. (14251)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,2/12/2004 - 8/15/2005,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,1/26/2004 - 1/29/2004,BANC ONE SECURITIES CORPORATION (16999)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,5/3/2002 - 11/4/2003,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,2/28/2001 - 11/4/2003,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,7/19/1999 - 1/9/2001,BROOKSTREET SECURITIES CORPORATION (14667)
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,9/24/1993 - 7/28/1999,"CHARLES SCHWAB & CO., INC. (5393)"
+17868,2148406,TIM,[TIM  VIOHL],VIOHL,,,,,7/19/1991 - 9/21/1993,PAINEWEBBER INCORPORATED (8174)

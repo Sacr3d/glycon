@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,6815099,Rene,[],Bardel,1/16/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I enrolled in a program with National Debt Relief and we have settled this outstanding debt.""
+}",8/6/2019 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,6815099,Rene,[],Bardel,9/18/2017,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I enrolled in a program with National Debt Relief and they are negotiating/settling some of my outstanding debts with companies""
+}",11/2/2017 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

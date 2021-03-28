@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+137045,1068809,PATRICK,[],MENDENHALL,10/1/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiff makes various legal claims related to recommendations to purchase and hold a particular security.  The specific security and activity dates are not specified."",
+  ""Damage Amount Requested"" : ""$1,000,000.00"",
+  ""Settlement Amount"" : ""$200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Client is an experienced, sophisticated investor who overall made money in his USCA accounts, settled for less than cost of defense, and there was no contribution by Mr. Mendenhall.""
+}",5/26/2016 - Current,USCA ASSET MANAGEMENT LLC (137045)
+137045,1068809,PATRICK,[],MENDENHALL,7/30/2013,Customer Dispute,Final,"{
+  ""Allegations"" : ""breach of fiduciary duty; breach of contract; fraud; violation of investment advisors and securities laws; aiding and abetting; negligence; gross negligence; negligent misrepresentation; failure to supervise; negligent supervision; unjust enrichment; restitution; and disgorgement"",
+  ""Damage Amount Requested"" : ""$3,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""13-02229"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLAIMS NOT SUPPORTED BY EVIDENCE; CLAIMANTS PORTFOLIOS NET POSITIVE WITH AVG. GAINS OF 7.4%; CLAIMS AND SETTLEMENT WERE EXPRESSLY NOT BASED ON ANY ALLEGED MISCONDUCT OF MR. MENDENHALL.""
+}",4/20/2010 - Current,USCA SECURITIES LLC (103789)
+137045,1068809,PATRICK,[],MENDENHALL,10/9/2000,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANTS ALLEGE BREACH OF FIDUCIARY DUTY, NEGLIGENCE, EXCESSIVE TRADING, UNSUITABILITY, UNAUTHORIZED TRADING OF THEIR ACCOUNTS AND FAILURE TO SUPERVISE."",
+  ""Damage Amount Requested"" : ""$1,446,335.00"",
+  ""Settlement Amount"" : ""$650,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""00-03873"",
+  ""Broker Comment"" : ""MATTER SETTLED IN MEDIATION ON 9/11/2001 WITH INTENT AND VERBAL AGREEMENT THAT MR. MENDENHALL BE RELEASED FROM ALL CLAIMS AS THERE WAS NO FAILURE TO SUPERVISE ON HIS PART, DUE TO EVENTS OF THAT DAY THIS WAS OVERLOOKED.""
+}",1/6/2010 - Current,USCA RIA LLC (152170)
+137045,1068809,PATRICK,[],MENDENHALL,,,,,8/16/1990 - 8/17/2009,UBS FINANCIAL SERVICES INC. (8174)
+137045,1068809,PATRICK,[],MENDENHALL,,,,,5/22/1989 - 8/21/1990,"SMITH BARNEY, HARRIS UPHAM & CO., INCORPORATED (7059)"
+137045,1068809,PATRICK,[],MENDENHALL,,,,,1/22/1986 - 5/22/1989,DREXEL BURNHAM LAMBERT INCORPORATED (7323)
+137045,1068809,PATRICK,[],MENDENHALL,,,,,1/13/1984 - 6/27/1984,LEHMAN BROTHERS KUHN LOEB INCORPORATED (7555)
+137045,1068809,PATRICK,[],MENDENHALL,,,,,12/23/1983 - 1/31/1986,SHEARSON LEHMAN BROTHERS INC. (7506)
+137045,1068809,PATRICK,[],MENDENHALL,,,,,10/20/1982 - 12/21/1983,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

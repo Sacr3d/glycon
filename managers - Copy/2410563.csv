@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+290405,2410563,MICHAEL,[],WHITEHOUSE,11/3/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT CLAIMS THAT REIT & ANNUITY INVESTMENTS WERE MISREPRESENTED AND UNSUITABLE."",
+  ""Settlement Amount"" : ""$84,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The claims filed on November 3, 2016 by this client against me in FINRA Arbitration No. 16-03175 were settled on Wednesday, December 12, 2018 at a FINRA-sponsored mediation.  The case was settled by my former broker-dealer's insurance company for business purposes because of the expense and delay of the arbitration proceeding. I paid nothing to this client as part of the settlement, and this client specifically acknowledged that the case was being settled with no admission of liability or wrongdoing of any sort by me. To the contrary, I vigorously disputed and defended against the allegations made by this client in the arbitration.""
+}",12/1/2017 - Current,"N.E.W. ADVISORY SERVICES, LLC (290405)"
+290405,2410563,MICHAEL,[],WHITEHOUSE,,,,,11/29/2017 - Current,"GENEOS WEALTH MANAGEMENT, INC. (120894)"
+290405,2410563,MICHAEL,[],WHITEHOUSE,,,,,8/5/2002 - 11/30/2017,"SII INVESTMENTS, INC. (2225)"
+290405,2410563,MICHAEL,[],WHITEHOUSE,,,,,5/3/1999 - 8/14/2002,PARK AVENUE SECURITIES LLC (46173)
+290405,2410563,MICHAEL,[],WHITEHOUSE,,,,,11/11/1993 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

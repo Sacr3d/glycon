@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,11/1/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048620401"",
+  ""DocketNumberAAO"" : ""2016048620401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Oler failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""2/6/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated November 1, 2016 and November 28, 2016, respectively, on February 6, 2017, Oler is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",1/27/2015 - 2/29/2016,GLOBAL RETIREMENT PARTNERS LLC (172011)
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,12/28/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""LPL Financial LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Representative failed to disclose his role of executor for estate of family member, directed transactions in account of the deceased family member without notifying Firm of client's death or converting the account following client's death, and violated Firm's document signature policy by re-using signatures of deceased client.""
+}",11/30/2010 - 1/21/2016,LPL FINANCIAL LLC (6413)
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,,,,,11/4/2009 - 11/30/2010,"NRP FINANCIAL, INC. (103717)"
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,,,,,11/4/2009 - 11/30/2010,"NRP ADVISORS, INC. (141430)"
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,,,,,7/15/2008 - 11/5/2009,CREDIT SUISSE SECURITIES (USA) LLC (816)
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,,,,,5/27/2008 - 11/5/2009,CREDIT SUISSE SECURITIES (USA) LLC (816)
+172011,2631304,WESLEY,[WESLEY  OLER],OLER,,,,,10/1/2000 - 12/19/2007,BROWN BROTHERS HARRIMAN & CO. (104487)

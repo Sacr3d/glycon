@@ -1,0 +1,56 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,7/1/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The Customer alleges selling away from the firm, unsuitable investment recommendations, misappropriation of funds, accepting a loan from a customer and misrepresentation and omission of material facts from August 2011 to August 2012."",
+  ""Damage Amount Requested"" : ""$468,900.00"",
+  ""Settlement Amount"" : ""$278,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-02366""
+}",10/23/2009 - 9/19/2012,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,10/22/2014,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""12-03926"",
+  ""DocketNumberAAO"" : ""12-03926"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""RESPONDENT ERGUN FAILED TO COMPLY WITH AN ARBITRATION AWARD OR SETTLEMENT AGREEMENT OR TO SATISFACTORILY RESPOND TO A FINRA REQUEST TO PROVIDE INFORMATION CONCERNING THE STATUS OF COMPLIANCE."",
+  ""Resolution"" : ""LETTER"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""ANY CAPACITY"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""10/22/2014""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""PURSUANT TO ARTICLE VI, SECTION 3 OF FINRA BY-LAWS, AND FINRA RULE 9554, RESPONDENT ERGUN IS SUSPENDED ON OCTOBER 22, 2014 FOR FAILURE TO COMPLY WITH AN ARBITRATION AWARD OR SETTLEMENT AGREEMENT OR TO SATISFACTORILY RESPOND TO A FINRA REQUEST TO PROVIDE INFORMATION CONCERNING THE STATUS OF COMPLIANCE.""
+}",12/9/2008 - 10/23/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,5/8/2013,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2012034101801"",
+  ""DocketNumberAAO"" : ""2012034101801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""FINRA RULES 2010, 8210 - TURKER ERGUN FAILED TO APPEAR FOR AN ON-THE-RECORD INTERVIEW REGARDING CIRCUMSTANCES OF HIS TERMINATION FROM A MEMBER FIRM AND A CUSTOMER COMPLAINT ALLEGING MISAPPROPRIATION OF AT LEAST $100,000."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""5/8/2013""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""WITHOUT ADMITTING OR DENYING THE FINDINGS, ERGUN CONSENTED TO THE DESCRIBED SANCTION AND TO THE ENTRY OF FINDINGS; THEREFORE, HE IS BARRED FROM ASSOCIATION WITH ANY FINRA MEMBER IN ANY CAPACITY.""
+}",12/5/2008 - 10/23/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,8/22/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGES POSSIBLE SELLING AWAY FROM THE FIRM AND/OR MISAPPROPRIATION OF FUNDS FROM MARCH 2012 TO AUGUST 2012."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/10/2007 - 12/10/2008,"WAMU INVESTMENTS, INC. (599)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,8/20/2012,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""CONDUCT INVOLVING DIRECTLY OR INDIRECTLY RECOMMENDING TO A CLIENT OR OTHERWISE PARTICIPATING IN A CLIENT'S PURCHASE OF SECURITIES NOT OFFERED BY THE FIRM AND ACCEPTING PERSONAL LOANS FROM A CLIENT WITHOUT FIRM APPROVAL.""
+}",1/30/2004 - 12/10/2008,"WAMU INVESTMENTS, INC. (599)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,,,,,2/26/2001 - 10/2/2002,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+7691,4347758,TURKER,[TURK  ERGUN],ERGUN,,,,,2/26/2001 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

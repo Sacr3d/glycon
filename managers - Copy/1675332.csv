@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+759,1675332,RONALD,[],BRENDENGEN,2/8/1996,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C04950062"",
+  ""DocketNumberAAO"" : ""04950062"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",1/11/2011 - Current,"SECURITIES MANAGEMENT & RESEARCH, INC. (759)"
+759,1675332,RONALD,[],BRENDENGEN,,,,,5/26/1992 - Current,"BERTHEL, FISHER & COMPANY FINANCIAL SERVICES, INC. (13609)"

@@ -1,0 +1,8 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6761035,BENJAMIN,[BENJAMIN  HOLTSINGER],HOLTSINGER,2/1/2021,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Client filed a complaint alleging registered representative forged their signature on a transfer/rollover application."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/25/2017 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6761035,BENJAMIN,[BENJAMIN  HOLTSINGER],HOLTSINGER,,,,,4/7/2017 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

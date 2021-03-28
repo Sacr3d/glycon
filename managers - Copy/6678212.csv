@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6678212,Preston,[Preston P Smith],Smith,1/1/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$211.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",11/29/2016 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6678212,Preston,[Preston P Smith],Smith,1/1/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$635.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,

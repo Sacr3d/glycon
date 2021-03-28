@@ -1,0 +1,39 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,5/30/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""PENNSYLVANIA DEPT OF BANKING AND SECURITIES - CONTACT, ASST COUNSEL DAVID MURREN, 717.787.1471"",
+  ""Allegations"" : ""From in or about April 2013 until present, Christopher A. Glover (Glover) has been registered as an investment adviser representative of and was the managing member and chief compliance officer of Cerebrum Financial Services, LLC (CFS), an investment adviser firm. As managing member and chief compliance officer, Glover acted as an \""affiliate\"" of CFS within the meaning of the applicable section of the Pennsylvania Securities Act of 1972. Glover and CFS (the respondents) collectively: failed to maintain a sufficient minimum net worth of $10,000; failed to respond to the Department's request for information; and failed to amend the balance sheet. These actions were in violation of the applicable sections of the Department's regulations and/or the Pennsylvania Securities Act of 1972."",
+  ""Resolution"" : ""FINAL ORDER AFTER RECONSIDERATION"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Temporary/Time Limited)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Broker-dealer agent, investment adviser representative and additional capacities as stated in Item #14."",
+      ""Duration"" : ""TEMPORARY"",
+      ""Start Date"" : ""6/17/2019"",
+      ""End Date"" : ""6/17/2020""
+    } ]
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$25,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Sanctions"" : ""THE SUSPENSION AND BAR SHALL REMAIN IN EFFECT UNLESS AND UNTIL ALL OF THE FOLLOWING CONDITIONS ARE MET:  AT LEAST ONE YEAR HAS ELAPSED FROM THE EFFECTIVE DATE OF THIS ORDER; RESPONDENTS HAVE PAID IN FULL THE ADMINISTRATIVE ASSESSMENT; RESPONDENTS REQUEST IN WRITING THAT THE DEPARTMENT REMOVE THE SUSPENSION AND TEMPORARY BAR; AND RESPONDENTS IN THE BUREAU'S SOLE JUDGMENT HAVE REMEDIED THE VIOLATIONS AND HAVE OTHERWISE COME INTO COMPLIANCE WITH THE 1972 ACT AND REGULATIONS.""
+}",9/9/2015 - Current,"CEREBRUM FINANCIAL SERVICES, LLC (167030)"
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,1/12/2011,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""PLAINTIFF ALLEGED THAT, SOMETIME AFTER OCTOBER 2007, ANOTHER REPRESENTATIVE DELEGATED INVESTMENT ADVISORY SERVICES TO THE ABOVE REPRESENTATIVE AND HE DID NOT DESCRIBE TO THE PLAINTIFF THE MANNER IN WHICH THE MANAGED ACCOUNT WOULD BE INVESTED.  CUSTOMER HAS ALLEGED DAMAGES AS NOTED BELOW."",
+  ""Damage Amount Requested"" : ""$2,000,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/14/2016 - 1/18/2018,TRADINGBLOCK (128605)
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,8/26/2015 - 10/2/2015,"INDIANA MERCHANT BANKING AND BROKERAGE CO., INC. (16315)"
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,8/4/2014 - 2/26/2015,IMBB INVESTMENT ADVISORS (122301)
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,10/24/2013 - 12/31/2014,"CEREBRUM FINANCIAL SERVICES, LLC (167030)"
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,3/6/2008 - 6/3/2009,NEW ENGLAND SECURITIES CORPORATION (615)
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,11/16/2005 - 6/3/2009,NEW ENGLAND SECURITIES (615)
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,7/21/2004 - 8/22/2005,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+167030,4121383,CHRISTOPHER,[CHRISTOPHER  GLOVER],GLOVER,,,,,12/13/2000 - 7/13/2004,J. B. HANAUER & CO. (6958)

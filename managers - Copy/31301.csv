@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108208,31301,ROBERT,[],BRODY,3/5/1970,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""275"",
+  ""DocketNumberAAO"" : ""275"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$100.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""STEPS HAVE BEEN TAKEN TO INSURE THAT NO FURTHER VIOLATIONS OF THIS NATURE WILL OCCUR.""
+}",1/1/1999 - 3/8/2013,INVESTMENT RESEARCH CORP (108208)
+108208,31301,ROBERT,[],BRODY,,,,,11/4/1958 - 12/31/2012,"WORLD CAPITAL BROKERAGE, INC. (37)"

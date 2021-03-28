@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,6/13/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$121,658.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The IRS has not yet notified representative Zupo of this lien.  Representative Zupo learned of this lien from a third-party company who specializes in representing individuals with liens filed against them.  Shortly thereafter Representative Zupo learned more information about this lien from FINRA.""
+}",7/2/2009 - Current,"WHITEHALL-PARKER SECURITIES, INC (10608)"
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,8/11/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$55,790.42"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Representative Zupo never received notice of the lien until FINRA notified him with its request for information dated July 28, 2016(received on August 1, 2016).  Representative Zupo changed residences in 2015, and the lien notice may have been sent to the address he once occupied.""
+}",7/1/2009 - Current,"WHITEHALL-PARKER SECURITIES, INC. (10608)"
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,8/20/2007,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER FEELS HE WAS MISLED WITH INFORMATION ABOUT THE INVESTMENT."",
+  ""Damage Amount Requested"" : ""$7,675.96"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/2/2014 - 8/19/2014,FRONTIER WEALTH STRATEGIES INC. (165932)
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,3/21/2006,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES SUITABILITY AND MISREPRESENTATION ISSUES WITH INVESTMENT."",
+  ""Damage Amount Requested"" : ""$4,341.82"",
+  ""Settlement Amount"" : ""$4,341.82"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""06-00723"",
+  ""arbitrationDocketNumber"" : """"
+}",10/2/2006 - 7/1/2009,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,1/4/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""CNT 1 DUI ALCOHOL OR DRUGS, MISD, PLEAD GUILTY CNT 2 DRIV WHILE HAVING .08 OR HIGHER, MISD, NO PLEA CNT 3 HIT AND RUN W/INJURY, FELONY, NO PLEA"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""CNT 1 - DRIVING SUSPENDED FOR 1 YR, 1 YR PROBATION, 3/10/95 CNT 2 - DISMISSED 3/13/95 CNT 3 - DISMISSED 3/13/95""
+  } ],
+  ""Broker Comment"" : ""I WAS INVOLVED IN AN ACCIDENT ON 1/4/95 IN WHICH ALCOHOL WAS INVIOLVED. I PLEAD GUILTY & AND PAID MY DEBT TO SOCIETY, FURTHERMORE THIS HAPPENED WHEN I WAS 17 YRS OLD.""
+}",9/29/2006 - 7/1/2009,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,,,,,8/5/2004 - 8/21/2006,"WM FINANCIAL SERVICES, INC. (599)"
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,,,,,10/17/2002 - 3/11/2003,MORGAN STANLEY (7556)
+10608,4509502,KENNETH,[KEN   ZUPO],ZUPO,,,,,7/15/2002 - 3/11/2003,MORGAN STANLEY DW INC. (7556)

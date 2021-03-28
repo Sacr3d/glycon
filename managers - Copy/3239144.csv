@@ -1,0 +1,16 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,3239144,KYLE,[],SADLER,8/8/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""SOC alleges RR sold client unsuitable investments."",
+  ""Damage Amount Requested"" : ""$600,000.00"",
+  ""Settlement Amount"" : ""$250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Arbitration was not filed against RR but was against the institution that RR clears trades through. FINRA rules require arbitrations to be disclosed on RR's U4 even if the arbitration is not against RR but the RR is subject of the arbitration. RR attests he followed client instructions and advised the client against executing the trades which caused significant loss. This matter was handled solely by the firm, RR did not have his own representation.  RR attests the client failed to act on the advice proved by the RR on multiple occasions throughout the client relationship.  RR attests the client communicated, in writing, full knowledge and understanding of the investments, investment disclosures, and the advice provided by the RR.""
+}",7/31/2020 - Current,"SECURITIES AMERICA, INC. (10205)"
+10205,3239144,KYLE,[],SADLER,,,,,7/31/2020 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,3239144,KYLE,[],SADLER,,,,,1/18/2011 - 8/17/2020,"CAMBRIDGE INVESTMENT RESEARCH, INC. (39543)"
+10205,3239144,KYLE,[],SADLER,,,,,1/18/2011 - 8/17/2020,"CAMBRIDGE INVESTMENT RESEARCH ADVISORS, INC. (134139)"
+10205,3239144,KYLE,[],SADLER,,,,,10/22/2008 - 2/3/2011,LPL FINANCIAL LLC (6413)
+10205,3239144,KYLE,[],SADLER,,,,,7/13/1999 - 11/3/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+10205,3239144,KYLE,[],SADLER,,,,,7/13/1999 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

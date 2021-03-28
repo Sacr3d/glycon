@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7691,3053246,Lynda-Lee,"[LYNDALEE  DYER, LYNDA-LEE  STAHL, LYNDA-LEE  VROEGINDEWEY, LYNDA-LEE  WANAMAKER]",Dyer,4/12/1977,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Issuing Worthless Check"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",10/23/2009 - 6/2/2020,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+7691,3053246,Lynda-Lee,"[LYNDALEE  DYER, LYNDA-LEE  STAHL, LYNDA-LEE  VROEGINDEWEY, LYNDA-LEE  WANAMAKER]",Dyer,3/18/1977,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Issuing Worthless Check"",
+    ""Disposition"" : ""Nolle Prosequi""
+  } ]
+}",8/14/2003 - 10/23/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+7691,3053246,Lynda-Lee,"[LYNDALEE  DYER, LYNDA-LEE  STAHL, LYNDA-LEE  VROEGINDEWEY, LYNDA-LEE  WANAMAKER]",Dyer,3/4/1977,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""WORTHLESS CHECK IN THE AMOUNT OF $88.80. CRIMINAL-WORTHLESS CHECK-PLED GUILTY, CASE #76-2097CF(A)"",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""CONVICTED 1977, PLEAD GUILTY, SENTENCED TO THREE YEARS, SERVED 18 MONTHS-PAROLED/RELEASED OFF PAROLE ON 6/10/1980, PAID CHECK OF $88.00.""
+  } ],
+  ""Broker Comment"" : ""AS STATED ABOVE THIS WAS UNDER $100.- I PLEAD GUILTY BECAUSE I HAD INDEED WRITTEN THE CHECK, HOWEVER WITH NO INTENT TO DEFRAUD ANYONE.""
+}",11/27/2001 - 8/20/2003,BANC OF AMERICA SECURITIES LLC (26091)
+7691,3053246,Lynda-Lee,"[LYNDALEE  DYER, LYNDA-LEE  STAHL, LYNDA-LEE  VROEGINDEWEY, LYNDA-LEE  WANAMAKER]",Dyer,1/25/1977,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Worthless Check - Obtaining Property More Than $150"",
+    ""Disposition"" : ""No Disposition on File""
+  } ]
+}",3/8/2000 - 9/16/2003,BANC OF AMERICA SECURITIES LLC (26091)
+7691,3053246,Lynda-Lee,"[LYNDALEE  DYER, LYNDA-LEE  STAHL, LYNDA-LEE  VROEGINDEWEY, LYNDA-LEE  WANAMAKER]",Dyer,10/21/1976,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Worthless Check - Obtaining Property More Than $150"",
+    ""Disposition"" : ""Nolle Prosequi""
+  } ]
+}",10/22/1998 - 3/16/2000,ING BARINGS LLC (6540)

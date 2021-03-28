@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108050,6785318,Amy,[Amy Jo Schwier],Armstrong,11/9/2011,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""Chapter 7 filing - This was mandatory in my divorce settlement. My now ex-spouse refused to pay his part of our joint bills (as was mandated by the court during our separation and divorce process) and this was the final result ordered.""
+}",1/15/2019 - Current,"VALMARK ADVISERS, INC. (108050)"
+108050,6785318,Amy,[Amy Jo Schwier],Armstrong,,,,,12/4/2018 - Current,"VALMARK SECURITIES, INC. (31243)"

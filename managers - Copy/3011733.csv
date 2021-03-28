@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,1/15/2019,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client alleges poor recommendation in regards to mutual funds. 4/2018-1/2019"",
+  ""Damage Amount Requested"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/24/2021 - Current,LPL FINANCIAL LLC (6413)
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,10/11/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Used a company to consolidate Debt to pay off after a year of high medical and helping family members.""
+}",7/22/2014 - 3/24/2021,"BMO HARRIS FINANCIAL ADVISORS, INC. (137115)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,10/24/2016,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Used a company to consolidate Debt to pay off after a year of high medical and helping family members""
+}",1/4/2012 - 7/21/2014,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,2/1/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges misrepresentation of a Unit Investment Trust"",
+  ""Damage Amount Requested"" : ""$11,957.00"",
+  ""Settlement Amount"" : ""$11,958.82"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/21/2009 - 1/6/2012,"FIFTH THIRD SECURITIES, INC. (628)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,9/15/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",11/9/2007 - 8/13/2009,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,,,,,4/6/2006 - 11/30/2007,"FIFTH THIRD SECURITIES, INC. (628)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,,,,,5/2/2001 - 11/30/2007,"FIFTH THIRD SECURITIES, INC. (628)"
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,,,,,5/9/2000 - 5/2/2001,OLD KENT FINANCIAL ADVISORS (17039)
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,,,,,7/9/1999 - 5/16/2000,LIBERTY SECURITIES CORPORATION (14416)
+6413,3011733,MICHAEL,[MIKE  NEW],NEW,,,,,5/21/1998 - 7/12/1999,"TCF SECURITIES, INC. (34954)"

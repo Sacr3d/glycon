@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,1464789,BOBBY,[],COBURN,8/26/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019062319501"",
+  ""DocketNumberAAO"" : ""2019062319501"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Coburn consented to the sanction and to the entry of findings that he refused to provide FINRA with requested information and documents. The findings stated that Coburn's member firm had terminated his association and stated on his Form U5 that he was involved in the solicitation of multiple clients to invest in an unapproved private securities transaction and engaged in the settlement of a related customer's complaint without the firm's knowledge or consent."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""8/26/2019""
+    } ]
+  } ]
+}",2/4/2009 - 4/15/2019,"SECURITIES AMERICA, INC. (10205)"
+10205,1464789,BOBBY,[],COBURN,3/20/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Securities America, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""RR was involved in the solicitation of multiple clients to invest in an unapproved private securities transaction and engaged in the settlement of a related customer complaint without the Firm's knowledge or consent.""
+}",1/23/2009 - 2/3/2009,"SECURITIES AMERICA, INC. (10205)"
+10205,1464789,BOBBY,[],COBURN,10/4/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The client alleges the purchase of a variable annuity was not suitable."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$54,898.34"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/15/2008 - 1/23/2009,"BRECEK & YOUNG ADVISORS, INC. (40395)"
+10205,1464789,BOBBY,[],COBURN,4/15/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer invested $30,000 in a Costa Rica real estate development and did not receive payments due under Promissory Note."",
+  ""Damage Amount Requested"" : ""$32,000.00"",
+  ""Settlement Amount"" : ""$7,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/31/2002 - 9/22/2008,LEGEND EQUITIES CORPORATION (30999)
+10205,1464789,BOBBY,[],COBURN,,,,,3/8/2000 - 1/31/2002,"NATIONWIDE SECURITIES, INC. (11173)"
+10205,1464789,BOBBY,[],COBURN,,,,,10/27/1998 - 3/20/2000,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)
+10205,1464789,BOBBY,[],COBURN,,,,,6/1/1996 - 10/21/1998,"WALNUT STREET SECURITIES, INC. (15840)"
+10205,1464789,BOBBY,[],COBURN,,,,,9/21/1989 - 6/1/1996,"NORTH AMERICAN MANAGEMENT, INC. (624)"
+10205,1464789,BOBBY,[],COBURN,,,,,4/12/1988 - 8/21/1989,AMERITAS INVESTMENT CORP. (14869)

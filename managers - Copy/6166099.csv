@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+611,6166099,Sylvia,[SYLVIA ANTIONETTE GARRETT],Garrett,11/16/1983,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""PASSING BAD CHECKS"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",11/21/2019 - Current,"MUTUAL OF OMAHA INVESTOR SERVICES, INC. (611)"
+611,6166099,Sylvia,[SYLVIA ANTIONETTE GARRETT],Garrett,3/26/1983,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""PETTY THEFT"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",5/31/2013 - 11/19/2019,"NATIONWIDE SECURITIES, LLC (11173)"

@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+104638,2190124,MARK,[MARK  MATSKO],MATSKO,6/12/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""IDAHO DEPARTMENT OF FINANCE"",
+  ""Allegations"" : ""1) USE OF DECEPTIVE/MISLEADING ADVERTISING, 2) UNSUITABLE RECOMMENDATIONS TO CLIENTS, 3) MISREPRESENTATIONS CONCERNING ADVISORY SERVICES INVOLVING FUND DISCLOSURE AND EMPLOYEE TRADING PRACTICES. 4) FAILURE TO PROMPTLY UPDATE FORM U-4, 5) MISREPRESENTATION TO A CLIENT."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""INVESTMENT ADVISER REPRESENTATIVE"",
+      ""Duration"" : ""TEN DAYS"",
+      ""Start Date"" : ""7/3/2020"",
+      ""End Date"" : ""7/12/2020""
+    } ]
+  } ]
+}",6/14/1996 - Current,"SELWAY ASSET MANAGEMENT, INC. (104638)"
+104638,2190124,MARK,[MARK  MATSKO],MATSKO,5/17/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure""
+}",11/2/1994 - 3/21/1996,D.A. DAVIDSON & CO. (199)
+104638,2190124,MARK,[MARK  MATSKO],MATSKO,4/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MR. MATSKO WAS THE MANAGING PARTNER, AND LARGEST INVESTOR IN A HEDGE FUND CALLED THE TALON FUND.  THE FUND SUFFERED IRREPARABLE DAMAGE DUE TO SEVERE MARKET VOLATILITY ON FEBRUARY 5, 2018.  A SUIT WAS SUBSEQUENTLY FILED AGAINST MR MATSKO ALLEGING SECURITIES FRAUD, LACK OF SUITABILITY, AND BREACH OF FIDUCIARY DUTY."",
+  ""Damage Amount Requested"" : ""$2,500,000.00"",
+  ""Settlement Amount"" : ""$703,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

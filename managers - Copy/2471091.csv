@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,10/9/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017055351801"",
+  ""DocketNumberAAO"" : ""2017055351801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Dufresne consented to the sanctions and to the entry of findings that he sold more than $1.6 million in unapproved fixed indexed annuities to five purchasers, two of whom were his member firm's customers, and earned more than $114,000 in commissions for these insurance transactions. The findings stated that Dufresne sought and received the firm's approval to engage in insurance brokerage as an outside business activity. However, the firm prohibited the sale of fixed indexed annuities as an outside business activity unless they were sold through and approved by the firm. Dufresne applied with a third party insurance company to become an independent agent, and he began selling two different fixed indexed annuities that had not been approved by the firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""three months"",
+      ""Start Date"" : ""11/5/2018"",
+      ""End Date"" : ""2/4/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on October 23, 2018."",
+  ""Broker Comment"" : ""Fines paid in full on October 23, 2018.""
+}",2/21/2018 - Current,REGAL INVESTMENT ADVISORS LLC (125004)
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,8/15/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Signator Investors, Inc."",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""Representative resigned during ongoing internal investigation concerning alleged conduct relating to prohibited and undisclosed outside business activity, specifically sale of unapproved fixed index annuities.""
+}",9/26/2017 - Current,"REGULUS FINANCIAL GROUP, LLC (150631)"
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,9/7/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""14:67 Theft"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""Sidney and his ex-wife accused each other of taking their wedding rings in August of 1995. Sidney was arrested and the charges were later dropped. Sidney is in the process of having the arrest expunged from hi record.""
+}",8/15/2017 - 9/5/2017,"DORSEY & COMPANY, INC. (1668)"
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,,,,,7/29/2004 - 3/9/2012,"SIGNATOR INVESTORS, INC. (468)"
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,,,,,2/8/1995 - 8/18/2017,"SIGNATOR INVESTORS, INC. (468)"
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,,,,,2/8/1995 - 5/1/1997,JOHN HANCOCK MUTUAL LIFE INSURANCE COMPANY (5181)
+125004,2471091,SIDNEY,[SKIP  DUFRESNE],DUFRESNE,,,,,5/6/1994 - 1/26/1995,"MARQUIS INVESTMENTS, L.L.C. (17121)"

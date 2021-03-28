@@ -1,0 +1,25 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+16330,1179121,WILLIAM,[],MEREDITH,6/27/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$13,973.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Due to financial difficulties, my American Express account was closed and sent to a collection agency.  Even though I was already on an agreed upon payment plan with the collection agency, the attorney for the creditor, unbeknownst to me, filed a judgment.  I continue to make installment payments per the agreement and I expect to pay this debt in full as soon as my income allows.""
+}",10/31/2018 - 12/31/2019,FIRST DOMINION CAPITAL CORP. (16330)
+16330,1179121,WILLIAM,[],MEREDITH,5/21/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$14,290.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""I have been on an installment plan with the IRS and I was unaware that a judgment had been filed by the IRS.  I have been abiding by the terms of my monthly payment plan with the IRS for the last five years.""
+}",1/9/2015 - 11/4/2016,FIRST DOMINION CAPITAL CORP. (16330)
+16330,1179121,WILLIAM,[],MEREDITH,4/27/2004,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLAIM ALLEGES MISREPRESENTATION WITH REGARD TO STOCK PURCHASES.  ALLEGED DAMAGES ARE $25,000 TO $30,000"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""NEITHER ISCI NOR MASSIE MEREDITH HAS SEEN THE COMPLAINT.  MORGAN KEEGAN HAS NOT DISCLOSED IT.  MASSIE MEREDITH STATES THAT HE DEALT WITH ALL CLIENTS EQUITABLY AND FAIRLY, AND THAT MR. CARNEY WAS NO EXCEPTION.  MASSIE MEREDITH, SINCE NOT PRIVY TO THE COMPLAINT, DOES NOT KNOW WHAT ALLEGATIONS HAVE BEEN MADE AGAINST HIM SPECIFICALLY.  ALL INFORMATION ON THIS FILING IS FROM THE MORGAN KEEGAN FILING.""
+}",1/23/2012 - 9/3/2013,KELSON CAPITAL LLC (149477)
+16330,1179121,WILLIAM,[],MEREDITH,,,,,6/28/2007 - 11/18/2010,WASHINGTON SECURITIES CORPORATION (46213)
+16330,1179121,WILLIAM,[],MEREDITH,,,,,2/5/2004 - 4/25/2005,"INVESTORS SECURITY COMPANY, INC. (2331)"
+16330,1179121,WILLIAM,[],MEREDITH,,,,,8/11/2003 - 12/31/2003,"INVESTORS SECURITY COMPANY, INC. (2331)"
+16330,1179121,WILLIAM,[],MEREDITH,,,,,2/10/2003 - 9/5/2003,"BANC OF AMERICA INVESTMENT SERVICES, INC. (16361)"
+16330,1179121,WILLIAM,[],MEREDITH,,,,,5/18/1999 - 1/7/2003,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+16330,1179121,WILLIAM,[],MEREDITH,,,,,4/1/1999 - 1/7/2003,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+16330,1179121,WILLIAM,[],MEREDITH,,,,,10/20/1983 - 4/30/1999,FIRST UNION CAPITAL MARKETS CORP. (6124)

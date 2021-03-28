@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+19616,1326171,JOHN,[],ENRIGHT,4/18/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""The client alleges the financial advisor provided poor recommendation to sell her assets and move to a fee based program in September 2015 and she incurred a tax liability."",
+  ""Damage Amount Requested"" : ""$19,700.00"",
+  ""Settlement Amount"" : ""$2,388.20"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""After completion of the firm's investigation, the client's claim was resolved in the amount of $2,388.20. The financial advisor was not required to contribute to the settlement.""
+}",3/18/2020 - Current,"WELLS FARGO CLEARING SERVICES, LLC (19616)"
+19616,1326171,JOHN,[],ENRIGHT,,,,,6/25/2013 - 3/19/2020,EDWARD JONES (250)
+19616,1326171,JOHN,[],ENRIGHT,,,,,5/21/2013 - 3/19/2020,EDWARD JONES (250)
+19616,1326171,JOHN,[],ENRIGHT,,,,,5/5/2011 - 4/18/2013,RMB CAPITAL MANAGEMENT (134249)
+19616,1326171,JOHN,[],ENRIGHT,,,,,9/24/2002 - 1/13/2011,"RBC CAPITAL MARKETS, LLC (31194)"
+19616,1326171,JOHN,[],ENRIGHT,,,,,9/23/2002 - 1/13/2011,"RBC CAPITAL MARKETS, LLC (31194)"
+19616,1326171,JOHN,[],ENRIGHT,,,,,7/7/1998 - 6/5/2002,"FIRST UNION SECURITIES, INC. (19616)"
+19616,1326171,JOHN,[],ENRIGHT,,,,,5/26/1989 - 7/7/1998,PRUDENTIAL SECURITIES INCORPORATED (7471)
+19616,1326171,JOHN,[],ENRIGHT,,,,,6/16/1988 - 6/19/1989,DREXEL BURNHAM LAMBERT INCORPORATED (7323)
+19616,1326171,JOHN,[],ENRIGHT,,,,,4/25/1986 - 7/1/1988,SHEARSON LEHMAN HUTTON INC. (7506)

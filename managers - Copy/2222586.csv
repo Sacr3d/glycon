@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,2/25/2021,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Customer alleges that between August 2019 and October 2019 IAR made unsuitable investment recommendations and concentrated account in Medley Capital Corporation."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Claimant has filed a compliant with FINRA against the representative's previous employer making largely identical allegations.  Date reported was 11/05/2020.   Docket/Case#: 20-03590.""
+}",7/12/2019 - Current,"GLACIER POINT ADVISORS, LLC (219515)"
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,12/8/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""4.Customers allege that between October 2017 through December 2018 representative made discretionary investments and concentrated their accounts in a non-diversified, closed end management company that was not consistent with their investment objectives."",
+  ""Damage Amount Requested"" : ""$4,800,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/30/2017 - 7/5/2019,LPL FINANCIAL LLC (6413)
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,10/8/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Customer alleges that between October 2018 and December 2018 representative made unsuitable investment recommendations and concentrated claimants' accounts in Medley Capital Corporation."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/24/2012 - 7/5/2019,LPL FINANCIAL LLC (6413)
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,11/22/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT BETWEEN 2011 AND 2019 ADVISOR MADE UNAUTHORIZED AND UNSUITABLE PURCHASES OF THINLY TRADED SHARES OF MEDLEY CAPITAL CORPORATION RESULTING IN MORE THAN 50% CONCENTRATION IN THE CUSTOMER'S ACCOUNT."",
+  ""Settlement Amount"" : ""$70,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/30/2009 - 5/23/2012,"NBC SECURITIES, INC. (17870)"
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,4/19/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMAINTS ALLEGE THAT BETWEEN 2012 AND THE PRESENT, ADVISOR ENGAGED IN FRAUDULENT TRANSACTIONS IN UNSUITABLE AND RISKY INVESTMENTS, INCLUDING THE UNAUTHORIZED USE OF MARGIN."",
+  ""Settlement Amount"" : ""$500,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""19-01028"",
+  ""Broker Comment"" : ""I deny any wrongdoing in the handling of these clients' accounts and will vigorously defend against these allegations.  Specifically, I deny that any of the transactions I recommended were unsuitable given the stated investment objective for the accounts.   I also deny that any of the transactions, including the use of margin in the clients' accounts, was unauthorized.""
+}",4/9/2007 - 11/6/2009,"COLONIAL BROKERAGE, INC. (111668)"
+219515,2222586,KEVIN,[KEVIN  MCCALLUM],MCCALLUM,,,,,5/11/1993 - 3/5/2007,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"

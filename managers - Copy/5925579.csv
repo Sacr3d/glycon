@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+7874,5925579,ROMAN,[],KOBRIN,2/21/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""(customer name) and (customer name) filed a class-action claim against TD Ameritrade and Sheaff Brock Investment Advisors, alleging the \""put options income strategy\"" sold by Roman Kobrin in January 2014 contradicted the strategy described in writing and orally."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/30/2016 - Current,"LBMZ SECURITIES, INC. (7874)"
+7874,5925579,ROMAN,[],KOBRIN,,,,,1/9/2015 - Current,"ZACKS INVESTMENT MANAGEMENT, INC. (110897)"
+7874,5925579,ROMAN,[],KOBRIN,,,,,1/26/2012 - 7/14/2014,"TD AMERITRADE, INC. (7870)"
+7874,5925579,ROMAN,[],KOBRIN,,,,,1/26/2012 - 7/14/2014,"AMERIVEST INVESTMENT MANAGEMENT, LLC (111514)"
+7874,5925579,ROMAN,[],KOBRIN,,,,,6/9/2011 - 1/25/2012,"HORNOR, TOWNSEND & KENT, INC. (4031)"

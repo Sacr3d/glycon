@@ -1,0 +1,72 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+25803,2496586,ELLIOT,[],HARRIS,12/28/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Clients allege breach of contract, fraud/negligence, unauthorized transactions, churning, breach of fiduciary duty, and misrepresentation from 11/2009 to 12/2015."",
+  ""Damage Amount Requested"" : ""$1,150,000.00"",
+  ""Settlement Amount"" : ""$169,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/14/2010 - 12/21/2015,"TRIAD ADVISORS, INC. (25803)"
+25803,2496586,ELLIOT,[],HARRIS,7/1/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""BREACH OF CONTRACT; BREACH OF THE IMPLIED COVENANT OF GOOD FAITH AND FAIR DEALING; NEGLIGENCE; UNAUTHORIZED TRANSACTIONS/CHURNING; BREACH OF FIDUCIARY DUTY; FAILURE TO SUPERVISE/NEGLIGENT SUPERVISION;"",
+  ""Damage Amount Requested"" : ""$900,000.00"",
+  ""Settlement Amount"" : ""$145,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/28/2009 - 12/16/2015,LADENBURG THALMANN ASSET MANAGEMENT INC (108604)
+25803,2496586,ELLIOT,[],HARRIS,6/14/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015048233601"",
+  ""DocketNumberAAO"" : ""2015048233601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Harris consented to the sanction and to the entry of findings that he failed to provide documents and information requested by FINRA during the course of its investigation into allegations that he recommended unsuitable trades and engaged in unauthorized trading."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/14/2016""
+    } ]
+  } ]
+}",7/22/2009 - 12/16/2015,LADENBURG THALMANN & CO. INC. (505)
+25803,2496586,ELLIOT,[],HARRIS,6/3/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGED BREACH OF CONTRACT, BREACH OF IMPLIED COVENANT OF GOOD FAITH AND FAIR DEALING, NEGLIGENCE, UNAUTHORIZED TRANSACTIONS/CHURNING, BREACH OF FIDUCIARY DUTY, FAILURE TO SUPERVISE/NEGLIGENT SUPERVISION, VIOLATION OF THE TEXAS DECEPTIVE TRADE PRACTICES ACT, VIOLATION OF THE TEXAS SECURITIES ACT"",
+  ""Damage Amount Requested"" : ""$1,900,000.00"",
+  ""Settlement Amount"" : ""$1,250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/1/2009 - 8/11/2009,MORGAN STANLEY SMITH BARNEY (149777)
+25803,2496586,ELLIOT,[],HARRIS,5/31/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANTS ALLEGE BREACH OF CONTRACT, BREACH OF THE IMPLIED COVENANT OF GOOD FAITH AND FAIR DEALING, NEGLIGENCE, UNAUTHORIZED TRANSACTIONS/CHURNING, BREACH OF FIDUCIARY DUTY, FAILURE TO SUPERVISE/NEGLIGENT SUPERVISION, VIOLATION OF THE TEXAS DECEPTIVE TRADE PRACTICES ACT, AND VIOLATION OF THE TEXAS SECURITIES ACT"",
+  ""Damage Amount Requested"" : ""$1,500,000.00"",
+  ""Settlement Amount"" : ""$825,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/4/2008 - 6/1/2009,CITIGROUP GLOBAL MARKETS INC. (7059)
+25803,2496586,ELLIOT,[],HARRIS,5/20/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANTS ALLEGE CHURNING, UNSUITABILITY, COMMON LAW FRAUD, BREACH OF CONTRACT, NEGLIGENT SUPERVISION, AND BREACH OF FIDUCIARY DUTY"",
+  ""Damage Amount Requested"" : ""$70,000.00"",
+  ""Settlement Amount"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/24/2006 - 1/15/2008,"AXA ADVISORS, LLC (6627)"
+25803,2496586,ELLIOT,[],HARRIS,7/16/2009,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MORGAN STANLEY SMITH BARNEY LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""FA SUBMITTED A TELEPHONE LOG THAT CONTAINED FALSE INFORMATION DURING A REVIEW OF CERTAIN CLIENT TRADES."",
+  ""Broker Comment"" : ""I STRONGLY DISPUTE THE VALIDITY OF THIS CLAIM AND HAVE RETAINED COUNSEL TO OPPOSE IT.  I BELIEVE I WAS WRONGLY TERMINATED DUE TO THE SMITH BARNEY MORGAN STANLEY MERGER.""
+}",8/31/2005 - 1/15/2008,"AXA ADVISORS, LLC (6627)"
+25803,2496586,ELLIOT,[],HARRIS,3/23/1998,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THAT HE WAS CHARGED EXCESSIVE COMMISSIONS FOR TRADES DONE IN HIS ACCOUNT. HE DID NOT SPECIFY DAMAGES."",
+  ""Settlement Amount"" : ""$8,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THIS MATTER WAS SETTLED IN THE AMOUNT OF $8,000. WITHOUT ADMITTING LIABILITY, THIS MATTER WAS SETTLED IN THE INTERESTS OF CUSTOMER RELATIONS AND TO AVOID THE COSTS AND UNCERTAINTIES OF LITIGATION. I WAS NOT ASKED TO CONTRIBUTE TO THIS SETTLEMENT. NOT PROVIDED""
+}",6/9/2004 - 9/13/2005,LADENBURG THALMANN ASSET MANAGEMENT INC (108604)
+25803,2496586,ELLIOT,[],HARRIS,,,,,11/20/2002 - 9/9/2005,"LADENBURG, THALMANN & CO., INC. (505)"
+25803,2496586,ELLIOT,[],HARRIS,,,,,7/18/1994 - 11/20/2002,LADENBURG CAPITAL MANAGEMENT INC. (14623)

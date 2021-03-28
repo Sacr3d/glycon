@@ -1,0 +1,33 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4486552,JOHN,[JOHN D WADE],WADE,7/6/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that funds were transferred from her money market account into an unauthorized mortgage account, and that the only person with access to her accounts was the representative."",
+  ""Damage Amount Requested"" : ""$23,672.66"",
+  ""Settlement Amount"" : ""$58,566.91"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/19/2011 - 2/14/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4486552,JOHN,[JOHN D WADE],WADE,6/4/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018058354101"",
+  ""DocketNumberAAO"" : ""2018058354101"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Wade consented to the sanction and to the entry of findings that he converted funds totaling $105,712.18 from his member firm's elderly customers without authorization to pay his own mortgage. The findings stated that Wade electronically transferred without authorization $47,570.47 from one of the elderly customers' checking account (at a bank affiliated with the firm) to Wade's own mortgage account. Wade similarly used funds from another elderly customer to pay his own mortgage. Wade had this customer withdraw funds from his firm account via third-party checks - in amounts totaling $51,141.71 - and write a check in the amount of $7,000 from his checking account (at a bank affiliated with the firm), ostensibly to invest in REITs. Wade did not use those funds for their intended purpose, to invest in real estate investment trusts (REITs) for the customer. Rather, Wade used those checks to pay his own mortgage."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/4/2018""
+    } ]
+  } ]
+}",5/17/2011 - 2/14/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4486552,JOHN,[JOHN D WADE],WADE,8/6/2012,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",1/3/2011 - 5/18/2011,"WELLS FARGO ADVISORS, LLC (19616)"
+17868,4486552,JOHN,[JOHN D WADE],WADE,,,,,7/17/2006 - 1/3/2011,"WELLS FARGO INVESTMENTS, LLC (10582)"
+17868,4486552,JOHN,[JOHN D WADE],WADE,,,,,10/25/2004 - 7/17/2006,CITICORP INVESTMENT SERVICES (23988)
+17868,4486552,JOHN,[JOHN D WADE],WADE,,,,,9/20/2002 - 10/21/2004,EDWARD JONES (250)
+17868,4486552,JOHN,[JOHN D WADE],WADE,,,,,3/18/2002 - 9/24/2002,MERRILL LYNCH PIERCE FENNER & SMITH INC. (7691)
+17868,4486552,JOHN,[JOHN D WADE],WADE,,,,,2/5/2002 - 9/24/2002,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

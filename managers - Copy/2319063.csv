@@ -1,0 +1,47 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,7/15/2019,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client is requesting the return of investment losses in TD Ameritrade retirement account, stating that investments were not suitable and above her risk tolerance."",
+  ""Damage Amount Requested"" : ""$78,199.02"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/10/2018 - Current,"GLOBAL VIEW CAPITAL MANAGEMENT, LTD (158292)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,3/7/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is alleging fraud, negligence, misrepresentation and suitability relating to MLP and leveraged/inverse ETF investments occurring from March 2012 to May 2015."",
+  ""Settlement Amount"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/9/2015 - 12/31/2016,"FORTUNE FINANCIAL SERVICES, INC. (42150)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,3/16/2017,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Regulator Statement"" : ""Proceedings in FINRA Arbitration Cases #16-01053 and #16-02005 against Jeffrey Butler were stayed by Bankruptcy proceedings in the U.S. Bankruptcy Court, District of Eastern Wisconsin, Case #17-22141-svk.""
+}",3/21/2012 - 5/30/2015,"CONCORDE INVESTMENT SERVICES, LLC (151604)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,7/29/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is alleging suitability issues relating to equity purchases in 2014 and 2015"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-02005""
+}",1/10/2011 - 3/27/2012,"STERNE AGEE FINANCIAL SERVICES, INC. (18456)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,8/6/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT IS ALLEGING NEGLIGENCE, FRAUD AND SUITABILITY ISSUES RELATING TO EQUITY PURCHASES OCCURRING IN 2014 AND 2015"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$135,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-01053""
+}",7/15/2009 - 8/24/2010,"CEDAR CREEK SECURITIES, INC. (118498)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,3/31/2008,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMERS ALLEGE THAT REGISTERED REPRESENTATIVE MADE UNSUITABLE BUY AND SELL RECOMMENDATIONS WITH RESPECT TO MUTUAL FUND INVESTMENTS. ALLEGED DAMAGES ARE UNSPECIFIED BUT REASONABLY BELIEVED TO BE IN EXCESS OF $5,000."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$5,809.99"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/26/2008 - 8/7/2017,JEFFREY L. BUTLER (147117)
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,,,,,10/24/2005 - 12/2/2008,"UVEST FINANCIAL SERVICES GROUP, INC. (13787)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,,,,,1/1/2004 - 11/9/2005,"ING FINANCIAL PARTNERS, INC. (2882)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,,,,,1/10/1994 - 1/1/2004,"LOCUST STREET SECURITIES, INC. (1703)"
+158292,2319063,JEFFREY,"[JEFF  BUTLER, JEFFREY L. BUTLER, JEFFREY  BUTLER]",BUTLER,,,,,7/30/1993 - 1/4/1994,MONY SECURITIES CORP. (4386)

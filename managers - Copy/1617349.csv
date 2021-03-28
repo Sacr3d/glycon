@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,1617349,DONNA,[DONNA  DAVIS],PAVLOS,11/4/1993,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C8A920041"",
+  ""DocketNumberAAO"" : ""8920041"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",5/3/1999 - 12/8/2005,PARK AVENUE SECURITIES LLC (46173)
+46173,1617349,DONNA,[DONNA  DAVIS],PAVLOS,6/26/1992,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C8A920041"",
+  ""DocketNumberAAO"" : ""8920041"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",1/10/1995 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,1617349,DONNA,[DONNA  DAVIS],PAVLOS,,,,,5/28/1992 - 7/30/1993,"MML INVESTORS SERVICES, INC. (10409)"
+46173,1617349,DONNA,[DONNA  DAVIS],PAVLOS,,,,,1/21/1987 - 6/3/1991,AMERICAN EXPRESS FINANCIAL ADVISORS INC. (6363)

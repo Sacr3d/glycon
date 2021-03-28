@@ -1,0 +1,95 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,7/7/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,585.63"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""While the principal judgement amount is $1585.63, there are $205 in court costs, $355.88 in pre-judgement interest, $400 in attorney fees, and a post-judgement interest rate at 8% per annum. At the time the judgement was order, the total amount due was $2546.51.""
+}",2/18/2020 - Current,"KCD FINANCIAL, INC. (127473)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,6/2/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,343.35"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""While the principal judgement amount is $1343.35, there is $205 in court costs, $299.67 in interest, and $500 in attorney fees (accruing interest at 8% per annum)for an original total amount of $2348.02.""
+}",7/14/2017 - 3/13/2018,CAPE SECURITIES INC. (7072)
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,10/18/1996,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""STOPING PAYMENT WITH THE INTENT TO DEFRAUD.  5 COUNTS. FELONY CHARGES. PLEAD NOT GUILTY. NOT INVESTMENT RELATED."",
+    ""Charge Type"" : ""FELONY"",
+    ""Disposition"" : ""ALL COUNTS DISCHARGED AND DISMISSED WITH PREJUDICE.""
+  } ]
+}",2/22/2016 - 7/13/2017,FREEDOM INVESTORS CORP. (23714)
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,12/17/1993,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""93-0039"",
+  ""DocketNumberAAO"" : ""93-0039"",
+  ""Initiated By"" : ""CBOE"",
+  ""Allegations"" : ""See summary"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$3,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""fined $3,500 and censured"",
+  ""Broker Comment"" : ""Not Provided""
+}",11/14/2013 - 6/6/2014,"MERRIMAC CORPORATE SECURITIES, INC. (35463)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,11/1/1989,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""890155A"",
+  ""DocketNumberAAO"" : ""890155"",
+  ""Initiated By"" : ""CHICAGO BOARD OPTIONS EXCHANGE"",
+  ""Allegations"" : ""ALLEGED THAT STEIN A NOMINEE OF PARKER STEIN, INC. IMPROPERLY UTILIZED BOTH SPACE ON THE FLOOR OF THE CBOE WAS A MEMBER, PARKER STEIN, INC WAS NOT."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Sanction Details"" : ""FINED $5000 AND CENSURED, PARKER STEIN, INC BECAME A MEMBER AND STINE CONTINUED FLOOR OPERATIONS AND TRADING PAYMENTS WERE MADE TO CBOE FOR BOOTH SPACE.  CBOE ADVISED NASD THAT THIS MATTER DID NOT CONSTITUTE A MATERIAL VIOLATION AND HAD NO IMPACT ON STEINS GRANDFATHERED STATUS FOR CONTINUING EDUCATION."",
+  ""Broker Comment"" : ""Not Provided""
+}",5/13/2009 - 11/9/2009,"SEABOARD SECURITIES, INC. (755)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,6/1/1982,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""790033"",
+  ""DocketNumberAAO"" : ""790033"",
+  ""Initiated By"" : ""CHICAGO BOARD OPTIONS EXCHANGE"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",4/27/2009 - 5/5/2009,"SPARTAN SECURITIES GROUP, LTD. (104478)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,6/1/1982,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""82-0081"",
+  ""DocketNumberAAO"" : ""82-0081"",
+  ""Initiated By"" : ""CHICAGO BOARD OPTIONS EXCHANGE"",
+  ""Resolution"" : ""Decision & Order of Offer of Settlement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",8/18/1998 - 9/30/1998,"EMPIRE FINANCIAL GROUP, INC. (28759)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,12/1/1980,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""81-005"",
+  ""DocketNumberAAO"" : ""81-005"",
+  ""Initiated By"" : ""CHICAGO BOARD OPTIONS EXCHANGE"",
+  ""Allegations"" : ""FIGHTING ON TRADING FLOOR"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,000.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""PAID $1000 FINE"",
+  ""Broker Comment"" : ""Not Provided""
+}",4/28/1995 - 5/1/1995,PROGRAM TRADING CORP. (36740)
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,5/21/1993 - 8/30/1996,"STEIN, SHORE SECURITIES, INC. (31294)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,7/9/1991 - 5/14/1993,"MARSH, BLOCK & CO. INC. (11194)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,10/17/1990 - 11/28/1990,KESSLER ASHER CLEARING INC. (19493)
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,9/14/1988 - 8/22/1989,"LIT AMERICA, INC. (22381)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,8/14/1984 - 1/23/1988,"WALSH, GREENWOOD & CO. (8068)"
+127473,1015794,Ben,"[BARRY BERNAT STEIN, BEN BERNAT STEIN, Ben B Stein]",Stein,,,,,4/12/1984 - 6/21/1984,"RLR SECURITIES GROUP, INC. (7952)"

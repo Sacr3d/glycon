@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+112697,1350253,ROBERT,[],CLAYTON,1/17/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Client alleges Mr. Clayton should have been paying insurance premiums for her Variable Whole Life policy. A policy loan was generated to pay the premiums totaling $36,176.80. [Customer Name] believes Mr. Clayton should pay the balance."",
+  ""Damage Amount Requested"" : ""$36,176.80"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Mr. Clayton never paid the premiums for client's policy, nor was there an agreement to do so.""
+}",12/11/2007 - Current,"AMERICAN PORTFOLIOS ADVISORS, INC (112697)"
+112697,1350253,ROBERT,[],CLAYTON,,,,,12/3/2007 - Current,"AMERICAN PORTFOLIOS FINANCIAL SERVICES, INC. (18487)"
+112697,1350253,ROBERT,[],CLAYTON,,,,,8/6/2004 - 12/4/2007,PARK AVENUE SECURITIES LLC (46173)
+112697,1350253,ROBERT,[],CLAYTON,,,,,5/3/1999 - 12/4/2007,PARK AVENUE SECURITIES LLC (46173)
+112697,1350253,ROBERT,[],CLAYTON,,,,,5/21/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+112697,1350253,ROBERT,[],CLAYTON,,,,,4/16/1985 - 4/7/1998,"JOHN HANCOCK DISTRIBUTORS, INC. (468)"
+112697,1350253,ROBERT,[],CLAYTON,,,,,4/16/1985 - 5/1/1997,JOHN HANCOCK MUTUAL LIFE INSURANCE COMPANY (5181)

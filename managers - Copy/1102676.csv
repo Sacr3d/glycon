@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6363,1102676,WARREN,[],LOCKE,12/28/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,806.13"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",7/25/2014 - Current,"AMERIPRISE FINANCIAL SERVICES, LLC (6363)"
+6363,1102676,WARREN,[],LOCKE,12/2/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$33,327.05"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",7/1/2013 - 7/25/2014,"MUTUAL ADVISORS, LLC (167658)"
+6363,1102676,WARREN,[],LOCKE,1/20/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$15,016.06"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",4/30/2008 - 7/9/2013,"MUTUAL SECURITIES, INC. (13092)"
+6363,1102676,WARREN,[],LOCKE,3/10/1998,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""MR LOCKE FAILED TO PROMPTLY SUBMIT CUSTOMER FUNDS TO DESIGNATED MUTUAL FUNDS COMPANIES DAMAGES ALLEGED $324.72"",
+  ""Damage Amount Requested"" : ""$324.72"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/11/1998 - 7/25/2014,"MUTUAL SECURITIES, INC. (13092)"
+6363,1102676,WARREN,[],LOCKE,6/24/1965,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""2ND DEGREE BURGLARY"",
+    ""Disposition"" : ""THREE YEARS PROBATION""
+  } ],
+  ""Broker Comment"" : ""SEE OTHER SIDE.""
+}",5/15/1990 - 3/24/1998,"FIRST ASSOCIATED SECURITIES GROUP, INC. (20597)"
+6363,1102676,WARREN,[],LOCKE,,,,,7/11/1988 - 4/30/1990,PAINEWEBBER INCORPORATED (8174)
+6363,1102676,WARREN,[],LOCKE,,,,,4/1/1986 - 7/11/1988,"BIRR, WILSON SECURITIES, INC. (17569)"
+6363,1102676,WARREN,[],LOCKE,,,,,6/7/1983 - 4/1/1986,"BIRR, WILSON & CO., INC. (93)"

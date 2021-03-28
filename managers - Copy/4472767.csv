@@ -1,0 +1,64 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10645,4472767,BRYAN,[],LIGHTSEY,8/8/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048719203"",
+  ""DocketNumberAAO"" : ""2016048719203"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Lightsey consented to the sanction and to the entry of findings that he failed to appear for FINRA requested on-the-record testimony in connection with an inquiry into the circumstances surrounding his discharge from his member firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""8/8/2017""
+    } ]
+  } ]
+}",3/7/2016 - 9/1/2016,"INTERNATIONAL ASSETS ADVISORY, LLC (10645)"
+10645,4472767,BRYAN,[],LIGHTSEY,3/2/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016048719201"",
+  ""DocketNumberAAO"" : ""2016048719201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Lightsey failed to respond to FINRA request for information and to appear for the testimony."",
+  ""Resolution"" : ""letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Duration Explanation"" : ""Continues until required information is provided to FINRA or the suspension converts to a bar."",
+      ""Start Date"" : ""5/18/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated March 2, 2017, Lightsey was scheduled to be suspended on March 27, 2017, from associating with any FINRA member in any capacity. The suspension was delayed due to his stated intent to testify in this matter. Because of Lightsey's failure to appear for the testimony on May 11, 2017, his suspension is becoming effective today, May 18, 2017. If Lightsey fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on June 5, 2017, from association with any FINRA member in any capacity pursuant to FINRA Rule 9552(h).""
+}",10/30/2008 - 1/29/2016,"AXA ADVISORS, LLC (6627)"
+10645,4472767,BRYAN,[],LIGHTSEY,8/22/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Florida Office of Financial Regulation"",
+  ""Allegations"" : ""Misrepresentation, False Statement, Concealment of Material Fact, Fraudulent Transactions and Engaging in Prohibited Business Practices"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$25,004.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""prohibited from submitting an application for registration for 12 months"",
+  ""Broker Comment"" : ""On 8/22/2016, the Office of Financial Regulation filed an Administrative Complaint and Notice of Rights in the matter of Bryan Christopher Lightsey. Mr. Lightsey may request a hearing to contest this action filed by the Office. The request for hearing must be filed within twenty-one (21) days of receipt of the Administrative Complaint and Notice of Rights.""
+}",10/28/2008 - 1/29/2016,"AXA ADVISORS, LLC (6627)"
+10645,4472767,BRYAN,[],LIGHTSEY,1/13/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""AXA Advisors, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""RR discharged for material misrepresentations on multiple customer variable annuity applications."",
+  ""Broker Comment"" : ""At no time did I make any misrepresentations to my customers in connection with any security transaction, and maintain that I was acting in their best interests by recommending the 403b plan that offered the best benefits available at the time.""
+}",10/22/2003 - 11/3/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+10645,4472767,BRYAN,[],LIGHTSEY,2/2/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ADVISOR DID NOT PROPERLY SUBMIT CLIENT'S ENROLLMENT IN MANAGED ACCOUNT. CLIENT'S ACCOUNT WAS SUPPOSED TO BE IN A VERY CONSERVATIVE PORTFOLIO BUT REMAINED IN A MORE AGGRESSIVE PORTFOLIO DUE TO ADVISOR DELAY."",
+  ""Damage Amount Requested"" : ""$27,229.42"",
+  ""Settlement Amount"" : ""$27,229.42"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""NOTE: THIS WAS A VERBAL COMPLAINT REC'D AT VALIC FINANCIAL ADVISORS INC AND IS NOW BEING REPORTED DUE TO SETTLEMENT AMOUNT BEING OVER $15,000.""
+}",11/27/2001 - 11/3/2008,"AIG RETIREMENT ADVISORS, INC. (42803)"
+10645,4472767,BRYAN,[],LIGHTSEY,,,,,11/27/2001 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

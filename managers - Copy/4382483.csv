@@ -1,0 +1,36 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,4382483,JOHN,[],KASEL,2/11/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053496701"",
+  ""DocketNumberAAO"" : ""2017053496701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Kasel consented to the sanctions and to the entry of findings that he engaged in an unapproved outside business activity by actively managing a customer's real estate properties, for which he received a total of at least $26,500 in compensation. The findings stated that Kesel never disclosed these outside business activities to his member firm, even though its procedures required him to do so. In addition, Kasel incorrectly responded on firm annual compliance questionnaires that he had no outside business activities."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Three months"",
+      ""Start Date"" : ""3/4/2019"",
+      ""End Date"" : ""6/3/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fines paid in full on February 26, 2019.""
+}",9/19/2016 - 2/15/2019,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,4382483,JOHN,[],KASEL,3/2/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""KMS representative John Kasel embezzeled and converted to his personal us $70,000 in funds from an account managed by him on behalf of plaintiffs"",
+  ""Damage Amount Requested"" : ""$70,000.00"",
+  ""Settlement Amount"" : ""$76,900.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Mr. Kasel strenuously denies the allegations that were made or that any wrongdoing was committed.  Nonetheless, Mr. Kasel and the parties settled all claims without any admission of liability in order to resolve the lawsuit and avoid the cost of further litigation.""
+}",8/25/2014 - 1/25/2017,"KASTLE CAPITAL, LLC (171888)"
+17868,4382483,JOHN,[],KASEL,,,,,10/28/2005 - 12/31/2014,"KMS FINANCIAL SERVICES, INC. (3866)"
+17868,4382483,JOHN,[],KASEL,,,,,8/28/2003 - 11/4/2005,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+17868,4382483,JOHN,[],KASEL,,,,,7/31/2001 - 8/26/2003,MORGAN STANLEY (7556)
+17868,4382483,JOHN,[],KASEL,,,,,6/21/2001 - 8/26/2003,MORGAN STANLEY DW INC. (7556)

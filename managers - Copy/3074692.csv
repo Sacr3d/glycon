@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+875,3074692,SHERMAN,[],WHITE,2/2/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016051595401"",
+  ""DocketNumberAAO"" : ""2016051595401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent White failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""5/5/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated February 2, 2017 and February 27, 2017, respectively, on May 5, 2017, White is barred from association with any FINRA member in any capacity.  Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",10/20/2015 - 8/11/2016,WAYNE HUMMER INVESTMENTS L.L.C. (875)
+875,3074692,SHERMAN,[],WHITE,9/6/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the rep misrepresented the investment and did not provide adequate information."",
+  ""Damage Amount Requested"" : ""$37,087.63"",
+  ""Settlement Amount"" : ""$37,087.63"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/19/2015 - 8/11/2016,WAYNE HUMMER INVESTMENTS L.L.C. (875)
+875,3074692,SHERMAN,[],WHITE,10/25/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$45,024.28"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The IRS has temporarily closed the collection case, although amount increases with interest every month and is decreased with each tax return.""
+}",6/20/2014 - 9/21/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+875,3074692,SHERMAN,[],WHITE,,,,,6/14/2012 - 6/23/2014,CCO INVESTMENT SERVICES CORP. (39550)
+875,3074692,SHERMAN,[],WHITE,,,,,7/24/2006 - 2/8/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+875,3074692,SHERMAN,[],WHITE,,,,,2/23/2006 - 7/12/2006,"INVESTORS BROKERAGE SERVICES, INC. (4257)"
+875,3074692,SHERMAN,[],WHITE,,,,,7/6/2005 - 3/1/2006,CHASE INVESTMENT SERVICES CORP. (25574)
+875,3074692,SHERMAN,[],WHITE,,,,,11/8/2000 - 7/6/2005,BANC ONE SECURITIES CORPORATION (16999)
+875,3074692,SHERMAN,[],WHITE,,,,,11/19/1999 - 7/6/2005,BANC ONE SECURITIES CORPORATION (16999)
+875,3074692,SHERMAN,[],WHITE,,,,,8/10/1998 - 11/24/1999,DEAN WITTER REYNOLDS INC. (7556)

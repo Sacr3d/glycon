@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6635,1859110,HENDERSON,[],SMITH,11/27/1995,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Securities Board of Texas."",
+  ""Allegations"" : ""Mr. Smith failed to disclose a felony theft charge while previously registered with the Texas Securities Commissioner, therefore, his application was denied."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,500.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""Mr. Smith was terminated from Guardian Investor Services Corporation."",
+  ""Broker Comment"" : ""Not Provided""
+}",3/21/1998 - 7/7/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+6635,1859110,HENDERSON,[],SMITH,,,,,6/28/1990 - 3/5/1996,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+6635,1859110,HENDERSON,[],SMITH,,,,,11/4/1988 - 7/11/1990,"SMA EQUITIES, INC. (3960)"

@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+5475,6020944,Fernando,[],Hurtado,3/11/2015,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Compromise with a creditor"",
+  ""Broker Comment"" : ""I experienced hardship during my undergraduate studies, a full time student while maintaining a part time job (internship). As a result, my small debt was settled for a lesser amount than originally owed.""
+}",6/8/2020 - 11/23/2020,USAA INVESTMENT SERVICES COMPANY (5475)
+5475,6020944,Fernando,[],Hurtado,,,,,2/7/2020 - 7/30/2020,USAA INVESTMENT SERVICES COMPANY (5475)
+5475,6020944,Fernando,[],Hurtado,,,,,1/30/2020 - 6/8/2020,"USAA FINANCIAL ADVISORS, INC. (129035)"
+5475,6020944,Fernando,[],Hurtado,,,,,6/19/2017 - 5/20/2019,"TRANSAMERICA RETIREMENT ADVISORS, LLC (107319)"
+5475,6020944,Fernando,[],Hurtado,,,,,2/6/2017 - 5/20/2019,TRANSAMERICA INVESTORS SECURITIES CORPORATION (32205)
+5475,6020944,Fernando,[],Hurtado,,,,,9/4/2014 - 1/30/2017,"SCOTTRADE, INC. (8206)"

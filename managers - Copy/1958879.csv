@@ -1,0 +1,180 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,10/20/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Claimant (a) invested approximately $1,000,000 with registered representative between 2006 and 2008, (b) believed that she was investing in real estate, (c) received approximately $564,000 in distributions, and (d) alleges that her funds were misappropriated by the registered representative for his personal use."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/7/2017 - 3/17/2018,LOMBARD SECURITIES INCORPORATED (27954)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,10/6/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Customer alleges that beginning in 2000 the broker solicited an investment in a builder on Long Island and that customer invested additional funds in subsequent years.  The customer received monthly payments until 2018 when the customer learned that the broker had misappropriated the customer's funds.  Customer alleges the Firm failed to adequately supervise the broker."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/17/2012 - 3/20/2017,"CADARET, GRANT & CO., INC. (10641)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,8/21/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted pursuant to Section 15(b) of the Securities Exchange Act of 1934 (\""Exchange Act\"") against Steven Pagartanis (\""Respondent\"" or \""Pagartanis\""). The Commission finds that on January 9, 2020, Pagartanis pled guilty to one count of conspiracy to commit mail and wire fraud in violation of Title 18 United States Code, Sections 1341, 1343, and 1349 before the United States District Court for the Eastern District of New York, in United States v. Steven Pagartanis, Crim. No. 18-cr-374 (E.D.N.Y.). On January 14, 2020, a judgment in the criminal case was entered against Pagartanis. He was sentenced to a prison term of 170 months followed by 3 years of supervised release and ordered to make restitution in the amount of $6,519,594. The count of the criminal indictment to which Pagartanis pled guilty alleged, inter alia, that, between January 2000 and March 2018, Pagartanis knowingly and intentionally conspired to devise a scheme and artifice to defraud at least 17 individuals who collectively invested more than $13 million with him, and that he caused commercial interstate carriers to deliver investors' deposits to him. In view of the allegations made by the Division of Enforcement, the Commission deems it necessary and appropriate in the public interest that public administrative proceedings be instituted to determine whether the allegations set forth hereof are true and, in connection therewith, to afford Respondent an opportunity to establish any defenses to such allegations; and what, if any, remedial action is appropriate in the public interest against Respondent pursuant to Section 15(b) of the Exchange Act."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""association with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""2/17/2021""
+    }, {
+      ""Registration Capacities Affected"" : ""participation in any offering of a penny stock"",
+      ""Duration"" : ""indefinite"",
+      ""Start Date"" : ""2/17/2021""
+    } ]
+  } ]
+}",8/24/2011 - 9/27/2012,"WOODBURY FINANCIAL SERVICES, INC. (421)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,9/13/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""18-01353"",
+  ""DocketNumberAAO"" : ""18-01353"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Pagartanis failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Duration Explanation"" : ""Continues until required payment is made or discharged."",
+      ""Start Date"" : ""9/13/2019""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Pagartanis is suspended on September 13, 2019 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",1/3/2006 - 9/13/2011,"CADARET, GRANT & CO., INC. (10641)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,8/30/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleged that RR S. Pagartanis sold cucstomer an investment that was not approved by the firm(s) and used the proceeds for his personal benefit."",
+  ""Damage Amount Requested"" : ""$285,000.00"",
+  ""Settlement Amount"" : ""$87,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",12/7/2005 - 2/1/2006,INVEST FINANCIAL CORPORATION (12984)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,6/5/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""selling unsuitable investment away from firm."",
+  ""Damage Amount Requested"" : ""$865,000.00"",
+  ""Settlement Amount"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/28/2003 - 12/8/2005,"CADARET, GRANT & CO., INC. (10641)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,5/30/2018,Civil,Pending,"{
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""Litigation Release No. No. 24152 / May 30, 2018 / - The United States District Court for the Eastern District of New York: - The Securities and Exchange Commission charged a former registered representative, Steven Pagartanis, with defrauding long-standing brokerage customers in an $8 million investment scam. Pagartanis, a former registered representative who was associated with various Commission-registered firms, defrauded at least nine retail investors of approximately $8 million by soliciting and selling them securities using false and misleading statements from 2013 to at least February 2018 (the \""Relevant Period\""). Contrary to his promises that he would make safe investments that would yield monthly return payments, Pagartanis never made any investments. Instead, Pagartanis deposited the investor funds into various bank accounts that he controlled and then used the funds, among other things, for his personal benefit and to make monthly return payments to investors in a Ponzi scheme-like manner. Despite complaints from investors and queries from regulators, Pagartanis has stopped making monthly payments and has not returned investors' funds. Pagartanis told at least five of the investors that they were investing in the common stock of Genesis Land Development Co. (\""GDC\""), a Canadian land development and home building company whose stock is listed on the Toronto Stock Exchange. Pagartanis raised at least $6.7 million from these investors. Pagartanis told other investors that he was investing their money in a land development company. At Pagartanis' direction, investors paid for their investments with checks made payable to \""Genesis,\"" the name of the LLC for which Pagartanis is the sole owner and also the same name as GDC, the Canadian land development company. Pagartanis deposited the investors' checks into Genesis I's bank account, over which he had sole control. Pagartanis never invested any of the money he raised from the investors in the common stock of, or anything related to, GDC. Pagartanis knew, or recklessly disregarded, that his statements regarding how the investor funds would be invested and the safety of the investors' funds were false. To further his charade, he deceptively provided some of these investors with fictitious account statements indicating that they owned GDC stock and GDC's financial statements. As a result of Pagartanis false and misleading statements, at least nine investors invested at least $8 million with Pagartanis. Pagartanis failed to appear for an interview in March 2018 with his member firm's compliance staff, which had received an investor complaint and contacted Pagartanis in an effort to speak with him. Pagartanis then failed to respond to a request for an interview with FINRA in March 2018. FINRA barred Pagartanis from associating with any FINRA member in April 2018. By virtue of the conduct alleged in the complaint, Defendant engaged in acts, practices and courses of business, that constitute violations of Section 17(a) of the Securities Act of 1933, and Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder."",
+  ""SanctionDetails"" : [ ]
+}",12/5/2002 - 9/8/2003,"YANKEE FINANCIAL GROUP, INC. (17966)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,4/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Between January and July 2013, Mr. Pagartanis is alleged to have recommended unsuitable investments totaling $255,000 in a small, speculative land development company."",
+  ""Damage Amount Requested"" : ""$255,000.00"",
+  ""Settlement Amount"" : ""$103,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-01275""
+}",5/3/1999 - 10/30/2002,PARK AVENUE SECURITIES LLC (46173)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,4/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Between 2014 and January 2017, Mr. Pagartanis is alleged to have recommended unsuitable investments totaling $3,700,000  in a small, speculative land development company."",
+  ""Damage Amount Requested"" : ""$3,700,000.00"",
+  ""Settlement Amount"" : ""$1,100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""18-01320""
+}",10/9/1997 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,4/13/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018057659201"",
+  ""DocketNumberAAO"" : ""2018057659201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Pagartanis consented to the sanction and to the entry of findings that he refused to appear to provide FINRA with on-the-record testimony in connection with its investigation of allegations that he made fraudulent misrepresentation to customers and misappropriated customers' funds."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""4/13/2018""
+    } ]
+  } ]
+}",7/18/1996 - 9/19/1997,"TOWER SQUARE SECURITIES, INC. (833)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,4/12/2018,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""Pagartanis was named in a customer complaint that asserted the following causes of action: misrepresentation, omission, failure to supervise and breach of fiduciary duty."",
+  ""Damage Amount Requested"" : ""$2,712,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""18-01353"",
+  ""arbitrationDocketNumber"" : """",
+  ""Regulator Statement"" : ""This award has not been paid by or on behalf of Pagartanis as of September 13, 2019.""
+}",1/11/1995 - 7/9/1996,"JOHN HANCOCK DISTRIBUTORS, INC. (468)"
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the broker asked them to make checks payable to Genesis a company that was not an approved investment by the firm."",
+  ""Damage Amount Requested"" : ""$75,000.00"",
+  ""Settlement Amount"" : ""$56,250.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/10/1995 - 7/9/1996,JOHN HANCOCK MUTUAL LIFE INSURANCE COMPANY (5181)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the broker asked them to make checks payable to Genesis a company that was not an approved investment by the firm."",
+  ""Damage Amount Requested"" : ""$185,800.00"",
+  ""Settlement Amount"" : ""$138,750.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/29/1989 - 12/22/1994,PRUCO SECURITIES CORPORATION (5685)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the broker asked them to make checks payable and endorse other checks received to Genesis a company that was not an approved investment by the firm."",
+  ""Damage Amount Requested"" : ""$239,770.99"",
+  ""Settlement Amount"" : ""$180,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",6/29/1989 - 12/10/1993,THE PRUDENTIAL INSURANCE COMPANY OF AMERICA (680)
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleges that the broker asked them to make investments in a company that was not an approved investment by the firm. Genesis Land Development Corp. It is alleged that Genesis was controlled by Pagartanis."",
+  ""Settlement Amount"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/14/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Lombard Securities Incorporated"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""As a result of an internal investigation, the representative failed to respond to customer complaint questions and requests for information. The firm requested specific information on unapproved investments allegedly made outside of the firm by a customer and why the broker failed to notify the firm regarding such outside investments.""
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,2/26/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Customer alleged that broker asked them to make checks payable and endorse other checks received to Genesis, a \""company\"" that was an unapproved investment by the firm.  Customer further stated that they received no statements or confirmations, or any other official documents regarding this investment."",
+  ""Damage Amount Requested"" : ""$230,000.00"",
+  ""Settlement Amount"" : ""$165,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/20/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Cadaret, Grant & Co., Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""After the firm received the arbitration, which contained an allegation of selling a private security unauthorized by the firm, a surprise examination of Pagartanis' branch was planned.  However, Pagartanis resigned the day before the examination was to be conducted.  The examiners travelled to Pagartanis' branch despite his resignation, but were not provided with the information and documents requested. The Statement of Claim alleges fraud, conversion and selling away among other allegations.""
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,3/3/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Allegations of negligence, suitability, misrepresentation and fraud relating to REIT investments not sold through the firm."",
+  ""Damage Amount Requested"" : ""$245,000.00"",
+  ""Settlement Amount"" : ""$97,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-00323""
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,10/2/2013,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES UNSUITABLE AND MISREPRESENTED INVESTMENTS DUE TO AN ERROR IN THE CLIENTS 2008, 1035 EXCHANGE THAT OMITTED THE 7% GMIB BENEFIT."",
+  ""Damage Amount Requested"" : ""$88,000.00"",
+  ""Settlement Amount"" : ""$80,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""14-01052""
+}",,
+27954,1958879,STEVEN,[STEVE  PAGARTANIS],PAGARTANIS,9/27/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$210,722.84"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""TAX PERIODS 1998, 1999, 2000 AND 2001.""
+}",,

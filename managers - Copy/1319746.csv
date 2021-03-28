@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+39438,1319746,DONALD,[],LUSKIN,1/1/1981,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""PACIFIC STOCK EXCHANGE"",
+  ""Allegations"" : ""1) FAILURE TO WEAR A TIE ON THE EXCHANGE FLOOR 2) FAILURE TO TRADE SUFFICIENT VOLUME IN AN ASSIGNED CLASS OF OPTIONS"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$632.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""1) $10 FINE 2) $600 FINE"",
+  ""Broker Comment"" : ""Not Provided""
+}",6/24/1997 - 6/3/1998,BARCLAYS GLOBAL INVESTORS SERVICES (39438)
+39438,1319746,DONALD,[],LUSKIN,1/1/1981,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""PACIFIC STOCK EXCHANGE"",
+  ""Allegations"" : ""1) FAILURE TO WEAR A TIE ON THE EXCHANGE FLOOR 2) FAILURE TO TRADE SUFFICIENT VOLUME IN AN ASSIGNED CLASS OF OPTIONS"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10.00""
+    } ]
+  } ],
+  ""Sanction Details"" : ""1) $10 FINE 2) $600 FINE"",
+  ""Broker Comment"" : ""Not Provided""
+}",12/21/1995 - 6/3/1998,BARCLAYS GLOBAL INVESTORS SERVICES (39438)
+39438,1319746,DONALD,[],LUSKIN,,,,,4/4/1994 - 1/2/1996,WELLS FARGO SECURITIES INC. (17438)
+39438,1319746,DONALD,[],LUSKIN,,,,,10/15/1987 - 12/19/1989,WELLS FARGO SECURITIES INC. (17438)
+39438,1319746,DONALD,[],LUSKIN,,,,,11/21/1984 - 8/19/1987,"JEFFERIES & COMPANY, INC. (2347)"

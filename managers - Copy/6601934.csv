@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6601934,Linda,"[Linda Diane Brown, Linda Diane Humbert]",Butler,6/12/1997,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Forgery - Priv Documents"",
+    ""Disposition"" : ""nolle prosequi""
+  }, {
+    ""Charges"" : ""Theft: Less than $300"",
+    ""Disposition"" : ""nolle prosequi""
+  }, {
+    ""Charges"" : ""Uttering False Document"",
+    ""Disposition"" : ""nolle prosequi""
+  } ],
+  ""Broker Comment"" : ""I was falsely accused of attempting to redeem forged gift certificates at a retail store.  Upon further investigation, it was determined that the gift certificates I had in my possession were valid.  I was told the charges had been dropped but received a court notice.  I appeared in court and was told by the judge that the charges against me had been dropped and that this incident would be expunged from my record.  This incident is now in the process of being expunged by the Baltimore County Court in Towson, Maryland.""
+}",3/21/2016 - 4/5/2016,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

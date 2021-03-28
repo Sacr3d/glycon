@@ -1,0 +1,128 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,3/7/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client Claims investment did not perform"",
+  ""Damage Amount Requested"" : ""$90,000.00"",
+  ""Settlement Amount"" : ""$27,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/6/2014 - 12/31/2015,FREEDOM INVESTORS CORP. (23714)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,1/7/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS ALLEGES INAPPROPRIATE INVESTMENT"",
+  ""Damage Amount Requested"" : ""$800,000.00"",
+  ""Settlement Amount"" : ""$161,653.66"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/22/2011 - 8/1/2014,"FINANCE 500, INC. (12981)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,1/11/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimant alleges misrepresentation, breach of fiduciary duty, failure to supervise, Texas securities fraud, negligence and breach of contract"",
+  ""Damage Amount Requested"" : ""$102,500.00"",
+  ""Settlement Amount"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-03674""
+}",8/5/2009 - 3/2/2011,"CHOICE INVESTMENTS, INC. (17665)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,12/23/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Regulator Statement"" : ""PROCEEDINGS IN FINRA ARBITRATION CASE #15-01038 AGAINSTWATSON (III), WILLIAM HENRY WERE STAYED BY BANKRUPTCY PROCEEDINGS IN THE U.S.BANKRUPTCY COURT, CALIFORNIA CENTRAL - SANTA ANA case no.15-16028""
+}",7/29/2008 - 8/26/2009,"MORRIS FINANCIAL, INC. (18561)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,12/10/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2013038091901"",
+  ""DocketNumberAAO"" : ""2013038091901"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Watson consented to the sanctions and to the entry of findings that while employed as an investment banker at his member firm, Watson participated in securities offerings with four different issuers in which he used, or permitted issuers to use, marketing materials that were not fair and balanced, as they failed to discuss each of the issuers' poor financial performance and made misleading, unwarranted or unsupported statements. The findings stated that Watson used, or permitted issuers to use, power-point presentations that contained inadequate risk disclosure and failed to provide a balanced presentation of the risks and rewards of an investment. The findings also stated that certain of these marketing materials also failed to disclose Watson's firm's name and involvement in the offering namely, described the relationship between the firm and the issuer."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any capacity"",
+      ""Duration"" : ""10 business days"",
+      ""Start Date"" : ""1/4/2016"",
+      ""End Date"" : ""1/15/2016""
+    } ]
+  } ]
+}",9/27/2007 - 7/9/2008,"SYNDICATED CAPITAL, INC. (29037)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,5/27/2015,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES INAPPROPRIATE INVESTMENT"",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$36,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""15-01038"",
+  ""Broker Comment"" : ""I CATEGORICALLY DENY ALL CLAIMS MADE BY MR. FINKELSTEIN""
+}",3/30/2001 - 7/19/2007,BROOKSTREET SECURITIES CORPORATION (14667)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,7/25/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,912.63"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""FOR TAX FILING YEAR: 2013""
+}",12/18/2000 - 2/14/2001,"WESTERN INTERNATIONAL SECURITIES, INC. (39262)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,5/1/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$143,270.81"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""FOR TAX FILING YEAR: 2007, 2009, AND 2010""
+}",7/7/1999 - 12/18/2000,NORTH COAST SECURITIES CORPORATION (35982)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,8/1/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$277,368.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""REP HAS ARRANGED A SYSTEMATIC REPAYMENT PROGRAM WITH THE IRS.""
+}",3/18/1996 - 4/15/1999,"CENTENNIAL CAPITAL MANAGEMENT, INC. (38988)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,10/1/2005,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$184,628.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""REP HAS ARRANAGED A SYSTEMATIC REPAYMENT PROGRAM WITH THE IRS.""
+}",1/29/1993 - 2/16/1996,BROOKSTREET SECURITIES CORPORATION (14667)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,9/24/1999,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""OHIO DIVISION OF SECURITIES"",
+  ""Allegations"" : ""THE DIVISION DETERMINED THAT THE APPLICANT WAS NOT OF GOOD BUSINESS REPUTE."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Revocation/Expulsion/Denial""
+  } ],
+  ""Sanctions"" : ""ON SEPTEMBER 24, 1999, THE OHIO DIVISION OF SECURITIES ISSUED A FINAL ORDER TO DENY APPLICANT FOR SECURITIES SALESMAN LICENSE, DIVISION ORDER NO. 99-393, AGAINST WILLIAM HENRY WATSON, III.  THE DIVISION FOUND THAT WATSON WAS NOT OF GOOD BUSINESS REPUTE AS THAT TERM IS DEFINED IN OHIO ADMINISTRATIVE CODE RULE 1301:6-3-19(D)(G) AND (9) AND OHIO REVISED CODE 1707.19(A)(1)."",
+  ""Sanction Details"" : ""ON SEPTEMBER 24, 1999, THE OHIO DIVISION OF SECURITIES ISSUED A FINAL ORDER TO DENY APPLICANT FOR SECURITIES SALESMAN LICENSE, DIVISION ORDER NO. 99-393, AGAINST WILLIAM HENRY WATSON, III.  THE DIVISION FOUND THAT WATSON WAS NOT OF GOOD BUSINESS REPUTE AS THAT TERM IS DEFINED IN OHIO ADMINISTRATIVE CODE RULE 1301:6-3-19(D)(G) AND (9) AND OHIO REVISED CODE 1707.19(A)(1)."",
+  ""Broker Comment"" : ""WHILE REGISTERED WITH CENTENNIAL CAPITAL MANAGEMENT, I WAS A PRINCIPAL OF THE FIRM AND ASKED TO REGISTER IN THE STATE OF OHIO.  AT THE TIME OF APPLICATION, OHIO HAD A POLICY OF IMMEDIATE DENIAL OF ANY OUT OF STATE REGISTERED MEMBER WITH PRIOR CUSTOMER COMPLAINTS OR SETTLEMENTS DISCLOSED ON THE U-4.  I ELECTED NOT TO FLY TO OHIO FOR A HEARING TO OVERTURN THE EARLIER DENIAL.  AS A RESULT THE STATE DENIED MY REGISTRATION.""
+}",4/22/1991 - 10/27/1992,"INVESTMENT ARCHITECTS, INC. (17774)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,7/17/1995,Customer Dispute,Settled,"{
+  ""Allegations"" : ""TRANSACTIONS NOT SUITABLE"",
+  ""Settlement Amount"" : ""$27,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CUSTOMER PAID SETTLEMENT OF $27,500.00. CUSTOMER SELECTED A DIVERSIFIED STRATEGY FOR 200,000+,CLIENT RETIRED EARLY & BEGAN TO SPEND PRIN. FROM ACCTS. TOLD ME OF MARITAL PROBLEMS & WHEN MARKET SOLD OFF 500 PTS., FROM MARCH TO JUNE, WIFE PANICKED & HE ORDERED LIQUIDATION. RETURNED TO WORK F/T & ASKED ME TO HELP HIM AGAIN. HE WANTED TO TRADE FUTURES. I SAID NO BUT LET HIM PUT 10,000 TO TRADE OPTIONS. THE FIRST SEVERAL TRADES WENT FAIRLY WELL BUT I TOOK TWO RECOMMENDATIONS FROM THE DESK THAT WERE FAILURES. ONE YEAR ATER STOCK SOURS & SIX MONTHS AFTER OPTIONS, CUSTOMER COMPLAINED. PRESIDENT OF FIRM OFFERED TO SETTLE BEFORE CONSULTING ME. FIRM PAID 1/3 & I SUBSEQUENTLY LEFT THE FIRM. CLIENT WAS SUITABLE AND HIS PANIC CAUSED MAJORITY OF HIS DAMAGE.""
+}",5/4/1988 - 4/16/1991,STRATEGIC EQUITIES CORPORATION (21883)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,3/10/1995,Customer Dispute,Settled,"{
+  ""Allegations"" : ""TRANSACTIONS NOT SUITABLE"",
+  ""Settlement Amount"" : ""$15,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLEMENT PAYMENT MADE TO CUSTOMER IN THE AMOUNT OF $15,000.00 CUSTOMER WAS A SENIOR EXEC. AT AMD WITH 200-300K INCOME. OPENED ACCTS. TO TRADE STOCKS, WANTED TO GREATLY IMPROVE RETURNS. MARKET WAS VOLATILE IN '94, HAD 500 PT SELL OFF IN MARCH-JULY. MAJORITY OF HIS LOSSES WERE FROM HIS DECISION TO BUY CALLS AND PRIOR TO EARNINGS ANNOUNCEMENT (7000)AND TWO OEX CALLL OPTION RECOMMENDED BY FIRM'S TRADING DESK (6000). RATHER THAN HAVE CLIENT UNHAPPY, WE SETTLED. I STILL INSIST CLIENT WAS KNOWLEDGEABLE, SUCCESSFUL, AND HAS A PHD IN PHYSICS. HE MAY HAVE MISSED BY ONE MONTH, THE BIGGEST INCREASE IN STOCK PRICES IN 30 YEARS.""
+}",5/6/1987 - 5/24/1988,L.R. PEGRAM SECURITIES CORPORATION (15214)
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,12/31/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""FRAUD, BREACH OF FIDUCIARY DUTY, AIDING & ABETTING GROSS MISREPRESENTATION. CLAIM #1 $255,000.00,#2 $90,000.00,#3 $82,500.00."",
+  ""Damage Amount Requested"" : ""$433,500.00"",
+  ""Settlement Amount"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR THE SUM OF $100,000. PAYMENT OF $25,000.00 WITH A $75,000.00 FOUR YEAR NOTE. PLAINTIFFS BOUGHT LIMITED PARTNERSHIP INTEREST IN TWO OFFERINGS SPONSORED BY THE BERNSTEIN GROUP, AN OHIO ISSUER. THE ISSUE ALLEGEDLY HAD COMMITTED NUMEROUS ACTS OF FRAUD & THEFT OF PARTNERSHIP ASSETS. THE ISSUER IS VIRTUALLY INSOLVENT AND AS SUCH I WAS NAMED A PARTY TO THE SUIT. RATHER THAN TO INCUR THE COSTS OF S LONG LEGAL BATTLE, I ELECTED TO SETTLE THE CASE.""
+}",9/9/1986 - 7/31/1987,"THE PLANNER'S SECURITIES GROUP, INC. (16546)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,11/1/1991,Customer Dispute,Settled,"{
+  ""Allegations"" : ""COMPLAINT FOR RECISSION IN A SECURITIES TRANSACTION, FRAUD AND DECEIT, DAMAGES, BREACH OF FIDUCIARY DUTY."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""RETURNED PLAINTIFF'S INVESTMENT, $50,000.00, WITHOUT GIVING HIM A RELEASE OF LIABILITY FOR OTHER ACCOUNTS OF OMISSION. PLAINTIFF WAS AN EMPLOYEE OF APPLICANT'S CORP. DUTIES WERE TO ASSIST IN THE DEVELOPMENT OF A 16 UNIT TOWNHOUSE. PLAINTIFF SUED FOR RECOVERY OF INVESTMENT. [CUSTOMER]  CASE SETTLED BUT HE WAS NOT GIVEN A RELEASE. I WILL MAKE A FINAL DECISION TO COMMENCE LITIGATION FOR GROSS MISREPRESENTATION, BREACH OF FIDUCIARY DUTIES, NEW DISCLOSURE & TAXES & OTHER MISC. CHARGES WITHIN THE NEXT NINETY DAYS.""
+}",10/19/1982 - 9/25/1986,"ANCHOR NATIONAL FINANCIAL SERVICES, INC. (5774)"
+23714,1016938,WILLIAM,[WILLIAM HENRY WATSON],WATSON,,,,,9/14/1982 - 11/2/1982,"G. W. COURTNEY, INC. (7769)"

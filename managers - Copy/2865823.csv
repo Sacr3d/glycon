@@ -1,0 +1,40 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,11/3/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""unsuitability, misrepresentation/omission, breach of fiduciary duty, failure to supervise"",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/29/2018 - Current,SPIRIT OF AMERICA MANAGEMENT CORP (110023)
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,8/31/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""misrepresentation and omission, breach of fiduciary duty, failure to supervise, fraud, unauthorized trading"",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/13/2005 - Current,"DAVID LERNER ASSOCIATES, INC. (5397)"
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,12/19/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleged unsuitability. Dates: 11/24/14 through 2/9/16"",
+  ""Damage Amount Requested"" : ""$96,000.00"",
+  ""Settlement Amount"" : ""$20,250.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/25/2001 - 10/14/2004,"FARINA & ASSOCIATES, INC. (32830)"
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,11/17/2011,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""MISREPRESENTATIONS"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""FILING LATE PER GUIDANCE FROM CONNECTICUT DEPT. OF BANKING""
+}",12/18/2000 - 9/24/2001,INVESTEC ERNST & COMPANY (266)
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,10/26/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ATTEMP TO OBTAIN DRIVERS LICENSE WITH A FALSE NAME"",
+    ""Charge Type"" : ""MISDEMEANOR"",
+    ""Disposition"" : ""CASE WAS DISPOSED OF THROUGH THE PRE TREA INTERVENTION PROGRAM""
+  } ],
+  ""Broker Comment"" : ""I TRIED TO OBTAIN A FAKE ID WHEN I WAS GOING TO COLLEGE AT PALM BEACH COMM COLLEGE.  AT THE TIME I WAS UNDER 21 (DRINKING AGE)""
+}",2/18/1999 - 12/18/2000,GKN SECURITIES CORP. (19415)
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,,,,,10/5/1998 - 1/25/1999,"HD BROUS & CO., INC. (22062)"
+110023,2865823,RAFAEL,"[RAFAEL  KLEIN, RAFE  KLEIN]",KLEIN,,,,,4/7/1997 - 8/28/1998,GKN SECURITIES CORP. (19415)

@@ -1,0 +1,34 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,6/11/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Tennessee Securities Division"",
+  ""Allegations"" : ""Respondent engaged in dishonest and unethical practices by failing to disclose to his firm, three loans with three different clients either initially or through annual compliance questionnaires."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$45,000.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""In addition to the fine, Mr. Winchester is to Comply with the Tennessee Securities Act of 1980, complete five FINRA training courses, and be on heightened supervision for three years.""
+}",6/11/2020 - Current,CADARET GRANT & CO INC (10641)
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,2/20/2020,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Raymond James Financial Services, Inc."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Failure to disclose a business loan arrangement and two personal loan arrangements with separate clients, including a promissory note with a client related to Financial Advisor's role as executor of the client's father's estate.""
+}",5/7/2020 - Current,"CADARET, GRANT & CO., INC. (10641)"
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,4/18/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Breach of Fiduciary Duty, Negligence, Negligent Supervision, Suitability, Excessive Turnover, Breach of Contract, Negligent Hiring, Selling Away and Violations of FINRA Conduct Rules"",
+  ""Damage Amount Requested"" : ""$150,000.00"",
+  ""Settlement Amount"" : ""$7,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Matter was settled by the firm to avoid the uncertainty of litigation. Mr. Winchester denies all wrong doing as alleged and maintains that all investments were suitable and appropriate. While under Mr. Winchester's management, the customer's account achieved significant gains and any decline in account value was directly attributable to withdrawals made by the customer. This matter was resolved solely as a business decision on behalf of the firm, for a portion of estimated additional costs of defense, and Mr. Winchester did not contribute to the resolution.""
+}",7/2/2012 - 3/13/2020,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,,,,,6/29/2012 - 3/13/2020,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,,,,,9/26/2007 - 7/25/2012,LPL FINANCIAL LLC (6413)
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,,,,,6/23/2003 - 10/1/2007,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,,,,,5/2/2002 - 5/29/2002,"FIRST TENNESSEE BROKERAGE, INC. (17117)"
+10641,4404327,WILLIAM,[BILL   WOODS],WINCHESTER,,,,,7/27/2001 - 4/19/2002,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"

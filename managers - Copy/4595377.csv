@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+133763,4595377,BRETT,[],WEICHBROD,7/10/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Customer alleges that private securities purchased in 2016 and 2017 were unsuitable."",
+  ""Damage Amount Requested"" : ""$250,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Advisor steadfastly believes all recommendations were suitable for the client. An exhaustive financial plan based on all available information, reviewed routinely, provided a deep understanding of client's overall situation. According to the financial plan, this investment represented 2% of investable assets, and based on all disclosures, this investment conformed to the client's stated goals and objectives. Client understood from the beginning this fund was a long-term investment that provided no liquidity in order for the manager to achieve the best results.""
+}",8/26/2015 - Current,"SAGEPOINT FINANCIAL, INC. (133763)"
+133763,4595377,BRETT,[],WEICHBROD,,,,,7/20/2015 - Current,"SAGEPOINT FINANCIAL, INC. (133763)"
+133763,4595377,BRETT,[],WEICHBROD,,,,,4/5/2013 - 12/31/2015,"STRIDE INVESTMENT MANAGEMENT, LLC (166500)"
+133763,4595377,BRETT,[],WEICHBROD,,,,,2/14/2011 - 4/7/2011,PIMCO INVESTMENTS LLC (154957)
+133763,4595377,BRETT,[],WEICHBROD,,,,,11/10/2005 - 2/14/2011,ALLIANZ GLOBAL INVESTORS DISTRIBUTORS LLC (25567)
+133763,4595377,BRETT,[],WEICHBROD,,,,,1/23/2003 - 10/13/2005,CANTERBURY CONSULTING INCORPORATED (22875)

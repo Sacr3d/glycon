@@ -1,0 +1,12 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+12963,4049181,ARNOLDO,[],ALANIZ,8/23/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer filed complaint directly with insurance company alleging fees associated with the rider he elected were not disclosed. Customer is also alleging he was told there would be no surrender or loss for transferring his funds."",
+  ""Damage Amount Requested"" : ""$211,719.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The firms records show financial professional provided customer with illustrations prior to the sale which disclosed all fees and charges associated with the purchase of the fixed annuities. Firm records also indicate rider charge was disclosed in writing and that customer acknowledged he would be subject to a small surrender charge.""
+}",2/27/2001 - Current,MONEY CONCEPTS CAPITAL CORP (12963)
+12963,4049181,ARNOLDO,[],ALANIZ,,,,,3/9/2000 - 2/13/2001,"ICMA-RC SERVICES, LLC (23189)"
+12963,4049181,ARNOLDO,[],ALANIZ,,,,,12/17/1999 - 1/26/2000,"AMERICAN GENERAL FINANCIAL ADVISORS, INC. (42803)"
+12963,4049181,ARNOLDO,[],ALANIZ,,,,,12/17/1999 - 1/26/2000,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,1724299,KAREN,"[KAREN HUGHEY FORREST, KAREN  FORREST, Karen Kay Hughey]",FORREST,2/23/2012,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged"",
+  ""Broker Comment"" : ""I owned an employee benefits marketing firm and we lost a major client in 2008. We filed for Chapter 13 reorganization at that time and was current on payments. In 2011 we lost another large client and had to file for Chapter 7 which was discharged on 2/23/2012.""
+}",4/10/2018 - 2/12/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,1724299,KAREN,"[KAREN HUGHEY FORREST, KAREN  FORREST, Karen Kay Hughey]",FORREST,,,,,10/26/2017 - 2/12/2019,"VALIC FINANCIAL ADVISORS, INC. (42803)"

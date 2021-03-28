@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,3113082,ARON,[ARON  ZEKER],ZELCER,4/20/2016,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Clients allege their signatures were forged on replacement forms, dated July 2010, with respect to traditional life insurance policies. Clients are requesting to retroactively cancel their life insurance policies and refund monies paid."",
+  ""Damage Amount Requested"" : ""$1,600,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The Firm found no basis to the customer complaint.""
+}",5/3/1999 - Current,PARK AVENUE SECURITIES LLC (46173)
+46173,3113082,ARON,[ARON  ZEKER],ZELCER,,,,,11/25/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

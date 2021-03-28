@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+705,2264121,JOHN,[],HOWARD,9/20/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Breach of Fiduciary Duty, Negligence, Breach of Contract, Violations of the Alabama Securities Act, Violations of Sections 10(b) of the Securities Exchange Act and Rule 10b-5 of the Securities and Exchange Commission."",
+  ""Damage Amount Requested"" : ""$160,000.00"",
+  ""Settlement Amount"" : ""$97,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""All allegations were denied and the decision to settle was based on cost to defend.""
+}",2/13/2013 - Current,"RAYMOND JAMES & ASSOCIATES, INC. (705)"
+705,2264121,JOHN,[],HOWARD,3/17/2008,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""CLAIM ALLEGES THE UNATHORIZED PURCHASE OF MAINSAIL COMMERCIAL PAPER BECAUSE INSTRUCTIONS WERE TAKEN FROM A CORPORATE EMPLOYEE WHO WAS NOT AUTHORIZED TO MAKE SUCH DECISIONS."",
+  ""Damage Amount Requested"" : ""$2,000,335.47"",
+  ""Damages Granted"" : ""$1,134,601.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""08-00667"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ANSWER DUE 04/30/2008. COMPLAINT IS FROM PURCHASE OF MAINSAIL COMMERCIAL PAPER RATED A1+/P1, WHICH DEFAULTED DUE TO THE WORLD WIDE SUB-PRIME AND CREDIT DEFAULT ISSUES.""
+}",6/26/2009 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2264121,JOHN,[],HOWARD,2/22/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""ALLEGATIONS ARE UNAUTHORIZED TRADING."",
+  ""Damage Amount Requested"" : ""$7,814.51"",
+  ""Settlement Amount"" : ""$7,859.83"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""ON JUNE 18, 2004, [CUSTOMER] PLACED AN ORDER TO PURCHASE FIVE MUNICPAL BONDS TOTALING $300,000 BASED ON THE EXPECTED SELL OF HIS HOUSE.  ON JUNE 23, 2004, [CUSTOMER] REQUESTED TO CANCEL THE PURCHASE BECAUSE THE SELL OF THE HOUSE HAD FALLEN THROUGH. MR. HOWARD INFORMED HIM THAT HE COULD NOT CANCEL THE TRADES BUT WERE SOLD WITHOUT COMMISSION RESULTING IN A LOSS OF $7,814.52.  SETTLEMENT WITH CUSTOMER WAS DETERMINED BY AIS TO MAINTAIN A POSITIVE CUSTOMER RELATIONSHIP.  AS OF FEBRUARY 22, 2007, THIS ITEM IS NO LONGER REPORTABLE.""
+}",2/13/2007 - 2/13/2013,"MORGAN KEEGAN & COMPANY, INC. (4161)"
+705,2264121,JOHN,[],HOWARD,,,,,8/19/1992 - 2/13/2007,"AMSOUTH INVESTMENT SERVICES, INC. (15692)"

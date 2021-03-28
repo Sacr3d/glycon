@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+18272,4515856,Brett,"[BRETT H LANDIS, Brett  Landis]",Landis,1/10/1991,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""theft and possession of lost or mislaid property"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""I purchased a parking permit from another student for the winter session, and it was displayed on my car. I was questioned by a university parking official then by a City of Newark Police officer. I was arrested and charged with the offenses listed below. After a thorough inquiry and investigation, I was found not guilty of both charges.""
+}",4/30/2019 - Current,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,4515856,Brett,"[BRETT H LANDIS, Brett  Landis]",Landis,,,,,8/25/2008 - 11/6/2017,"NATIONWIDE SECURITIES, LLC (11173)"
+18272,4515856,Brett,"[BRETT H LANDIS, Brett  Landis]",Landis,,,,,7/24/2002 - 3/20/2007,"NATIONWIDE SECURITIES, INC. (11173)"

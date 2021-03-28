@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,11/9/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015047070601"",
+  ""DocketNumberAAO"" : ""2015047070601"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Peterson consented to the sanctions and to the entry of findings, that she used discretion to place trades in the accounts of her member firm's customers. The findings stated that although Peterson had verbal permission from the customers to use discretion in their accounts, she did not receive written authorization to use discretion from any of the customers. The firm also had not accepted these customers' accounts as discretionary."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$7,500.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""20 business days"",
+      ""Start Date"" : ""12/4/2017"",
+      ""End Date"" : ""1/2/2018""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Fine paid in full on November 20, 2017.""
+}",1/10/2020 - Current,IP FINANCIAL ADVISORY SERVICES LLC (305772)
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,9/16/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""WFG - Williams Financial Group"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""The representative did not follow firm policies relating to the proper handling of customer related paperwork and exercised unauthorized discretion in retail customer accounts""
+}",1/8/2018 - Current,INNOVATION PARTNERS LLC (146344)
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,1/7/2018 - Current,INNOVATION PARTNERS LLC (146344)
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,10/13/2015 - 12/1/2017,INNOVATION PARTNERS LLC (146344)
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,11/17/2009 - 9/18/2015,"WFG INVESTMENTS, INC. (22704)"
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,11/17/2009 - 9/21/2015,"WFG ADVISORS, LP (125073)"
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,9/5/2001 - 12/1/2009,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,5/18/1999 - 12/1/2009,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+305772,1962901,PATRICIA,"[PATRICIA  EVERSHED, PATRICIA EVERSHED PETERSON]",PETERSON,,,,,7/17/1989 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)

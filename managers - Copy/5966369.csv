@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,5966369,ROB,[],SALINGER,12/19/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""15-03103"",
+  ""DocketNumberAAO"" : ""15-03103"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Salinger failed to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Any capacity"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""12/19/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to Article VI, Section 3 of FINRA By-Laws, and FINRA Rule 9554, Respondent Salinger is suspended on December 19, 2016 for failure to comply with an arbitration award or settlement agreement or to satisfactorily respond to a FINRA request to provide information concerning the status of compliance.""
+}",4/23/2014 - 6/12/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,5966369,ROB,[],SALINGER,,,,,4/22/2014 - 6/12/2015,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,5966369,ROB,[],SALINGER,,,,,11/22/2011 - 4/23/2014,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+17868,5966369,ROB,[],SALINGER,,,,,9/20/2011 - 4/23/2014,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"

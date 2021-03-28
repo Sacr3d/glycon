@@ -1,0 +1,46 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,3/11/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2019063637101"",
+  ""DocketNumberAAO"" : ""2019063637101"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Martin failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""6/15/2020""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's Notice of Suspension and Suspension from Association letters dated March 11, 2020 and April 6, 2020, respectively, on June 15, 2020, Martin is barred from association with any FINRA member in any capacity. Respondent failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in any capacity.""
+}",7/20/2005 - 8/16/2019,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,8/8/2019,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Allstate Financial Services, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Loss of confidence for failure to disclose criminal charge and a Judgment.""
+}",4/28/2003 - 6/28/2005,"H&R BLOCK FINANCIAL ADVISORS, INC. (5979)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,1/24/2019,Criminal,Pending Charge,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""possession of a controlled substance""
+  } ]
+}",5/24/1999 - 4/30/2003,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,3/22/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,411.86"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""We are setting up an installment plan""
+}",7/8/1997 - 6/10/1999,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,1/27/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$29,432.03"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/20/1996 - 7/11/1997,"THE ADVISORS GROUP, INC. (14035)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,3/11/2005,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGED THAT SHE DID NOT RECEIVE A COPY OF POLICY AND SURRENDER CHARGES WERE NOT DISCLOSED IN CONNECTION WITH LIFE INSURANCE POLICY PURCHASED IN OCTOBER 2001. SHE DID NOT SPECIFY A DAMAGE AMOUNT."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I DENY THE ALLEGATIONS. THE CUSTOMER WAS ADVISED OF ALL FEES AND CHARGES IN CONNECTION WITH THE POLICY BEFORE SHE PURCHASED IT.  A COPY OF THE POLICY WAS SENT TO HER AND QUARTERLY, SEMI-ANNUAL AND ANNUAL STATEMENTS HAVE BEEN SENT TO THE CLIENT FOR OVER THREE YEARS.""
+}",3/13/1996 - 7/22/1996,STRATEGIC ASSETS INC. (37590)
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,,,,,5/26/1989 - 10/17/1995,"BUTTONWOOD SECURITIES, INC. (18420)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,,,,,8/26/1986 - 4/7/1988,"W. S. GRIFFITH & CO., INC. (10410)"
+18272,1476211,STANLEY,[STAN  MARTIN],MARTIN,,,,,4/25/1986 - 8/8/1986,CHUBB SECURITIES CORPORATION (3870)

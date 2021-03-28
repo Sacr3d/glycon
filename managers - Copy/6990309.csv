@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+1252,6990309,RYAN,[RYAN  CHRISTOPHERSEN],CHRISTOPHERSEN,4/29/2008,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""FALSELY STATE WRITING OVER 21"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""OBSTRUCTION OF JUSTICE"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""CONSUMPTION OF LIQUOR BY MINOR"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""DISORDERLY CONDUCT"",
+    ""Disposition"" : ""Pled guilty""
+  } ],
+  ""Broker Comment"" : ""I WAS IN A BAR UNDERAGE AND A POLICE OFFICER ASKED FOR MY IDENTIFICATION.  I TRIED TO PASS FOR AN ID THAT WAS NOT MINE.""
+}",1/29/2020 - Current,WILLIAM BLAIR (1252)

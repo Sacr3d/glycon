@@ -4,7 +4,8 @@ import java.io.File;
 
 public enum FileEnum {
 
-	FIRM_PATH("firms" + File.separator),FRIENDLY_WORKBOOK("friendly-workbook.csv"), FIRM_WORKBOOK("firm.csv");
+	FIRM_PATH("firms" + File.separator), FIRM_FINAL_PATH("final" + File.separator), MANAGER_PATH("managers" + File.separator),
+	FRIENDLY_WORKBOOK("friendly-workbook.csv"), FIRM_WORKBOOK("firm.csv");
 
 	private final String value;
 

@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,4623375,AMBER,"[AMBER KRISTEN GIRTMAN, AMBER KRISTEN DURR GIRTMAN]",GIRTMAN JONES,10/5/1999,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""832.05 2B - Passing worthless bank check"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""I accidentally bounced a check at a local grocery store.  When I was made aware of the situation, I went down to the courthouse and paid the check along with any applicable court related charges.  I was never aware that I was being charged with a misdemeanor.""
+}",7/7/2005 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4623375,AMBER,"[AMBER KRISTEN GIRTMAN, AMBER KRISTEN DURR GIRTMAN]",GIRTMAN JONES,,,,,4/26/2005 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,4623375,AMBER,"[AMBER KRISTEN GIRTMAN, AMBER KRISTEN DURR GIRTMAN]",GIRTMAN JONES,,,,,2/25/2005 - 4/26/2005,"AMERICAN GENERAL DISTRIBUTORS, INC. (37449)"

@@ -1,0 +1,51 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,3265335,BRIAN,[],PARRETT,8/22/2018,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,278.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",5/15/2000 - 12/31/2018,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,3265335,BRIAN,[],PARRETT,11/20/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,291.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+11173,3265335,BRIAN,[],PARRETT,3/7/2017,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,757.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+11173,3265335,BRIAN,[],PARRETT,8/26/2016,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$302.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""The state keeps putting our payments to the oldest lien and not applying until the old lien is paid.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,11/10/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$198,018.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""My understanding is this was updated after was amended some tax returns.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,10/9/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$97,764.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Working with IRS on how to go forth. We sent out a Form 433A. They (IRS) are reviewing outstanding taxes.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,9/25/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$305.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Just found out about it. We will pay ASAP.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,10/15/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$23,274.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""We will be disputing this amount.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,3/9/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$9,209.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+11173,3265335,BRIAN,[],PARRETT,12/8/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$70,685.17"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""ALL COLLECTION ATTEMPTS ARE ON HOLD UNTIL OUR FINANCIAL SITUATION IMPROVES. IRS REPS HAVE BEEN VERY COOPERATIVE.""
+}",,
+11173,3265335,BRIAN,[],PARRETT,6/3/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$20,973.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,

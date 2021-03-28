@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+108958,6283400,DEREK,[],ZOOK,10/2/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Possession of Fictitious ID Card"",
+    ""Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""False Identify Self to Law Enforcement"",
+    ""Disposition"" : ""Dismissed""
+  } ]
+}",5/25/2017 - 9/10/2018,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+108958,6283400,DEREK,[],ZOOK,,,,,5/17/2016 - 9/10/2018,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

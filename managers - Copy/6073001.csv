@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,2/6/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleged that her funds were moved into the money market without her permission in October 2017."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$14,845.61"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The allegation of unauthorized trading was unsubstantiated; however, it was found that there was a misstatement related to when investments would be made.  The client was compensated for lost market gains.""
+}",7/10/2019 - Current,"THE OAK RIDGE FINANCIAL SERVICES GROUP, INC (42941)"
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,,,,,6/5/2019 - Current,"THE OAK RIDGE FINANCIAL SERVICES GROUP, INC. (42941)"
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,,,,,2/15/2019 - 6/7/2019,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,,,,,8/6/2015 - 2/11/2019,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,,,,,7/21/2015 - 2/11/2019,"AMERIPRISE FINANCIAL SERVICES, INC. (6363)"
+42941,6073001,MICHAEL,[MICHAEL JOHN SCHUMACHER],SCHUMACHER,,,,,2/2/2015 - 5/27/2015,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"

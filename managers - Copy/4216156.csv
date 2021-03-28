@@ -1,0 +1,11 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+23131,4216156,LEONARD,[],HIRSH,1/30/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Theft and Unlawful Taking or Driving of a Vehicle"",
+    ""Disposition"" : ""Dismissed""
+  } ],
+  ""Broker Comment"" : ""Confused friend's unlocked rental car and accidentally entered another person's vehicle. Was mistakenly confronted for having intended to separate the owner from his vehicle. All charges were dropped once it was clear that the occurrence was nothing more than a simple mistake.""
+}",11/2/2018 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+23131,4216156,LEONARD,[],HIRSH,,,,,4/1/2016 - Current,SEIA (108163)
+23131,4216156,LEONARD,[],HIRSH,,,,,2/9/2016 - 11/2/2018,"SIGNATOR INVESTORS, INC. (468)"
+23131,4216156,LEONARD,[],HIRSH,,,,,8/18/2000 - 6/7/2001,BARCLAYS GLOBAL INVESTORS SERVICES (39438)

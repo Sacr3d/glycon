@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,9/7/1999,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Office of Commissioner of Insurance State of Georgia"",
+  ""Allegations"" : ""The Representative failed to disclose he was the subject of a previous regulatory action."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$500.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""Probationary license for 12 months"",
+  ""Broker Comment"" : ""Because of the haste in which the application was taken and a misunderstanding of a particular question, material facts were omitted on my nonresident agent's license application.""
+}",8/25/2017 - 12/31/2019,"SECURITIES AMERICA, INC. (10205)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,10/23/1992,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Commonwealth of Virginia State Corporation Commission"",
+  ""Allegations"" : ""False or fraudulent statements or representations were made relative to an application for an insurance policy for the purpose of obtaining a commission or other benefit from the insurer."",
+  ""Resolution"" : ""Decision & Order of Offer of Settlement"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines""
+  } ]
+}",8/25/2017 - 12/31/2019,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,7/16/2012 - 9/1/2017,"NEXT FINANCIAL GROUP, INC. (46214)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,3/4/2009 - 7/24/2012,"ONEAMERICA SECURITIES, INC. (4173)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,1/14/2009 - 7/24/2012,"ONEAMERICA SECURITIES, INC. (4173)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,8/18/2008 - 12/19/2008,"NATIONWIDE SECURITIES, LLC (11173)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,8/31/2007 - 4/22/2008,"HORNOR, TOWNSEND & KENT, INC. (4031)"
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,8/27/1999 - 9/5/2007,1717 CAPITAL MANAGEMENT COMPANY (4082)
+10205,2276297,WILLIAM,"[BILL  WHITMORE, WILLIAM TREDWAY WHITMORE]",WHITMORE,,,,,10/17/1994 - 9/5/2007,1717 CAPITAL MANAGEMENT COMPANY (4082)

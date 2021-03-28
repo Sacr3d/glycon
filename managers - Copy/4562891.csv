@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,3/28/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$910.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Dispute over commisions paid. Payment arragement has been agreed upon.""
+}",7/18/2020 - Current,"FARMERS FINANCIAL SOLUTIONS, LLC (103863)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,4/23/2018,Customer Dispute,Dismissed,"{
+  ""Allegations"" : ""Plaintiff is claiming that I advised her deceased husband to cancel life insurance policies before new policies were placed. I actually advised him to wait until the new policy was placed before doing so. He chose not to."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/3/2019 - 7/15/2019,"BANKERS LIFE SECURITIES, INC. (173962)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,3/21/2018 - 1/9/2019,"PRUCO SECURITIES, LLC. (5685)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,10/22/2015 - 2/1/2017,"W&S BROKERAGE SERVICES, INC. (8099)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,11/6/2012 - 3/4/2014,"ALLSTATE FINANCIAL SERVICES, LLC (18272)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,8/17/2011 - 3/13/2012,"SAMMONS SECURITIES COMPANY, LLC (115368)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,1/27/2009 - 8/11/2010,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,10/13/2006 - 7/11/2008,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,8/2/2005 - 12/21/2005,FIDELITY BROKERAGE SERVICES LLC (7784)
+103863,4562891,Scott,[SCOTT J MURRAY],Murray,,,,,10/6/2002 - 8/5/2005,"NORTHWESTERN MUTUAL INVESTMENT SERVICES, LLC (2881)"

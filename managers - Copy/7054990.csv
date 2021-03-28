@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,7054990,JOHN,[JOHN  HARRIS],HARRIS,8/23/2017,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Possession of marijuana"",
+    ""Disposition"" : ""Dismissed"",
+    ""Amended Charges"" : ""Charge was dismissed"",
+    ""Amended Charge Type"" : ""OTHER""
+  } ]
+}",4/4/2019 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,7054990,JOHN,[JOHN  HARRIS],HARRIS,,,,,3/18/2019 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

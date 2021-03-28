@@ -1,0 +1,13 @@
+ID,FIRSTNAME,OTHERNAMES,SECONDNAME,DISCLOSUREDATE,DISCLOSURETYPE,DISCLOSURERESULT,DISCLOSUREINFO,FINRAEMPLOYMENTDATES,FINRAEMPLOYMENT
+5663839,PAUL,[PAUL LESTRANGER BEATON],BEATON,8/8/2011,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""CLIENT IS ALLEGING OPENING OF ACCOUNT WITHOUT CONSENT AND SUBSEQUENT BOND PURCHASE WITHOUT CONSENT."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/21/2009 - 7/15/2011,B. C. ZIEGLER AND COMPANY (61)
+5663839,PAUL,[PAUL LESTRANGER BEATON],BEATON,7/7/2011,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""B. C. ZIEGLER AND COMPANY"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""ALLEGATION OF FALSIFYING CLIENT RECORDS.""
+}",,

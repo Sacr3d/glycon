@@ -1,0 +1,15 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+149018,3028243,JOHN,[],DAVIS,8/7/2020,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges that advisor solicited stock sale of inherited stock that caused her to lose a subsidy for health care benefit due to gains from the sale of stocks. Client claims that she specifically made advisor aware of this risk. Damages claimed to be $8436."",
+  ""Damage Amount Requested"" : ""$8,436.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/23/2019 - Current,"RAYMOND JAMES FINANCIAL SERVICES ADVISORS, INC (149018)"
+149018,3028243,JOHN,[],DAVIS,,,,,9/20/2019 - Current,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+149018,3028243,JOHN,[],DAVIS,,,,,9/9/2016 - 9/27/2019,"SUNTRUST ADVISORY SERVICES, INC. (283390)"
+149018,3028243,JOHN,[],DAVIS,,,,,3/26/2013 - 12/31/2016,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+149018,3028243,JOHN,[],DAVIS,,,,,3/22/2013 - 9/27/2019,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+149018,3028243,JOHN,[],DAVIS,,,,,11/5/2002 - 3/25/2013,"FIRST CITIZENS INVESTOR SERVICES, INC. (44430)"
+149018,3028243,JOHN,[],DAVIS,,,,,3/6/2002 - 3/25/2013,"FIRST CITIZENS INVESTOR SERVICES, INC. (44430)"
+149018,3028243,JOHN,[],DAVIS,,,,,3/26/1998 - 2/22/2002,"NATIONWIDE SECURITIES, INC. (11173)"

@@ -1,0 +1,35 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46217,712667,GREGORY,[],PELLIZZON,11/18/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2014041107201"",
+  ""DocketNumberAAO"" : ""2014041107201"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Pellizzon consented to the sanctions and to the entry of findings that he non-willfully failed to disclose a customer's complaint on his Form U4 as required. The findings stated that counsel for the customer sent an email to counsel for Pellizzon and his member firm that included a complaint about Pellizzon's management of the customer's assets, including her account at the firm. The complaint included a demand for monetary compensation. The firm reported the customer's complaint to FINRA pursuant to FINRA Rule 4530. The firm's report of the complaint identified Pellizzon as the registered representative involved in the customer's complaint, and valued the dispute above the $5,000 reporting threshold. In reliance on legal counsel, Pellizzon erroneously determined that the complaint was not required to be reported on his Form U4. The findings also stated that later, the firm and Pellizzon settled with the customer."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""20 business days"",
+      ""Start Date"" : ""11/18/2019"",
+      ""End Date"" : ""12/16/2019""
+    } ]
+  } ],
+  ""Broker Comment"" : ""On November 18, 2019, Greg Pellizzon, a managing member of Hollencrest Capital Management (the Firm), voluntarily entered into a settlement of an administrative proceeding with the Financial Industry Regulatory Authority (FINRA) referred to as a letter of acceptance, waiver and consent (AWC).  The AWC alleges that Mr. Pellizzon's inadvertent non-disclosure of a customer complaint from 2014 when Mr. Pellizzon was affiliated with Hollencrest Securities (the Firm's former broker-dealer). The AWC acknowledged that Mr. Pellizzon, in failing to make the disclosure, relied upon the advice of legal counsel. Notably, the Firm itself had timely reported the customer complaint in October 2014 and identified Mr. Pellizzon as being named in the Complaint, but which in reliance on legal counsel the Firm and Mr. Pellizzon non-willfully omitted to report on his own Form U-4 at the same time.  The Firm also accurately reported that in November 2014, the complaint was settled without any admission of wrongdoing nor any payment by Mr. Pellizzon or the Firm.  Nonetheless, based on the non-willful reporting omission, Mr. Pellizzon agreed without admitting or denying to having violated Article V, Section 2(c) of FINRA's By-Laws and FINRA Rules 1122 and 2010.  Pursuant to the terms of the AWC, Mr. Pellizzon agreed to a 20-business day suspension from association with any FINRA member firm (i.e., a broker-dealer) effective beginning December 16, 2019 and a $5,000 deferred fine.  Notably, Hollencrest has not been found by FINRA to have been engaged in any wrongdoing in connection with this matter and is not subject to any claims or settlement with respect to this matter, nor is Mr. Pellizzon currently affiliated with any FINRA member firm to which the suspension would apply.""
+}",5/20/1999 - Current,HOLLENCREST CAPITAL MANAGEMENT (46217)
+46217,712667,GREGORY,[],PELLIZZON,1/14/1988,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""CLIENT ALLEGED UNAUTHORIZED TRANSACTIONS RESULTING IN DAMAGES OF $5,200"",
+  ""Damage Amount Requested"" : ""$5,200.00"",
+  ""Damages Granted"" : ""$2,743.29"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""49582"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLIENT [CUSTOMER] WAS AWARDED $2743.29, WHICH WAS PAID BY PAINE WEBBER. MR. PELLIZZON WAS NOT ASKED TO CONTRIBUTE TO THE PAYMENT THIS EVENT IS NON DISCLOSABLE ON GREGORY PELLIZZON'S RECORD AS HE WAS NOT AKED TO CONTRIBUTE TOWARDS THE PAYMENT OF $2,743.29 WHICH IS BELOW $10,000""
+}",4/1/2004 - 6/18/2019,DOUBLE EAGLE PARTNERS (128563)
+46217,712667,GREGORY,[],PELLIZZON,,,,,5/11/1999 - 1/2/2018,"HOLLENCREST CAPITAL MANAGEMENT, LLC (46217)"
+46217,712667,GREGORY,[],PELLIZZON,,,,,8/18/1987 - 4/30/1999,PRUDENTIAL SECURITIES INCORPORATED (7471)
+46217,712667,GREGORY,[],PELLIZZON,,,,,7/24/1980 - 8/11/1987,PAINEWEBBER INCORPORATED (8174)

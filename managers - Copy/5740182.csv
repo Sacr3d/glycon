@@ -1,0 +1,23 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+283942,5740182,Michael,"[MICHAEL JEROME QUINN, Michael  Quinn]",Quinn,12/31/2015,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2015046949801"",
+  ""DocketNumberAAO"" : ""2015046949801"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Quinn consented to the sanctions and to the entry of findings that he purchased shares of two companies' stock during their initial public offering in his fully disclosed personal account at another member firm, however FINRA rule prohibits a person associated with a member from purchasing a new issue in any account in which such person associated with a member has a beneficial interest. The findings stated that Quinn sold the shares of one of the companies' stock for a profit of $975.08, and sold the shares of the other company for a loss."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$975.08""
+    } ]
+  } ],
+  ""Sanctions"" : ""plus interest on disgorgement""
+}",5/10/2019 - Current,"BOFA SECURITIES, INC. (283942)"
+283942,5740182,Michael,"[MICHAEL JEROME QUINN, Michael  Quinn]",Quinn,,,,,6/3/2017 - 5/10/2019,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+283942,5740182,Michael,"[MICHAEL JEROME QUINN, Michael  Quinn]",Quinn,,,,,4/29/2010 - 5/11/2017,B. C. ZIEGLER AND COMPANY (61)
+283942,5740182,Michael,"[MICHAEL JEROME QUINN, Michael  Quinn]",Quinn,,,,,3/22/2010 - 4/29/2010,"MORGAN KEEGAN & COMPANY, INC. (4161)"

@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+266,63732,OWEN,[],DECOURSEY,11/5/1978,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""79-D-11"",
+  ""DocketNumberAAO"" : ""79--11"",
+  ""Initiated By"" : ""AMERICAN STOCK EXCHANGE"",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  } ],
+  ""Broker Comment"" : ""Not Provided""
+}",1/12/1981 - 8/7/1997,ERNST & COMPANY (266)
+266,63732,OWEN,[],DECOURSEY,,,,,6/11/1974 - 3/1/1981,WEISS PECK & GREER (2998)

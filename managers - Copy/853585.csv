@@ -1,0 +1,64 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,3/5/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2016050192001"",
+  ""DocketNumberAAO"" : ""2016050192001"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Andrews consented to the sanctions and to the entry of findings that he willfully failed to timely amend his Form U4 to disclose a federal tax lien filed against him for $13,752 in Howard Circuit Court in Maryland."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""two months"",
+      ""Start Date"" : ""3/5/2018"",
+      ""End Date"" : ""5/4/2018""
+    } ]
+  } ],
+  ""Sanctions"" : ""Respondent understands that this settlement includes a finding that he/she willfully omitted to state a material fact on a Form U4, and that under Section 3(a)(39)(F) of the Securities Exchange Act of 1934 and Article III, Section 4 of FINRA's By-Laws, this omission makes Respondent subject to a statutory disqualification with respect to association with a member.""
+}",8/1/2008 - 4/27/2016,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,4/27/2016,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""NATIONWIDE SECURITIES, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""REGISTERED REPRESENTATIVE TERMINATED FROM FIRM FOR FAILURE TO TIMELY DISCLOSE TAX LIENS.""
+}",2/14/2007 - 8/1/2008,1717 CAPITAL MANAGEMENT COMPANY (4082)
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,5/15/2015,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$80,997.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""All interest, penalty, taxes outstanding in IRS system for TX 1999-2013 are in \""Offer in compromise\"" process. These liens should not be appearing. These are all on the same amounts in dispute.""
+}",4/17/1999 - 2/4/2008,"NATIONWIDE SECURITIES, INC. (11173)"
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,12/23/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$103,695.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/9/1995 - 10/20/1998,"NATIONWIDE ADVISORY SERVICES, INC. (11173)"
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,2/7/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,847.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""SUBMITTED 8/25/14""
+}",7/20/1984 - 3/1/1994,PEBSCO SECURITIES CORP. (7110)
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,10/2/2012,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",6/26/1978 - 8/3/1984,"CIGNA SECURITIES, INC. (145)"
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,5/25/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$137,600.00"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,4/10/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,048.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Did not live at [address] in 2008. Unaware of court action. To the best of my knowledge, I have not had any account or financial transaction since cc/1996 when I left Philadelphia""
+}",,
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,3/24/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$336,325.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Aware of IRS claim not lien. This claim and other amounts related to this are a part of Offer in Compromise.""
+}",,
+11173,853585,NAPOLEON,[NAP  ANDREWS],ANDREWS,4/26/1996,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$49,553.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,

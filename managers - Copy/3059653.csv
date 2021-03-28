@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,3059653,JOSEPH,"[JOE  VALDES, JOSEPH JR VALDES]",VALDES,4/3/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS ALLEGE THEY MET WITH THEIR REGISTERED REPRESENTATIVE ON MARCH 9, 2020 TO REQUEST THEIR ACCOUNTS BE MOVED TO A FIXED INTEREST OPTION. THE REQUESTED TRANSACTIONS WERE NOT PERFORMED BY THE REGISTERED REPRESENTATIVE, CAUSING THEIR ACCOUNTS TO INCUR MARKET LOSSES."",
+  ""Damage Amount Requested"" : ""$30,000.00"",
+  ""Settlement Amount"" : ""$41,370.14"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/14/2000 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,3059653,JOSEPH,"[JOE  VALDES, JOSEPH JR VALDES]",VALDES,12/21/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client purchased a variable annuity in September 2017 and subsequently alleged that she was not informed about RMD obligations and the products' surrender charges.\"""",
+  ""Damage Amount Requested"" : ""$4,810.38"",
+  ""Settlement Amount"" : ""$4,810.38"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The issuing insurance company, The Variable Annuity Life Insurance Company (VALIC), offered the client rescission of her annuity contract at no cost. VALIC Financial Advisors, Inc. was not a party to the rescission and found no wrongdoing on the part of the advisor.""
+}",7/14/2000 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+42803,3059653,JOSEPH,"[JOE  VALDES, JOSEPH JR VALDES]",VALDES,,,,,7/13/1998 - 7/5/2000,"H.D. VEST INVESTMENT SECURITIES, INC. (13686)"

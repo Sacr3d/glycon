@@ -1,0 +1,47 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+40804,2942602,RICHARD,[],CUNNIFFE,7/25/2018,Civil,Final,"{
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Litigation Release No. 24215, July 25, 2018: This matter involves an unlawful, serial insider trading scheme orchestrated by three financial industry professionals, in which an investment banker tipped material, nonpublic information to his father an accountant, who partnered with his friend a professional trader, Cunniffe, to exploit this information by placing highly profitable securities trades. As an investment banker at two prominent investment banks, the investment banker learned nonpublic information about future mergers and acquisitions involving clients of these investment banks. From 2010 to 2014, on at least six occasions, the investment banker tipped his father about imminent mergers or acquisitions so that his father could benefit from this valuable information, and on four of these occasions, the investment banker's father further tipped the information to Cunniffe. Cunniffe used the information to place trades in his own accounts and generated approximately $1.1 million in illicit proceeds which he shared with the father. The investment banker's father knew that because of his undeniable relationship with his son, he needed to recruit a partner who would trade in his stead to conceal his trading activity. To this end, the father approached Cunniffe, and the two men agreed that Cunniffe would trade in Cunniffe's account and then split the illicit profits. Cunniffe and the investment banker's father attempted to conceal their illegal trading and evade detection by: (a) favoring in-person meetings to discuss the scheme; (b) using coded email messages to discuss the scheme; (c) spreading trades over numerous stock options series in an attempt to avoid regulatory scrutiny; (d) buying stock options during periods when these securities were more heavily traded in order to blend into the daily volume; (e) refraining from options trading too close to the expected announcement date of a merger or acquisition; and (f) in most instances, sharing the illicit profits through cash payments. By this Complaint, the Commission charges defendant Cunniffe with illegal insider trading in violation of the federal securities laws. By knowingly or recklessly engaging in the conduct described in this Complaint, Cunniffe violated and, unless restrained and enjoined by the Court, will continue to violate Sections 10(b) and 14(e) of the Securities Exchange Act of 1934."",
+  ""Resolution"" : ""Judgment Rendered"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$983,272.96""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines""
+  }, {
+    ""Sanctions"" : ""Injunction""
+  } ],
+  ""Sanctions"" : ""Undertakings; Restrained""
+}",8/9/2012 - 4/2/2015,CHATSWORTH SECURITIES LLC (40804)
+40804,2942602,RICHARD,[],CUNNIFFE,7/23/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 34-83688 / July 23, 2018: The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative be instituted against Richard T. Cunniffe (\""Respondent\""). On the basis of this Order and Respondent's Offer, the Commission finds that on May 14, 2016, Cunniffe pleaded guilty to: (i) conspiracy to commit securities fraud and fraud in connection with a tender offer in violation of 18 U.S.C. 371; (ii) conspiracy to commit wire fraud in violation of 18 U.S.C. 1349; (iii) three counts of securities fraud in violation of 15 U.S.C. 78j(b) and 78ff, 17 C.F.R. 240.10b5 and 240.10b5-2, and 18 U.S.C. 2; and (iv) securities fraud in connection with a tender offer in violation of 15 U.S.C. 78n(e) and 78ff before the United States District Court for the Southern District of New York, in United States v. Richard Cunniffe, 15 Cr. 287 (S.D.N.Y.)(LTS). On November 6, 2017, Cunniffe was sentenced to one year of probation for each count, to be served concurrently, and ordered to forfeit of $900,000 and perform community service."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""any broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or NRSRO"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/23/2018""
+    }, {
+      ""Registration Capacities Affected"" : ""from participating in any offering of a penny stock"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""7/23/2018""
+    } ]
+  } ]
+}",1/9/2008 - 8/25/2010,"STERNE, AGEE & LEACH, INC. (791)"
+40804,2942602,RICHARD,[],CUNNIFFE,5/14/2016,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Conspiracy to commit wire fraud."",
+    ""Disposition"" : ""sentenced to probation for a term of (1) Year""
+  }, {
+    ""Charges"" : ""Securities fraud."",
+    ""Disposition"" : ""sentenced to probation for a term of (1) Year""
+  } ]
+}",3/24/2005 - 10/4/2007,J GIORDANO SECURITIES GROUP (104063)
+40804,2942602,RICHARD,[],CUNNIFFE,,,,,1/17/2002 - 8/12/2003,"BANC ONE CAPITAL MARKETS, INC. (23065)"
+40804,2942602,RICHARD,[],CUNNIFFE,,,,,2/2/2000 - 11/30/2001,WILLIAM BLAIR & COMPANY L.L.C. (1252)

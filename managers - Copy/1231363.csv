@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,1231363,RICHARD,"[GREG  HART, GREGORY  HART]",HART,5/31/2016,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is upset at the poor performance of a oil and gas security in his account which the client alleges now was unsuitable.  The time period was from 8/25/2014 to 11/03/2015."",
+  ""Damage Amount Requested"" : ""$60,000.00"",
+  ""Settlement Amount"" : ""$24,880.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""16-01309""
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,1231363,RICHARD,"[GREG  HART, GREGORY  HART]",HART,4/13/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges rep failed to follow his instructions to alert him if his stocks declined by $1000 each. Client wanted to sell positions should this happen."",
+  ""Damage Amount Requested"" : ""$12,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The rep did not receive specific instructions to establish stop loss orders at a specific price.""
+}",1/7/2004 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,1231363,RICHARD,"[GREG  HART, GREGORY  HART]",HART,12/22/2008,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENTS ALLEGED THE COMPANY'S EMPLOYEE RETIREMENT ACCOUNTS WERE IMPROPERLY SET UP AND FUNDED."",
+  ""Damage Amount Requested"" : ""$25,689.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/25/1984 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"

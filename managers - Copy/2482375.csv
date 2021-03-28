@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,11/17/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Complainant, who was never a client of WealthCare and was not a client of Respondent's at the time of the alleged cause of lost investment capital.  Complainant alleges misrepresentation of facts and unsuitability, despite acknowledging in writing receiving notice that the investment was high risk and included the potential for loss of capital."",
+  ""Damage Amount Requested"" : ""$400,000.00"",
+  ""Settlement Amount"" : ""$4,615.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""It was less costly to settle the case than to defend against it.""
+}",7/7/2017 - Current,"WEALTHCARE, LLC (170382)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,7/28/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Missouri"",
+  ""Allegations"" : ""Respondent Watts directed employees to deny access to the books and records of Wealthcare, LLC and refused to allow or otherwise impeded an audit or inspection under Section 409.4-411(d), RSMo (Cum. Supp. 2013), in violation of Section 409.4-412(d)(8)."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ ],
+  ""Sanctions"" : ""Respondent WealthCare, its agents, employees and servants, and all other persons participating in the above-described violations with knowledge of this order are permanently enjoined and restrained from violating Section 409.4-412(d)(8) by refusing or impeding the commissioner from conducting an audit or inspection under Section 409.4-411(d)."",
+  ""Broker Comment"" : ""There were no negative findings or sanctions issued against Mr. Watts. WealthCare was censured for allegedly impeding an inspection. It was less costly to settle the case than to defend against it.""
+}",3/29/2017 - 4/3/2017,REGAL INVESTMENT ADVISORS LLC (125004)
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,7/7/2014 - 3/27/2017,"WEALTHCARE, LLC (170382)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,4/10/2007 - 10/19/2010,"INVESTMENT CONSULTING GROUP, INC. (142390)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,10/12/1999 - 12/31/2007,"INVESTMENT CONSULTING GROUP, L.L.C. (119094)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,1/14/1999 - 4/19/2007,RAYMOND JAMES FINANCIAL SERVICES (6694)
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,10/26/1998 - 4/19/2007,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,1/10/1997 - 10/27/1998,"ROBERT THOMAS SECURITIES, INC (10147)"
+170382,2482375,JAMES,[J BARRY WATTS],WATTS,,,,,5/25/1994 - 1/4/1997,"EDWARD D. JONES & CO., L.P. (250)"

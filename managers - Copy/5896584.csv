@@ -1,0 +1,105 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+145012,5896584,CHRISTOPHER,[],FERNAN,10/19/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053314902"",
+  ""DocketNumberAAO"" : ""2017053314902"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Fernan consented to the sanction and to the entry of findings that he refused to appear for on-the-record testimony requested by FINRA as part of an investigation. The findings stated that this matter originated from a review of a customer complaint disclosed by his member firm in a Form U5."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""10/19/2020""
+    } ]
+  } ]
+}",12/8/2015 - 2/17/2017,SALOMON WHITNEY FINANCIAL (145012)
+145012,5896584,CHRISTOPHER,[],FERNAN,12/23/2019,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""Fernan was a subject of the customer's complaint against Salomon Whitney Finanical that asserted the following causes of action: unsuitable investments and investment strategy; breach of duty to provide information; failure to supervise; vicarious liability; breach of contract; violation of securities regulatory rules; common law claims; and breach of fiduciary duty. The causes of action relate to claimant's trading in various unspecified options."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""19-03796"",
+  ""arbitrationDocketNumber"" : """"
+}",6/23/2014 - 11/30/2015,ROCKWELL GLOBAL CAPITAL LLC (142485)
+145012,5896584,CHRISTOPHER,[],FERNAN,11/27/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges the broker guaranteed the account against losses and would pay her back if the account incurred any losses."",
+  ""Damage Amount Requested"" : ""$10,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/16/2013 - 6/23/2014,FREEDOM INVESTORS CORP. (23714)
+145012,5896584,CHRISTOPHER,[],FERNAN,6/15/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Fraud, Deceptive Practices, Breach of Fiduciary Duty, Unsuitability, Breach of Contract, Negligence"",
+  ""Damage Amount Requested"" : ""$154,000.00"",
+  ""Settlement Amount"" : ""$65,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/22/2013 - 6/23/2014,FREEDOM INVESTORS CORP. (23714)
+145012,5896584,CHRISTOPHER,[],FERNAN,3/12/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Fraud, Excessive Trading, Churning, Unauthorized Trading, Breach of Fiduciary Duty, Unsuitability, Breach of Contract"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/17/2012 - 4/19/2013,GLOBAL ARENA CAPITAL CORP (16871)
+145012,5896584,CHRISTOPHER,[],FERNAN,5/22/2017,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017053314901"",
+  ""DocketNumberAAO"" : ""2017053314901"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Fernan failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""n/a"",
+      ""Start Date"" : ""6/23/2017"",
+      ""End Date"" : ""9/20/2017""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552 and in accordance with FINRA's Notice of Suspension letter dated May 22, 2017, Fernan is suspended on June 23, 2017 from associating with any FINRA member firm in all capacities. If Fernan fails to request termination of the suspension within three months of the date of the Notice of Suspension, he will automatically be barred on September 11, 2017 from association with any FINRA member in all capacities pursuant to FINRA Rule 9552(h). Suspension lifted on September 20, 2017.""
+}",6/20/2011 - 9/28/2011,"WELLS FARGO ADVISORS, LLC (19616)"
+145012,5896584,CHRISTOPHER,[],FERNAN,4/24/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client claims to have loaned Mr. Fernan money in the amount of 11500. Mr. Fernan paid back 4000"",
+  ""Damage Amount Requested"" : ""$7,500.00"",
+  ""Damages Granted"" : ""$1,625.50"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,2/17/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""Salomon Whitney"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Client contacted firm and informed us that Chris borrowed $11,500 dollars from him and produced a signed receipt from Chris.""
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,5/22/2015,Customer Dispute,Pending,"{
+  ""Allegations"" : ""STATEMENT OF CLAIM ALLESES VIOLATIONS OF 2110,2120,2111 AND 3010 FROM 01/2014 - 09/2014"",
+  ""Damage Amount Requested"" : ""$90,680.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,2/4/2015,Customer Dispute,Dismissed,"{
+  ""Allegations"" : ""ONE UNSUITABLE TRADE"",
+  ""Damage Amount Requested"" : ""$72,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,1/11/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$31,875.03"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I WAS NEVER AWARE OF THIS JUDGMENT UNTIL INFORMED BY FINRA.  THEY WERE SERVING ME AT AN ADDRESS WHERE I DID NOT LIVE.  I AM NOW IN POSSESSION OF THE DOCUMENTS AND AM SUBMITTING TO HAVE THE JUDGMENT DISMISSED, VACATED AND A SHOW FOR CAUSE.""
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,9/18/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$10,000.00"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+145012,5896584,CHRISTOPHER,[],FERNAN,8/10/1982,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""ARTICLE 128/134-UCMJ, SIMPLE ASSAULT/ASSAULT W/INTENT TO ROB"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",,

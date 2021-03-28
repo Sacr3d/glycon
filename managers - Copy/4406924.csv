@@ -1,0 +1,24 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,4406924,RANDAL,[],MASTER,2/24/2020,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Client alleges FA made unsuitable recommendations regarding investments."",
+  ""Damage Amount Requested"" : ""$113,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,4406924,RANDAL,[],MASTER,8/8/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges unsuitability of REIT."",
+  ""Damage Amount Requested"" : ""$73,399.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/7/2004 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,4406924,RANDAL,[],MASTER,10/28/2008,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES REGISTERED REPRESENTATIVE DID NOT APPROPRIATELY ADVISE HIM OF THE TAX LIABILITY FOR TRANSACTIONS ASSOCIATED WITH TRANSFERRING ACCOUNTS."",
+  ""Damage Amount Requested"" : ""$189,929.00"",
+  ""Settlement Amount"" : ""$150,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-00834"",
+  ""Broker Comment"" : ""CLIENT ALLEGES TAX LIABILITY DAMAGES, BUT HAS NOT PROVIDED ANY SUPPORTING DOCUMENTATION.""
+}",7/27/2001 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"

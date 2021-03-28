@@ -1,0 +1,21 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+13905,5270240,JOHN,[],FOLTZ,4/11/2018,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Aggravated DUI - Interlock"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Driving or Actual Physical Control While Under the Influence of Intoxicating Liquor or Drugs"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  }, {
+    ""Charges"" : ""Aggravated DUI - Interlock"",
+    ""Disposition"" : ""Amended"",
+    ""Amended Charges"" : ""Endangerment"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Pled guilty""
+  } ]
+}",2/12/2020 - Current,"CANTELLA & CO., INC. (13905)"
+13905,5270240,JOHN,[],FOLTZ,,,,,2/7/2020 - Current,"CANTELLA & CO., INC. (13905)"
+13905,5270240,JOHN,[],FOLTZ,,,,,4/29/2016 - 8/15/2018,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+13905,5270240,JOHN,[],FOLTZ,,,,,8/30/2010 - 5/13/2016,MORGAN STANLEY (149777)
+13905,5270240,JOHN,[],FOLTZ,,,,,2/17/2010 - 5/13/2016,MORGAN STANLEY (149777)
+13905,5270240,JOHN,[],FOLTZ,,,,,1/18/2007 - 3/19/2010,B. C. ZIEGLER AND COMPANY (61)

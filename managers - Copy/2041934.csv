@@ -1,0 +1,112 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,7/27/2016,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Alleged inappropriate and unauthorized margin calls."",
+  ""Damage Amount Requested"" : ""$8,400.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""[Customer's] parents [third party] 20 year + clients of mine funded [customer's] account as a gift. [Customer] never put any of his own money into the account. The account always used margin as leverage and invested in higher yielding securities. [Customer] was sent regular checks as income.  After 4/29/2013 his NLY dividends were just used to pay down margin balance so when he called me to liquidate  his account on 3/23/2015 his margin balance was down to $936.85 which of course had to paid from sale proceeds. He had NO MARGIN CALLS during the time frame of his spurious complaint.  Had he held his stock he would have received 6 more $72.00 dividends by now $432.00 more. The stock closed yesterday at the same price he sold it at. NLY is a high income mortgage REIT dividend stock.  I met annually and spoke almost daily to his parents. I spoke infrequently but certainly explained transactions and dividends to him including the cessation of sending dividend checks to pay down margin to [customer] as there was virtually no activity in his account. His statements were both regular and easy to read as there were only 2 small purchases and the final sale other than dividends and very small margin monthly charges (the last being $3.33 as margin interest kept going down as margin was being paid off)   in the 5 year period in his \""complaint\""""
+}",6/27/2017 - Current,MUTUAL TRUST COMPANY OF AMERICA SECURITIES (8494)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,3/3/2008,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""WISCONSIN"",
+  ""Allegations"" : ""HE IS A LICENSED SECURITIES AGENT, WHO AT LEAST ON ONE OCCASION, ENGAGED IN DISCRETIONARY TRADING IN A CUSTOMER ACCOUNT WITHOUT HAVING OBTAINED WRITTEN AUTHORIZATION. THIS IS CONSIDERED DISHONEST AND/OR UNETHICAL BUSINESS PRACTICES AND IS A BASIS FOR SUSPENSION OF A LICENSEE PURSUANT TO DFI-SEC.4.06(2)(I),WIS.ADM.CODE & 551.34(1)(G)WIS.STATS."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension""
+  } ],
+  ""Sanction Details"" : ""SUSPENDED FOR A PERIOD OF TEN BUSINESS DAYS TO BE SERVED ON 2/18/2008 THROUGH 2/29 2008.  VIOLATION OF THE ORDER IS A CRIMINAL OFFENSE"",
+  ""Broker Comment"" : ""DUNN DID NOT CONTEST THE ISSUANCE OF THE ORDER, AND NEITHER ADMITTING NOR DENYING THE ALLEGATIONS CONTAINED IN THE STAFF'S PETITION FOR ORDER.""
+}",1/2/2008 - 6/16/2017,FREEDOM INVESTORS CORP. (23714)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,7/25/2007,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2006004817701"",
+  ""DocketNumberAAO"" : ""2006004817701"",
+  ""Initiated By"" : ""NASD"",
+  ""Allegations"" : ""NASD RULES 2110, 2510(B) - RESPONDENT EFFECTED DISCRETIONARY TRANSACTIONS IN THE SECURITIES ACCOUNT OF A PUBLIC CUSTOMER WITHOUT HAVING OBTAINED PRIOR WRITTEN AUTHORIZATION FROM THE CUSTOMER TO EXERCISE DISCRETION AND PRIOR WRITTEN ACCEPTANCE OF THE ACCOUNT AS DISCRETIONARY."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  } ],
+  ""Regulator Statement"" : ""WITHOUT ADMITTING OR DENYING THE FINDINGS, DUNN CONSENTED TO THE DESCRIBED SANCTIONS AND TO THE ENTRY OF FINDINGS, THEREFORE, HE IS CENSURED AND FINED $5,000. FINE PAID 06/21/2002.""
+}",12/18/2003 - 1/9/2008,"EZ STOCKS, INC. (103866)"
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,8/22/2002,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""NEGLIGENCE, MISREPRESENTATION, UNSUITABLE RECOMMENDATIONS, UNAUTHORIZED TRADING AND BREACH OF FIDUCIARY DUTY"",
+  ""Damage Amount Requested"" : ""$213,301.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""02-04761"",
+  ""arbitrationDocketNumber"" : """"
+}",10/1/2002 - 12/19/2003,NATIONAL SECURITIES CORPORATION (7569)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,5/22/2002,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""UNSUITABLE INVESTMENT ADVICE, MISREPRESENTATIONS DURING THE TIME OF DECEMBER 2001 THROUGH MAY 2002"",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/27/1998 - 10/1/2002,LISS FINANCIAL SERVICES (21950)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,6/25/2001,Customer Dispute,Settled,"{
+  ""Allegations"" : ""MISREPRESENTATION, NEGLIGENT SUPERVISION, UNSUITABILITY AND FRAUD."",
+  ""Damage Amount Requested"" : ""$453,000.00"",
+  ""Settlement Amount"" : ""$25,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""01-02994"",
+  ""arbitrationDocketNumber"" : """"
+}",3/2/1998 - 9/10/1998,DAIN RAUSCHER INCORPORATED (31194)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,1/5/2001,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""MISREPRESENTATION, SUITABILITY AND PERFORMANCE GUARANTEES."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/10/1996 - 3/2/1998,DAIN RAUSCHER INCORPORATED (7600)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,8/28/1998,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""DAIN RAUSCHER INCORPORATED"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""N/A MR. DUNN DEPOSITED PERSONAL CHECKS IN THE AMOUNT OF $79,292.00 INTO HIS DAIN RAUSCHER ACCOUNT, KNOWING THERE WERE INSUFFICIENT FUNDS TO COVER SUCH CHECKS."",
+  ""Broker Comment"" : ""MR. DUNN WAS TERMINATED ON 8/28/98. CONTACT: [THIRD PARTY] (612) 371-2390""
+}",6/7/1990 - 8/21/1996,SMITH BARNEY INC. (7059)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,6/16/1998,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS SEEK COMPENSATION OF APPROXIMATELY $20,000 FOR THE LOSSES (INCLUDING MARGIN CALLS AND INTEREST) INCURRED IN THEIR ACCOUNTS WHILE THEY HELD TRANSCEND SERVICES, INC. ALTHOUGH THEY DO NOT CLAIM THAT THE TRADES WERE UNAUTHORIZED, THEY CLAIM THAT THEY DID NOT AUTHORIZE THE USE OF MARGIN."",
+  ""Damage Amount Requested"" : ""$20,000.00"",
+  ""Settlement Amount"" : ""$1,511.33"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE CUSTOMER'S WERE REIMBURSED FOR THE $1,511.34 IN MARGIN INTEREST WHICH THEY HAD PAID DURING THE TIME THEIR ACCOUNT WAS MAINTAINED AT DAIN RAUSCHER INC. NOT PROVIDED.""
+}",3/21/1990 - 5/10/1990,INVESTMENT ACCOUNT SERVICES CORP. (14745)
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,4/30/1998,Customer Dispute,Settled,"{
+  ""Allegations"" : ""SMITH-BARNEY CLIENT ALLEGED UNSUITABILITY - EQUITIES, ALLEGED DAMAGES - UNSPECIFIED BUT IN EXCESS OF $5,000"",
+  ""Settlement Amount"" : ""$8,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED FOR $8,000 SMITH BARNEY COMPLIANCE DEPARTMENT""
+}",,
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,7/30/1997,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""MISREPRESENTATION, VIOLATION OF WISCONSIN'S UNIFORM SECURITIES LAW, FAILURE TO DISCLOSE RISKS, FRAUD. ALLEGED DAMAGES: $134,468.83"",
+  ""Damage Amount Requested"" : ""$134,468.82"",
+  ""Damages Granted"" : ""$160,894.82"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""97-04972"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AFTER THE HEARING, CLAIMANTS WERE ORDERED TO TENDER THE SECURITES COMPLIANED OF AND RESPONDENTS WERE ORDERED TO PAY $134,261 IN DAMAGES AND $26,633.83 IN ATTORNEY'S FEES, COSTS AND DISBURSEMENTS. CONTACT: [ATTORNEY], ESQ. (212) 816-7252""
+}",,
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,3/25/1997,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""MISREPRESENTATION, VIOLATION OF WISCONSIN UNIFORM SECURITIES LAW AND COMMON LAW, UNSUITABILITY, FRAUD. ALLEGED DAMAGES: $19,455"",
+  ""Damage Amount Requested"" : ""$19,455.00"",
+  ""Damages Granted"" : ""$18,398.91"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""97-01511"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AFTER A HEARING CLAIMANTS WERE AWARDED $18,398.91 AND WAS ORDERED TO RETURN 1,235 SHARES OF KENETECH CORP. STOCK. CONTACT: [BROKER DEALER CONTACT PERSON] (212) 816-7252""
+}",,
+8494,2041934,LEONARD,[LEN  DUNN],DUNN,2/26/1996,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT  [CUSTOMER] ALLEGES BREACH OF FIDUCIARY DUTY, CHURNING AND MISREPRESENTATION AND SEEKS ACTUAL DAMAGES OF $67,650.00."",
+  ""Damage Amount Requested"" : ""$67,650.00"",
+  ""Settlement Amount"" : ""$14,999.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""97-05068"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""AWARD: $9,995 NOT PROVIDED""
+}",,

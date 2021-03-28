@@ -1,0 +1,37 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+125777,2821723,ADAM,[],WESTPHALEN,3/11/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Connecticut"",
+  ""Allegations"" : ""On March 11, 2019, the Banking Commissioner issued an Order to Cease and Desist, Order to Make Restitution, Notice of Intent to Deny Registrations as an Investment Adviser and as an Investment Adviser Agent, Notice of Intent to Fine and Notice of Right to Hearing (Docket No. CRNDF-19-8408-S) against Mosaic Financial Strategies LLC (f/k/a Mosaic Portfolio Strategists LLC and doing business as Mosaic Advisory Partners) (\""Mosaic\"") of 40 Maple Road, Easton, Connecticut 06612 and Adam Westphalen, principal of the firm.  Mosaic had previously been registered as an investment adviser in Connecticut until 2014, and reapplied for investment adviser registration under a different CRD number.  Adam Westphalen also reapplied for registration as an investment adviser agent of Mosaic. The action alleged that 1) from approximately 2004 forward, Westphalen was involved with various businesses, to wit, Triton Investment Partners LLC, Vista Financial Strategies LLC, Vista Investment Advisors LLC and Mosaic College Planners; and 2) Westphalen and Mosaic failed to amend their Connecticut registration filings to disclose their affiliations with Triton Investment Partners LLC, Vista Financial Strategies LLC and Mosaic College Planners in violation of Section 36b-31-14e of the Regulations under the Connecticut Uniform Securities Act.  The action also alleged that, following the expirations of their prior registrations, Mosaic and Westphalen transacted business as an unregistered investment adviser and an unregistered investment adviser agent, respectively, in contravention of Sections 36b-6(c)(1) and 36b-6(c)(2) of the Act, and that Mosaic falsely represented on its reapplication that it had not rendered investment advisory services.  In addition, the action alleged that Westphalen sold unregistered securities in violation of Section 36b-16 of the Act and violated the antifraud provisions in Section 36b-4(a) of the Act.  More specifically, Westphalen purportedly solicited a Connecticut couple to invest $67,500 in Omni Oil and Gas Inc., a Texas based oil and gas concern whose securities were not registered under the Act.  Westphalen also allegedly solicited multiple investors to invest in Triton Investment Partners LLC and failed to provide them with key disclosures.  In neither offering was Westphalen registered as an agent of issuer as required by Section 36b-6(a) of the Act."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$900,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Denial""
+  }, {
+    ""Sanctions"" : ""Restitution"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$490,000.00""
+    } ]
+  } ],
+  ""Sanctions"" : ""On July 27, 2020, following an administrative hearing, the Commissioner issued Findings of Fact, Conclusions of Law and an Order fining the respondents $900,000, jointly and severally.  The Commissioner also denied Westphalen's registration as an investment adviser agent and denied Mosaic Financial Strategies LLC's registration as an investment adviser.  The May 10, 2019 Order to Cease and Desist and Order to Make Restitution were also rendered permanent as to each respondent, with investor restitution being due in 45 days.  The Commissioner directed the respondents to pay $490,000, excluding interest, to the affected investors.""
+}",7/9/2012 - 12/31/2012,VISTA INVESTMENT ADVISORS LLC (125777)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,4/28/2009 - 12/31/2014,MOSAIC PORTFOLIO STRATEGISTS LLC (149364)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,4/12/2004 - 6/25/2007,ASSETMARK INVESTMENT SERVICES (109018)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,7/9/2001 - 6/25/2007,ASSETMARK CAPITAL CORPORATION (37583)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,12/13/2000 - 6/29/2001,UNITED PLANNERS' FINANCIAL SERVICES OF AMERICA A LIMITED PARTNER (20804)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,8/16/2000 - 4/12/2004,VISTA INVESTMENT ADVISORS LLC (125777)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,8/16/2000 - 8/16/2000,"ASSETMARK, INC. (109018)"
+125777,2821723,ADAM,[],WESTPHALEN,,,,,7/8/2000 - 12/7/2000,JEFFERSON PILOT SECURITIES CORPORATION (3870)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,2/19/1999 - 7/8/2000,"POLARIS FINANCIAL SERVICES, INC. (14521)"
+125777,2821723,ADAM,[],WESTPHALEN,,,,,1/20/1998 - 12/31/1998,"WASHINGTON SQUARE SECURITIES, INC. (2882)"
+125777,2821723,ADAM,[],WESTPHALEN,,,,,12/4/1997 - 1/20/1998,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,9/25/1997 - 2/6/1998,"MML INVESTORS SERVICES, INC. (10409)"
+125777,2821723,ADAM,[],WESTPHALEN,,,,,5/1/1997 - 10/1/1997,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+125777,2821723,ADAM,[],WESTPHALEN,,,,,11/6/1996 - 12/3/1996,"MML INVESTORS SERVICES, INC. (10409)"

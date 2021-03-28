@@ -1,0 +1,7 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6413,6354207,LUCAS,[LUCAS  TURANO],TURANO,11/15/2013,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Employer changed compensation plan from salary to sales/commission based at turn of the year...it didn't allow enough time to adjust.""
+}",1/8/2020 - Current,LPL FINANCIAL LLC (6413)
+6413,6354207,LUCAS,[LUCAS  TURANO],TURANO,,,,,8/7/2015 - 12/31/2019,"NATIONWIDE SECURITIES, LLC (11173)"

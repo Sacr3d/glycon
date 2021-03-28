@@ -1,0 +1,19 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8174,4275119,ANDREW,[],HALPERN,12/27/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""February 12, 2018 to December 27, 2018   What were the allegations against the individual?      The client alleges the Financial Advisor failed to follow the agreed upon plan of dollar cost averaging by fully investing the account in six months.  The client further alleges the account was to be conservative and had over 350k in Exchange Traded Funds.  The alleged damages are estimated to be in excess of $5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""I strongly dispute these claims and deny the allegations made.  I believe them to be factually inaccurate and solely an attempt to recover losses that are a result of market exposure and volatility.  All the investments are in line With the client's agreed upon asset allocation and the clients agreed to the implementation of this strategy.""
+}",5/10/2013 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,4275119,ANDREW,[],HALPERN,10/26/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGES THAT THE REGISTERED REPRESENTATIVE FOLLOWED INSTRUCTIONS FROM AN INDIVIDUAL OTHER THAN THE ACCOUNT HOLDER."",
+  ""Damage Amount Requested"" : ""$602,500.00"",
+  ""Settlement Amount"" : ""$80,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""WHILE BERNSTEIN MADE THE DECISION TO SETTLE THIS CLAIM FOR BUSINESS REASONS, MR. HALPERN STRONGLY DISPUTED THE ALLEGATIONS IN WHICH THE CLIENT WAS TRYING TO RECOVER MONEY WITHDRAWN FROM THE ACCOUNT FOR HER BENEFIT. MR. HALPERN WAS EAGER TO VINDICATE HIMSELF, WAS NOT A PARTY TO THE SETTLEMENT, AND WAS NOT ASKED TO CONTRIBUTE TO THE SETTLEMENT.""
+}",9/19/2012 - Current,UBS FINANCIAL SERVICES INC. (8174)
+8174,4275119,ANDREW,[],HALPERN,,,,,12/13/2005 - 9/26/2012,ALLIANCEBERNSTEIN L.P. (108477)
+8174,4275119,ANDREW,[],HALPERN,,,,,1/5/2001 - 9/26/2012,"SANFORD C. BERNSTEIN & CO., LLC (104474)"

@@ -1,0 +1,14 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,6714810,Francisco,[],Pizarro,4/9/2001,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""DRUGS - EQUIP - POSSESS / DRUG PARAPHERNA POSN"",
+    ""Disposition"" : ""Dismissed""
+  }, {
+    ""Charges"" : ""EVIDENCE-DESTROYING / TAMPER WITH PHYSICAL EVIDENCE"",
+    ""Disposition"" : ""Charges Dropped 2001-04-30; DROPPED/ABANDONED""
+  }, {
+    ""Charges"" : ""MARIJUANA-POSSESS / CANNABIS POSN 0 20"",
+    ""Disposition"" : ""(Other 2001-04-30; FILED)...i just paid court fines thats it.  good lawyer!""
+  } ],
+  ""Broker Comment"" : ""I was charged and arrested not so much for smoking pot, but because my friend has a HUGE mouth and started yelling and calling the cops on scene every obscenity in the book.  So naturally the cops responded in kind and something that should have just been a PTA at best snowballed into a felony and two misdemeanors because they couldn't go after the load mouth insulting them so next best thing was me.""
+}",11/29/2016 - 6/17/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

@@ -1,5 +1,6 @@
 package glycon.utils;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -12,6 +13,45 @@ import glycon.object.FirmManager;
 import glycon.object.FriendlyFirm;
 
 public class ListUtil {
+
+	public static List<Firm> createWorkingFirmList(List<String> rawFrimList, List<Firm> primeFirmList) {
+
+		return primeFirmList.stream().filter(firm -> rawFrimList.contains(firm.getFirmId()))
+				.collect(Collectors.toList());
+
+	}
+
+	public static List<FirmManager> packFutures(List<Future<List<FirmManager>>> resultList) {
+
+		List<FirmManager> friendlyFirmList = new ArrayList<>();
+
+		for (Future<List<FirmManager>> friendlyFirmFutureList : resultList) {
+
+			try {
+				friendlyFirmFutureList.get().forEach(friendlyFirm -> {
+					if (friendlyFirm != null)
+						friendlyFirmList.add(friendlyFirm);
+
+				});
+			} catch (InterruptedException | ExecutionException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+		}
+
+		return friendlyFirmList;
+
+	}
+
+	public static <E> List<E> removeDuplicates(List<E> rawFrimList, List<E> friendlyFirmPrevious) {
+
+		List<E> listCopy = new ArrayList<>(rawFrimList);
+
+		listCopy.removeAll(new HashSet<>(friendlyFirmPrevious));
+
+		return new ArrayList<>(listCopy);
+	}
 
 	public static List<FriendlyFirm> sanatizeFriendlyList(List<Future<List<FriendlyFirm>>> resultList) {
 
@@ -45,43 +85,22 @@ public class ListUtil {
 		return partitions;
 	}
 
-	public static <E> List<E> removeDuplicates(List<E> rawFrimList, List<E> friendlyFirmPrevious) {
+	public static List<File> generateFileInformation(List<String> rawFrimList) {
 
-		List<E> listCopy = new ArrayList<>(rawFrimList);
-		
-		listCopy.removeAll(new HashSet<>(friendlyFirmPrevious));
+		List<File> requiredFilesList = new ArrayList<>();
 
-		return new ArrayList<>(listCopy);
-	}
+		for (String fileName : rawFrimList) {
 
-	public static List<Firm> createWorkingFirmList(List<String> rawFrimList, List<Firm> primeFirmList) {
+			File f = new File(FileEnum.FIRM_PATH.toString() + fileName + ".csv");
 
-		return primeFirmList.stream().filter(firm -> rawFrimList.contains(firm.getFirmId()))
-				.collect(Collectors.toList());
+			if (f.exists() && !f.isDirectory()) {
 
-	}
+				requiredFilesList.add(f);
 
-	public static List<FirmManager> packFutures(List<Future<List<FirmManager>>> resultList) {
-
-		List<FirmManager> friendlyFirmList = new ArrayList<>();
-
-		for (Future<List<FirmManager>> friendlyFirmFutureList : resultList) {
-
-			try {
-				friendlyFirmFutureList.get().forEach(friendlyFirm -> {
-					if (friendlyFirm != null)
-						friendlyFirmList.add(friendlyFirm);
-
-				});
-			} catch (InterruptedException | ExecutionException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
 			}
-
 		}
-		
-		return friendlyFirmList;
-		
+
+		return requiredFilesList;
 	}
 
 }

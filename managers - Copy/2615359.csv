@@ -1,0 +1,50 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,8/5/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2020065967401"",
+  ""DocketNumberAAO"" : ""2020065967401"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Respondent Tidball failed to respond to FINRA request for information."",
+  ""Resolution"" : ""Letter"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""11/9/2020""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""Pursuant to FINRA Rule 9552(h) and in accordance with FINRA's  Notice of Suspension and Suspension from Association letters dated August 5, 2020, and August 31, 2020, respectively, on November 9, 2020, Tidball is barred from association with any FINRA member in all capacities. Tidball failed to request termination of his suspension within three months of the date of the Notice of Suspension; therefore, he is automatically barred from association with any FINRA member in all capacities.""
+}",8/12/2019 - 3/10/2020,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,3/25/2019,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$39,225.42"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",1/9/2004 - 9/29/2017,TRANSAMERICA INVESTORS SECURITIES CORPORATION (32205)
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,3/20/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$16,822.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Unbeknownst to me, this tax lien was due to my spouse not filing and paying our taxes during a period of time prior to 2014 when we were experiencing financial difficulties.  When I learned of the situation in late 2013 I hired a tax resolution firm and after filing all the missing tax returns they were able to have the IRS stop collection efforts on the unpaid taxes provided that going forward all future taxes were paid on time and my W4 filing status be changed to single 0.  The outstanding debt has been reduced by withholding refunds for the past 2 years.  I anticipate that the outstanding balance will be paid within the next 2 years or so.""
+}",10/25/1999 - 11/12/2003,"ICMA-RC SERVICES, LLC (23189)"
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,7/6/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,184.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""THIS WAS A JOINT ACCOUNT THAT I CO-SIGNED WITH MY WIFE.  WHEN SHE TOOK ILL IN 2010 SHE WAS NOT ABLE TO WORK FOR ALMOST 3 YEARS.  AS A RESULT, WE EVENTUALLY WERE NOT ABLE TO MEET OUR FINANCIAL OBLIGATIONS.  NOW THAT SHE IS FULLY RECOVERED, WE ARE IN THE PROCESS OF MAKING ARRANGEMENTS TO SETTLE THE DEBT.""
+}",6/20/1995 - 10/2/1995,"FORTIS INVESTORS, INC. (421)"
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,4/26/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$6,329.41"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,3/12/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$7,498.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""THIS WAS A JOINT ACCOUNT THAT I CO-SIGNED WITH MY WIFE.  WHEN SHE TOOK ILL IN 2010 SHE WAS NOT ABLE TO WORK FOR ALMOST 3 YEARS.  AS A RESULT, WE EVENTUALLY WERE NOT ABLE TO MEET OUR FINANCIAL OBLIGATIONS.  NOW THAT SHE IS FULLY RECOVERED, WE ARE IN THE PROCESS OF MAKING ARRANGEMENTS TO SETTLE THE DEBT.""
+}",,
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,4/28/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$5,628.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""THIS WAS A JOINT ACCOUNT THAT I CO-SIGNED WITH MY WIFE.  WHEN SHE TOOK ILL IN 2010 SHE WAS NOT ABLE TO WORK FOR ALMOST 3 YEARS.  AS A RESULT, WE EVENTUALLY WERE NOT ABLE TO MEET OUR FINANCIAL OBLIGATIONS.  NOW THAT SHE IS FULLY RECOVERED, WE ARE IN THE PROCESS OF MAKING ARRANGEMENTS TO SETTLE THE DEBT.""
+}",,
+8348,2615359,cleavon,"[CLEAVON LACHANT TIDBALL, CLEAVON  TIDBALL]",tidball,4/22/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$4,111.00"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""THIS WAS A JOINT ACCOUNT THAT I CO-SIGNED WITH MY WIFE.  WHEN SHE TOOK ILL IN 2010 SHE WAS NOT ABLE TO WORK FOR ALMOST 3 YEARS.  AS A RESULT, WE EVENTUALLY WERE NOT ABLE TO MEET OUR FINANCIAL OBLIGATIONS.  NOW THAT SHE IS FULLY RECOVERED, WE ARE IN THE PROCESS OF MAKING ARRANGEMENTS TO SETTLE THE DEBT.""
+}",,

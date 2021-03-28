@@ -1,0 +1,29 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+249,1851708,PAUL,[],SPORTELLI,6/17/2011,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT ALLEGES, INTER ALIA, THAT RESPONDENTS MISREPRESENTED ARS AS CASH EQUIVALENTS"",
+  ""Damage Amount Requested"" : ""$300,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""11-01112"",
+  ""Broker Comment"" : ""Mr. Sportelli had no involvement in the initial investment of the ARS.  He was the Administrative Manager at the time and was not involved until illiquidity became an issue with the client and the financial advisor.""
+}",11/19/2004 - Current,OPPENHEIMER & CO. INC. (249)
+249,1851708,PAUL,[],SPORTELLI,4/1/2005,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT FROM FEBRUARY 1999 THROUGH OCTOBER 2000, THE RESPONDENTS MADE UNSUITABLE RECOMMENDATIONS AND FAILED TO DIVERSIFY HIS PORTFOLIO. RESPONDENTS BELIEVE THAT THE ALLEGATIONS ARE WITHOUT MERIT."",
+  ""Damage Amount Requested"" : ""$20,900,000.00"",
+  ""Settlement Amount"" : ""$125,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""05-01755"",
+  ""arbitrationDocketNumber"" : """"
+}",8/8/2002 - 11/19/2004,MORGAN STANLEY DW INC. (7556)
+249,1851708,PAUL,[],SPORTELLI,10/1/1996,Customer Dispute,Settled,"{
+  ""Allegations"" : ""BREACH OF FUDICIARY DUTIES; ACCOUNT RELATED-NEGLIGENCE;MISREPRESENTATION; OMISSION OF FACTS. ASKING FOR $500,000 JOINTLY AND SEVERALLY FOR ACTUAL/COMPENSATORY DAMAGES AND $1,000,000 JOINTLY AND SEVERALLY FOR PUNITIVE EXEMPLARY DAMAGES."",
+  ""Damage Amount Requested"" : ""$500,000.00"",
+  ""Settlement Amount"" : ""$87,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""96-03437"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""NOT PROVIDED I WAS NAMED IN ABOVE PROCEEDING BECAUSE I AM THE SALES ASSISTANT TO MICHAEL ROYER. I DID NOT CONTRIBUTE TO THE SETTLEMENT.""
+}",11/2/2001 - 8/27/2002,"ROBERTSON STEPHENS, INC. (41271)"
+249,1851708,PAUL,[],SPORTELLI,,,,,2/1/2000 - 11/7/2001,J.P. MORGAN SECURITIES INC. (18718)
+249,1851708,PAUL,[],SPORTELLI,,,,,10/23/1995 - 2/1/2000,HAMBRECHT & QUIST LLC (940)
+249,1851708,PAUL,[],SPORTELLI,,,,,4/20/1995 - 12/21/1995,DEAN WITTER REYNOLDS INC. (7556)

@@ -1,0 +1,30 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,2695224,ANTONIO,"[ANTONIO G PUENTE, TONY  PUENTE]",PUENTE,1/29/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2018059909701"",
+  ""DocketNumberAAO"" : ""2018059909701"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Puente consented to the sanction and to the entry of findings that he refused to provide on-the-record testimony requested by FINRA in connection with its investigation into whether he potentially violated FINRA rules by engaging in undisclosed outside business activities and/or private securities transactions while associated with a member firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""1/29/2020""
+    } ]
+  } ]
+}",2/11/1999 - 9/21/2018,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,2695224,ANTONIO,"[ANTONIO G PUENTE, TONY  PUENTE]",PUENTE,8/21/2018,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""VALIC FINANCIAL ADVISORS INC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Registration terminated following conclusion of investigation into undisclosed outside business activity.""
+}",2/8/1999 - 9/21/2018,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,2695224,ANTONIO,"[ANTONIO G PUENTE, TONY  PUENTE]",PUENTE,3/1/2013,Financial,Pending,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Direct Payment Procedure""
+}",1/22/1996 - 12/31/2001,THE VARIABLE ANNUITY MARKETING COMPANY (5081)
+42803,2695224,ANTONIO,"[ANTONIO G PUENTE, TONY  PUENTE]",PUENTE,5/24/2012,Financial,Pending,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""PAYMENT PLAN"",
+  ""Broker Comment"" : ""I attended te hearing on May 17, 2016 and met with First Citizens Bank & Trist legal counsel.  I offered a compromise/settlement of $500 payment on a monthly basis.  I am currently awaiting the final decision.""
+}",,

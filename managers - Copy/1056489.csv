@@ -1,0 +1,42 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+32625,1056489,EUGENE,[],EUSANIO,7/8/1999,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""OHIO DIVISION OF SECURITIES"",
+  ""Allegations"" : ""SELLING UNREGISTERED PROMISSORY NOTES WITHOUT AUTHROIZATION OF HIS DEALER."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  } ],
+  ""Sanctions"" : ""N/A""
+}",10/1/1996 - 7/31/1997,"WMA SECURITIES, INC. (32625)"
+32625,1056489,EUGENE,[],EUSANIO,5/25/1999,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""OHIO DIVISION OF SECURITIES 77 SOUTH HIGHSTREET, 2*See FAQ #1*"",
+  ""Allegations"" : ""VIOLATIONS OF OHIO SECURITIES ACT."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  } ],
+  ""Sanctions"" : ""none""
+}",9/25/1992 - 10/23/1996,"JOHN HANCOCK DISTRIBUTORS, INC. (468)"
+32625,1056489,EUGENE,[],EUSANIO,4/28/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C8B980005"",
+  ""DocketNumberAAO"" : ""8980005"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$60,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ]
+}",9/25/1992 - 10/23/1996,JOHN HANCOCK MUTUAL LIFE INSURANCE COMPANY (5181)
+32625,1056489,EUGENE,[],EUSANIO,,,,,6/18/1987 - 9/23/1992,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+32625,1056489,EUGENE,[],EUSANIO,,,,,7/26/1983 - 5/21/1987,"SMA EQUITIES, INC. (3960)"
+32625,1056489,EUGENE,[],EUSANIO,,,,,7/21/1982 - 11/11/1982,FIRST INVESTORS CORPORATION (305)

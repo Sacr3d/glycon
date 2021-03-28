@@ -1,0 +1,20 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+111514,4810761,TIMOTHY,[],PLUSH,12/14/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",9/8/2016 - 12/31/2020,"TD AMERITRADE INVESTMENT MANAGEMENT, LLC (111514)"
+111514,4810761,TIMOTHY,[],PLUSH,10/23/2018,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""Student Loan Settlement Agreement""
+}",9/6/2016 - 1/11/2021,"TD AMERITRADE, INC. (7870)"
+111514,4810761,TIMOTHY,[],PLUSH,12/12/2011,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""SECOND MORTGAGE AGREEMENT, CREDITOR SETTLED FOR $6,000. DIFFERENCE FORGIVEN BY CREDITOR.""
+}",1/23/2006 - 8/22/2016,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
+111514,4810761,TIMOTHY,[],PLUSH,12/12/2011,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""SHORT SALE AGREEMENT (HAFA)CREDITOR SETTLED FOR $156,317.53, DIFFERENCE FORGIVEN BY CREDITOR""
+}",7/1/2005 - 8/22/2016,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

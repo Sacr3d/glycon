@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10205,5692096,MAMTA,[],RAI,4/27/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client alleges that the representative said he was purchasing product with a guaranteed 6% interest rate. Client also alleges that he was not informed that he could remain in his employer-sponsored program following his retirement."",
+  ""Damage Amount Requested"" : ""$45,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/3/2014 - Current,"SECURITIES AMERICA, INC. (10205)"
+10205,5692096,MAMTA,[],RAI,5/21/2014,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT THE REPRESENTATIVE SAID HE WAS PURCHASING A GUARANTEED PRODUCT THAT COULD NOT LOSE ANY MONEY AND WOULD EARN A 6% INTEREST RATE."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/3/2014 - Current,"SECURITIES AMERICA ADVISORS, INC. (110518)"
+10205,5692096,MAMTA,[],RAI,,,,,9/19/2010 - 9/11/2014,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10205,5692096,MAMTA,[],RAI,,,,,5/17/2010 - 9/11/2014,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10205,5692096,MAMTA,[],RAI,,,,,8/18/2009 - 3/29/2010,FIRST INVESTORS CORPORATION (305)

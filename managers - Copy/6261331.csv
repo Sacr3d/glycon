@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+17868,6261331,CHRISTOPHER,[],POSS,10/29/2014,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released""
+}",9/15/2016 - 8/8/2018,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+17868,6261331,CHRISTOPHER,[],POSS,9/3/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,151.28"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",12/23/2013 - 2/2/2015,COUNTRY CAPITAL MANAGEMENT COMPANY (12060)
+17868,6261331,CHRISTOPHER,[],POSS,10/15/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,381.33"",
+  ""Judgment/Lien Type"" : ""Civil""
+}",,

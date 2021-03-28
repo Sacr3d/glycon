@@ -1,0 +1,22 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,6/14/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""A personal representative of the customer alleges unsuitable investments were made in their accounts.  The firm denied the written complaint.  Subsequently, the firm on 12-27-2017 received an arbitration claim filed on 11/16/2017."",
+  ""Damage Amount Requested"" : ""$200,000.00"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""17-03087"",
+  ""Broker Comment"" : ""Neither Hilliard Lyons nor the registered representative admitted to any wrongdoing or liability in settling this matter.  The matter was settled in order to avoid the time and costs associated with litigation.""
+}",10/18/2019 - Current,ROBERT W. BAIRD & CO. INCORPORATED (8158)
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,5/8/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client's estate executors allege unsuitable investments."",
+  ""Damage Amount Requested"" : ""$21,618.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/13/2010 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,,,,,5/16/1994 - 10/18/2019,"J.J.B. HILLIARD, W.L. LYONS, LLC (453)"
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,,,,,4/22/1991 - 5/27/1994,FMB INVESTMENT SERVICES (28080)
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,,,,,10/3/1988 - 4/26/1991,"DOMINICK & DOMINICK, INCORPORATED (7344)"
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,,,,,8/28/1986 - 10/4/1988,"DOMINICK & DOMINICK, INCORPORATED (223)"
+8158,1399340,DANIEL,"[DAN J KEMPKER, DAN  KEMPKER]",KEMPKER,,,,,8/21/1985 - 4/30/1986,"EDWARD D. JONES & CO., L.P. (250)"

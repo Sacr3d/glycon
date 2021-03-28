@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,5/18/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleged that Mr. Knight failed to verify identity of a relative that claimed they had a POA authorizing a distribution. Client passed away and the beneficiaries became aware of this and alleged that there was no POA authorizing this distribution."",
+  ""Damage Amount Requested"" : ""$28,000.00"",
+  ""Settlement Amount"" : ""$28,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/28/2016 - 11/20/2019,"GLOBAL VIEW CAPITAL MANAGEMENT, LTD (158292)"
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,10/23/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Discharged""
+}",1/6/2012 - 5/6/2014,"TRANSAMERICA FINANCIAL ADVISORS, INC (16164)"
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,,,,,8/9/2006 - 1/6/2012,"INVESTMENT ADVISORS INTERNATIONAL, INC. (139233)"
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,,,,,6/29/2005 - 8/22/2006,"INTERSECURITIES, INC. (16164)"
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,,,,,4/12/2002 - 1/6/2012,"WORLD GROUP SECURITIES, INC. (114473)"
+158292,2760758,Dennis,"[DENNIS R. KNIGHT, DENNIS RULON KNIGHT, DENNIS  KNIGHT]",Knight,,,,,9/22/1997 - 4/12/2002,"WMA SECURITIES, INC. (32625)"

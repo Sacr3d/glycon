@@ -1,0 +1,45 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+107568,1792046,LOUIS,[LOUIS  NAVELLIER],NAVELLIER,6/12/2020,Regulatory,Pending,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""The Securities and Exchange Commission (\""Commission\"") deems it appropriate and in the public interest that public administrative proceedings be, and hereby are, instituted pursuant to Sections 203(e) and 203(f) of the Investment Advisers Act of 1940 (\""Advisers Act\"") against Louis Navellier and Navellier & Associates, Inc. (\""NAI\"", collectively, \""Respondents\"").   After an investigation, the Division of Enforcement alleges that from at least 2010 to the present, Respondents acted as investment advisers pursuant to the definition in the Advisers Act.  From the founding of NAI through the present, Mr. Navellier was NAI's Chief Investment Officer and Chief Executive Officer. He also owned at least 75% of NAI during that time, increasing his ownership to 100% after August 2013. NAI has been registered with the Commission as an investment adviser since October 1987.  On June 2, 2020, a final judgment was entered against Respondents, permanently enjoining them from future violations of Sections 206(1) and 206(2) of the Advisers Act, in the civil action entitled Securities and Exchange Commission v. Navellier & Associates, Inc., et al., Civil Action Number 1:17-CV-11633, in the United States District Court for the District of Massachusetts. The final judgment also orders Respondents jointly and severally to pay disgorgement of $28,964,571, including $6,513,619 in prejudgment interest, as well as civil penalties against NAI in the amount of $2,000,000 and against Mr. Navellier in the amount of $500,000.  The Commission's complaint alleged that, from at least 2010 to approximately August 2013, respondents breached their fiduciary duties and defrauded their advisory clients and prospective clients through the use of marketing materials that included false and misleading statements regarding the performance of the firm's Vireo AlphaSector investment strategies that they offered.  In its February 13, 2020 Order granting the Commission's motion for partial summary judgment, the District Court found that Respondents knew there were misleading statements in their marketing materials and that there had been inadequate due diligence, yet they failed to inform their clients. Instead, as the court determined, the respondents continued to sell the Vireo Alpha Sector investment strategies despite their knowledge that representations about the strategies were false and misleading. The District Court concluded that each Respondent acted with scienter."",
+  ""SanctionDetails"" : [ ]
+}",3/2/1992 - Current,NAVELLIER & ASSOCIATES INC (107568)
+107568,1792046,LOUIS,[LOUIS  NAVELLIER],NAVELLIER,8/31/2017,Civil,Final,"{
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Litigation Release No. 23925, August 31, 2017: The Securities and Exchange Commission's complaint alleges that from 2010 to 2013, Navellier and his firm defrauded their clients and prospective clients, misleading them about the performance track record of investment strategies that the firm offered under a brand name. First, Navellier and his firm allegedly breached their fiduciary duty to clients and prospective clients by ignoring and concealing red flags that should have alerted them that the investment strategies had not performed as advertised. Second, Navellier's firm allegedly distributed materially false advertisements and client communications about the performance track record of the investment strategies. Navellier knew that the investment strategies track record could not be validated and, over time, concluded the track record was fabricated and that the investment strategies were based on a fraud. Eventually, he worried that the firm's prior false statements about the investment could get the firm into legal trouble (including with the Commission) so, in the summer of 2013, Navellier arranged to sell the line of business for approximately $14 million. In this way, Navellier profited from the company's successful marketing of a fraudulent performance record, without correcting the firm's misrepresentations to its fiduciary clients or disclosing the conflicts-of-interest he and the firm had in selling the business. Through the activities alleged in this Complaint, Navellier and his firm, while acting as investment advisers, employed devices, schemes and artifices to defraud their investment advisory clients and have engaged in acts, transactions, practices and courses of businesses which operated as a fraud on their investment advisory clients, in violation of Sections 206(1) and (2) of the Investment Advisers Act of 1940 (Advisers Act). Navellier also aided and abetted the firm's violations of Advisers Act Sections 206(1) and (2). The Commission seeks entry of appropriate permanent injunctions, including an injunction prohibiting Defendants from further violations of the relevant provisions of the federal securities laws; disgorgement of Defendants' ill-gotten gains, plus pre-judgment interest; and, imposition of civil penalties due to the egregious nature of Defendants' violations."",
+  ""Resolution"" : ""Judgment Rendered"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)""
+  }, {
+    ""Sanctions"" : ""Disgorgement"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$28,964,571.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines""
+  }, {
+    ""Sanctions"" : ""Injunction""
+  } ]
+}",11/13/2006 - 11/30/2009,"IFS FUND DISTRIBUTORS, INC. (24075)"
+107568,1792046,LOUIS,[LOUIS  NAVELLIER],NAVELLIER,6/3/1988,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""CALIFORNIA DEPARTMENT OF CORPORATIONS"",
+  ""Allegations"" : ""CONDUCTED UNLICENSED INVESTMENT ADVISORY ACTIVITIES UNDER  THE NAME OF NAVELLIER & ASSOCIATES"",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist/Injunction""
+  } ],
+  ""Sanction Details"" : ""DESIST AND REFRAIN ORDER ISSUED FOR UNLICENSED INVESTMENT ADVISORY ACTIVITIES."",
+  ""Broker Comment"" : ""THERE WAS A DISAGREEMENT BETWEEN NAVELLIER & ASSOCIATES, INC. AND THE STATE OF CALIFORNIA AS TO WHETHER NAVELLIER & ASSOCIATES, INC. WAS PROPERLY LICENSED AS A CALIFORNIA INVESTMENT ADVISOR. AS PART OF THE RESOLUTION, ON MARCH 17, 1989, THE STATE OF CALIFORNIA REGISTERED NAVELLIER AS AN INVESTMENT ADVISOR, BUT SUSPENDED HIS LICENSED FOR 2 WEEKS (3-17-1989 TO 3-30-89). CALIFORNIA AND NAVELLIER AGREED TO THE SUSPENSION WITHOUT NAVELLIER ADMITTING LIABLILITY IN THE SETTLEMENT OF THE DISPUTE""
+}",12/13/1993 - 11/1/2006,NAVELLIER SECURITIES CORP. (34861)
+107568,1792046,LOUIS,[LOUIS  NAVELLIER],NAVELLIER,7/2/1987,Civil,Final,"{
+  ""Initiated By"" : ""JAMES COLLINS, MY CO-OWNER THROUGH OUR CORPORATION ICM, INC."",
+  ""Allegations"" : ""MY CO-OWNER IN THE CORPORATION ICM, INC. ATTEMPTED TO ENJOIN ME FROM LEAVING OUR FIRM AND STARTING A COMPETING INVESTMENT ADVISORY FIRM."",
+  ""Resolution"" : ""Other"",
+  ""SanctionDetails"" : [ ],
+  ""Sanction Details"" : ""I PREVAILED; THE COURT VACATED THE EX PARTE TEMPORARY RESTRAINING ORDER WHICH HAD BEEN IN EFFECT FOR 50 DAYS; UNTIL THE ISSUES COULD BE FULLY BRIEFED AND HEARD, AFTER I FILED MY OPPOSITION THE COURT REFUSED TO ENJOIN ME FROM GIVING INVESTMENT ADVICE OR OBTAINING NEW CLIENTS AND HELD THAT I WAS ENTITLED TO FORM A COMPETING INVESTMENT ADVISORY BUSINESS."",
+  ""Broker Comment"" : ""MY CO-OWNER SUED TO PREVENT ME FROM FORMING A COMPETING INVESTMENT ADVISORY FIRM. THE STATE COURT RULED IN MY FAVOR AND ALLOWED ME TO FORM A COMPETING FIMR.""
+}",,

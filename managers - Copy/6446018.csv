@@ -1,0 +1,9 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+42803,6446018,RYAN,[],DEWITT,1/28/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customers alleged that they were not informed about restrictions on ability to modify investment selections in equity-indexed annuity"",
+  ""Damage Amount Requested"" : ""$37,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/27/2016 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+42803,6446018,RYAN,[],DEWITT,,,,,4/13/2015 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

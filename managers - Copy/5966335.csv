@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+21675,5966335,GREGORY,[],BEST,6/11/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""BURGARY 3RD DEGREE"",
+    ""Disposition"" : ""Reduced"",
+    ""Amended Charges"" : ""TAMPERING WITH A MOTOR VEHICLE, IOWA CODE 321.78"",
+    ""Amended Charge Type"" : ""MISDEMEANOR"",
+    ""Amended Charge Disposition"" : ""Convicted""
+  } ]
+}",9/8/2011 - 11/30/2011,DIRECTED SERVICES LLC (21675)

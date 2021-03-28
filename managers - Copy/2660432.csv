@@ -1,0 +1,95 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,1/19/2021,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""2017054137002"",
+  ""DocketNumberAAO"" : ""2017054137002"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""Without admitting or denying the findings, Hammond consented to the sanction and to the entry of findings that he participated in private securities transactions totaling $1,638,000 without providing written notice to his member firm. The findings stated that the transactions involved investments in limited liability companies controlled by Hammond's half-brother. Hammond participated in these transactions by referring investors to his half-brother, attending meetings about the investments and receiving compensation for his referrals. Two of the limited liability company investments turned out to be Ponzi schemes.  Hammond referred customers, who invested a total of $1,019,000, to these fraudulent investments. Additionally, in a firm compliance questionnaire, Hammond falsely answered questions about whether he participated in private securities transactions or received referral fees outside of his firm."",
+  ""Resolution"" : ""Acceptance, Waiver & Consent(AWC)"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""Indefinite"",
+      ""Start Date"" : ""1/19/2021""
+    } ]
+  } ]
+}",8/22/2017 - 12/4/2017,"HORNOR, TOWNSEND & KENT, INC. (4031)"
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,7/1/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing 2012."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$680,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/25/2017 - 5/3/2017,"MML INVESTORS SERVICES, LLC (10409)"
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,3/21/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing in 2005 and 2016."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$20,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/21/2007 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,1/7/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practice, State Securities Fraud regarding an investment into a fictitious entity, in 2008, approximately."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$86,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/2/2000 - 3/25/2017,"MSI FINANCIAL SERVICES, INC. (14251)"
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,12/31/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiffs alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing 1999."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""Settlement Amount"" : ""$1,190,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",8/2/2000 - 7/9/2007,METROPOLITAN LIFE INSURANCE COMPANY (4095)
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,10/22/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Plaintiff alleged Unfair and Deceptive Trade Practices and State Securities Fraud regarding the advisor's recommendation to invest in private securities, commencing in 2000."",
+  ""Settlement Amount"" : ""$975,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/7/2000 - 8/7/2000,PARK AVENUE SECURITIES LLC (46173)
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,5/7/2018,Customer Dispute,Pending,"{
+  ""Allegations"" : ""Plaintiff alleged Unfair and Deceptive Trade Practice and State Securities Fraud regarding the advisor's recommendation to invest in private securities commencing 2014."",
+  ""Damage Amount Requested"" : ""$25,000.01"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",5/3/1999 - 7/3/2000,PARK AVENUE SECURITIES LLC (46173)
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,2/26/2018,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Complainant alleged the former advisor's investment recommendations were unsuitable, commencing on or about August 2014."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/30/1995 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,8/18/2017,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Based on the Form U5 amendment filed by the representative's predecessor broker dealer, the customer alleged the advisor's recommendation to purchase two variable annuities in June of 2014 was not in her best interests. Customer has alleged damages for the waiver of surrender penalties as noted below."",
+  ""Damage Amount Requested"" : ""$12,679.97"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,8/17/2017,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""Plaintiff alleged that from August 2011 through March 2012, approximately, the former advisor facilitated the withdrawal of brokerage account funds and invested the proceeds in fraudulent securities."",
+  ""Damage Amount Requested"" : ""$690,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,4/21/2017,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""MML Invesotors Services, LLC"",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""Terminated in connection with an internal review relating to violation of company policy as to the handling of a customer complaint and selling away."",
+  ""Broker Comment"" : ""Please refer to broker check.  Please refer to letter of explanation. I am currently working with my attorney to expunge U5.""
+}",,
+4031,2660432,GARY,"[GARY W HAMMOND, GARY  HAMMOND]",HAMMOND,5/13/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleged the advisor's recommendation to purchase several variable life insurance policies, commencing in September 2010, was not appropriate."",
+  ""Damage Amount Requested"" : ""$16,400.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,

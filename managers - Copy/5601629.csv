@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+11173,5601629,ROCCO,[],VIGNOLA,12/12/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Tennessee"",
+  ""Allegations"" : ""Mr. Vignola has advertised Investment Advisory Services and solicited Tennessee Clients via his website (www.humanfinancialhealth.com) while not registered as an Investment Adviser in Tennessee which violates Tenn. Code Ann. \\u00a7 48-1-109(c)(1)."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  } ]
+}",9/13/2011 - 2/13/2012,"NATIONWIDE SECURITIES, LLC (11173)"
+11173,5601629,ROCCO,[],VIGNOLA,,,,,7/2/2009 - 9/23/2009,STATE FARM VP MANAGEMENT CORP. (43036)
+11173,5601629,ROCCO,[],VIGNOLA,,,,,10/21/2008 - 6/1/2009,NYLIFE SECURITIES LLC (5167)

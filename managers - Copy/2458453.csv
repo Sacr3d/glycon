@@ -1,0 +1,56 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,6/30/2020,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege the RR invested their money in unsuitable investments based on their stated investment objectives."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",4/14/2010 - 11/9/2017,PARK AVENUE SECURITIES LLC (46173)
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,6/28/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Registered Representative (deceased) sold a Fixed Indexed Annuity away from the firm and the purchaser alleges that the product sold was unsuitable."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/28/2003 - 8/22/2011,WYNN & WYNN FINANCIAL SERVICES (123734)
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,6/13/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Claimants allege that various stock trades within their brokerage account were unauthorized and unsuitable."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The RR was not named as a respondent. The Firm agreed to a settlement of $75,000.""
+}",5/3/1999 - 11/9/2017,PARK AVENUE SECURITIES LLC (46173)
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,3/23/2007,Customer Dispute,Withdrawn,"{
+  ""Allegations"" : ""CLIENT ALLEGES THAT SHE ENTERED INTO THE PURCHASE OF A VARIABLE ANNUITY WITHOUT A CLEAR EXPLANATION OF ITS IRREVOCABLE NATURE. FURTHERMORE, CLIENT ALLEGES THAT THE VARIABLE ANNUITY WAS INAPPROPRIATE FOR HER STATUS AND FINANCIAL WELL BEING. CLIENT ALLEGES THAT THE VARIABLE ANNUITY INHIBITED DIVERSIFICATION OF HER FUNDS. CLIENT CLAIMS THAT SHE HAS BEEN EXPERIENCING MEMORY LOSS, WHICH SHE WAS UNAWARE OF AT THE TIME SHE ENTERED INTO THE PURCHASE."",
+  ""Damage Amount Requested"" : ""$520,816.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""CLIENT VOLUNTARILY WITHDREW HER COMPLAINT.""
+}",1/6/1998 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,4/6/2003,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLAIMANT'S NASD STATEMENT OF CLAIM ALLEGES MISREPRESENTATION, BREACH OF FIDUCIARY DUTIES AND UNSUITABILITY IN CONNECTION WITH THE RECOMMENDATION OF MUTUAL FUNDS AND VARIABLE UNIVERSAL LIFE AND VARIABLE ANNUITY TRANSACTIONS.  CLIENT ALLEGES COMPENSATORY DAMAGES OF $140,000."",
+  ""Damage Amount Requested"" : ""$140,000.00"",
+  ""Settlement Amount"" : ""$32,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : ""03-01700"",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""IN VIEW OF THE UNCERTAINTIES AND FOR BUSINESS REASONS, THE PARTIES AGREED TO SETTLE THE MATTER FOR $32,000 WITH NO ADMISSIONS OF LIABILITY. MR. WYNN CONTRIBUTED $16,000.""
+}",6/21/1995 - 1/5/1998,FRANKLIN FINANCIAL SERVICES CORPORATION (5435)
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,12/30/2002,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENT, THROUGH HIS ATTORNEY, ALLEGES MISREPRESENTATION, BREACH OF FIDUCIARY DUTIES AND UNSUITABILITY IN CONNECTION WITH THE RECOMMENDATION OF MUTUAL FUNDS AND VARIABLE UNIVERSAL LIFE AND VARIABLE ANNUITY TRANSACTIONS.  CLIENT ALLEGES COMPENSATORY DAMAGES OF $140,000."",
+  ""Damage Amount Requested"" : ""$140,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""PARK AVENUE SECURITIES LLC (\""PAS\"") INVESTIGATED THE ALLEGATIONS OF CUSTOMER'S COMPLAINT AND CONCLUDED THAT THEY WERE WITHOUT MERIT.  THE CLAIM WAS DENIED.""
+}",2/1/1995 - 6/21/1995,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+46173,2458453,ROBERT,[ROBERT CHARLES WYNN],WYNN,2/1/2001,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CLIENTS ATTORNEY ALLEGES THAT PARK AVENUE SECURITIES REGISTERED REPRESENTATIVE, ROBERT WYNN, MADE MISREPRESENTATIONS CONCERNING THE CLIENTS' PURCHASE OF A VARIABLE LIFE INSURANCE POLICY.  CLIENTS ATTORNEY SEEKS COMPENSATORY DAMAGES OF $8,456.57."",
+  ""Damage Amount Requested"" : ""$8,456.57"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/14/1994 - 2/3/1995,FRANKLIN FINANCIAL SERVICES CORPORATION (5435)

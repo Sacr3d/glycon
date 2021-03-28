@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+8348,5305209,KAREN,"[KAREN LYNN BUTLER, KAREN LYNN KIMBLE]",MAMAH,7/30/2014,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Wire fraud in violation of 18 U.S.C. 1343"",
+    ""Disposition"" : ""Convicted""
+  }, {
+    ""Charges"" : ""Tax fraud in violation of 26 U.S.C. 7206 (1) - (2)"",
+    ""Disposition"" : ""Convicted""
+  }, {
+    ""Charges"" : ""Aggravated identity theft in violation of 18 U.S. C. 1028A"",
+    ""Disposition"" : ""Convicted""
+  }, {
+    ""Charges"" : ""Visa application fraud in violation of 18 U.S.C. 1546(a)"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",12/14/2007 - 3/13/2012,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
+8348,5305209,KAREN,"[KAREN LYNN BUTLER, KAREN LYNN KIMBLE]",MAMAH,2/24/2012,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""T. ROWE PRICE INVESTMENT SERVICES, INC."",
+  ""Termination Type"" : ""Discharged"",
+  ""Allegations"" : ""ALLEGATIONS BY ANOTHER EMPLOYEE REGARDING THE REPRESENTATIVE'S PRIVATE TAX PREPARATION SERVICES FOR THAT EMPLOYEE""
+}",,
+8348,5305209,KAREN,"[KAREN LYNN BUTLER, KAREN LYNN KIMBLE]",MAMAH,8/2/2011,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""FALSE DECLARATIONS BEFORE COURT"",
+    ""Disposition"" : ""Convicted""
+  } ]
+}",,

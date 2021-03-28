@@ -1,0 +1,18 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+123439,1003418,MARK,[],SNYDER,1/22/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Estate for deceased client alleges alternative investments were not suitable."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""Settlement Amount"" : ""$7,500.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The estate for the deceased client isolated specific underperforming investments and disregarded entire account gains. My broker-dealer settled this claim for a $7,500 sum that was far less than cost to arbitrate this baseless claim.""
+}",3/25/2021 - Current,"LONG ISLAND FINANCIAL ADVISORS, INC. (123439)"
+123439,1003418,MARK,[],SNYDER,,,,,4/27/2016 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+123439,1003418,MARK,[],SNYDER,,,,,11/6/2014 - Current,MARK J SNYDER FINANCIAL SERVICES INC (106425)
+123439,1003418,MARK,[],SNYDER,,,,,11/19/1989 - Current,"ROYAL ALLIANCE ASSOCIATES, INC. (23131)"
+123439,1003418,MARK,[],SNYDER,,,,,3/17/2006 - 12/31/2006,SNYDER MARK J FINANCIAL SERVICES INC (106425)
+123439,1003418,MARK,[],SNYDER,,,,,7/24/1986 - 11/19/1989,INTEGRATED RESOURCES EQUITY CORPORATION (6403)
+123439,1003418,MARK,[],SNYDER,,,,,6/12/1986 - 8/4/1986,"HANOVER CONCEPTS, INC. (14469)"
+123439,1003418,MARK,[],SNYDER,,,,,7/2/1984 - 6/17/1986,"CARDELL & ASSOCIATES, INCORPORATED (7700)"
+123439,1003418,MARK,[],SNYDER,,,,,9/18/1981 - 7/2/1984,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

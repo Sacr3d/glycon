@@ -1,0 +1,17 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+6635,1651846,WALDITH,[WALDITY GEORGE THOMPSON],THOMPSON,4/29/1998,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""C07980024"",
+  ""DocketNumberAAO"" : ""07980024"",
+  ""Initiated By"" : ""NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC."",
+  ""Resolution"" : ""Decision"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Monetary/Fine"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$85,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Censure""
+  }, {
+    ""Sanctions"" : ""Bar""
+  } ]
+}",3/29/1994 - 12/20/1996,GUARDIAN INVESTOR SERVICES CORPORATION (6635)

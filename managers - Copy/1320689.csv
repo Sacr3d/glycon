@@ -1,0 +1,27 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+519,1320689,DONALD,[DONALD  JEREB],JEREB,11/30/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client is alleging that as a result of transferring his fixed annuity to a mutual fund brokerage account, he incurred additional tax liabilities which he was not informed of. Client also alleges that he was not informed of the fees associated with the variable annuity contract which was established as a result of transferring his existing fixed annuity contract."",
+  ""Damage Amount Requested"" : ""$40,000.00"",
+  ""Settlement Amount"" : ""$35,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/27/2017 - Current,LINCOLN INVESTMENT (519)
+519,1320689,DONALD,[DONALD  JEREB],JEREB,8/24/2012,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGED THAT THE REPRESENTATIVE MISREPRESENTED THE FEATURES OF AN EXISTING VARIABLE ANNUITY, WITH ANOTHER FIRM, WHEN FUNDS WERE TRANSFERRED TO A NEW VARIABLE ANNUITY, IN MAY 2012.  CUSTOMER HAS ALLEGED DAMAGES AS NOTED BELOW."",
+  ""Damage Amount Requested"" : ""$16,000.00"",
+  ""Settlement Amount"" : ""$18,182.53"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",1/3/2017 - Current,LINCOLN INVESTMENT (519)
+519,1320689,DONALD,[DONALD  JEREB],JEREB,3/15/2012,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES MISREPRESENTATION IN THE SALE OF A VARIABLE ANNUITY CONTRACT AND A VARIABLE LIFE POLICY BOTH SOLD IN 2009"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/9/2017 - 10/4/2019,"LEGEND ADVISORY, LLC (104761)"
+519,1320689,DONALD,[DONALD  JEREB],JEREB,,,,,2/4/2015 - 1/3/2017,LEGEND EQUITIES CORPORATION (30999)
+519,1320689,DONALD,[DONALD  JEREB],JEREB,,,,,10/8/2010 - 5/9/2013,METLIFE SECURITIES INC. (14251)
+519,1320689,DONALD,[DONALD  JEREB],JEREB,,,,,3/25/2005 - 7/16/2010,"NATIONWIDE SECURITIES, LLC (11173)"
+519,1320689,DONALD,[DONALD  JEREB],JEREB,,,,,1/29/1985 - 4/25/2003,PRUCO SECURITIES CORPORATION (5685)

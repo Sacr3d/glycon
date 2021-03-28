@@ -1,0 +1,44 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+152248,2483862,RICK,[],GONSALVES,1/23/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""UNITED STATES SECURITIES AND EXCHANGE COMMISSION"",
+  ""Allegations"" : ""SEC Admin Release 33-10454/IA Release 4848/January 23, 2018: The Securities and Exchange Commission (Commission) deems it appropriate and in the public interest that public administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933 (Securities Act) and Sections 203(e) and 203(k) of the Investment Advisers Act of 1940 (Advisers Act) against Rick Gonsalves. These proceedings concern disclosure violations by AmericaFirst Capital Management, LLC and its two principals, Rick Gonsalves and another individual, while selling promissory notes to individual retail investors, including the firm's advisory clients. From December 2012 through February 2015, the firm was a registered investment adviser that was experiencing cash flow issues and turned to borrowing cash from investors in order to cover its business expenses. While soliciting investors to purchase or renew $2.7 million in the firm's promissory notes, the individual - who was directed by the firm's CEO Gonsalves - gave the impression to investors that the firm was a profitable business and failed to disclose that there was a risk of default associated with the promissory notes. In reality, the firm for several years had experienced increasingly negative net worth and decreasing net income, and had been sustaining its business operations through cash raised from the promissory notes sold to investors. As a result of his failure to exercise reasonable care in providing investors with complete and accurate disclosures regarding the firm's financial health, Gonsalves violated Section 17(a)(2) of the Securities Act and Section 206(2) of the Advisers Act."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$25,000.00""
+    } ]
+  } ]
+}",1/13/2014 - 12/31/2019,"AMERICAFIRST CAPITAL MANAGEMENT, LLC (152248)"
+152248,2483862,RICK,[],GONSALVES,12/1/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$42,835.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""PAYMENT PLAN TO IRS CURRENTLY OWE UNDER $17000.00""
+}",11/10/2011 - 10/30/2012,"AMERICAFIRST SECURITIES, INC. (47071)"
+152248,2483862,RICK,[],GONSALVES,12/10/2002,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE HOLDER OF A POA FOR THE ACCOUNT COMPLAINS OF MARGIN IN THE ACCOUNT. MR. GONSALVES SERVICED THE ACCOUNT FROM 8/97 UNTIL 4/02."",
+  ""Damage Amount Requested"" : ""$94,000.00"",
+  ""Settlement Amount"" : ""$41,355.23"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""SETTLED TO AVOID COSTLY AND TIME CONSUMING ARBITRATION IN THE AMOUNT OF $41,355.23.""
+}",10/13/2010 - 12/31/2013,"AMERICAFIRST CAPITAL MANAGEMENT, LLC (152248)"
+152248,2483862,RICK,[],GONSALVES,6/10/1998,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER COMPLAINED THAT PURCHASE OF CORPORATE BONDS IN 1997 AND 1998 WERE UNSUITABLE. HE HAS DEMANDED REBATE OF HIS LOSSES WHICH HE CLAIMS IS $19,000.00."",
+  ""Damage Amount Requested"" : ""$19,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""THE FIRM FOUND NO MERIT TO THE CLIENTS OF WRONGDOING. THE DEMAND FOR RESTITUTION WAS DENIED IN ITS ENTIRETY. NOT PROVIDED""
+}",9/24/2009 - 12/31/2010,"AMERICAFIRST CAPITAL MANAGEMENT, LLC (142828)"
+152248,2483862,RICK,[],GONSALVES,,,,,1/3/2007 - 12/31/2007,"BRECEK & YOUNG ADVISORS, INC. (40395)"
+152248,2483862,RICK,[],GONSALVES,,,,,9/22/2005 - 12/31/2006,"WRP INVESTMENTS, INC. (7365)"
+152248,2483862,RICK,[],GONSALVES,,,,,1/20/2004 - 10/12/2005,COMMONWEALTH FINANCIAL NETWORK (8032)
+152248,2483862,RICK,[],GONSALVES,,,,,4/23/2002 - 2/6/2004,RBC DAIN RAUSCHER INC. (31194)
+152248,2483862,RICK,[],GONSALVES,,,,,8/6/1997 - 5/8/2002,"FIRST UNION SECURITIES, INC. (19616)"
+152248,2483862,RICK,[],GONSALVES,,,,,6/24/1994 - 8/7/1997,M.L. STERN & CO. INC. (8327)

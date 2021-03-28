@@ -1,0 +1,54 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,9/23/2014,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""NEBRASKA"",
+  ""Allegations"" : ""THE SALE OF SECURITIES IN NEBRASKA WITHOUT REGISTRATION, AND THE FILING OF FALSE AND MISLEADING DOCUMENTS WITH THE DIRECTOR."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""BARRED FROM ASSOCIATION WITH AN INVESTMENT ADVISOR REGISTERED IN THE STATE OF NEBRASKA."",
+      ""Duration"" : ""PERMANENT"",
+      ""Start Date"" : ""11/30/2014""
+    } ]
+  } ]
+}",2/27/2007 - 12/1/2014,"PHYSICIANS FINANCIAL SERVICES, INC. (128807)"
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,3/3/2000,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF NEBRASKA DEPARTMENT OF BANKING AND FINANCE"",
+  ""Allegations"" : ""UNREGISTERED INVESTMENT ADVISORY ACTIVITY IN NEBRASKA"",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$8,500.00""
+    } ]
+  } ]
+}",1/9/1995 - 8/11/1995,CHUBB SECURITIES CORPORATION (3870)
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,8/21/1996,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""UNKNOWN"",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""STATE OF NEBRASKA BANKING AND FINANCE"",
+  ""Allegations"" : ""MISAPPLICATION OF ONE CLIENT IRA CONTRIBUTION IN VIOLATION OF ARTICLE III SECTION 18 OF NASD RULES OF FAIR PRACTICE"",
+  ""Resolution"" : ""Settled"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Temporary/Time Limited)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""GENERAL SECURITIES"",
+      ""Duration"" : ""TEMPORARY PENDING RE-APPLICATION AND TESTING"",
+      ""Duration Explanation"" : ""ON AUGUST 21, 1996, THE NASD CENSURED MR.TAXMAN THROUGH AN ORDER OF ACCEPTANCE OF OFFER OF SETTLEMENT FOR VIOLATION OF ARTICLE III SECTION 18 OF THE RULES OF FAIR PRACTICE RELATING TO THE MISAPPLICATION OF ONE CLIENT IRA CONTRIBUTION.  MR.TAXMAN WAS FINED $10,000 AND BARRED FROM ASSOCIATION WITH ANY NASD MEMBER IN ANY CAPACITY. THE PAYMENT OF THE FINE WAS ABATED UNTIL MR. TAXMAN APPLIES FOR RELIEF FROM THE BAR."",
+      ""Start Date"" : ""8/21/1996"",
+      ""End Date"" : ""8/21/1996""
+    } ]
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$10,000.00""
+    } ]
+  } ]
+}",1/6/1992 - 9/27/1993,FIRST AFFILIATED SECURITIES (23737)
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,,,,,3/14/1990 - 4/23/1991,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,,,,,11/25/1987 - 7/18/1988,"NML EQUITY SERVICES, INC. (2881)"
+128807,1727912,JEFFREY,[JEFF  TAXMAN],TAXMAN,,,,,11/25/1987 - 7/18/1988,ROBERT W. BAIRD & CO. INCORPORATED (8158)

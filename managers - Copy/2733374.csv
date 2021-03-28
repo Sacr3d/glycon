@@ -1,0 +1,109 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,10/19/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Colorado Division of Securities"",
+  ""Allegations"" : ""Hutton filed her last Form U-4 on July 8, 2010, and falsely affirmed that she did not have any judgments or liens against her.  Hutton Wealth Management Services, LLC (\""HWMS\"") filed its last Form ADV Parts 2A and 2B on December 5, 2011, in that filing, Hutton and HWMS falsely reported that Hutton did not have any SRO or administrative proceedings against her and had not filed any petitions for bankruptcy.  Hutton and HWMS failed to provide client invoices documenting fee deductions as required by Colorado Securities Regulations.  When deducting frees from client accounts, Hutton and HWMS failed to concurrently provide clients with itemized invoices."",
+  ""Resolution"" : ""Stipulation and Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Bar (Permanent)"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All"",
+      ""Duration"" : ""Permanent"",
+      ""Duration Explanation"" : ""Permanent"",
+      ""Start Date"" : ""4/2/2017""
+    } ]
+  }, {
+    ""Sanctions"" : ""Revocation""
+  } ]
+}",12/1/2009 - 12/31/2016,"HUTTON WEALTH MANAGEMENT SERVICES, LLC (149467)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,9/30/2016,Financial,Pending,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Broker Comment"" : ""Filed due to Cambridge Investment Research Award from FINRA.  Although Cambridge dismissed their claims, Bankruptcy was one of the options to release FINRA Suspension.""
+}",6/27/2008 - 8/19/2009,"CAMBRIDGE INVESTMENT RESEARCH, INC. (39543)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,5/6/2016,Investigation,,"{
+  ""Initiated By"" : ""Colorado Division of Securities"",
+  ""Description of Investigation"" : ""CDS sent a written letter to Candice Hutton, with Notice of Duty to Answer"",
+  ""Broker Comment"" : ""Candice Hutton has retained counsel Jeffrey Springer, Esq. and Jason Astle, Esq. of Springer & Steinberg.""
+}",6/27/2008 - 8/19/2009,"CAMBRIDGE INVESTMENT RESEARCH ADVISORS, INC. (134139)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,12/12/2013,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$19,405.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Working with State to Resolve Issue.""
+}",2/9/1999 - 7/2/2008,LPL FINANCIAL CORPORATION (6413)
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,8/1/2012,Regulatory,Pending,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Colorado Division Of Insurance"",
+  ""Allegations"" : ""Suspended License until FINRA suspension was lifted.  FINRA suspension is now lifted.  Will file for an appeal."",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""All Capacities"",
+      ""Duration"" : ""None"",
+      ""Duration Explanation"" : ""Until FINRA suspension has been lifted.  FINRA Suspension is now lifted.  Will file to appeal suspension with Colorado Division of Insurance""
+    } ]
+  } ],
+  ""Broker Comment"" : ""This circumstance relates to the Cambridge Investment Research events, which will further be described in more detail in this report.""
+}",1/20/1999 - 7/2/2008,LPL FINANCIAL CORPORATION (6413)
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,4/25/2012,Regulatory,Final,"{
+  ""DocketNumberFDA"" : ""11-02800"",
+  ""DocketNumberAAO"" : ""11-02800"",
+  ""Initiated By"" : ""FINRA"",
+  ""Allegations"" : ""RESPONDENT HUTTON FAILED TO COMPLY WITH AN ARBITRATION AWARD OR SETTLEMENT AGREEMENT OR TO SATISFACTORILY RESPOND TO A FINRA REQUEST TO PROVIDE INFORMATION CONCERNING THE STATUS OF COMPLIANCE."",
+  ""Resolution"" : ""LETTER"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""ANY CAPACITY"",
+      ""Duration"" : ""N/A"",
+      ""Start Date"" : ""4/25/2012"",
+      ""End Date"" : ""11/18/2016""
+    } ]
+  } ],
+  ""Regulator Statement"" : ""PURSUANT TO ARTICLE VI, SECTION 3 OF FINRA BY-LAWS AND FINRA RULE 9554, RESPONDENT HUTTON IS SUSPENDED FOR FAILURE TO COMPLY WITH AN ARBITRATION AWARD OR SETTLEMENT AGREEMENT OR TO SATISFACTORILY RESPOND TO A FINRA REQUEST TO PROVIDE INFORMATION CONCERNING THE STATUS OF COMPLIANCE. Suspension lifted on November 18, 2016.""
+}",2/26/1997 - 2/22/1999,"NORWEST INVESTMENT SERVICES, INC. (16100)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,8/3/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,071.00"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""Working With State to Resolve Issue.""
+}",8/13/1996 - 2/19/1997,"FBS INVESTMENT SERVICES, INC. (17868)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,6/14/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$17,937.18"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Included in Chapter 7, will file to have judgment removed.""
+}",5/15/1996 - 8/6/1996,"HANIFEN, IMHOFF CLEARING CORP. (29273)"
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,1/5/2010,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT ALLEGES THE RR INAPPROPRIATELY PLACED HER IN A LEVERAGED ETF CAUSING LOSSES IN HER ACCOUNT."",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,7/29/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENT QUESTIONS THE LEGITIMACY OF THE TRADES CONDUCTED AND THE ACCURACY OF THE ACCOUNTING THEY RECEIVED."",
+  ""Settlement Amount"" : ""$13,884.86"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,6/25/2009,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CLIENTS UPSET ABOUT MARKET DECLINE BETWEEN 01/01/09 AND 06/20/09.  CLIENT BELIEVES SYSTEM ERRORS CREATED INACCURATE NUMBERS IN PORTFOLIO. CLIENT STATES, BECAUSE THEY HAVE NOT RECEIVED ANY COMMUNICATION PRIOR TO THIS FROM FIRM, CLEARING FIRM, ETC. THAT THE POOR COMMUNICATION REPRESENTS INCOMPETENT MANAGEMENT OR FRAUD."",
+  ""Damage Amount Requested"" : ""$844,138.00"",
+  ""Settlement Amount"" : ""$420,847.84"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",,
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,12/26/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$59,999.54"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""Included In Chapter 7.  Will have judgment removed.""
+}",,
+149467,2733374,CANDICE,"[CANDICE JOY BURTON, Candy Joy Burton, CANDY JOY HUTTON, Candy Joy Sikes]",HUTTON,3/4/2005,Customer Dispute,Denied,"{
+  ""Allegations"" : ""UNSUITABLE, UNAUTHORIZED AND EXCESSIVE TRADING IN FEE-BASED ACCOUNT.  ALLEGED COMPENSATORY DAMAGES NOT SPECIFIED, BUT BELIEVED TO BE MORE THAN $5000."",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""Client hired Candice Hutton to Diversify and Manage her portfolio, which primarily consisted of individual stocks.  A year later, client filed a written complaint with LPL Financial against Candice Hutton. Client's  basis for her complaint was that if she held the original stocks, she would have had a greater return.  LPL denied any award.""
+}",,

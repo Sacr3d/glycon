@@ -1,0 +1,28 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+31194,4439148,JOHN,[],RANDOLPH,7/25/2018,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Time Frame: July 9, 2018  Allegations: Firm received notification of client's incapacity in December 2017. In July 2018, Client's son and holder of power of attorney provided consent to respond to allegations made by the Client's other son (third party individual)  concerning alleged breaches of fiduciary duty and unsuitable recommendations in connection with transactions effected prior to December 2017, resulting in a \""capital gains tax impact\"" and other \""inheritance impact(s)."",
+  ""Damage Amount Requested"" : ""$2,200,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This complaint was filed by my client's son, who is a registered financial advisor.  The allegations are baseless, false and completely without merit.  There has been no adverse impact to the client's estate or capital gains over the life of my relationship with the father, my client.  Before his other son took over POA on the account, my client (father) never expressed any dissatisfaction with my service of his account.""
+}",11/30/2018 - Current,"RBC CAPITAL MARKETS, LLC (31194)"
+31194,4439148,JOHN,[],RANDOLPH,6/8/2017,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""Time Frame: January 3, 2017 to April 4, 2017 The client is demanding $420,375 in which he alleges, represents the additional tax liability caused by the FA's failure to transfer certain shares of stock to the Minneapolis foundation within the regulatory window and closing window."",
+  ""Damage Amount Requested"" : ""$420,375.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""The client did not provide any written or verbal instructions to transfer any shares, to any entity, prior to the closing of the transaction between GK and Cintas. There was no communication to me, as the financial advisor, to move any shares to any charitable entity, either in writing or verbally, prior to the closing. The client made no representations that he was or was not going to make a charitable contribution prior to the closing date of the GK sale to Cintas. The client was made aware of the options to make a charitable contribution and confirmed by his CPA. He was also informed of the initial transaction announcement, in August of 2016, and notified of the shareholder approval in November of 2016. The client's CPA provided instructions to sell certain shares in 2016 for the client and no further instructions were provided to UBS or myself.""
+}",8/18/2010 - 12/10/2018,UBS FINANCIAL SERVICES INC. (8174)
+31194,4439148,JOHN,[],RANDOLPH,10/26/2010,Customer Dispute,Settled,"{
+  ""Allegations"" : ""THE CUSTOMER ALLEGES UNSUITABLE INVESTMENT RECOMMENDATIONS AND MISREPRESENTATION FROM SEPTEMBER 2007 TO JULY 2009. COMPENSATORY DAMAGES ARE NOT SPECIFIED."",
+  ""Settlement Amount"" : ""$87,934.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""MERRILL LYNCH SETTLED THIS COMPLAINT TO AVOID COSTS ASSOCIATED WITH AN ONGOING DISPUTE.  I WAS NOT THE FINANCIAL ADVISOR TO THIS CLIENT AT THE TIME OF THIS COMPLAINT.  DUE TO THE FACT THAT I ONLY WORKED WITH THIS CLIENT FOR THE FIRST 6 MONTHS OF THE 2+ YEARS THAT THE CLIENT WAS AT MERRILL LYNCH, I CAN ONLY SPEAK TO THE WORK I DID WITH THE CLIENT IN THAT TIME.  THE CLIENT, THEIR CPA, AND I WORKED TOGETHER TO DEVELOP AND EXECUTE A PLAN THAT WOULD MEET THE CLIENTS OBJECTIVES FOR ASSET AND LIABILITY MANAGEMENT.  THE CLIENT WAS AWARE OF, AND AGREEABLE TO ALL ASPECTS OF THE PLAN.""
+}",11/17/2003 - 8/20/2010,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+31194,4439148,JOHN,[],RANDOLPH,,,,,11/10/2003 - 8/20/2010,"MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED (7691)"
+31194,4439148,JOHN,[],RANDOLPH,,,,,5/29/2002 - 11/19/2003,ALLIANCE CAPITAL MANAGEMENT L P (108477)
+31194,4439148,JOHN,[],RANDOLPH,,,,,12/4/2001 - 11/19/2003,"SANFORD C. BERNSTEIN & CO., LLC (104474)"

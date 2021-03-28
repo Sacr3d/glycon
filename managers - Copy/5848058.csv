@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+10111,5848058,Damon,[DAMON  WILSON],Wilson,7/20/2015,Financial,Final,"{
+  ""Type"" : ""Bankruptcy"",
+  ""Disposition"" : ""Dismissed""
+}",8/30/2017 - 12/31/2017,PRIMERICA ADVISORS (10111)
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2012,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$631.18"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",6/30/2017 - 12/31/2017,PFS INVESTMENTS INC. (10111)
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2011,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$340.08"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",12/6/2013 - 1/5/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2010,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,451.51"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",7/22/2013 - 1/5/2017,"VALIC FINANCIAL ADVISORS, INC. (42803)"
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2009,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$2,005.78"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",10/27/2010 - 10/31/2012,"SUNTRUST INVESTMENT SERVICES, INC. (17499)"
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2008,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,428.56"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2007,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$103.91"",
+  ""Judgment/Lien Type"" : ""Tax"",
+  ""Broker Comment"" : ""PAYMENT ARRANGEMENT MADE TO SATISFY TAX LIEN.""
+}",,
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2006,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$1,117.60"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,
+10111,5848058,Damon,[DAMON  WILSON],Wilson,12/31/2005,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$392.34"",
+  ""Judgment/Lien Type"" : ""Tax""
+}",,

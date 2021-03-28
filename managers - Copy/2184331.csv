@@ -1,0 +1,13 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+129052,2184331,THOMAS,[],COONEY,4/2/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Customer alleges poor advice was provided. 5/18/2015"",
+  ""Damage Amount Requested"" : ""$7,150.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""\""All Fees were carefully disclosed to the client, as well as the Investment Platform Structure. The account performance mirrored the performance of the targeted benchmarks.\""""
+}",1/1/2004 - Current,PNC INVESTMENTS (129052)
+129052,2184331,THOMAS,[],COONEY,,,,,5/8/2002 - 1/1/2004,HILLIARD LYONS ASSET MANAGEMENT (453)
+129052,2184331,THOMAS,[],COONEY,,,,,4/21/1999 - 1/1/2004,"J.J.B. HILLIARD, W.L. LYONS, INC. (453)"
+129052,2184331,THOMAS,[],COONEY,,,,,7/23/1996 - 4/21/1999,PNC BROKERAGE CORP (34671)
+129052,2184331,THOMAS,[],COONEY,,,,,11/22/1991 - 7/24/1996,DEAN WITTER REYNOLDS INC. (7556)

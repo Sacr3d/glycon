@@ -1,0 +1,38 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+136300,4137234,DEBORAH,[],CALDER,7/10/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Firm settled customer claim during mediation on 5/21/2018.  Firm received written complaint from client on 6/15/16 which complaint has now evolved to an Arbitration which was received on 7/10/17. Arbitration has now been filed with damages alleged of $325,000 plus $1million in punitive damages.Executor's estate attorney alleges the RR's June 2014 recommendation to process the 1035 exchange in the amount of $300,000 from AIG fixed annuity into the Principal Deferred Income was not suitable."",
+  ""Damage Amount Requested"" : ""$325,000.00"",
+  ""Settlement Amount"" : ""$55,620.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",3/26/2014 - 3/3/2017,KEY INVESTMENT SERVICES LLC (136300)
+136300,4137234,DEBORAH,[],CALDER,2/28/2017,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Client alleges the two John Hancock annuities 1035 exchanged into the Principal Deferred Income annuities in July 2014 in the amount of $340,657.52 and $39,290.84 was not suitable."",
+  ""Damage Amount Requested"" : ""$5,000.00"",
+  ""Settlement Amount"" : ""$60,516.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",10/1/2012 - 3/21/2014,J.P. MORGAN SECURITIES LLC (79)
+136300,4137234,DEBORAH,[],CALDER,11/3/2008,Customer Dispute,Award / Judgment,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT REPRESENTATIVE UNINTENTIONALLY MISREPRESENTED VARIABLE ANNUITY PURCHASE."",
+  ""Damage Amount Requested"" : ""$12,863.18"",
+  ""Damages Granted"" : ""$1.00"",
+  ""DisplayAAOLinkIfExists"" : ""Y"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : ""09-02039""
+}",9/6/2012 - 10/1/2012,CHASE INVESTMENT SERVICES CORP. (25574)
+136300,4137234,DEBORAH,[],CALDER,9/28/2006,Customer Dispute,Denied,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES THAT THE TYPE OF INVESTMENT MAY HAVE BEEN A POOR CHOICE FOR HER SITUATION."",
+  ""Damage Amount Requested"" : ""$14,915.09"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""DURING THE INITIAL INTERVIEW WITH CLIENT, WE BOTH AGREED THAT THE INVESTMENT PRODUCT RECOMMENDED WAS APPROPRIATE AND MET HER FINANCIAL GOALS AND OBJECTIVES.  THE CLIENT SIGNED ALL APPLICABLE PRODUCT DISCLOSURES AT THAT TIME.  THE ASSET ALLOCATION MIX ESTABLISHED AT THE TIME OF PURCHASE WAS TO REMAIN UNTIL A 6 MONTH-1 YEAR REVIEW. THE CLIENT CHANGED THE MIX ON HER OWN WITHOUT SEEKING MY ADVICE. THIS EVENT IS NO LONGER REPORTABLE.""
+}",9/14/2010 - 9/14/2012,"UNIONBANC INVESTMENT SERVICES, LLC (14455)"
+136300,4137234,DEBORAH,[],CALDER,,,,,11/29/2002 - 9/10/2010,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+136300,4137234,DEBORAH,[],CALDER,,,,,10/29/2002 - 9/10/2010,"U.S. BANCORP INVESTMENTS, INC. (17868)"
+136300,4137234,DEBORAH,[],CALDER,,,,,2/4/2002 - 10/30/2002,RAYMOND JAMES FINANCIAL SERVICES (6694)
+136300,4137234,DEBORAH,[],CALDER,,,,,1/3/2002 - 10/30/2002,"RAYMOND JAMES FINANCIAL SERVICES, INC. (6694)"
+136300,4137234,DEBORAH,[],CALDER,,,,,1/25/2001 - 1/2/2002,LINSCO/PRIVATE LEDGER CORP. (6413)

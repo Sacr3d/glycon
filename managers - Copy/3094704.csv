@@ -1,0 +1,10 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+16686,3094704,JOHN,[],JOYNER,2/22/1995,Criminal,Final Disposition,"{
+  ""criminalCharges"" : [ {
+    ""Charges"" : ""Bad check for $6.30 (six dollars and thirty cents)"",
+    ""Disposition"" : ""Convicted""
+  } ],
+  ""Broker Comment"" : ""Over 21 years ago, I wrote a check for $6.30 (six dollars and thirty cents). Unknown to me at the time was that I did not have sufficient funds in my bank account to cover the $6.30 check. It was an honest mistake.""
+}",6/27/2016 - Current,BMO CAPITAL MARKETS CORP. (16686)
+16686,3094704,JOHN,[],JOYNER,,,,,1/1/1999 - 6/2/2003,"AMVESCAP SERVICES, INC. (14007)"
+16686,3094704,JOHN,[],JOYNER,,,,,12/16/1998 - 1/1/1999,"INVESCO DISTRIBUTORS, INC. (289)"

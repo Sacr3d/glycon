@@ -1,0 +1,82 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,9/9/2020,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Texas"",
+  ""Allegations"" : ""Kim D. Butler's (Respondent) failure to disclose the compensation she received in connection with her recommendations to clients to invest in Woodbridge Investments is a failure to disclose a material fact, breach of Respondent's fiduciary duties she owed her clients, and a fraudulent business practice."",
+  ""Resolution"" : ""Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Revocation""
+  } ]
+}",3/15/2010 - 6/3/2011,"1792 SECURITIES, LLC (146048)"
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,6/26/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""INDIVIDUAL ALLEGES NEGLIGENCE RELATED TO THE RECOMMENDATION OF AN INVESTMENT."",
+  ""Damage Amount Requested"" : ""$50,000.00"",
+  ""Settlement Amount"" : ""$50,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",11/14/2008 - 8/18/2020,"PROSPERITY ECONOMICS PARTNERS, LLC (148122)"
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,5/13/2019,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""COMMONWEALTH OF VIRGINIA, DIVISION OF SECURITIES AND RETAIL FRANCHISING"",
+  ""Allegations"" : ""THE DIVISION OF SECURITIES ALLEGED THE RESPONDENT OFFERED AND SOLD UNREGISTERED SECURITIES AS AN UNREGISTERED AGENT IN VIOLAITON OF VIRGINIA SECURITIES ACT."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Restitution"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$11,391.77""
+    } ]
+  } ]
+}",10/15/2002 - 7/9/2008,PARK AVENUE SECURITIES LLC (46173)
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,11/15/2018,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Michigan"",
+  ""Allegations"" : ""Respondent Kim Butler offered or sold Woodbridge promissory note securities to Michigan residents.  The securities were not federally covered, exempt from registration, or registered, in violation of section 301 of the Securities Act, MCL 451. 2301.   Respondent Kim Butler acted as an agent for Woodbridge in the offer and sale of Woodbridge promissory notes securities to Michigan investors without the benefit of registration or a properly-claimed exemption, in violation of section 402(1) of the Securities Act, MCL 451.2402(1)."",
+  ""Resolution"" : ""Administrative Consent Agreement and Order"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$2,000.00""
+    } ]
+  } ]
+}",5/3/1999 - 7/9/2008,PARK AVENUE SECURITIES LLC (46173)
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,4/17/2018,Customer Dispute,Settled,"{
+  ""Allegations"" : ""CUSTOMER ALLEGES NEGLIGENCE AND A VIOLATION OF THE COLORADO SECURITIES ACT BASED ON ALLEGED MISREPRESENTATIONS AND/OR OMISSIONS RELATED TO THE SALE OF INVESTMENTS."",
+  ""Damage Amount Requested"" : ""$226,000.00"",
+  ""Settlement Amount"" : ""$75,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",7/12/1996 - 5/3/1999,GUARDIAN INVESTOR SERVICES CORPORATION (6635)
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,3/7/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Washington"",
+  ""Allegations"" : ""S-14-1603-15-SC01 On March 7, 2016, the Securities Division entered a Statement of Charges and Notice of Intent to Enter Order to Cease and Desist against Life Partners, Inc. (LPI); Life Partners Holdings, Inc.; Brian Pardo, R. Scott Peden; David Barr; James Billington (Billington); Kim Butler (Butler); Gary Cassill (Cassill); Michael Chapman (Chapman); Tomas Delos Santos (Delos Santos); Neal Inscoe (Inscoe); John Ley (Ley); William Meyer (Meyer); Steven Minnich (Minnich); Tim Watters (Watters); Don Wells (Wells); Alliance of Professionals for Business, Inc. (APB); NW Retirement Solutions LLC (NW Retirement Solutions); NW Safe Retirement LLC (NW Safe Retirement); Partners Portfolio Solutions, Inc. (PPS); and Strategic Insurance Services, LLC (SIS) (collectively \""Respondents\"").  In the Statement of Charges, the Securities Division alleges that the Respondents violated the Securities Act of Washington through the offer and sale of approximately $17 million of Life Partners, Inc. life settlements to Washington residents from 2009 to 2014. Specifically, the Statement of Charges alleges that the Respondents violated RCW 21.20.010, the antifraud provision of the Securities Act, by misrepresenting or failing to disclose material information in connection with the sale of LPI life settlements. The Statement of Charges further alleges that the Respondents violated RCW 21.20.140, the unregistered securities provision of the Securities Act by selling unregistered securities. Finally, the Statement of Charges alleges that Billington, Butler, Cassill, Chapman, Delos Santos, Inscoe, Ley, Meyer, Minnich, Watters, Wells, APB, NW Retirement Solutions, NW Safe Retirement, PPS, and SIS violated RCW 21.20.040 by selling LPI life settlements while unregistered as a securities salesperson or broker-dealer in Washington. The Statement of Charges gives notice of the Securities Division's intent to enter an Order to Cease and Desist. Respondents have a right to request a hearing on the Statement of Charges."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Cease and Desist""
+  }, {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$1,950.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Monetary Penalty other than Fines"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$250.00""
+    } ]
+  } ]
+}",5/11/1993 - 7/10/1996,"HORNOR, TOWNSEND & KENT, INC. (4031)"
+146048,2128753,KIM,"[KIM DIANE HAYS BUTLER, KIM  HAYS]",BUTLER,6/20/2011,Customer Dispute,Closed-No Action,"{
+  ""Allegations"" : ""[CUSTOMER] ALLEGED THAT MS. BUTLER RECOMMENDED AN UNSUITABLE REAL ESTATE INVESTMENT."",
+  ""Damage Amount Requested"" : ""$414,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",2/28/1991 - 5/13/1993,PML SECURITIES COMPANY (4082)

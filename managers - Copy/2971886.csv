@@ -1,0 +1,65 @@
+FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
+283028,2971886,ROBERT,[],KUHN,10/7/2020,Financial,Final,"{
+  ""Type"" : ""Compromise"",
+  ""Disposition"" : ""Satisfied/Released"",
+  ""Broker Comment"" : ""I was the sole investor both financial and lines of credit in Auto Sales of North Texas.  I was a silent partner and had no day to day interaction with the management of the company.  I invested a significant amount of money and had personally guaranteed several lines of credit with just my signature due to my credit worthiness.  The manager of the company over time defrauded me out of all of my initial investment as well as maxing out several lines of credit totaling $300,000.  The disclosures are the last few lines of credit yet to be satisfied.  I have been advised by console to not satisfy the judgments until all legal options to recoup any and all losses are exhausted.   The matter was settle by a compromise settlement agreement which released the lien for a payment of $4,553.00""
+}",5/23/2016 - Current,KUHN CAPITAL PARTNERS (283028)
+283028,2971886,ROBERT,[],KUHN,2/6/2019,Customer Dispute,Settled,"{
+  ""Allegations"" : ""Time frame: April 2015 - August 2016 Allegations: Customer alleges that his financial advisors failed to timely roll over $95,000 in American Airlines post-bankruptcy benefit assets into his IRA account."",
+  ""Damage Amount Requested"" : ""$34,390.81"",
+  ""Settlement Amount"" : ""$15,990.81"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """"
+}",9/9/2011 - 11/16/2015,UBS FINANCIAL SERVICES INC. (8174)
+283028,2971886,ROBERT,[],KUHN,5/23/2016,Regulatory,Final,"{
+  ""DocketNumberFDA"" : """",
+  ""DocketNumberAAO"" : """",
+  ""Initiated By"" : ""Texas"",
+  ""Allegations"" : ""Robert Kuhn received approval from his firm to invest in a private company. However, Kuhn also personally guaranteed multiple lines of credit on behalf of the company, which was not told to UBS. The company ultimately failed to make payments on at least four lines of credit. As a result, certain lenders filed liens against Kuhn.  Sections 115.9 and 116.9 of the Rules and Regulations of the Texas State Securities Board require registrants to update within thirty days certain information that has previously been disclosed to the Securities Commissioner. Kuhn had previously indicated on his Form U4 that he had no unsatisfied judgments or liens against him. After receiving notice of the liens, Kuhn failed to disclose the liens on his Form U4 within thirty days.  As a result of the aforementioned conduct, Kuhn violated \\u00a7115.9 and 116.9 of the Board Rules. These violations provide a basis for the assessment of an administrative fine of $5,000 and a thirty day suspension. Kuhn consented to the entry of the Order. Kuhn's registration was granted on August 23, 2016, on which day the suspension also began."",
+  ""Resolution"" : ""Consent"",
+  ""SanctionDetails"" : [ {
+    ""Sanctions"" : ""Civil and Administrative Penalty(ies)/Fine(s)"",
+    ""SanctionDetails"" : [ {
+      ""Amount"" : ""$5,000.00""
+    } ]
+  }, {
+    ""Sanctions"" : ""Suspension"",
+    ""SanctionDetails"" : [ {
+      ""Registration Capacities Affected"" : ""Investment Adviser Representative"",
+      ""Duration"" : ""30 Days"",
+      ""Start Date"" : ""5/23/2016"",
+      ""End Date"" : ""6/21/2016""
+    } ]
+  } ]
+}",5/20/2009 - 9/21/2011,LPL FINANCIAL LLC (6413)
+283028,2971886,ROBERT,[],KUHN,3/10/2016,Customer Dispute,Denied,"{
+  ""Allegations"" : ""Client Alleges that the annuity they purchased was misrepresented and an unsuitable investment."",
+  ""Damage Amount Requested"" : ""$100,000.00"",
+  ""DisplayAAOLinkIfExists"" : ""N"",
+  ""arbitrationClaimFiledDetail"" : """",
+  ""arbitrationDocketNumber"" : """",
+  ""Broker Comment"" : ""This client was a client of one of the Financial Advisors on our team.  I had very little interaction with the client.  This allegation was denied by UBS and Prudential.""
+}",5/7/2009 - 9/21/2011,LPL FINANCIAL LLC (6413)
+283028,2971886,ROBERT,[],KUHN,10/20/2015,Employment Separation After Allegations,,"{
+  ""Firm Name"" : ""UBS FINANCIAL SERVICES INC.("",
+  ""Termination Type"" : ""Voluntary Resignation"",
+  ""Allegations"" : ""Mr. Kuhn voluntarily resigned after concerns were raised that he may have failed to make required disclosures concerning client complaints, unsatisfied judgments entered against him, and his role in an outside business."",
+  ""Broker Comment"" : ""In 18 years acting in various capacities in the financial services business, I have never had a verbal or written complaint.  In 2013, I partnered with a first year financial advisor.  The complaints that we received were service related and due to my junior partner.  Not a single service related complaint rose to the level of needing to be handled outside of the local branch.  In January 2015,  given the several service complaints that we received,  I voluntarily helped in the process of an internal review of our business.  I was told not to share any of the review with my junior partner during the process, it was later brought to my attention that I was lied to and they did not include him in the review.  I feel this was because his father is a big producer for the complex.  During the time of the review it became evident that I was being singled out for actions of a junior partner and during the review it was impossible to do business and provide for my family due to the hostile work environment that was created by management.  It was during the business review I was told I did not receive proper approval for an outside business activity which I vehemently disagree with.  The outside business activity was disclosed on our annual compliance review for three years and not once was I questioned.  I do believe that I was discriminated against and decided that resignation was the only option.""
+}",1/24/2007 - 4/30/2009,DIRECTED SERVICES LLC (21675)
+283028,2971886,ROBERT,[],KUHN,9/15/2014,Judgment / Lien,,"{
+  ""Judgment/Lien Amount"" : ""$16,618.20"",
+  ""Judgment/Lien Type"" : ""Civil"",
+  ""Broker Comment"" : ""I was the sole investor both financial and lines of credit in Auto Sales of North Texas.  I was a silent partner and had no day to day interaction with the management of the company.  I invested a significant amount of money and had personally guaranteed several lines of credit with just my signature due to my credit worthiness.  The manager of the company over time defrauded me out of all of my initial investment as well as maxing out several lines of credit totaling $300,000.  The disclosures are the last few lines of credit yet to be satisfied.  I have been advised by console to not satisfy the judgments until all legal options to recoup any and all losses are exhausted.""
+}",4/17/2006 - 1/31/2007,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)
+283028,2971886,ROBERT,[],KUHN,,,,,10/27/2005 - 4/18/2006,CAPITAL BROKERAGE CORPORATION (10465)
+283028,2971886,ROBERT,[],KUHN,,,,,10/3/2003 - 9/27/2005,NATIONWIDE INVESTMENT SERVICES CORPORATION (7110)
+283028,2971886,ROBERT,[],KUHN,,,,,5/9/2003 - 8/26/2003,"A. G. EDWARDS & SONS, INC. (4)"
+283028,2971886,ROBERT,[],KUHN,,,,,1/9/2003 - 5/14/2003,EDWARD JONES (250)
+283028,2971886,ROBERT,[],KUHN,,,,,8/22/2002 - 12/19/2002,"CHARLES SCHWAB & CO., INC. (5393)"
+283028,2971886,ROBERT,[],KUHN,,,,,8/19/2002 - 12/19/2002,"CHARLES SCHWAB & CO., INC. (5393)"
+283028,2971886,ROBERT,[],KUHN,,,,,8/16/2000 - 7/29/2002,UBS PAINEWEBBER INC. (8174)
+283028,2971886,ROBERT,[],KUHN,,,,,7/28/2000 - 7/29/2002,UBS PAINEWEBBER INC. (8174)
+283028,2971886,ROBERT,[],KUHN,,,,,4/26/1999 - 9/9/1999,DEAN WITTER REYNOLDS INC. (7556)
+283028,2971886,ROBERT,[],KUHN,,,,,2/16/1999 - 4/29/1999,"EISNER SECURITIES, INC. (40585)"
+283028,2971886,ROBERT,[],KUHN,,,,,3/9/1998 - 3/2/1999,DEAN WITTER REYNOLDS INC. (7556)
