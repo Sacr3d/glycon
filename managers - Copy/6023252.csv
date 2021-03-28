@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-3487,6023252,MARY,[MARY MARGARET HENRY],HENRY-JENNINGS,12/20/2019,Customer Dispute,Pending,"{
-  ""Allegations"" : ""Customer [REDACTED] states that State Farm denied an uninsured motorist coverage based upon an unauthorized, cut & paste, forged coverage rejection."",
-  ""DisplayAAOLinkIfExists"" : ""N"",
-  ""arbitrationClaimFiledDetail"" : """",
-  ""arbitrationDocketNumber"" : """",
-  ""Broker Comment"" : ""The request has been made for my dismissal from the case. I was not the agent of record for the policy nor am I am attached to the form in question in any way.""
-}",2/13/2019 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
-3487,6023252,MARY,[MARY MARGARET HENRY],HENRY-JENNINGS,,,,,2/20/2012 - Current,STATE FARM VP MANAGEMENT CORP. (43036)

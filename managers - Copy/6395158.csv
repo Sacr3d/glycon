@@ -1,8 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-8348,6395158,JOSHUA,"[JOSHUA MARTIN SIORDIA, Josh M Siordia, Josh  Siordia, Joshua M Siordia]",SIORDIA,5/28/2006,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""Assault/Menacing (Pellet Gun)"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""While engaging in airsoft sports in a local park with a friend, a bystander mistook my airsoft equipment for a firearm.  This case was dismissed by the District Attorney.""
-}",12/14/2015 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

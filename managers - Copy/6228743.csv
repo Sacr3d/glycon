@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-169804,6228743,NICHOLAS,[],BATTAGLIA,5/8/2012,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""18 39250 A / Receiving Stolen Property"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""Had a stop sign hanging on the wall of my apartment my senior year in college.  Police came for a noise complaint and wrote me a ticket for having the stop sign.""
-}",4/29/2016 - Current,"ASSETMARK BROKERAGE, LLC (169804)"
-169804,6228743,NICHOLAS,[],BATTAGLIA,,,,,11/12/2015 - Current,"ASSETMARK, INC. (109018)"

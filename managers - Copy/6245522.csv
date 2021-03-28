@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-17868,6245522,Otis,[Otis  Powell],Powell,9/25/2017,Financial,Final,"{
-  ""Type"" : ""Compromise"",
-  ""Disposition"" : ""Satisfied/Released""
-}",9/5/2018 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
-17868,6245522,Otis,[Otis  Powell],Powell,3/20/2013,Financial,Final,"{
-  ""Type"" : ""Compromise"",
-  ""Disposition"" : ""ACCOUNT WAS PAID OFF""
-}",5/14/2015 - 5/8/2018,"WELLS FARGO SECURITIES, LLC (126292)"

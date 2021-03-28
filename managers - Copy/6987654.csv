@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-8348,6987654,Chelli,[],Wright,2/12/2019,Judgment / Lien,,"{
-  ""Judgment/Lien Amount"" : ""$57,519.95"",
-  ""Judgment/Lien Type"" : ""Civil""
-}",11/20/2018 - 7/1/2019,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
-8348,6987654,Chelli,[],Wright,1/11/2019,Judgment / Lien,,"{
-  ""Judgment/Lien Amount"" : ""$4,594.68"",
-  ""Judgment/Lien Type"" : ""Civil""
-}",,

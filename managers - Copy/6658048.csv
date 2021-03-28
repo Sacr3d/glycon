@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-8348,6658048,Tarsha,[],Peterson,12/13/2019,Judgment / Lien,,"{
-  ""Judgment/Lien Amount"" : ""$1,780.17"",
-  ""Judgment/Lien Type"" : ""Tax""
-}",9/6/2016 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
-8348,6658048,Tarsha,[],Peterson,5/8/2013,Financial,Final,"{
-  ""Type"" : ""Bankruptcy"",
-  ""Disposition"" : ""Discharged""
-}",,

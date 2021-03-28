@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-108958,6879593,Cera,[Cera Ashley Brown],Osborne,4/26/2012,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""False report to law enforcement"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""Officer asked for name when looking up information which I provided. Came back stating he could not locate me in system and to confirm name at which point I corrected the spelling. Accused of providing original false report.""
-}",3/20/2019 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
-108958,6879593,Cera,[Cera Ashley Brown],Osborne,,,,,1/23/2018 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

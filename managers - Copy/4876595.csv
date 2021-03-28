@@ -1,7 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-110391,4876595,NEIL,[NEIL  SUTTON],SUTTON,6/25/2012,Financial,Final,"{
-  ""Type"" : ""Short Sale"",
-  ""Disposition"" : ""cancellation of debt/short sale"",
-  ""Broker Comment"" : ""Job related move - short sale of primary residence.""
-}",1/18/2005 - Current,"LORD, ABBETT & CO. LLC (110391)"
-110391,4876595,NEIL,[NEIL  SUTTON],SUTTON,,,,,1/1/2005 - Current,LORD ABBETT DISTRIBUTOR LLC (530)

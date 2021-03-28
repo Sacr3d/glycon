@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-42803,6847381,CHRIS,[],JORDAN,7/10/2009,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""Failure to ID"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""The officer asked me a series of questions, after reading arrest report, it is apparent that he needed something to pursue in efforts to make an arrest as we were doing no wrong.""
-}",6/29/2020 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"
-42803,6847381,CHRIS,[],JORDAN,,,,,12/21/2017 - Current,"VALIC FINANCIAL ADVISORS, INC. (42803)"

@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-108958,6304223,JOSEPH,[],NICKERSON,12/30/2003,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""Shoplifting \\nConspiracy"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""Was a party to shoplifting. All documents have been removed except from FBI database for informal charges.""
-}",5/25/2017 - Current,"T. ROWE PRICE ADVISORY SERVICES, INC. (108958)"
-108958,6304223,JOSEPH,[],NICKERSON,,,,,3/16/2016 - Current,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

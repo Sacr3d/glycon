@@ -1,8 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-17868,6032865,Joseph,"[Joe  Tallarigo, Joseph  Tallarigo]",Tallarigo,7/23/2002,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""FALSELY REPORTING AN INCIDENT"",
-    ""Disposition"" : ""DIVERSION PROGRAM""
-  } ]
-}",9/12/2017 - Current,"U.S. BANCORP INVESTMENTS, INC. (17868)"
-17868,6032865,Joseph,"[Joe  Tallarigo, Joseph  Tallarigo]",Tallarigo,,,,,5/7/2012 - 9/13/2017,FIDELITY BROKERAGE SERVICES LLC (7784)

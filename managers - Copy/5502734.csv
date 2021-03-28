@@ -1,7 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-108477,5502734,JORGE,[],SANTISTEBAN,9/23/2019,Financial,Final,"{
-  ""Type"" : ""Bankruptcy"",
-  ""Disposition"" : ""Discharged"",
-  ""Broker Comment"" : ""This was a personal bankruptcy related to a medical situation, nothing to do with any securities related activity. My lawyer believes it will probably take another two months for the court to receive everything they need to release the case. Currently waiting on two of the creditors to approve the bankruptcy.""
-}",3/16/2020 - Current,ALLIANCEBERNSTEIN L.P. (108477)
-108477,5502734,JORGE,[],SANTISTEBAN,,,,,1/21/2020 - Current,"SANFORD C. BERNSTEIN & CO., LLC (104474)"

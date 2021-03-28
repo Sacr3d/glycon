@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-48015,5598179,Angela,"[Angela Finnegan Anderson, Angela TERESE Anderson, ANGELA TERESE FINNEGAN]",Anderson,9/3/2020,Financial,Pending,"{
-  ""Type"" : ""Compromise""
-}",6/25/2020 - Current,"FOLIO INVESTMENTS, INC. (48015)"
-48015,5598179,Angela,"[Angela Finnegan Anderson, Angela TERESE Anderson, ANGELA TERESE FINNEGAN]",Anderson,8/28/2019,Financial,Final,"{
-  ""Type"" : ""Compromise"",
-  ""Disposition"" : ""Satisfied/Released""
-}",9/4/2018 - 9/23/2019,COMMONWEALTH FINANCIAL NETWORK (8032)
-48015,5598179,Angela,"[Angela Finnegan Anderson, Angela TERESE Anderson, ANGELA TERESE FINNEGAN]",Anderson,,,,,12/7/2009 - 9/6/2016,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"

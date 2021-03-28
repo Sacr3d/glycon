@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-107027,6968148,Jack,[],Prestigiacomo,2/3/2014,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""False Identification"",
-    ""Disposition"" : ""Dismissed""
-  } ],
-  ""Broker Comment"" : ""Mr. Prestigiacomo was charged with presenting false identification while in college.  The charge was dismissed.""
-}",5/10/2019 - Current,FIRST TRUST ADVISORS LP (107027)
-107027,6968148,Jack,[],Prestigiacomo,,,,,12/27/2018 - Current,FIRST TRUST PORTFOLIOS L.P. (28519)

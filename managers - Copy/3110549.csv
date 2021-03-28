@@ -1,8 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-3487,3110549,JASON,[],GAREY,1/16/1990,Criminal,Final Disposition,"{
-  ""criminalCharges"" : [ {
-    ""Charges"" : ""misdemeanor class a:  Stole 1 CD (music) from college mail room."",
-    ""Disposition"" : ""Dismissed""
-  } ]
-}",3/12/2019 - Current,STATE FARM INVESTMENT MANAGEMENT CORP. (3487)
-3487,3110549,JASON,[],GAREY,,,,,11/5/1998 - Current,STATE FARM VP MANAGEMENT CORP. (43036)

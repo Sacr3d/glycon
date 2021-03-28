@@ -1,9 +1,0 @@
-FIRM_ID,ID,FIRST_NAME,OTHER_NAMES,SECOND_NAME,DISCLOSURE_DATE,DISCLOSURE_TYPE,DISCLOSURE_RESULT,DISCLOSURE_INFO,FINRA_EMPLOYMENT_DATES,FINRA_EMPLOYMENT
-8348,6745685,Nathan,[],Buchanan,10/18/2016,Judgment / Lien,,"{
-  ""Judgment/Lien Amount"" : ""$9,481.00"",
-  ""Judgment/Lien Type"" : ""Civil""
-}",4/24/2017 - 7/3/2017,"T. ROWE PRICE INVESTMENT SERVICES, INC. (8348)"
-8348,6745685,Nathan,[],Buchanan,4/6/2016,Judgment / Lien,,"{
-  ""Judgment/Lien Amount"" : ""$2,372.00"",
-  ""Judgment/Lien Type"" : ""Civil""
-}",,
