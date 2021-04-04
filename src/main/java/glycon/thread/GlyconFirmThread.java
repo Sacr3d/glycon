@@ -11,7 +11,7 @@ import glycon.object.Firm;
 import glycon.object.FirmManager;
 import glycon.parser.JSONParser;
 import glycon.utils.CSVUtil;
-import glycon.utils.FileEnum;
+import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
 
@@ -21,24 +21,9 @@ public class GlyconFirmThread implements Runnable {
 	private AtomicInteger atomicInt;
 
 	public GlyconFirmThread(List<Firm> firmList, AtomicInteger atomicInt) {
-		
+
 		this.primeFirmList = firmList;
 		this.atomicInt = atomicInt;
-		
-	}
-
-	private List<FirmManager> alphabetCrawl(Firm firm, int managersToGet) {
-
-		List<FirmManager> managerList = new ArrayList<>();
-
-		for (int i = 0; i < managersToGet; i += 100) {
-
-			managerList.addAll(JSONParser.parseFirmManagerJSON(
-					new RequestURL().getFirmManagersByRangeAndAlphabeticalJSON(firm.getSecId(), 100, i)));
-
-		}
-
-		return managerList;
 
 	}
 
@@ -78,7 +63,7 @@ public class GlyconFirmThread implements Runnable {
 
 		} else if (managersToGet > 9000) {
 
-			return optimisticCrawl(firm, managersToGet);
+			return optimisticCrawl(firm);
 
 		}
 
@@ -127,14 +112,9 @@ public class GlyconFirmThread implements Runnable {
 				startBoundry != 18250 ? Integer.toString(endBoundry - 1) : "*");
 	}
 
-	private List<FirmManager> optimisticCrawl(Firm firm, int managersToGet) {
+	private List<FirmManager> optimisticCrawl(Firm firm) {
 
 		List<FirmManager> firmManagerList = new ArrayList<>();
-
-//		firmManagerList.addAll(basicCrawl(firm, managersToGet));
-//
-//		firmManagerList.addAll(
-//				ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(alphabetCrawl(firm, managersToGet))));
 
 		firmManagerList.addAll(ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
 
@@ -148,7 +128,7 @@ public class GlyconFirmThread implements Runnable {
 
 		primeFirmList.forEach(firm -> {
 
-			if (!FileUtil.fileExists(FileEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
+			if (!FileUtil.fileExists(DirEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
 
 				List<FirmManager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
 

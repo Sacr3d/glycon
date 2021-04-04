@@ -5,9 +5,14 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.nio.charset.StandardCharsets;
+import org.jsoup.Connection;
+import org.jsoup.Jsoup;
 
 public class RequestURL {
+
+	private static final String WT_JSON = "&wt=json";
+
+	private static final String INDIVIDUAL_FIRM = "/individual?firm=";
 
 	private static final String HTTPS_API_ADVISERINFO_SEC_GOV = "https://api.adviserinfo.sec.gov/search";
 
@@ -47,9 +52,9 @@ public class RequestURL {
 
 	public String getFirmManagersByRangeAndAlphabeticalJSON(String firmCRD, int entries, int startEntry) {
 
-		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmCRD
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmCRD
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=" + entries
-				+ "&r=25&sort=score+desc&start=" + startEntry + "&wt=json";
+				+ "&r=25&sort=score+desc&start=" + startEntry + WT_JSON;
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
@@ -63,7 +68,7 @@ public class RequestURL {
 				+ startExperienceBoundry + "-" + endExperienceBoundry + "&firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._s&nrows=" + entries
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
-				+ startEntry + "&wt=json";
+				+ startEntry + WT_JSON;
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
@@ -71,10 +76,10 @@ public class RequestURL {
 
 	public String getFirmManagersByRangeJSON(String firmID, int entries, int startEntry) {
 
-		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmID
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=" + entries
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
-				+ startEntry + "&wt=json";
+				+ startEntry + WT_JSON;
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
@@ -89,7 +94,7 @@ public class RequestURL {
 
 	public String probeFirmHits(String firmID) {
 
-		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmID
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=0&r=25&sort=score+desc&wt=json";
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
@@ -104,22 +109,27 @@ public class RequestURL {
 
 	private String sendAndGetResponse(String url, String userAgent, int requestTime) {
 
+		String jsonBodyStr = null;
+
 		try {
+			Thread.sleep(requestTime);
 
-			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
+			jsonBodyStr = Jsoup.connect(url)
 
-			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
+					// FIX - this line set max response size without limit
+					// all our data will be fetched
+					.maxBodySize(0)
 
-				int read = 0;
-				byte[] buffer = new byte[4096];
+					.followRedirects(true).ignoreHttpErrors(false).userAgent(userAgent).method(Connection.Method.GET)
+					.timeout(10_000).ignoreContentType(true).execute().body();
 
-				while ((read = is.read(buffer)) > 0) {
-					baos.write(buffer, 0, read);
-				}
+			if (jsonBodyStr != null) {
 
-				return new String(baos.toByteArray(), StandardCharsets.UTF_8);
+				return jsonBodyStr;
 
 			}
+
+			return ERROR_STRING_LITERAL;
 
 		} catch (IOException e) {
 
@@ -138,6 +148,8 @@ public class RequestURL {
 	public static byte[] readFully(String url, String userAgent, int requestTime) {
 
 		try {
+
+			Thread.sleep(requestTime);
 
 			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
 

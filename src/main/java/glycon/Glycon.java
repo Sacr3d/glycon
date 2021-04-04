@@ -10,14 +10,18 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
 
+import glycon.object.Disclosure;
 import glycon.object.Firm;
+import glycon.object.FirmManagerIn;
 import glycon.object.FriendlyFirm;
 import glycon.thread.GlyconFirmFileThread;
 import glycon.thread.GlyconFirmThread;
 import glycon.thread.GlyconFriendlyFirmThread;
 import glycon.utils.ASCIIArtUtil;
 import glycon.utils.CSVUtil;
+import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
 import glycon.utils.LoggingUtil;
@@ -102,11 +106,15 @@ public class Glycon {
 
 				printWelcome(args[1]);
 
+				createDirectories();
+
 				createFriendlyList(rawFrimList);
 
 				createBrokersWithDisclosuresList(rawFrimList);
 
 				workOnFirmBrokerList(rawFrimList);
+
+				packFinalList(rawFrimList);
 
 				LoggingUtil.msg("Done press any key to escape");
 
@@ -125,9 +133,45 @@ public class Glycon {
 
 	}
 
+	private static void packFinalList(List<String> rawFrimList) {
+
+		List<File> finalFirmFileList = FileUtil.generateFileInformation(rawFrimList);
+
+		List<File> finalManagerFileList = new ArrayList<>();
+
+		for (File firmFile : finalFirmFileList) {
+
+			CSVUtil.generateManagerInformation(firmFile).forEach(firm ->
+
+			finalManagerFileList.add(new File(DirEnum.MANAGER_PATH.toString() + firm.getInd_source_id() + ".csv")));
+
+		}
+
+		List<File> uniqueManagerFiles = finalManagerFileList.stream().distinct().collect(Collectors.toList());
+
+		Collections.sort(uniqueManagerFiles);
+
+		CSVUtil.createFinalList(uniqueManagerFiles);
+
+	}
+
+	private static void createDirectories() {
+		try {
+
+			FileUtil.createRequiredDirectories();
+
+		} catch (IOException e) {
+
+			LoggingUtil.warn("Could not create required directories, need access");
+
+			exitError();
+
+		}
+	}
+
 	public static void workOnFirmBrokerList(List<String> rawFrimList) {
 
-		List<File> primeFirmFileList = ListUtil.generateFileInformation(rawFrimList);
+		List<File> primeFirmFileList = FileUtil.generateFileInformation(rawFrimList);
 
 		if (!primeFirmFileList.isEmpty()) {
 

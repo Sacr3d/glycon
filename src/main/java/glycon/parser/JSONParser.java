@@ -316,4 +316,8 @@ public class JSONParser {
 		return firmJSON.replace("\"{", "{").replace("}\"", "}").replace("\\\"", "\"").replace("\\\\\"", "\\\"");
 	}
 
+	private JSONParser() {
+		throw new IllegalStateException("Utility class");
+	}
+
 }

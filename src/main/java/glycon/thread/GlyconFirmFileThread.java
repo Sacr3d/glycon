@@ -12,7 +12,7 @@ import glycon.object.PreviousEmployment;
 import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
 import glycon.utils.CSVUtil;
-import glycon.utils.FileEnum;
+import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 
 public class GlyconFirmFileThread implements Runnable {
@@ -36,7 +36,7 @@ public class GlyconFirmFileThread implements Runnable {
 
 			for (FirmManagerIn firmManager : firmManagerList) {
 
-				if (!FileUtil.fileExists(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv")) {
+				if (!FileUtil.fileExists(DirEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv")) {
 
 					firmManager.generateInfo();
 

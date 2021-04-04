@@ -208,4 +208,8 @@ public class PDFParser {
 		return managerPDF;
 	}
 
+	private PDFParser() {
+		throw new IllegalStateException("Utility class");
+	}
+
 }

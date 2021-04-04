@@ -1,16 +1,21 @@
 package glycon.utils;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
@@ -78,7 +83,7 @@ public class CSVUtil {
 
 		try {
 
-			out = Files.newBufferedWriter(Paths.get(FileEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
+			out = Files.newBufferedWriter(Paths.get(DirEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -109,7 +114,7 @@ public class CSVUtil {
 		try {
 
 			out = Files.newBufferedWriter(
-					Paths.get(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
+					Paths.get(DirEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -311,7 +316,8 @@ public class CSVUtil {
 				String otherNames = record.get(OTHER_NAMES);
 				String lastName = record.get(SECOND_NAME);
 
-				firmMangerObjectList.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
+				firmMangerObjectList
+						.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
 
 			}
 
@@ -333,6 +339,43 @@ public class CSVUtil {
 		tempName = tempName.replace("[", "").replace("]", "");
 
 		return tempName.split(", ");
+	}
+
+	public static void createFinalList(List<File> finalManagerList) {
+
+		String headers = Arrays.toString(FINAL_MANAGER_HEADERS);
+
+		Iterator<File> iterFiles = finalManagerList.iterator();
+
+		try (BufferedWriter writer = new BufferedWriter(
+				new FileWriter(new SimpleDateFormat("yyyy'-'MM'-'dd'-'HH'-'mm'.csv'").format(new Date()), true))) {
+			writer.write(headers.substring(1, headers.length() - 1));
+			writer.newLine();
+
+			while (iterFiles.hasNext()) {
+
+				File nextFile = iterFiles.next();
+
+				try (BufferedReader reader = new BufferedReader(new FileReader(nextFile))) {
+
+					String line = null;
+
+					while ((line = reader.readLine()) != null) {
+						writer.write(line);
+						writer.newLine();
+					}
+
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
+	private CSVUtil() {
+		throw new IllegalStateException("Utility class");
 	}
 
 }
