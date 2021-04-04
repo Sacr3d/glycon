@@ -24,7 +24,7 @@ public class RequestURL {
 		String url = HTTPS_API_ADVISERINFO_SEC_GOV + "/individual/" + managerCRD
 				+ "?hl=true&nrows=12&query=&start=0&wt=json";
 
-		return sendResponse(url, MASKED_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, MASKED_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	public String getFirmJSON(String unfriendlyFirmName) {
@@ -32,7 +32,7 @@ public class RequestURL {
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/firm?hl=true&json.wrf=angular.callbacks._0&nrows=12&query="
 				+ unfriendlyFirmName + "&r=25&sort=score+desc&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	public String getFirmManagersByExperienceJSON(int firmID, String experienceBoundry) {
@@ -42,7 +42,7 @@ public class RequestURL {
 				+ experienceBoundry + "&firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._s&nrows=12&r=25&sort=score+desc&start=0&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	public String getFirmManagersByRangeAndAlphabeticalJSON(String firmCRD, int entries, int startEntry) {
@@ -51,7 +51,7 @@ public class RequestURL {
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=" + entries
 				+ "&r=25&sort=score+desc&start=" + startEntry + "&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
 	}
 
@@ -65,7 +65,7 @@ public class RequestURL {
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
 				+ startEntry + "&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
 	}
 
@@ -76,7 +76,7 @@ public class RequestURL {
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
 				+ startEntry + "&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	public String getManagerFinraJSON(String managerCRD) {
@@ -84,7 +84,7 @@ public class RequestURL {
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual/" + managerCRD
 				+ "?json.wrf=angular.callbacks._0&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	public String probeFirmHits(String firmID) {
@@ -92,31 +92,21 @@ public class RequestURL {
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=0&r=25&sort=score+desc&wt=json";
 
-		return sendResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
-	private String sendResponse(String url, String userAgent, int requestTime) {
+	public byte[] getPDF(String firmID) {
 
-		URL urlObj;
+		String url = "https://files.brokercheck.finra.org/individual/individual_" + firmID + ".pdf";
+
+		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+	}
+
+	private String sendAndGetResponse(String url, String userAgent, int requestTime) {
 
 		try {
 
-			Thread.sleep(requestTime);
-
-			urlObj = new URL(url);
-
-			HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
-
-			// optional default is GET
-			con.setRequestMethod("GET");
-
-			// Set timeout
-			con.setConnectTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
-
-			con.setReadTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
-
-			// add request header
-			con.setRequestProperty("User-Agent", userAgent);
+			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
 
 			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
 
@@ -143,6 +133,62 @@ public class RequestURL {
 
 		}
 
+	}
+
+	public static byte[] readFully(String url, String userAgent, int requestTime) {
+
+		try {
+
+			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
+
+			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
+
+				byte[] buffer = new byte[8192];
+
+				int bytesRead;
+				while ((bytesRead = is.read(buffer)) != -1) {
+					baos.write(buffer, 0, bytesRead);
+				}
+
+				return baos.toByteArray();
+
+			}
+
+		} catch (IOException e) {
+
+			return new byte[0];
+
+		} catch (InterruptedException e) {
+
+			Thread.currentThread().interrupt();
+
+			return new byte[0];
+
+		}
+
+	}
+
+	private static HttpURLConnection prepareConnection(String url, String userAgent, int requestTime)
+			throws InterruptedException, IOException {
+
+		URL urlObj;
+		Thread.sleep(requestTime);
+
+		urlObj = new URL(url);
+
+		HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
+
+		// optional default is GET
+		con.setRequestMethod("GET");
+
+		// Set timeout
+		con.setConnectTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		con.setReadTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		// add request header
+		con.setRequestProperty("User-Agent", userAgent);
+		return con;
 	}
 
 }

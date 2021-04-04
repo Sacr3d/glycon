@@ -55,10 +55,8 @@ public class Glycon {
 					"Gathering managers from firms");
 
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			Thread.currentThread().interrupt();
 		}
-
 
 	}
 
@@ -107,8 +105,12 @@ public class Glycon {
 				createFriendlyList(rawFrimList);
 
 				createBrokersWithDisclosuresList(rawFrimList);
-				
+
 				workOnFirmBrokerList(rawFrimList);
+
+				LoggingUtil.msg("Done press any key to escape");
+
+				System.in.read();
 
 			} catch (IOException e) {
 				LoggingUtil.warn(args[1] + " could not be accesed or does not exist");
@@ -126,10 +128,9 @@ public class Glycon {
 	public static void workOnFirmBrokerList(List<String> rawFrimList) {
 
 		List<File> primeFirmFileList = ListUtil.generateFileInformation(rawFrimList);
-		
+
 		if (!primeFirmFileList.isEmpty()) {
-			
-			
+
 			List<List<File>> threadFirmFileList = ListUtil.splitList(THREADS, primeFirmFileList);
 
 			AtomicInteger atomicInt = new AtomicInteger(0);
@@ -141,7 +142,7 @@ public class Glycon {
 				executorService.submit(new GlyconFirmFileThread(firmList, atomicInt));
 
 			}
-			
+
 			try {
 
 				executorService.shutdown();
@@ -152,13 +153,11 @@ public class Glycon {
 						"Gathering information on managers from firms");
 
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+				Thread.currentThread().interrupt();
 			}
-			
-			
+
 		}
-				
+
 	}
 
 	private static void printWelcome(String fileName) {
@@ -194,8 +193,7 @@ public class Glycon {
 					"Creating friendly names for firms");
 
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			Thread.currentThread().interrupt();
 		}
 	}
 

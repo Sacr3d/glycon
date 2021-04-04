@@ -297,9 +297,9 @@ public class CSVUtil {
 		return existingFirmIdList;
 	}
 
-	public static List<FirmManager> generateManagerInformation(File firmFile) {
+	public static List<FirmManagerIn> generateManagerInformation(File firmFile) {
 
-		List<FirmManager> firmMangerObjectList = new ArrayList<>();
+		List<FirmManagerIn> firmMangerObjectList = new ArrayList<>();
 
 		try (Reader in = new FileReader(firmFile)) {
 			Iterable<CSVRecord> records = CSVFormat.DEFAULT.withHeader(FRIENDLY_HEADERS).withFirstRecordAsHeader()

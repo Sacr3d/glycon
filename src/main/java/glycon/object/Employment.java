@@ -81,7 +81,7 @@ public abstract class Employment implements Comparable<Employment> {
 
 	@Override
 	public int compareTo(Employment o) {
-		return getRegistrationBeginDateObject().compareTo(o.getRegistrationBeginDateObject());
+		return o != null ? getRegistrationBeginDateObject().compareTo(o.getRegistrationBeginDateObject()) : 0;
 
 	}
 

@@ -7,6 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 import glycon.object.FirmManager;
+import glycon.object.FirmManagerIn;
 import glycon.object.PreviousEmployment;
 import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
@@ -31,16 +32,18 @@ public class GlyconFirmFileThread implements Runnable {
 
 		primeFirmList.forEach(firmFile -> {
 
-			List<FirmManager> firmManagerList = CSVUtil.generateManagerInformation(firmFile);
+			List<FirmManagerIn> firmManagerList = CSVUtil.generateManagerInformation(firmFile);
 
-			for (FirmManager firmManager : firmManagerList) {
+			for (FirmManagerIn firmManager : firmManagerList) {
 
 				if (!FileUtil.fileExists(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv")) {
+
 					firmManager.generateInfo();
 
 					sortObjectData(firmManager);
 
 					CSVUtil.createManagerFile(firmManager);
+
 				}
 			}
 

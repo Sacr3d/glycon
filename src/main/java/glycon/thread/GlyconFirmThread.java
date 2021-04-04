@@ -21,8 +21,10 @@ public class GlyconFirmThread implements Runnable {
 	private AtomicInteger atomicInt;
 
 	public GlyconFirmThread(List<Firm> firmList, AtomicInteger atomicInt) {
+		
 		this.primeFirmList = firmList;
 		this.atomicInt = atomicInt;
+		
 	}
 
 	private List<FirmManager> alphabetCrawl(Firm firm, int managersToGet) {

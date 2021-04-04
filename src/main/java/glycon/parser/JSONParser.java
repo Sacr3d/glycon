@@ -18,6 +18,7 @@ import glycon.object.FirmManager;
 import glycon.object.FirmManagerOut;
 import glycon.object.FriendlyFirm;
 import glycon.object.PreviousEmployment;
+import glycon.utils.LoggingUtil;
 
 public class JSONParser {
 
@@ -138,9 +139,45 @@ public class JSONParser {
 
 		objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
-		parseFinraJSON(firmManager, objectMapper);
+		if (firmManager.getFirmFinraJSON().contentEquals("NULL")) {
+			generateAPIError(firmManager, "FINRA API ERROR", "00/00/0000");
 
-		parseSecJSON(firmManager, objectMapper);
+		} else {
+			parseFinraJSON(firmManager, objectMapper);
+
+		}
+
+		if (firmManager.getFirmSecJSON().contentEquals("NULL")) {
+			generateAPIError(firmManager, "SEC API ERROR", "00/00/0000");
+
+		} else {
+			parseSecJSON(firmManager, objectMapper);
+		}
+	}
+
+	private static void generateAPIError(FirmManager firmManager, String errorDetail, String errorDate) {
+
+		Disclosure errorDisclosure = new Disclosure();
+
+		errorDisclosure.setDisclosureDetailString(errorDetail);
+
+		errorDisclosure.setEventDate(errorDate);
+
+		errorDisclosure.setEventDateObject();
+
+		firmManager.getDiscolsures().add(errorDisclosure);
+
+		CurrentEmployment errorEmployment = new CurrentEmployment();
+
+		errorEmployment.setFirmName(errorDetail);
+
+		errorEmployment.setFirmId(errorDetail);
+
+		errorEmployment.setRegistrationBeginDate(errorDate);
+
+		errorEmployment.setRegistrationBeginDateObject();
+
+		firmManager.getCurrentMangerEmployments().add(errorEmployment);
 
 	}
 
@@ -154,16 +191,37 @@ public class JSONParser {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			LoggingUtil.warn("SEC firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
+
 		}
 	}
 
 	private static void parseReleventData(FirmManager firmManager, ObjectMapper objectMapper, JsonNode masterJsonNode)
 			throws IOException {
-		parseManagerPreviousEmployments(firmManager, objectMapper, masterJsonNode);
 
-		parseManagerCurrentEmployments(firmManager, objectMapper, masterJsonNode);
+		JsonNode locatedNode = masterJsonNode.findPath("legacyReportStatusDescription");
 
-		parseManagerDisclosure(firmManager, objectMapper, masterJsonNode);
+		String nodeString = locatedNode != null ? locatedNode.textValue() : null;
+
+		if (nodeString != null && nodeString.contentEquals("Generated")) {
+
+			parseManagerPreviousEmployments(firmManager, objectMapper, masterJsonNode);
+
+			parseManagerCurrentEmployments(firmManager, objectMapper, masterJsonNode);
+
+			PDFParser.parsePDFInfoForManager(firmManager);
+
+		}
+
+		else {
+
+			parseManagerPreviousEmployments(firmManager, objectMapper, masterJsonNode);
+
+			parseManagerCurrentEmployments(firmManager, objectMapper, masterJsonNode);
+
+			parseManagerDisclosure(firmManager, objectMapper, masterJsonNode);
+
+		}
 	}
 
 	private static void parseFinraJSON(FirmManager firmManager, ObjectMapper objectMapper) {
@@ -177,6 +235,8 @@ public class JSONParser {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			LoggingUtil.warn("Finra firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
+
 		}
 	}
 

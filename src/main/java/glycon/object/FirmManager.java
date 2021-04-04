@@ -30,46 +30,10 @@ public abstract class FirmManager {
 
 	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
 
-	private String getJSON(char c) {
-		String managerJSON = "NULL";
-
-		int failCount = 0;
-
-		while (managerJSON.contentEquals("NULL") && failCount < 5) {
-
-			if (c == 'F') {
-
-				managerJSON = new RequestURL().getManagerFinraJSON(ind_source_id);
-
-			} else {
-
-				managerJSON = new RequestURL().getAdviserinfoJSON(ind_source_id);
-
-			}
-
-			failCount++;
-
-		}
-		return managerJSON;
-	}
 
 	public String getMostRecentFirmId() {
 		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).firmId
 				: this.previousMangerEmployments.get(0).firmId;
-	}
-
-	public void generateInfo() {
-
-		String managerFinraJSON = getJSON('F');
-
-		this.firmFinraJSON = managerFinraJSON;
-
-		String managerSecJSON = getJSON('C');
-
-		this.firmSecJSON = managerSecJSON;
-
-		JSONParser.parseManagerJSON(this);
-
 	}
 
 	public List<CurrentEmployment> getCurrentMangerEmployments() {
