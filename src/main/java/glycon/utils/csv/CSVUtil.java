@@ -1,21 +1,16 @@
 package glycon.utils.csv;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Date;
-import java.util.Iterator;
 import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
@@ -87,7 +82,7 @@ public class CSVUtil {
 
 		try {
 
-			out = Files.newBufferedWriter(Paths.get(DirEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
+			out = Files.newBufferedWriter(Paths.get(FileEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -111,7 +106,30 @@ public class CSVUtil {
 		}
 	}
 
+<<<<<<< HEAD:src/main/java/glycon/utils/csv/CSVUtil.java
 	public static void createFinalList(List<File> finalManagerList) {
+=======
+	public static void createManagerFile(FirmManager firmManager) {
+
+		BufferedWriter out = null;
+
+		try {
+
+			out = Files.newBufferedWriter(
+					Paths.get(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
+					StandardOpenOption.CREATE);
+
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
+		try (CSVPrinter printer = new CSVPrinter(out, CSVFormat.EXCEL.withHeader(FINAL_MANAGER_HEADERS))) {
+
+			int longestEntry = getLongestEntry(firmManager);
+
+			for (int i = 0; i < longestEntry; i++) {
+>>>>>>> parent of 1cd784f (Final List Implementation Finished):src/main/java/glycon/utils/CSVUtil.java
 
 		String headers = Arrays.toString(FINAL_MANAGER_HEADERS);
 
@@ -243,8 +261,7 @@ public class CSVUtil {
 				String otherNames = record.get(OTHER_NAMES);
 				String lastName = record.get(SECOND_NAME);
 
-				firmMangerObjectList
-						.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
+				firmMangerObjectList.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
 
 			}
 
@@ -268,8 +285,11 @@ public class CSVUtil {
 		return tempName.split(", ");
 	}
 
+<<<<<<< HEAD:src/main/java/glycon/utils/csv/CSVUtil.java
 	private CSVUtil() {
 		throw new IllegalStateException("Utility class");
 	}
 
+=======
+>>>>>>> parent of 1cd784f (Final List Implementation Finished):src/main/java/glycon/utils/CSVUtil.java
 }

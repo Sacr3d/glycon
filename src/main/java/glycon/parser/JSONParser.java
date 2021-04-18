@@ -200,8 +200,14 @@ public class JSONParser {
 				.collect(Collectors.toList()); // and collect as a List
 	}
 
+<<<<<<< HEAD
 	private JSONParser() {
 		throw new IllegalStateException("Utility class");
+=======
+	private static String snantizeManagerJson(String firmJSON) {
+
+		return firmJSON.replace("\"{", "{").replace("}\"", "}").replace("\\\"", "\"").replace("\\\\\"", "\\\"");
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 	}
 
 }

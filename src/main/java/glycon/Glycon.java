@@ -10,7 +10,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collectors;
 
 import glycon.object.Firm;
 import glycon.object.FriendlyFirm;
@@ -18,7 +17,11 @@ import glycon.thread.GlyconFirmFileThread;
 import glycon.thread.GlyconFirmThread;
 import glycon.thread.GlyconFriendlyFirmThread;
 import glycon.utils.ASCIIArtUtil;
+<<<<<<< HEAD
 import glycon.utils.DirEnum;
+=======
+import glycon.utils.CSVUtil;
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
 import glycon.utils.LoggingUtil;
@@ -118,15 +121,11 @@ public class Glycon {
 
 				printWelcome(args[1]);
 
-				createDirectories();
-
 				createFriendlyList(rawFrimList);
 
 				createBrokersWithDisclosuresList(rawFrimList);
 
 				workOnFirmBrokerList(rawFrimList);
-
-				packFinalList(rawFrimList);
 
 				LoggingUtil.msg("Done press any key to escape");
 
@@ -147,6 +146,7 @@ public class Glycon {
 
 	}
 
+<<<<<<< HEAD
 	private static void packFinalList(List<String> rawFrimList) {
 
 		List<File> finalFirmFileList = FileUtil.generateFileInformation(rawFrimList);
@@ -206,9 +206,11 @@ public class Glycon {
 		}
 	}
 
+=======
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 	public static void workOnFirmBrokerList(List<String> rawFrimList) {
 
-		List<File> primeFirmFileList = FileUtil.generateFileInformation(rawFrimList);
+		List<File> primeFirmFileList = ListUtil.generateFileInformation(rawFrimList);
 
 		if (!primeFirmFileList.isEmpty()) {
 

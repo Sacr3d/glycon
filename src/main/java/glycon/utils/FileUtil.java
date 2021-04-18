@@ -39,18 +39,31 @@ public class FileUtil {
 
 		for (String fileName : rawFrimList) {
 
+<<<<<<< HEAD
 			File f = new File(DirEnum.FIRM_PATH.toString() + fileName + ".csv");
+=======
+		// Creates a new File instance by converting the given pathname string
+		// into an abstract pathname
+		File f = new File(FileEnum.MANAGER_PATH.toString());
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 
 			if (f.exists() && !f.isDirectory()) {
 
+<<<<<<< HEAD
 				requiredFilesList.add(f);
 
 			}
+=======
+		// For each pathname in the pathnames array
+		for (String pathname : pathnames) {
+			// Print the names of files and directories
+			requiredFilesList.add(new File(FileEnum.MANAGER_PATH.toString() + pathname));
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 		}
 
 		return requiredFilesList;
 	}
-
+	
 	public static List<File> getAllFirmFiles() {
 
 		List<File> requiredFilesList = new ArrayList<>();
@@ -60,7 +73,7 @@ public class FileUtil {
 
 		// Creates a new File instance by converting the given pathname string
 		// into an abstract pathname
-		File f = new File(DirEnum.FIRM_PATH.toString());
+		File f = new File(FileEnum.FIRM_PATH.toString());
 
 		// Populates the array with names of files and directories
 		pathnames = f.list();
@@ -68,6 +81,7 @@ public class FileUtil {
 		// For each pathname in the pathnames array
 		for (String pathname : pathnames) {
 			// Print the names of files and directories
+<<<<<<< HEAD
 			requiredFilesList.add(new File(DirEnum.FIRM_PATH.toString() + pathname));
 		}
 
@@ -106,11 +120,12 @@ public class FileUtil {
 	public static List<String> parseFirmsInTextFile(String fileName) throws IOException {
 
 		return Files.readAllLines(Paths.get(fileName));
+=======
+			requiredFilesList.add(new File(FileEnum.FIRM_PATH.toString() + pathname));
+		}
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 
 	}
-
-	private FileUtil() {
-		throw new IllegalStateException("Utility class");
-	}
+	
 
 }

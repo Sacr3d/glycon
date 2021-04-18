@@ -5,14 +5,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import org.jsoup.Connection;
-import org.jsoup.Jsoup;
+import java.nio.charset.StandardCharsets;
 
 public class RequestURL {
-
-	private static final String WT_JSON = "&wt=json";
-
-	private static final String INDIVIDUAL_FIRM = "/individual?firm=";
 
 	private static final String HTTPS_API_ADVISERINFO_SEC_GOV = "https://api.adviserinfo.sec.gov/search";
 
@@ -110,9 +105,9 @@ public class RequestURL {
 
 	public String getFirmManagersByRangeAndAlphabeticalJSON(String firmCRD, int entries, int startEntry) {
 
-		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmCRD
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmCRD
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=" + entries
-				+ "&r=25&sort=score+desc&start=" + startEntry + WT_JSON;
+				+ "&r=25&sort=score+desc&start=" + startEntry + "&wt=json";
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
@@ -126,7 +121,7 @@ public class RequestURL {
 				+ startExperienceBoundry + "-" + endExperienceBoundry + "&firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._s&nrows=" + entries
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
-				+ startEntry + WT_JSON;
+				+ startEntry + "&wt=json";
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 
@@ -134,10 +129,10 @@ public class RequestURL {
 
 	public String getFirmManagersByRangeJSON(String firmID, int entries, int startEntry) {
 
-		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmID
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=" + entries
 				+ "&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&start="
-				+ startEntry + WT_JSON;
+				+ startEntry + "&wt=json";
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
@@ -152,7 +147,12 @@ public class RequestURL {
 
 	public byte[] getPDF(String firmID) {
 
+<<<<<<< HEAD
 		String url = "https://files.brokercheck.finra.org/individual/individual_" + firmID + ".pdf";
+=======
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual?firm=" + firmID
+				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=0&r=25&sort=score+desc&wt=json";
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 
 		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
@@ -167,27 +167,22 @@ public class RequestURL {
 
 	private String sendAndGetResponse(String url, String userAgent, int requestTime) {
 
-		String jsonBodyStr = null;
-
 		try {
-			Thread.sleep(requestTime);
 
-			jsonBodyStr = Jsoup.connect(url)
+			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
 
-					// FIX - this line set max response size without limit
-					// all our data will be fetched
-					.maxBodySize(0)
+			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
 
-					.followRedirects(true).ignoreHttpErrors(false).userAgent(userAgent).method(Connection.Method.GET)
-					.timeout(10_000).ignoreContentType(true).execute().body();
+				int read = 0;
+				byte[] buffer = new byte[4096];
 
-			if (jsonBodyStr != null) {
+				while ((read = is.read(buffer)) > 0) {
+					baos.write(buffer, 0, read);
+				}
 
-				return jsonBodyStr;
+				return new String(baos.toByteArray(), StandardCharsets.UTF_8);
 
 			}
-
-			return ERROR_STRING_LITERAL;
 
 		} catch (IOException e) {
 
@@ -203,4 +198,63 @@ public class RequestURL {
 
 	}
 
+<<<<<<< HEAD
+=======
+	public static byte[] readFully(String url, String userAgent, int requestTime) {
+
+		try {
+
+			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
+
+			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
+
+				byte[] buffer = new byte[8192];
+
+				int bytesRead;
+				while ((bytesRead = is.read(buffer)) != -1) {
+					baos.write(buffer, 0, bytesRead);
+				}
+
+				return baos.toByteArray();
+
+			}
+
+		} catch (IOException e) {
+
+			return new byte[0];
+
+		} catch (InterruptedException e) {
+
+			Thread.currentThread().interrupt();
+
+			return new byte[0];
+
+		}
+
+	}
+
+	private static HttpURLConnection prepareConnection(String url, String userAgent, int requestTime)
+			throws InterruptedException, IOException {
+
+		URL urlObj;
+		Thread.sleep(requestTime);
+
+		urlObj = new URL(url);
+
+		HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
+
+		// optional default is GET
+		con.setRequestMethod("GET");
+
+		// Set timeout
+		con.setConnectTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		con.setReadTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		// add request header
+		con.setRequestProperty("User-Agent", userAgent);
+		return con;
+	}
+
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 }

@@ -18,8 +18,4 @@ public class LoggingUtil {
 
 	}
 
-	private LoggingUtil() {
-		throw new IllegalStateException("Utility class");
-	}
-
 }

@@ -11,7 +11,12 @@ import glycon.object.FirmManagerIn;
 import glycon.object.PreviousEmployment;
 import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
+<<<<<<< HEAD
 import glycon.utils.DirEnum;
+=======
+import glycon.utils.CSVUtil;
+import glycon.utils.FileEnum;
+>>>>>>> parent of 1cd784f (Final List Implementation Finished)
 import glycon.utils.FileUtil;
 import glycon.utils.csv.CSVUtil;
 import glycon.utils.csv.CSVUtilManagers;
@@ -37,7 +42,7 @@ public class GlyconFirmFileThread implements Runnable {
 
 			for (FirmManagerIn firmManager : firmManagerList) {
 
-				if (!FileUtil.fileExists(DirEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv")) {
+				if (!FileUtil.fileExists(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv")) {
 
 					firmManager.generateInfo();
 

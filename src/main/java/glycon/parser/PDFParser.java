@@ -206,8 +206,4 @@ public class PDFParser {
 		return disclosureText;
 	}
 
-	private PDFParser() {
-		throw new IllegalStateException("Utility class");
-	}
-
 }

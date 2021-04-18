@@ -66,7 +66,7 @@ public class ListUtil {
 
 				});
 			} catch (InterruptedException | ExecutionException e) {
-				Thread.currentThread().interrupt();
+				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 
@@ -85,8 +85,22 @@ public class ListUtil {
 		return partitions;
 	}
 
-	private ListUtil() {
-		throw new IllegalStateException("Utility class");
+	public static List<File> generateFileInformation(List<String> rawFrimList) {
+
+		List<File> requiredFilesList = new ArrayList<>();
+
+		for (String fileName : rawFrimList) {
+
+			File f = new File(FileEnum.FIRM_PATH.toString() + fileName + ".csv");
+
+			if (f.exists() && !f.isDirectory()) {
+
+				requiredFilesList.add(f);
+
+			}
+		}
+
+		return requiredFilesList;
 	}
 
 }
