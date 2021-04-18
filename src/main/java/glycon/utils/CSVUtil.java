@@ -1,16 +1,21 @@
-package glycon.utils.csv;
+package glycon.utils;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
@@ -21,9 +26,6 @@ import glycon.object.Firm;
 import glycon.object.FirmManager;
 import glycon.object.FirmManagerIn;
 import glycon.object.FriendlyFirm;
-import glycon.utils.DirEnum;
-import glycon.utils.FileEnum;
-import glycon.utils.FileUtil;
 
 public class CSVUtil {
 
@@ -37,12 +39,11 @@ public class CSVUtil {
 
 	private static final String[] FRIENDLY_HEADERS = { FIRM_ID, FIRM_NAME, SEARCH_TERM };
 	private static final String[] MANAGER_HEADERS = { ID, FIRST_NAME, OTHER_NAMES, SECOND_NAME };
-	static final String[] FINAL_MANAGER_HEADERS = { FIRM_ID, ID, FIRST_NAME, OTHER_NAMES, SECOND_NAME,
-			"FINRA_DISCLOSURE_DATE", "FINRA_DISCLOSURE_TYPE", "FINRA_DISCLOSURE_RESULT", "FINRA_DISCLOSURE_INFO",
-			"SEC_DISCLOSURE_DATE", "SEC_DISCLOSURE_TYPE", "SEC_DISCLOSURE_RESULT", "SEC_DISCLOSURE_INFO",
-			"FINRA_EMPLOYMENT_DATES", "FINRA_EMPLOYMENT", "SEC_EMPLOYMENT_DATES", "SEC_EMPLOYMENT" };
+	private static final String[] FINAL_MANAGER_HEADERS = { FIRM_ID, ID, FIRST_NAME, OTHER_NAMES, SECOND_NAME,
+			"DISCLOSURE_DATE", "DISCLOSURE_TYPE", "DISCLOSURE_RESULT", "DISCLOSURE_INFO", "FINRA_EMPLOYMENT_DATES",
+			"FINRA_EMPLOYMENT" };
 
-	public static void createFriendlyCSVFile(List<FriendlyFirm> resultList) {
+	public static void createCSVFile(List<FriendlyFirm> resultList) {
 
 		BufferedWriter out = null;
 
@@ -82,7 +83,7 @@ public class CSVUtil {
 
 		try {
 
-			out = Files.newBufferedWriter(Paths.get(FileEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
+			out = Files.newBufferedWriter(Paths.get(DirEnum.FIRM_PATH.toString() + firm.getFirmId() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -106,9 +107,6 @@ public class CSVUtil {
 		}
 	}
 
-<<<<<<< HEAD:src/main/java/glycon/utils/csv/CSVUtil.java
-	public static void createFinalList(List<File> finalManagerList) {
-=======
 	public static void createManagerFile(FirmManager firmManager) {
 
 		BufferedWriter out = null;
@@ -116,7 +114,7 @@ public class CSVUtil {
 		try {
 
 			out = Files.newBufferedWriter(
-					Paths.get(FileEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
+					Paths.get(DirEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -129,37 +127,94 @@ public class CSVUtil {
 			int longestEntry = getLongestEntry(firmManager);
 
 			for (int i = 0; i < longestEntry; i++) {
->>>>>>> parent of 1cd784f (Final List Implementation Finished):src/main/java/glycon/utils/CSVUtil.java
 
-		String headers = Arrays.toString(FINAL_MANAGER_HEADERS);
+				String disclosureDate = i < firmManager.getDiscolsures().size()
+						? firmManager.getDiscolsures().get(i).getEventDate()
+						: "";
 
-		Iterator<File> iterFiles = finalManagerList.iterator();
+				String disclosureType = i < firmManager.getDiscolsures().size()
+						? firmManager.getDiscolsures().get(i).getDisclosureType()
+						: "";
 
-		try (BufferedWriter writer = new BufferedWriter(
-				new FileWriter(new SimpleDateFormat("yyyy'-'MM'-'dd'-'HH'-'mm'.csv'").format(new Date()), true))) {
-			writer.write(headers.substring(1, headers.length() - 1));
-			writer.newLine();
+				String disclosureResult = i < firmManager.getDiscolsures().size()
+						? firmManager.getDiscolsures().get(i).getDisclosureResolution()
+						: "";
 
-			while (iterFiles.hasNext()) {
+				String disclosureInfo = i < firmManager.getDiscolsures().size()
+						? firmManager.getDiscolsures().get(i).getDisclosureDetailString()
+						: "";
+				String finraEmploymentDate = "";
 
-				File nextFile = iterFiles.next();
+				finraEmploymentDate = decideFinraEmploymentDate(firmManager, i);
 
-				try (BufferedReader reader = new BufferedReader(new FileReader(nextFile))) {
+				String finraFirm = "";
 
-					String line = null;
+				finraFirm = decideFinraEmploymentFirm(firmManager, i);
 
-					while ((line = reader.readLine()) != null) {
-						writer.write(line);
-						writer.newLine();
-					}
+				printer.printRecord(firmManager.getMostRecentFirmId(), firmManager.getInd_source_id(),
+						firmManager.getInd_firstname(), Arrays.toString(firmManager.getInd_other_names()),
+						firmManager.getInd_lastname(), disclosureDate, disclosureType, disclosureResult, disclosureInfo,
+						finraEmploymentDate, finraFirm);
 
-				}
 			}
+
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
+	}
+
+	private static String decideFinraEmploymentDate(FirmManager firmManager, int i) {
+
+		if (i < firmManager.getCurrentMangerEmployments().size()) {
+
+			return (i < firmManager.getCurrentMangerEmployments().size())
+					&& (!firmManager.getCurrentMangerEmployments().isEmpty())
+							? firmManager.getCurrentMangerEmployments().get(i).getDateRange()
+							: "";
+
+		}
+
+		return (i < firmManager.getPreviousMangerEmployments().size()
+				+ firmManager.getCurrentMangerEmployments().size())
+				&& (!firmManager.getPreviousMangerEmployments().isEmpty())
+						? firmManager.getPreviousMangerEmployments()
+								.get(i - firmManager.getCurrentMangerEmployments().size()).getDateRange()
+						: "";
+
+	}
+
+	private static String decideFinraEmploymentFirm(FirmManager firmManager, int i) {
+
+		if (i < firmManager.getCurrentMangerEmployments().size()) {
+
+			return (i < firmManager.getCurrentMangerEmployments().size())
+					&& (!firmManager.getCurrentMangerEmployments().isEmpty())
+							? firmManager.getCurrentMangerEmployments().get(i).getDetailedFirmName()
+							: "";
+
+		}
+
+		return (i < firmManager.getPreviousMangerEmployments().size()
+				+ firmManager.getCurrentMangerEmployments().size())
+				&& (!firmManager.getPreviousMangerEmployments().isEmpty())
+						? firmManager.getPreviousMangerEmployments()
+								.get(i - firmManager.getCurrentMangerEmployments().size()).getDetailedFirmName()
+						: "";
+
+	}
+
+	private static int getLongestEntry(FirmManager firmManager) {
+
+		int longestEntry = firmManager.getDiscolsures().size();
+
+		if (firmManager.getCurrentMangerEmployments().size()
+				+ firmManager.getPreviousMangerEmployments().size() > longestEntry)
+			longestEntry = firmManager.getCurrentMangerEmployments().size()
+					+ firmManager.getPreviousMangerEmployments().size();
+
+		return longestEntry;
 	}
 
 	private static void friendlyFirmAppend(List<FriendlyFirm> resultList, BufferedWriter out) {
@@ -261,7 +316,8 @@ public class CSVUtil {
 				String otherNames = record.get(OTHER_NAMES);
 				String lastName = record.get(SECOND_NAME);
 
-				firmMangerObjectList.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
+				firmMangerObjectList
+						.add(new FirmManagerIn(managerId, firstName, splitOtherNames(otherNames), lastName));
 
 			}
 
@@ -285,11 +341,41 @@ public class CSVUtil {
 		return tempName.split(", ");
 	}
 
-<<<<<<< HEAD:src/main/java/glycon/utils/csv/CSVUtil.java
+	public static void createFinalList(List<File> finalManagerList) {
+
+		String headers = Arrays.toString(FINAL_MANAGER_HEADERS);
+
+		Iterator<File> iterFiles = finalManagerList.iterator();
+
+		try (BufferedWriter writer = new BufferedWriter(
+				new FileWriter(new SimpleDateFormat("yyyy'-'MM'-'dd'-'HH'-'mm'.csv'").format(new Date()), true))) {
+			writer.write(headers.substring(1, headers.length() - 1));
+			writer.newLine();
+
+			while (iterFiles.hasNext()) {
+
+				File nextFile = iterFiles.next();
+
+				try (BufferedReader reader = new BufferedReader(new FileReader(nextFile))) {
+
+					String line = null;
+
+					while ((line = reader.readLine()) != null) {
+						writer.write(line);
+						writer.newLine();
+					}
+
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
 	private CSVUtil() {
 		throw new IllegalStateException("Utility class");
 	}
 
-=======
->>>>>>> parent of 1cd784f (Final List Implementation Finished):src/main/java/glycon/utils/CSVUtil.java
 }

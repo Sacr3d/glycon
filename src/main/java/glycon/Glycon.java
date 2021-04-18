@@ -10,23 +10,22 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
 
+import glycon.object.Disclosure;
 import glycon.object.Firm;
+import glycon.object.FirmManagerIn;
 import glycon.object.FriendlyFirm;
 import glycon.thread.GlyconFirmFileThread;
 import glycon.thread.GlyconFirmThread;
 import glycon.thread.GlyconFriendlyFirmThread;
 import glycon.utils.ASCIIArtUtil;
-<<<<<<< HEAD
-import glycon.utils.DirEnum;
-=======
 import glycon.utils.CSVUtil;
->>>>>>> parent of 1cd784f (Final List Implementation Finished)
+import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
 import glycon.utils.LoggingUtil;
 import glycon.utils.ProgressUtil;
-import glycon.utils.csv.CSVUtil;
 
 public class Glycon {
 
@@ -65,20 +64,6 @@ public class Glycon {
 
 	}
 
-	private static void createDirectories() {
-		try {
-
-			FileUtil.createRequiredDirectories();
-
-		} catch (IOException e) {
-
-			LoggingUtil.warn("Could not create required directories, need access");
-
-			exitError();
-
-		}
-	}
-
 	private static void createFriendlyList(List<String> rawFrimList) {
 
 		List<String> friendlyFirmPrevious = FileUtil.hasFriendlyFirmList() ? CSVUtil.generateFriendlyFirmIdList()
@@ -103,7 +88,7 @@ public class Glycon {
 
 		runThreadedFriendlyFirmService(workingFirmList, resultList, threadRawFirmList);
 
-		CSVUtil.createFriendlyCSVFile(ListUtil.sanatizeFriendlyList(resultList));
+		CSVUtil.createCSVFile(ListUtil.sanatizeFriendlyList(resultList));
 
 	}
 
@@ -121,21 +106,23 @@ public class Glycon {
 
 				printWelcome(args[1]);
 
+				createDirectories();
+
 				createFriendlyList(rawFrimList);
 
 				createBrokersWithDisclosuresList(rawFrimList);
 
 				workOnFirmBrokerList(rawFrimList);
 
+				packFinalList(rawFrimList);
+
 				LoggingUtil.msg("Done press any key to escape");
 
 				System.in.read();
 
 			} catch (IOException e) {
-			
 				LoggingUtil.warn(args[1] + " could not be accesed or does not exist");
 				exitError();
-		
 			}
 
 		} else {
@@ -146,7 +133,6 @@ public class Glycon {
 
 	}
 
-<<<<<<< HEAD
 	private static void packFinalList(List<String> rawFrimList) {
 
 		List<File> finalFirmFileList = FileUtil.generateFileInformation(rawFrimList);
@@ -166,6 +152,55 @@ public class Glycon {
 		Collections.sort(uniqueManagerFiles);
 
 		CSVUtil.createFinalList(uniqueManagerFiles);
+
+	}
+
+	private static void createDirectories() {
+		try {
+
+			FileUtil.createRequiredDirectories();
+
+		} catch (IOException e) {
+
+			LoggingUtil.warn("Could not create required directories, need access");
+
+			exitError();
+
+		}
+	}
+
+	public static void workOnFirmBrokerList(List<String> rawFrimList) {
+
+		List<File> primeFirmFileList = FileUtil.generateFileInformation(rawFrimList);
+
+		if (!primeFirmFileList.isEmpty()) {
+
+			List<List<File>> threadFirmFileList = ListUtil.splitList(THREADS, primeFirmFileList);
+
+			AtomicInteger atomicInt = new AtomicInteger(0);
+
+			ExecutorService executorService = Executors.newFixedThreadPool(THREADS);
+
+			for (List<File> firmList : threadFirmFileList) {
+
+				executorService.submit(new GlyconFirmFileThread(firmList, atomicInt));
+
+			}
+
+			try {
+
+				executorService.shutdown();
+
+				executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
+
+				ProgressUtil.displayProgressBar(atomicInt, primeFirmFileList, executorService,
+						"Gathering information on managers from firms");
+
+			} catch (InterruptedException e) {
+				Thread.currentThread().interrupt();
+			}
+
+		}
 
 	}
 
@@ -204,43 +239,6 @@ public class Glycon {
 		} catch (InterruptedException e) {
 			Thread.currentThread().interrupt();
 		}
-	}
-
-=======
->>>>>>> parent of 1cd784f (Final List Implementation Finished)
-	public static void workOnFirmBrokerList(List<String> rawFrimList) {
-
-		List<File> primeFirmFileList = ListUtil.generateFileInformation(rawFrimList);
-
-		if (!primeFirmFileList.isEmpty()) {
-
-			List<List<File>> threadFirmFileList = ListUtil.splitList(THREADS, primeFirmFileList);
-
-			AtomicInteger atomicInt = new AtomicInteger(0);
-
-			ExecutorService executorService = Executors.newFixedThreadPool(THREADS);
-
-			for (List<File> firmList : threadFirmFileList) {
-
-				executorService.submit(new GlyconFirmFileThread(firmList, atomicInt));
-
-			}
-
-			try {
-
-				executorService.shutdown();
-
-				executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
-
-				ProgressUtil.displayProgressBar(atomicInt, primeFirmFileList, executorService,
-						"Gathering information on managers from firms");
-
-			} catch (InterruptedException e) {
-				Thread.currentThread().interrupt();
-			}
-
-		}
-
 	}
 
 }

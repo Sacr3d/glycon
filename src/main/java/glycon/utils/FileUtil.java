@@ -9,83 +9,22 @@ import java.util.List;
 
 public class FileUtil {
 
-	public static void createRequiredDirectories() throws IOException {
-
-		for (DirEnum filePath : DirEnum.values()) {
-
-			try {
-
-				Files.createDirectories(Paths.get(filePath.toString()));
-
-			} catch (IOException e) {
-
-				throw new IOException();
-
-			}
-
-		}
-
-	}
-
 	public static boolean fileExists(String string) {
 
 		return new File(string).exists();
 
 	}
 
-	public static List<File> generateFileInformation(List<String> rawFrimList) {
+	public static boolean hasFriendlyFirmList() {
 
-		List<File> requiredFilesList = new ArrayList<>();
+		return new File(FileEnum.FRIENDLY_WORKBOOK.toString()).exists();
 
-		for (String fileName : rawFrimList) {
-
-<<<<<<< HEAD
-			File f = new File(DirEnum.FIRM_PATH.toString() + fileName + ".csv");
-=======
-		// Creates a new File instance by converting the given pathname string
-		// into an abstract pathname
-		File f = new File(FileEnum.MANAGER_PATH.toString());
->>>>>>> parent of 1cd784f (Final List Implementation Finished)
-
-			if (f.exists() && !f.isDirectory()) {
-
-<<<<<<< HEAD
-				requiredFilesList.add(f);
-
-			}
-=======
-		// For each pathname in the pathnames array
-		for (String pathname : pathnames) {
-			// Print the names of files and directories
-			requiredFilesList.add(new File(FileEnum.MANAGER_PATH.toString() + pathname));
->>>>>>> parent of 1cd784f (Final List Implementation Finished)
-		}
-
-		return requiredFilesList;
 	}
-	
-	public static List<File> getAllFirmFiles() {
 
-		List<File> requiredFilesList = new ArrayList<>();
+	public static List<String> parseFirmsInTextFile(String fileName) throws IOException {
 
-		// Creates an array in which we will store the names of files and directories
-		String[] pathnames;
+		return Files.readAllLines(Paths.get(fileName));
 
-		// Creates a new File instance by converting the given pathname string
-		// into an abstract pathname
-		File f = new File(FileEnum.FIRM_PATH.toString());
-
-		// Populates the array with names of files and directories
-		pathnames = f.list();
-
-		// For each pathname in the pathnames array
-		for (String pathname : pathnames) {
-			// Print the names of files and directories
-<<<<<<< HEAD
-			requiredFilesList.add(new File(DirEnum.FIRM_PATH.toString() + pathname));
-		}
-
-		return requiredFilesList;
 	}
 
 	public static List<File> getAllManagerFiles() {
@@ -111,21 +50,67 @@ public class FileUtil {
 		return requiredFilesList;
 	}
 
-	public static boolean hasFriendlyFirmList() {
+	public static List<File> getAllFirmFiles() {
 
-		return new File(FileEnum.FRIENDLY_WORKBOOK.toString()).exists();
+		List<File> requiredFilesList = new ArrayList<>();
 
-	}
+		// Creates an array in which we will store the names of files and directories
+		String[] pathnames;
 
-	public static List<String> parseFirmsInTextFile(String fileName) throws IOException {
+		// Creates a new File instance by converting the given pathname string
+		// into an abstract pathname
+		File f = new File(DirEnum.FIRM_PATH.toString());
 
-		return Files.readAllLines(Paths.get(fileName));
-=======
-			requiredFilesList.add(new File(FileEnum.FIRM_PATH.toString() + pathname));
+		// Populates the array with names of files and directories
+		pathnames = f.list();
+
+		// For each pathname in the pathnames array
+		for (String pathname : pathnames) {
+			// Print the names of files and directories
+			requiredFilesList.add(new File(DirEnum.FIRM_PATH.toString() + pathname));
 		}
->>>>>>> parent of 1cd784f (Final List Implementation Finished)
+
+		return requiredFilesList;
+	}
+
+	public static void createRequiredDirectories() throws IOException {
+
+		for (DirEnum filePath : DirEnum.values()) {
+
+			try {
+
+				Files.createDirectories(Paths.get(filePath.toString()));
+
+			} catch (IOException e) {
+
+				throw new IOException();
+
+			}
+
+		}
 
 	}
-	
+
+	public static List<File> generateFileInformation(List<String> rawFrimList) {
+
+		List<File> requiredFilesList = new ArrayList<>();
+
+		for (String fileName : rawFrimList) {
+
+			File f = new File(DirEnum.FIRM_PATH.toString() + fileName + ".csv");
+
+			if (f.exists() && !f.isDirectory()) {
+
+				requiredFilesList.add(f);
+
+			}
+		}
+
+		return requiredFilesList;
+	}
+
+	private FileUtil() {
+		throw new IllegalStateException("Utility class");
+	}
 
 }

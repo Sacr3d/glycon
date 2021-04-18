@@ -17,13 +17,36 @@ public class Disclosure implements Comparable<Disclosure> {
 
 	private Date eventDateObject;
 
-	@Override
-	public int compareTo(Disclosure o) {
-		if (getEventDateObject() != null) {
-			return getEventDateObject().compareTo(o.getEventDateObject());
-		}
+	public String getEventDate() {
+		return eventDate;
+	}
 
-		return 0;
+	public void setEventDate(String eventDate) {
+		this.eventDate = eventDate;
+	}
+
+	public String getDisclosureType() {
+		return disclosureType;
+	}
+
+	public void setDisclosureType(String disclosureType) {
+		this.disclosureType = disclosureType;
+	}
+
+	public String getDisclosureResolution() {
+		return disclosureResolution;
+	}
+
+	public void setDisclosureResolution(String disclosureResolution) {
+		this.disclosureResolution = disclosureResolution;
+	}
+
+	public String getDisclosureDetailString() {
+		return disclosureDetailString;
+	}
+
+	public void setDisclosureDetailString(String disclosureDetailString) {
+		this.disclosureDetailString = disclosureDetailString;
 	}
 
 	@Override
@@ -36,46 +59,23 @@ public class Disclosure implements Comparable<Disclosure> {
 		return false;
 	}
 
-	public String getDisclosureDetailString() {
-		return disclosureDetailString;
-	}
-
-	public String getDisclosureResolution() {
-		return disclosureResolution;
-	}
-
-	public String getDisclosureType() {
-		return disclosureType;
-	}
-
-	public String getEventDate() {
-		return eventDate;
-	}
-
-	public Date getEventDateObject() {
-		return eventDateObject;
-	}
-
 	@Override
 	public int hashCode() {
 		int prime = 31;
 		return prime + (this.disclosureDetailString == null ? 0 : this.disclosureDetailString.hashCode());
 	}
 
-	public void setDisclosureDetailString(String disclosureDetailString) {
-		this.disclosureDetailString = disclosureDetailString;
+	@Override
+	public int compareTo(Disclosure o) {
+		if (getEventDateObject() != null) {
+			return getEventDateObject().compareTo(o.getEventDateObject());
+		}
+
+		return 0;
 	}
 
-	public void setDisclosureResolution(String disclosureResolution) {
-		this.disclosureResolution = disclosureResolution;
-	}
-
-	public void setDisclosureType(String disclosureType) {
-		this.disclosureType = disclosureType;
-	}
-
-	public void setEventDate(String eventDate) {
-		this.eventDate = eventDate;
+	public Date getEventDateObject() {
+		return eventDateObject;
 	}
 
 	public void setEventDateObject() {
