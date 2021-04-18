@@ -10,10 +10,10 @@ import glycon.network.RequestURL;
 import glycon.object.Firm;
 import glycon.object.FirmManager;
 import glycon.parser.JSONParser;
-import glycon.utils.CSVUtil;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
+import glycon.utils.csv.CSVUtil;
 
 public class GlyconFirmThread implements Runnable {
 

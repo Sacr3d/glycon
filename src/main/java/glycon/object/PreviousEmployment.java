@@ -14,6 +14,15 @@ public class PreviousEmployment extends Employment {
 		return false;
 	}
 
+	public String getDateRange() {
+
+		return getRegistrationBeginDate() + " - " + registrationEndDate;
+	}
+
+	public String getRegistrationEndDate() {
+		return registrationEndDate;
+	}
+
 	@Override
 	public int hashCode() {
 		int prime = 31;
@@ -21,17 +30,8 @@ public class PreviousEmployment extends Employment {
 				: this.registrationBeginDate.hashCode() + this.firmId.hashCode());
 	}
 
-	public String getRegistrationEndDate() {
-		return registrationEndDate;
-	}
-
 	public void setRegistrationEndDate(String registrationEndDate) {
 		this.registrationEndDate = registrationEndDate;
-	}
-
-	public String getDateRange() {
-
-		return getRegistrationBeginDate() + " - " + registrationEndDate;
 	}
 
 }

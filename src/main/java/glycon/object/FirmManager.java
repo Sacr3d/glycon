@@ -24,28 +24,36 @@ public abstract class FirmManager {
 
 	protected String[] ind_other_names;
 
-	private List<Disclosure> discolsures = new ArrayList<>();
+	private List<Disclosure> discolsuresFinra = new ArrayList<>();
+
+	private List<Disclosure> discolsuresSEC = new ArrayList<>();
 
 	protected List<CurrentEmployment> currentMangerEmployments = new ArrayList<>();
 
+	protected List<CurrentEmployment> currentMangerIAEmployments = new ArrayList<>();
+
 	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
 
-
-	public String getMostRecentFirmId() {
-		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).firmId
-				: this.previousMangerEmployments.get(0).firmId;
-	}
+	protected List<PreviousEmployment> previousMangerIAEmployments = new ArrayList<>();
 
 	public List<CurrentEmployment> getCurrentMangerEmployments() {
 		return currentMangerEmployments;
 	}
 
-	public List<Disclosure> getDiscolsures() {
-		return discolsures;
+	public List<CurrentEmployment> getCurrentMangerIAEmployments() {
+		return currentMangerIAEmployments;
+	}
+
+	public List<Disclosure> getDiscolsuresFinra() {
+		return discolsuresFinra;
 	}
 
 	public String getFirmFinraJSON() {
 		return firmFinraJSON;
+	}
+
+	public String getFirmSecJSON() {
+		return firmSecJSON;
 	}
 
 	public String getInd_bc_disclosure_fl() {
@@ -72,20 +80,47 @@ public abstract class FirmManager {
 		return ind_source_id;
 	}
 
+	public String getMostRecentFirmId() {
+
+		Employment finraMostRecent = !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0)
+				: this.previousMangerEmployments.get(0);
+
+		Employment secMostRecentFirmId = !this.currentMangerIAEmployments.isEmpty()
+				? this.currentMangerIAEmployments.get(0)
+				: this.previousMangerIAEmployments.get(0);
+
+		Employment mostRecentFirmId = finraMostRecent.compareTo(secMostRecentFirmId) > -1 ? finraMostRecent
+				: secMostRecentFirmId;
+
+		return mostRecentFirmId.getFirmId();
+	}
+
 	public List<PreviousEmployment> getPreviousMangerEmployments() {
 		return previousMangerEmployments;
+	}
+
+	public List<PreviousEmployment> getPreviousMangerIAEmployments() {
+		return previousMangerIAEmployments;
 	}
 
 	public void setCurrentMangerEmployments(List<CurrentEmployment> currentMangerEmployments) {
 		this.currentMangerEmployments = currentMangerEmployments;
 	}
 
-	public void setDiscolsures(List<Disclosure> discolsures) {
-		this.discolsures = discolsures;
+	public void setCurrentMangerIAEmployments(List<CurrentEmployment> currentMangerIAEmployments) {
+		this.currentMangerIAEmployments = currentMangerIAEmployments;
+	}
+
+	public void setDiscolsuresFinra(List<Disclosure> discolsures) {
+		this.discolsuresFinra = discolsures;
 	}
 
 	public void setFirmFinraJSON(String firmFinraJSON) {
 		this.firmFinraJSON = firmFinraJSON;
+	}
+
+	public void setFirmSecJSON(String firmSecJSON) {
+		this.firmSecJSON = firmSecJSON;
 	}
 
 	public void setInd_bc_disclosure_fl(String ind_bc_disclosure_fl) {
@@ -116,12 +151,16 @@ public abstract class FirmManager {
 		this.previousMangerEmployments = previousMangerEmployments;
 	}
 
-	public String getFirmSecJSON() {
-		return firmSecJSON;
+	public void setPreviousMangerIAEmployments(List<PreviousEmployment> previousMangerIAEmployments) {
+		this.previousMangerIAEmployments = previousMangerIAEmployments;
 	}
 
-	public void setFirmSecJSON(String firmSecJSON) {
-		this.firmSecJSON = firmSecJSON;
+	public List<Disclosure> getDiscolsuresSEC() {
+		return discolsuresSEC;
+	}
+
+	public void setDiscolsuresSEC(List<Disclosure> discolsuresSEC) {
+		this.discolsuresSEC = discolsuresSEC;
 	}
 
 }

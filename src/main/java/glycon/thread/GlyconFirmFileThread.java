@@ -11,9 +11,10 @@ import glycon.object.FirmManagerIn;
 import glycon.object.PreviousEmployment;
 import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
-import glycon.utils.CSVUtil;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
+import glycon.utils.csv.CSVUtil;
+import glycon.utils.csv.CSVUtilManagers;
 
 public class GlyconFirmFileThread implements Runnable {
 
@@ -42,7 +43,7 @@ public class GlyconFirmFileThread implements Runnable {
 
 					sortObjectData(firmManager);
 
-					CSVUtil.createManagerFile(firmManager);
+					CSVUtilManagers.createManagerFile(firmManager);
 
 				}
 			}
@@ -55,12 +56,21 @@ public class GlyconFirmFileThread implements Runnable {
 
 	private void sortObjectData(FirmManager firmManager) {
 
-		List<Disclosure> uniqueDisclosures = firmManager.getDiscolsures().stream().distinct()
+		sortFinraInfo(firmManager);
+		
+		sortSECInfo(firmManager);
+		
+
+	}
+
+	private void sortFinraInfo(FirmManager firmManager) {
+		
+		List<Disclosure> uniqueDisclosures = firmManager.getDiscolsuresFinra().stream().distinct()
 				.collect(Collectors.toList());
 
 		Collections.sort(uniqueDisclosures, Collections.reverseOrder());
 
-		firmManager.setDiscolsures(uniqueDisclosures);
+		firmManager.setDiscolsuresFinra(uniqueDisclosures);
 
 		List<CurrentEmployment> uniqueCurrentEmployments = firmManager.getCurrentMangerEmployments().stream().distinct()
 				.collect(Collectors.toList());
@@ -75,7 +85,30 @@ public class GlyconFirmFileThread implements Runnable {
 		Collections.sort(uniquePreviousEmployments, Collections.reverseOrder());
 
 		firmManager.setPreviousMangerEmployments(uniquePreviousEmployments);
+	}
 
+	private void sortSECInfo(FirmManager firmManager) {
+		
+		List<Disclosure> uniqueSECDisclosures = firmManager.getDiscolsuresSEC().stream().distinct()
+				.collect(Collectors.toList());
+
+		Collections.sort(uniqueSECDisclosures, Collections.reverseOrder());
+
+		firmManager.setDiscolsuresFinra(uniqueSECDisclosures);
+
+		List<CurrentEmployment> uniqueCurrentSECEmployments = firmManager.getCurrentMangerIAEmployments().stream().distinct()
+				.collect(Collectors.toList());
+
+		Collections.sort(uniqueCurrentSECEmployments, Collections.reverseOrder());
+
+		firmManager.setCurrentMangerEmployments(uniqueCurrentSECEmployments);
+
+		List<PreviousEmployment> uniquePreviousSECEmployments = firmManager.getPreviousMangerIAEmployments().stream()
+				.distinct().collect(Collectors.toList());
+
+		Collections.sort(uniquePreviousSECEmployments, Collections.reverseOrder());
+
+		firmManager.setPreviousMangerEmployments(uniquePreviousSECEmployments);
 	}
 
 }

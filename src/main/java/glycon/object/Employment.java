@@ -15,37 +15,10 @@ public abstract class Employment implements Comparable<Employment> {
 
 	protected Date registrationBeginDateObject;
 
-	public Date getRegistrationBeginDateObject() {
-		return registrationBeginDateObject;
-	}
+	@Override
+	public int compareTo(Employment o) {
+		return o != null ? getRegistrationBeginDateObject().compareTo(o.getRegistrationBeginDateObject()) : 0;
 
-	public String getFirmId() {
-		return firmId;
-	}
-
-	public void setFirmId(String firmId) {
-		this.firmId = firmId;
-	}
-
-	public String getFirmName() {
-		return firmName;
-	}
-
-	public void setFirmName(String firmName) {
-		this.firmName = firmName;
-	}
-
-	public String getRegistrationBeginDate() {
-		return registrationBeginDate;
-	}
-
-	public void setRegistrationBeginDate(String registrationBeginDate) {
-		this.registrationBeginDate = registrationBeginDate;
-	}
-
-	public String getDetailedFirmName() {
-
-		return firmName + " (" + firmId + ")";
 	}
 
 	@Override
@@ -59,11 +32,44 @@ public abstract class Employment implements Comparable<Employment> {
 		return false;
 	}
 
+	public String getDetailedFirmName() {
+
+		return firmName + " (CRD: " + firmId + ")";
+	}
+
+	public String getFirmId() {
+		return firmId;
+	}
+
+	public String getFirmName() {
+		return firmName;
+	}
+
+	public String getRegistrationBeginDate() {
+		return registrationBeginDate;
+	}
+
+	public Date getRegistrationBeginDateObject() {
+		return registrationBeginDateObject;
+	}
+
 	@Override
 	public int hashCode() {
 		int prime = 31;
 		return prime + (this.registrationBeginDate == null ? 0
 				: this.registrationBeginDate.hashCode() + this.firmId.hashCode());
+	}
+
+	public void setFirmId(String firmId) {
+		this.firmId = firmId;
+	}
+
+	public void setFirmName(String firmName) {
+		this.firmName = firmName;
+	}
+
+	public void setRegistrationBeginDate(String registrationBeginDate) {
+		this.registrationBeginDate = registrationBeginDate;
 	}
 
 	public void setRegistrationBeginDateObject() {
@@ -77,12 +83,6 @@ public abstract class Employment implements Comparable<Employment> {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
-
-	@Override
-	public int compareTo(Employment o) {
-		return o != null ? getRegistrationBeginDateObject().compareTo(o.getRegistrationBeginDateObject()) : 0;
-
 	}
 
 }
