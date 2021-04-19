@@ -1,7 +1,7 @@
 package glycon.object;
 
 import glycon.network.RequestURL;
-import glycon.parser.JSONParser;
+import glycon.parser.json.JSONParserManager;
 
 public class FirmManagerIn extends FirmManager {
 
@@ -27,7 +27,7 @@ public class FirmManagerIn extends FirmManager {
 
 		this.firmSecJSON = managerSecJSON;
 
-		JSONParser.parseManagerJSON(this);
+		JSONParserManager.parseManagerJSON(this);
 
 	}
 

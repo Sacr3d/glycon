@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import glycon.network.RequestURL;
-import glycon.parser.JSONParser;
+import glycon.parser.json.JSONParser;
 
 public abstract class FirmManager {
 
@@ -30,6 +30,15 @@ public abstract class FirmManager {
 
 	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
 
+	public List<Examination> getExaminations() {
+		return examinations;
+	}
+
+	public void setExaminations(List<Examination> examinations) {
+		this.examinations = examinations;
+	}
+
+	protected List<Examination> examinations = new ArrayList<>();
 
 	public String getMostRecentFirmId() {
 		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).firmId

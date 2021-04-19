@@ -7,7 +7,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.network.RequestURL;
 import glycon.object.FriendlyFirm;
-import glycon.parser.JSONParser;
+import glycon.parser.json.JSONParser;
+import glycon.parser.json.JSONParserFirm;
 
 public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
 
@@ -37,7 +38,7 @@ public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
 
 			}
 
-			FriendlyFirm friendlyFirm = JSONParser.parseFirmJSON(firmJSON);
+			FriendlyFirm friendlyFirm = JSONParserFirm.parseFriendlyFirmJSON(firmJSON);
 
 			finalFriendlyFirmList.add(friendlyFirm);
 

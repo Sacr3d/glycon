@@ -1,4 +1,4 @@
-package glycon.utils;
+package glycon.utils.csv;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -26,6 +26,9 @@ import glycon.object.Firm;
 import glycon.object.FirmManager;
 import glycon.object.FirmManagerIn;
 import glycon.object.FriendlyFirm;
+import glycon.utils.DirEnum;
+import glycon.utils.FileEnum;
+import glycon.utils.FileUtil;
 
 public class CSVUtil {
 
@@ -41,7 +44,7 @@ public class CSVUtil {
 	private static final String[] MANAGER_HEADERS = { ID, FIRST_NAME, OTHER_NAMES, SECOND_NAME };
 	private static final String[] FINAL_MANAGER_HEADERS = { FIRM_ID, ID, FIRST_NAME, OTHER_NAMES, SECOND_NAME,
 			"DISCLOSURE_DATE", "DISCLOSURE_TYPE", "DISCLOSURE_RESULT", "DISCLOSURE_INFO", "FINRA_EMPLOYMENT_DATES",
-			"FINRA_EMPLOYMENT" };
+			"FINRA_EMPLOYMENT", "EXAM_TYPE", "EXAM_CATEGORY", "EXAM_NAME", "EXAM_DATE_TAKEN", "EXAM_SCOPE" };
 
 	public static void createCSVFile(List<FriendlyFirm> resultList) {
 
@@ -143,6 +146,7 @@ public class CSVUtil {
 				String disclosureInfo = i < firmManager.getDiscolsures().size()
 						? firmManager.getDiscolsures().get(i).getDisclosureDetailString()
 						: "";
+
 				String finraEmploymentDate = "";
 
 				finraEmploymentDate = decideFinraEmploymentDate(firmManager, i);
@@ -151,10 +155,30 @@ public class CSVUtil {
 
 				finraFirm = decideFinraEmploymentFirm(firmManager, i);
 
+				String category = i < firmManager.getExaminations().size()
+						? firmManager.getExaminations().get(i).getCategory()
+						: "";
+
+				String examCategory = i < firmManager.getExaminations().size()
+						? firmManager.getExaminations().get(i).getExamCategory()
+						: "";
+
+				String examName = i < firmManager.getExaminations().size()
+						? firmManager.getExaminations().get(i).getExamName()
+						: "";
+
+				String examTakenDate = i < firmManager.getExaminations().size()
+						? firmManager.getExaminations().get(i).getExamTakenDate()
+						: "";
+
+				String examScope = i < firmManager.getExaminations().size()
+						? firmManager.getExaminations().get(i).getExamScope()
+						: "";
+
 				printer.printRecord(firmManager.getMostRecentFirmId(), firmManager.getInd_source_id(),
 						firmManager.getInd_firstname(), Arrays.toString(firmManager.getInd_other_names()),
 						firmManager.getInd_lastname(), disclosureDate, disclosureType, disclosureResult, disclosureInfo,
-						finraEmploymentDate, finraFirm);
+						finraEmploymentDate, finraFirm, category, examCategory, examName, examTakenDate, examScope);
 
 			}
 
@@ -213,6 +237,9 @@ public class CSVUtil {
 				+ firmManager.getPreviousMangerEmployments().size() > longestEntry)
 			longestEntry = firmManager.getCurrentMangerEmployments().size()
 					+ firmManager.getPreviousMangerEmployments().size();
+
+		if (firmManager.getExaminations().size() > longestEntry)
+			longestEntry = firmManager.getExaminations().size();
 
 		return longestEntry;
 	}

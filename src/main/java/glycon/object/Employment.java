@@ -45,7 +45,7 @@ public abstract class Employment implements Comparable<Employment> {
 
 	public String getDetailedFirmName() {
 
-		return firmName + " (" + firmId + ")";
+		return firmName + "CRD: (" + firmId + ")";
 	}
 
 	@Override

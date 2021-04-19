@@ -9,11 +9,13 @@ import java.util.concurrent.atomic.AtomicInteger;
 import glycon.network.RequestURL;
 import glycon.object.Firm;
 import glycon.object.FirmManager;
-import glycon.parser.JSONParser;
-import glycon.utils.CSVUtil;
+import glycon.parser.json.JSONParser;
+import glycon.parser.json.JSONParserFirm;
+import glycon.parser.json.JSONParserManager;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
 import glycon.utils.ListUtil;
+import glycon.utils.csv.CSVUtil;
 
 public class GlyconFirmThread implements Runnable {
 
@@ -33,7 +35,7 @@ public class GlyconFirmThread implements Runnable {
 
 		for (int i = 0; i < managersToGet; i += 100) {
 
-			managerList.addAll(JSONParser
+			managerList.addAll(JSONParserFirm
 					.parseFirmManagerJSON(new RequestURL().getFirmManagersByRangeJSON(firm.getSecId(), 100, i)));
 
 		}
@@ -55,7 +57,7 @@ public class GlyconFirmThread implements Runnable {
 
 		}
 
-		int managersToGet = JSONParser.parseFirmHits(firmJSON);
+		int managersToGet = JSONParserFirm.parseFirmHits(firmJSON);
 
 		if (managersToGet > 0 && managersToGet < 9000) {
 
@@ -90,12 +92,12 @@ public class GlyconFirmThread implements Runnable {
 				failCount++;
 			}
 
-			int managersToGet = JSONParser.parseFirmHits(firmJSON);
+			int managersToGet = JSONParserFirm.parseFirmHits(firmJSON);
 
 			for (int i = 0; i < managersToGet; i += 100) {
 
-				managerList
-						.addAll(JSONParser.parseFirmManagerJSON(getFirmExpirenceFirms(firm, startBoundry, endBoundry)));
+				managerList.addAll(
+						JSONParserFirm.parseFirmManagerJSON(getFirmExpirenceFirms(firm, startBoundry, endBoundry)));
 
 			}
 
