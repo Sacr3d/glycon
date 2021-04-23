@@ -1,46 +1,19 @@
 package glycon.utils;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
 import glycon.object.Firm;
-import glycon.object.FirmManager;
 import glycon.object.FriendlyFirm;
 
 public class ListUtil {
 
-	public static List<Firm> createWorkingFirmList(List<String> rawFrimList, List<Firm> primeFirmList) {
+	public static <E> List<Firm> createWorkingFirmList(List<E> rawFrimList, List<Firm> primeFirmList) {
 
 		return primeFirmList.stream().filter(firm -> rawFrimList.contains(firm.getFirmId()))
 				.collect(Collectors.toList());
-
-	}
-
-	public static List<FirmManager> packFutures(List<Future<List<FirmManager>>> resultList) {
-
-		List<FirmManager> friendlyFirmList = new ArrayList<>();
-
-		for (Future<List<FirmManager>> friendlyFirmFutureList : resultList) {
-
-			try {
-				friendlyFirmFutureList.get().forEach(friendlyFirm -> {
-					if (friendlyFirm != null)
-						friendlyFirmList.add(friendlyFirm);
-
-				});
-			} catch (InterruptedException | ExecutionException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-
-		}
-
-		return friendlyFirmList;
 
 	}
 
@@ -53,24 +26,16 @@ public class ListUtil {
 		return new ArrayList<>(listCopy);
 	}
 
-	public static List<FriendlyFirm> sanatizeFriendlyList(List<Future<List<FriendlyFirm>>> resultList) {
+	public static List<FriendlyFirm> sanatizeFriendlyList(List<FriendlyFirm> finalFriendlyFirmList) {
 
 		List<FriendlyFirm> friendlyFirmList = new ArrayList<>();
 
-		for (Future<List<FriendlyFirm>> friendlyFirmFutureList : resultList) {
+		finalFriendlyFirmList.forEach(friendlyFirm -> {
+			if (friendlyFirm != null)
+				friendlyFirmList.add(friendlyFirm);
 
-			try {
-				friendlyFirmFutureList.get().forEach(friendlyFirm -> {
-					if (friendlyFirm != null)
-						friendlyFirmList.add(friendlyFirm);
+		});
 
-				});
-			} catch (InterruptedException | ExecutionException e) {
-				Thread.currentThread().interrupt();
-				e.printStackTrace();
-			}
-
-		}
 		return friendlyFirmList;
 
 	}

@@ -7,7 +7,18 @@ import glycon.utils.LoggingUtil;
 
 public class GlyconConfig {
 
+	public static boolean isParsable(String input) {
+		try {
+			Integer.parseInt(input);
+			return true;
+		} catch (final NumberFormatException e) {
+			return false;
+		}
+	}
+
 	private char mode;
+
+	private boolean skipFirendly = false;
 
 	private String fileName;
 
@@ -37,8 +48,36 @@ public class GlyconConfig {
 
 		}
 
-		System.out.print(false);
+	}
 
+	public String getFileName() {
+		return fileName;
+	}
+
+	public char getMode() {
+		return mode;
+	}
+
+	public int getThreads() {
+		return threads;
+	}
+
+	private boolean isValidArgument(String arg) {
+
+		if (arg.charAt(0) == '-') {
+
+			for (argsEnum argument : argsEnum.values()) {
+
+				if (argument.getArgs().equalsIgnoreCase(arg))
+
+					return true;
+
+			}
+
+			return false;
+		}
+
+		return true;
 	}
 
 	private void parseArgs(List<String> argsList) throws ArrayIndexOutOfBoundsException {
@@ -60,6 +99,14 @@ public class GlyconConfig {
 
 				break;
 
+			case "-as":
+
+				fileOverride = true;
+
+				skipFirendly = true;
+
+				break;
+
 			case "-t":
 
 				if (isParsable(argsList.get(i + 1))) {
@@ -76,11 +123,29 @@ public class GlyconConfig {
 
 		}
 
-		if (fileOverride)
-			mode = 'a';
-		else
+		if (fileOverride) {
+			if (skipFirendly)
+				mode = 's';
+			else
+				mode = 'a';
+
+			threads = 8;
+
+		} else
 			mode = 'f';
 
+	}
+
+	public void setFileName(String fileName) {
+		this.fileName = fileName;
+	}
+
+	public void setMode(char mode) {
+		this.mode = mode;
+	}
+
+	public void setThreads(int threads) {
+		this.threads = threads;
 	}
 
 	private boolean validateArguments(List<String> argsList) {
@@ -97,55 +162,12 @@ public class GlyconConfig {
 		return true;
 	}
 
-	private boolean isValidArgument(String arg) {
-
-		if (arg.charAt(0) == '-') {
-
-			for (argsEnum argument : argsEnum.values()) {
-
-				if (argument.getArgs().equalsIgnoreCase(arg))
-
-					return true;
-
-			}
-
-			return false;
-		}
-
-		return true;
+	public boolean isSkipFirendly() {
+		return skipFirendly;
 	}
 
-	public char getMode() {
-		return mode;
-	}
-
-	public void setMode(char mode) {
-		this.mode = mode;
-	}
-
-	public String getFileName() {
-		return fileName;
-	}
-
-	public void setFileName(String fileName) {
-		this.fileName = fileName;
-	}
-
-	public int getThreads() {
-		return threads;
-	}
-
-	public void setThreads(int threads) {
-		this.threads = threads;
-	}
-
-	public static boolean isParsable(String input) {
-		try {
-			Integer.parseInt(input);
-			return true;
-		} catch (final NumberFormatException e) {
-			return false;
-		}
+	public void setSkipFirendly(boolean skipFirendly) {
+		this.skipFirendly = skipFirendly;
 	}
 
 }

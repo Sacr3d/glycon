@@ -6,15 +6,15 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-import glycon.object.FirmManager;
-import glycon.object.FirmManagerIn;
-import glycon.object.PreviousEmployment;
 import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
 import glycon.object.Examination;
+import glycon.object.FirmManager;
+import glycon.object.FirmManagerIn;
+import glycon.object.PreviousEmployment;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
-import glycon.utils.csv.CSVUtil;
+import glycon.utils.csv.CSVUtilManager;
 
 public class GlyconFirmFileThread implements Runnable {
 
@@ -33,7 +33,7 @@ public class GlyconFirmFileThread implements Runnable {
 
 		primeFirmList.forEach(firmFile -> {
 
-			List<FirmManagerIn> firmManagerList = CSVUtil.generateManagerInformation(firmFile);
+			List<FirmManagerIn> firmManagerList = CSVUtilManager.generateManagerInformation(firmFile);
 
 			for (FirmManagerIn firmManager : firmManagerList) {
 
@@ -43,7 +43,7 @@ public class GlyconFirmFileThread implements Runnable {
 
 					sortObjectData(firmManager);
 
-					CSVUtil.createManagerFile(firmManager);
+					CSVUtilManager.createManagerFile(firmManager);
 
 				}
 			}
@@ -52,36 +52,6 @@ public class GlyconFirmFileThread implements Runnable {
 
 		});
 
-	}
-
-	private void sortObjectData(FirmManager firmManager) {
-
-		sortDisclosureInfo(firmManager);
-
-		sortCurrentEmploymentInfo(firmManager);
-
-		sortPreviousEmployment(firmManager);
-
-		sortExaminationInfo(firmManager);
-
-	}
-
-	private void sortExaminationInfo(FirmManager firmManager) {
-		List<Examination> uniqueExaminations = firmManager.getExaminations().stream().distinct()
-				.collect(Collectors.toList());
-
-		Collections.sort(uniqueExaminations, Collections.reverseOrder());
-
-		firmManager.setExaminations(uniqueExaminations);
-	}
-
-	private void sortPreviousEmployment(FirmManager firmManager) {
-		List<PreviousEmployment> uniquePreviousEmployments = firmManager.getPreviousMangerEmployments().stream()
-				.distinct().collect(Collectors.toList());
-
-		Collections.sort(uniquePreviousEmployments, Collections.reverseOrder());
-
-		firmManager.setPreviousMangerEmployments(uniquePreviousEmployments);
 	}
 
 	private void sortCurrentEmploymentInfo(FirmManager firmManager) {
@@ -100,6 +70,36 @@ public class GlyconFirmFileThread implements Runnable {
 		Collections.sort(uniqueDisclosures, Collections.reverseOrder());
 
 		firmManager.setDiscolsures(uniqueDisclosures);
+	}
+
+	private void sortExaminationInfo(FirmManager firmManager) {
+		List<Examination> uniqueExaminations = firmManager.getExaminations().stream().distinct()
+				.collect(Collectors.toList());
+
+		Collections.sort(uniqueExaminations, Collections.reverseOrder());
+
+		firmManager.setExaminations(uniqueExaminations);
+	}
+
+	private void sortObjectData(FirmManager firmManager) {
+
+		sortDisclosureInfo(firmManager);
+
+		sortCurrentEmploymentInfo(firmManager);
+
+		sortPreviousEmployment(firmManager);
+
+		sortExaminationInfo(firmManager);
+
+	}
+
+	private void sortPreviousEmployment(FirmManager firmManager) {
+		List<PreviousEmployment> uniquePreviousEmployments = firmManager.getPreviousMangerEmployments().stream()
+				.distinct().collect(Collectors.toList());
+
+		Collections.sort(uniquePreviousEmployments, Collections.reverseOrder());
+
+		firmManager.setPreviousMangerEmployments(uniquePreviousEmployments);
 	}
 
 }

@@ -2,15 +2,15 @@ package glycon.thread;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.Callable;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.network.RequestURL;
 import glycon.object.FriendlyFirm;
-import glycon.parser.json.JSONParser;
 import glycon.parser.json.JSONParserFirm;
+import glycon.utils.ListUtil;
+import glycon.utils.csv.CSVUtilFriendlyFirm;
 
-public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
+public class GlyconFriendlyFirmThread implements Runnable {
 
 	private List<String> rawFirmList;
 	private AtomicInteger atomicInt;
@@ -21,7 +21,7 @@ public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
 	}
 
 	@Override
-	public List<FriendlyFirm> call() throws Exception {
+	public void run() {
 
 		List<FriendlyFirm> finalFriendlyFirmList = new ArrayList<>();
 
@@ -40,13 +40,15 @@ public class GlyconFriendlyFirmThread implements Callable<List<FriendlyFirm>> {
 
 			FriendlyFirm friendlyFirm = JSONParserFirm.parseFriendlyFirmJSON(firmJSON);
 
-			finalFriendlyFirmList.add(friendlyFirm);
+			if (friendlyFirm != null && friendlyFirm.getFirmId().equals(firmId))
+				finalFriendlyFirmList.add(friendlyFirm);
 
 			atomicInt.addAndGet(1);
 
 		});
 
-		return finalFriendlyFirmList;
+		CSVUtilFriendlyFirm.createCSVFile(ListUtil.sanatizeFriendlyList(finalFriendlyFirmList));
+
 	}
 
 }

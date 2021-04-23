@@ -15,35 +15,6 @@ import glycon.object.FriendlyFirm;
 
 public class JSONParserFirm {
 
-	public static FriendlyFirm parseFriendlyFirmJSON(String firmJSON) {
-
-		ObjectMapper objectMapper = new ObjectMapper();
-
-		try {
-
-			JsonNode jsonNode = objectMapper.readTree(JSONParser.sanitizeFinraJSON(firmJSON));
-			JsonNode locatedNode = jsonNode.findPath("_source");
-
-			if (!locatedNode.isMissingNode()) {
-
-				String firmName = JSONParser.getFeildAsString(locatedNode, "firm_name");
-				String firmId = JSONParser.getFeildAsString(locatedNode, "firm_source_id");
-
-				String firmSec = JSONParser.hasTagInNode(locatedNode, "firm_bd_full_sec_number")
-						? JSONParser.getFeildAsString(locatedNode, "firm_bd_full_sec_number")
-						: findAlternativeTag(locatedNode);
-
-				return new FriendlyFirm(firmName, firmId, firmSec);
-
-			}
-		} catch (JsonProcessingException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-
-		return null;
-	}
-
 	static String findAlternativeTag(JsonNode locatedNode) {
 
 		return JSONParser.hasTagInNode(locatedNode, "firm_ia_full_sec_number")
@@ -103,6 +74,39 @@ public class JSONParserFirm {
 
 		return Collections.emptyList();
 
+	}
+
+	public static FriendlyFirm parseFriendlyFirmJSON(String firmJSON) {
+
+		ObjectMapper objectMapper = new ObjectMapper();
+
+		try {
+
+			JsonNode jsonNode = objectMapper.readTree(JSONParser.sanitizeFinraJSON(firmJSON));
+			JsonNode locatedNode = jsonNode.findPath("_source");
+
+			if (!locatedNode.isMissingNode()) {
+
+				String firmName = JSONParser.getFeildAsString(locatedNode, "firm_name");
+				String firmId = JSONParser.getFeildAsString(locatedNode, "firm_source_id");
+
+				String firmSec = JSONParser.hasTagInNode(locatedNode, "firm_bd_full_sec_number")
+						? JSONParser.getFeildAsString(locatedNode, "firm_bd_full_sec_number")
+						: findAlternativeTag(locatedNode);
+
+				return new FriendlyFirm(firmName, firmId, firmSec);
+
+			}
+		} catch (JsonProcessingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		return null;
+	}
+	
+	private JSONParserFirm() {
+		throw new IllegalStateException("Utility class");
 	}
 
 }

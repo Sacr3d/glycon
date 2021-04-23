@@ -2,7 +2,7 @@ package glycon;
 
 public enum argsEnum {
 
-	AF("-af"), F("-f"), T("-t");
+	AF("-af"), F("-f"), T("-t"), AS("-aS");
 
 	private final String arg;
 

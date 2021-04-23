@@ -6,6 +6,7 @@ public class FriendlyFirm {
 
 	private String firmName;
 	private String firmSec;
+
 	public FriendlyFirm(String firmName, String firmId, String firmSec) {
 
 		this.firmId = firmId;

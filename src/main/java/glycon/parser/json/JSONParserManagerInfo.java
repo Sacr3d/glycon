@@ -16,28 +16,6 @@ import glycon.object.PreviousEmployment;
 
 public class JSONParserManagerInfo {
 
-	static void parseManagerPreviousEmployments(FirmManager firmManager, ObjectMapper objectMapper,
-			JsonNode masterJsonNode) throws IOException {
-
-		JsonNode locatedNode = masterJsonNode.findPath("previousEmployments");
-
-		List<JsonNode> locatedNodes = split(locatedNode.toString());
-
-		locatedNode = masterJsonNode.findPath("previousIAEmployments");
-
-		locatedNodes.addAll(split(locatedNode.toString()));
-
-		for (JsonNode jsonNode : locatedNodes) {
-
-			PreviousEmployment previousEmployments = objectMapper.treeToValue(jsonNode, PreviousEmployment.class);
-
-			previousEmployments.setRegistrationBeginDateObject();
-
-			firmManager.getPreviousMangerEmployments().add(previousEmployments);
-
-		}
-	}
-
 	static void parseManagerCurrentEmployments(FirmManager firmManager, ObjectMapper objectMapper,
 			JsonNode masterJsonNode) throws IOException {
 
@@ -81,12 +59,6 @@ public class JSONParserManagerInfo {
 		}
 	}
 
-	public static List<JsonNode> split(final String string) throws IOException {
-		final JsonNode jsonNode = new ObjectMapper().readTree(string);
-		return StreamSupport.stream(jsonNode.spliterator(), false) // Stream
-				.collect(Collectors.toList()); // and collect as a List
-	}
-
 	public static void parseManagerExaminations(FirmManager firmManager, ObjectMapper objectMapper,
 			JsonNode masterJsonNode) throws IOException {
 
@@ -110,6 +82,38 @@ public class JSONParserManagerInfo {
 
 			}
 		}
+	}
+
+	static void parseManagerPreviousEmployments(FirmManager firmManager, ObjectMapper objectMapper,
+			JsonNode masterJsonNode) throws IOException {
+
+		JsonNode locatedNode = masterJsonNode.findPath("previousEmployments");
+
+		List<JsonNode> locatedNodes = split(locatedNode.toString());
+
+		locatedNode = masterJsonNode.findPath("previousIAEmployments");
+
+		locatedNodes.addAll(split(locatedNode.toString()));
+
+		for (JsonNode jsonNode : locatedNodes) {
+
+			PreviousEmployment previousEmployments = objectMapper.treeToValue(jsonNode, PreviousEmployment.class);
+
+			previousEmployments.setRegistrationBeginDateObject();
+
+			firmManager.getPreviousMangerEmployments().add(previousEmployments);
+
+		}
+	}
+
+	public static List<JsonNode> split(final String string) throws IOException {
+		final JsonNode jsonNode = new ObjectMapper().readTree(string);
+		return StreamSupport.stream(jsonNode.spliterator(), false) // Stream
+				.collect(Collectors.toList()); // and collect as a List
+	}
+
+	private JSONParserManagerInfo() {
+		throw new IllegalStateException("Utility class");
 	}
 
 }

@@ -12,8 +12,7 @@ public class ProgressUtil {
 	public static <E> void displayProgressBar(AtomicInteger atomicInt, List<E> frimList,
 			ExecutorService executorService, String message) {
 
-		try (ProgressBar pb = new ProgressBar(message, frimList.size(),
-				ProgressBarStyle.ASCII)) {
+		try (ProgressBar pb = new ProgressBar(message, frimList.size(), ProgressBarStyle.ASCII)) {
 
 			while (!executorService.isTerminated()) {
 
@@ -22,6 +21,10 @@ public class ProgressUtil {
 			}
 
 		}
+	}
+
+	private ProgressUtil() {
+		throw new IllegalStateException("Utility class");
 	}
 
 }

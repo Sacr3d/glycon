@@ -1,22 +1,32 @@
 package glycon.parser.json;
 
 import java.io.IOException;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.StreamSupport;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import glycon.object.CurrentEmployment;
-import glycon.object.Disclosure;
 import glycon.object.FirmManager;
-import glycon.object.PreviousEmployment;
 import glycon.parser.PDFParser;
 import glycon.utils.LoggingUtil;
 
 public class JSONParserManager {
+
+	private static void parseFinraJSON(FirmManager firmManager, ObjectMapper objectMapper) {
+		try {
+
+			JsonNode masterJsonNode = objectMapper
+					.readTree(snantizeManagerJson(JSONParser.sanitizeFinraJSON(firmManager.getFirmFinraJSON())));
+
+			parseReleventData(firmManager, objectMapper, masterJsonNode);
+
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			LoggingUtil.warn("Finra firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
+
+		}
+	}
 
 	public static void parseManagerJSON(FirmManager firmManager) {
 
@@ -37,21 +47,6 @@ public class JSONParserManager {
 
 		} else {
 			parseSecJSON(firmManager, objectMapper);
-		}
-	}
-
-	private static void parseSecJSON(FirmManager firmManager, ObjectMapper objectMapper) {
-		try {
-
-			JsonNode masterJsonNode = objectMapper.readTree(snantizeManagerJson(firmManager.getFirmSecJSON()));
-
-			parseReleventData(firmManager, objectMapper, masterJsonNode);
-
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			LoggingUtil.warn("SEC firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
-
 		}
 	}
 
@@ -82,18 +77,17 @@ public class JSONParserManager {
 
 	}
 
-	private static void parseFinraJSON(FirmManager firmManager, ObjectMapper objectMapper) {
+	private static void parseSecJSON(FirmManager firmManager, ObjectMapper objectMapper) {
 		try {
 
-			JsonNode masterJsonNode = objectMapper
-					.readTree(snantizeManagerJson(JSONParser.sanitizeFinraJSON(firmManager.getFirmFinraJSON())));
+			JsonNode masterJsonNode = objectMapper.readTree(snantizeManagerJson(firmManager.getFirmSecJSON()));
 
 			parseReleventData(firmManager, objectMapper, masterJsonNode);
 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			LoggingUtil.warn("Finra firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
+			LoggingUtil.warn("SEC firm manager : " + firmManager.getInd_source_id() + " could not be parsed");
 
 		}
 	}
@@ -101,6 +95,10 @@ public class JSONParserManager {
 	private static String snantizeManagerJson(String firmJSON) {
 
 		return firmJSON.replace("\"{", "{").replace("}\"", "}").replace("\\\"", "\"").replace("\\\\\"", "\\\"");
+	}
+	
+	private JSONParserManager() {
+		throw new IllegalStateException("Utility class");
 	}
 
 }

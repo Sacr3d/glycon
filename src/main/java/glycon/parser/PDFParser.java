@@ -6,8 +6,6 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.codec.binary.StringUtils;
-import org.apache.commons.collections4.functors.ForClosure;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
@@ -19,63 +17,23 @@ public class PDFParser {
 
 	private static final String ABOUT_THIS_BROKER_CHECK_REPORT = "About this BrokerCheck Report";
 
-	public static void parsePDFInfoForManager(FirmManager firmManager) {
+	private static List<Integer> findStartIndexs(String textString, String word) {
 
-		byte[] pdfBytes = getPDF(firmManager);
+		List<Integer> indexes = new ArrayList<>();
+		String lowerCaseTextString = textString.toLowerCase();
+		String lowerCaseWord = word.toLowerCase();
+		int wordLength = 0;
 
-		if (pdfBytes.length > 1) {
-
-			InputStream input = new ByteArrayInputStream(pdfBytes);
-
-			try (PDDocument doc = PDDocument.load(input)) {
-
-				PDFTextStripper stripper = new PDFTextStripper();
-
-				stripper.setSortByPosition(true);
-
-				String pdfTextString = stripper.getText(doc);
-
-				parseDisclosures(firmManager, pdfTextString);
-
-			} catch (IOException e) {
-				e.printStackTrace();
+		int index = 0;
+		while (index != -1) {
+			index = lowerCaseTextString.indexOf(lowerCaseWord, index + wordLength); // Slight improvement
+			if (index != -1) {
+				indexes.add(index);
 			}
+			wordLength = word.length();
 		}
+		return indexes;
 
-	}
-
-	private static void parseDisclosures(FirmManager firmManager, String pdfTextString) {
-
-		String disclosureTextString = sanatizePDF(pdfTextString);
-
-		List<String> disclosureStringList = generateDisclosureList(disclosureTextString);
-
-		for (String disclosureString : disclosureStringList) {
-
-			int splitIndex = disclosureString.indexOf("\r\n");
-
-			Disclosure legacyDisclosure = new Disclosure();
-
-			legacyDisclosure.setDisclosureType("Legacy PDF");
-
-			legacyDisclosure.setDisclosureResolution(disclosureString.substring(0, splitIndex));
-
-			legacyDisclosure.setDisclosureDetailString(prettyDetail(disclosureString, splitIndex));
-
-			legacyDisclosure.setEventDate("00/00/0000");
-
-			legacyDisclosure.setEventDateObject();
-
-			firmManager.getDiscolsures().add(legacyDisclosure);
-
-		}
-
-	}
-
-	private static String prettyDetail(String disclosureString, int splitIndex) {
-
-		String baseString = disclosureString.substring(splitIndex, disclosureString.length());
-		return baseString.replaceFirst("\r\n", "");
 	}
 
 	private static List<String> generateDisclosureList(String disclosureTextString) {
@@ -112,45 +70,79 @@ public class PDFParser {
 
 	}
 
-	private static List<Integer> findStartIndexs(String textString, String word) {
+	private static byte[] getPDF(FirmManager firmManager) {
+		byte[] managerPDF = new byte[0];
 
-		List<Integer> indexes = new ArrayList<>();
-		String lowerCaseTextString = textString.toLowerCase();
-		String lowerCaseWord = word.toLowerCase();
-		int wordLength = 0;
+		int failCount = 0;
 
-		int index = 0;
-		while (index != -1) {
-			index = lowerCaseTextString.indexOf(lowerCaseWord, index + wordLength); // Slight improvement
-			if (index != -1) {
-				indexes.add(index);
-			}
-			wordLength = word.length();
+		while (managerPDF.length < 1 && failCount < 5) {
+
+			managerPDF = new RequestURL().getPDF(firmManager.getInd_source_id());
+
+			failCount++;
+
 		}
-		return indexes;
+
+		return managerPDF;
+	}
+
+	private static void parseDisclosures(FirmManager firmManager, String pdfTextString) {
+
+		String disclosureTextString = sanatizePDF(pdfTextString);
+
+		List<String> disclosureStringList = generateDisclosureList(disclosureTextString);
+
+		for (String disclosureString : disclosureStringList) {
+
+			int splitIndex = disclosureString.indexOf("\r\n");
+
+			Disclosure legacyDisclosure = new Disclosure();
+
+			legacyDisclosure.setDisclosureType("Legacy PDF");
+
+			legacyDisclosure.setDisclosureResolution(disclosureString.substring(0, splitIndex));
+
+			legacyDisclosure.setDisclosureDetailString(prettyDetail(disclosureString, splitIndex));
+
+			legacyDisclosure.setEventDate("00/00/0000");
+
+			legacyDisclosure.setEventDateObject();
+
+			firmManager.getDiscolsures().add(legacyDisclosure);
+
+		}
 
 	}
 
-	private static String sanatizePDF(String pdfTextString) {
+	public static void parsePDFInfoForManager(FirmManager firmManager) {
 
-		int primeIndex = pdfTextString.indexOf("Disclosure 1 of ");
+		byte[] pdfBytes = getPDF(firmManager);
 
-		String disclosureText = pdfTextString.substring(primeIndex);
+		if (pdfBytes.length > 1) {
 
-		disclosureText = removeTailingText(disclosureText);
+			InputStream input = new ByteArrayInputStream(pdfBytes);
 
-		disclosureText = removeCopyrightAndWebsite(disclosureText);
+			try (PDDocument doc = PDDocument.load(input)) {
 
-		return disclosureText;
+				PDFTextStripper stripper = new PDFTextStripper();
+
+				stripper.setSortByPosition(true);
+
+				String pdfTextString = stripper.getText(doc);
+
+				parseDisclosures(firmManager, pdfTextString);
+
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+
 	}
 
-	private static String removeCopyrightAndWebsite(String disclosureString) {
+	private static String prettyDetail(String disclosureString, int splitIndex) {
 
-		disclosureString = disclosureString.replace("www.finra.org/brokercheck\r\n", "");
-
-		disclosureString = removeCopyright(disclosureString);
-
-		return disclosureString;
+		String baseString = disclosureString.substring(splitIndex, disclosureString.length());
+		return baseString.replaceFirst("\r\n", "");
 	}
 
 	private static String removeCopyright(String disclosureString) {
@@ -181,6 +173,15 @@ public class PDFParser {
 		return resultString.toString();
 	}
 
+	private static String removeCopyrightAndWebsite(String disclosureString) {
+
+		disclosureString = disclosureString.replace("www.finra.org/brokercheck\r\n", "");
+
+		disclosureString = removeCopyright(disclosureString);
+
+		return disclosureString;
+	}
+
 	private static String removeTailingText(String disclosureText) {
 		if (disclosureText.contains(ABOUT_THIS_BROKER_CHECK_REPORT)) {
 
@@ -192,20 +193,17 @@ public class PDFParser {
 		return disclosureText;
 	}
 
-	private static byte[] getPDF(FirmManager firmManager) {
-		byte[] managerPDF = new byte[0];
+	private static String sanatizePDF(String pdfTextString) {
 
-		int failCount = 0;
+		int primeIndex = pdfTextString.indexOf("Disclosure 1 of ");
 
-		while (managerPDF.length < 1 && failCount < 5) {
+		String disclosureText = pdfTextString.substring(primeIndex);
 
-			managerPDF = new RequestURL().getPDF(firmManager.getInd_source_id());
+		disclosureText = removeTailingText(disclosureText);
 
-			failCount++;
+		disclosureText = removeCopyrightAndWebsite(disclosureText);
 
-		}
-
-		return managerPDF;
+		return disclosureText;
 	}
 
 	private PDFParser() {

@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 
@@ -23,6 +24,64 @@ public class RequestURL {
 	private static final String MASKED_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36";
 
 	private static final String POLITE_USER_AGENT = "glycon-crawler @ Southampton University (ms2u19@soton.ac.uk)";
+
+	private static HttpURLConnection prepareConnection(String url, String userAgent, int requestTime)
+			throws InterruptedException, IOException {
+
+		URL urlObj;
+		Thread.sleep(requestTime);
+
+		urlObj = new URL(url);
+
+		HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
+
+		// optional default is GET
+		con.setRequestMethod("GET");
+
+		// Set timeout
+		con.setConnectTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		con.setReadTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
+
+		// add request header
+		con.setRequestProperty("User-Agent", userAgent);
+		return con;
+	}
+
+	public static byte[] readFully(String url, String userAgent, int requestTime) {
+
+		try {
+
+			Thread.sleep(requestTime);
+
+			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
+
+			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
+
+				byte[] buffer = new byte[8192];
+
+				int bytesRead;
+				while ((bytesRead = is.read(buffer)) != -1) {
+					baos.write(buffer, 0, bytesRead);
+				}
+
+				return baos.toByteArray();
+
+			}
+
+		} catch (IOException e) {
+
+			return new byte[0];
+
+		} catch (InterruptedException e) {
+
+			Thread.currentThread().interrupt();
+
+			return new byte[0];
+
+		}
+
+	}
 
 	public String getAdviserinfoJSON(String managerCRD) {
 
@@ -92,19 +151,19 @@ public class RequestURL {
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
+	public byte[] getPDF(String firmID) {
+
+		String url = "https://files.brokercheck.finra.org/individual/individual_" + firmID + ".pdf";
+
+		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+	}
+
 	public String probeFirmHits(String firmID) {
 
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + INDIVIDUAL_FIRM + firmID
 				+ "&hl=true&includePrevious=true&json.wrf=angular.callbacks._0&nrows=0&r=25&sort=score+desc&wt=json";
 
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
-	}
-
-	public byte[] getPDF(String firmID) {
-
-		String url = "https://files.brokercheck.finra.org/individual/individual_" + firmID + ".pdf";
-
-		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
 	private String sendAndGetResponse(String url, String userAgent, int requestTime) {
@@ -143,64 +202,6 @@ public class RequestURL {
 
 		}
 
-	}
-
-	public static byte[] readFully(String url, String userAgent, int requestTime) {
-
-		try {
-
-			Thread.sleep(requestTime);
-
-			HttpURLConnection con = prepareConnection(url, userAgent, requestTime);
-
-			try (InputStream is = con.getInputStream(); ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
-
-				byte[] buffer = new byte[8192];
-
-				int bytesRead;
-				while ((bytesRead = is.read(buffer)) != -1) {
-					baos.write(buffer, 0, bytesRead);
-				}
-
-				return baos.toByteArray();
-
-			}
-
-		} catch (IOException e) {
-
-			return new byte[0];
-
-		} catch (InterruptedException e) {
-
-			Thread.currentThread().interrupt();
-
-			return new byte[0];
-
-		}
-
-	}
-
-	private static HttpURLConnection prepareConnection(String url, String userAgent, int requestTime)
-			throws InterruptedException, IOException {
-
-		URL urlObj;
-		Thread.sleep(requestTime);
-
-		urlObj = new URL(url);
-
-		HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
-
-		// optional default is GET
-		con.setRequestMethod("GET");
-
-		// Set timeout
-		con.setConnectTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
-
-		con.setReadTimeout(RequestTimeEnum.CONNECTION_TIMEOUT.getValue());
-
-		// add request header
-		con.setRequestProperty("User-Agent", userAgent);
-		return con;
 	}
 
 }

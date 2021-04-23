@@ -5,25 +5,16 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
-import glycon.object.Firm;
-import glycon.object.FriendlyFirm;
-import glycon.thread.GlyconFirmFileThread;
-import glycon.thread.GlyconFirmThread;
-import glycon.thread.GlyconFriendlyFirmThread;
 import glycon.utils.ASCIIArtUtil;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
-import glycon.utils.ListUtil;
 import glycon.utils.LoggingUtil;
-import glycon.utils.ProgressUtil;
 import glycon.utils.csv.CSVUtil;
+import glycon.utils.csv.CSVUtilFriendlyFirm;
+import glycon.utils.csv.CSVUtilManager;
 
 public class GlyconSystem {
 
@@ -31,6 +22,61 @@ public class GlyconSystem {
 
 	public GlyconSystem(GlyconConfig glyconConfig) {
 		this.setGlyconConfig(glyconConfig);
+	}
+
+	private void acceptTerms() throws IOException {
+
+		LoggingUtil.msg("You are about to SCRAPE THE WHOLE FINRA AND SEC DATABASE");
+		LoggingUtil.msg("Results may be long and unpridictable");
+		LoggingUtil.msg("ARE YOU SURE YOU WOULD LIKE TO DO THIS?");
+		LoggingUtil.msg("YES (Y)");
+
+		if ((System.in.read() != 'Y'))
+			Glycon.exitError();
+
+		LoggingUtil.msg("YOU MUST NOT USE THIS PROGRAM FOR COMMERCIAL USE");
+		LoggingUtil.msg("PLEASE PROVIDE AN EMAIL TO ATTACH TO REQUEST HEADERS");
+
+	}
+
+	void createDirectories() {
+		try {
+
+			FileUtil.createRequiredDirectories();
+
+		} catch (IOException e) {
+
+			LoggingUtil.warn("Could not create required directories, need access");
+
+			Glycon.exitError();
+
+		}
+	}
+
+	public GlyconConfig getGlyconConfig() {
+		return glyconConfig;
+	}
+
+	void packFinalList(List<String> rawFrimList) {
+
+		List<File> finalFirmFileList = FileUtil.generateFileInformation(rawFrimList);
+
+		List<File> finalManagerFileList = new ArrayList<>();
+
+		for (File firmFile : finalFirmFileList) {
+
+			CSVUtilManager.generateManagerInformation(firmFile).forEach(firm ->
+
+			finalManagerFileList.add(new File(DirEnum.MANAGER_PATH.toString() + firm.getInd_source_id() + ".csv")));
+
+		}
+
+		List<File> uniqueManagerFiles = finalManagerFileList.stream().distinct().collect(Collectors.toList());
+
+		Collections.sort(uniqueManagerFiles);
+
+		CSVUtil.createFinalList(uniqueManagerFiles);
+
 	}
 
 	void printWelcome() {
@@ -49,170 +95,6 @@ public class GlyconSystem {
 
 	}
 
-	void packFinalList(List<String> rawFrimList) {
-
-		List<File> finalFirmFileList = FileUtil.generateFileInformation(rawFrimList);
-
-		List<File> finalManagerFileList = new ArrayList<>();
-
-		for (File firmFile : finalFirmFileList) {
-
-			CSVUtil.generateManagerInformation(firmFile).forEach(firm ->
-
-			finalManagerFileList.add(new File(DirEnum.MANAGER_PATH.toString() + firm.getInd_source_id() + ".csv")));
-
-		}
-
-		List<File> uniqueManagerFiles = finalManagerFileList.stream().distinct().collect(Collectors.toList());
-
-		Collections.sort(uniqueManagerFiles);
-
-		CSVUtil.createFinalList(uniqueManagerFiles);
-
-	}
-
-	void createDirectories() {
-		try {
-
-			FileUtil.createRequiredDirectories();
-
-		} catch (IOException e) {
-
-			LoggingUtil.warn("Could not create required directories, need access");
-
-			Glycon.exitError();
-
-		}
-	}
-
-	void workOnFirmBrokerList(List<String> rawFrimList) {
-
-		List<File> primeFirmFileList = FileUtil.generateFileInformation(rawFrimList);
-
-		if (!primeFirmFileList.isEmpty()) {
-
-			List<List<File>> threadFirmFileList = ListUtil.splitList(glyconConfig.getThreads(), primeFirmFileList);
-
-			AtomicInteger atomicInt = new AtomicInteger(0);
-
-			ExecutorService executorService = Executors.newFixedThreadPool(glyconConfig.getThreads());
-
-			for (List<File> firmList : threadFirmFileList) {
-
-				executorService.submit(new GlyconFirmFileThread(firmList, atomicInt));
-
-			}
-
-			try {
-
-				executorService.shutdown();
-
-				executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
-
-				ProgressUtil.displayProgressBar(atomicInt, primeFirmFileList, executorService,
-						"Gathering information on managers from firms");
-
-			} catch (InterruptedException e) {
-				Thread.currentThread().interrupt();
-			}
-
-		}
-
-	}
-
-	void runThreadedFriendlyFirmService(List<String> workingFirmList, List<Future<List<FriendlyFirm>>> resultList,
-			List<List<String>> threadRawFirmList) {
-
-		AtomicInteger atomicInt = new AtomicInteger(0);
-
-		ExecutorService executorService = Executors.newFixedThreadPool(glyconConfig.getThreads());
-
-		for (List<String> rawFirmList : threadRawFirmList) {
-
-			resultList.add(executorService.submit(new GlyconFriendlyFirmThread(rawFirmList, atomicInt)));
-
-		}
-
-		try {
-
-			executorService.shutdown();
-
-			executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
-
-			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService,
-					"Creating friendly names for firms");
-
-		} catch (InterruptedException e) {
-			Thread.currentThread().interrupt();
-		}
-	}
-
-	void createBrokersWithDisclosuresList(List<String> rawFrimList) {
-
-		List<Firm> primeFirmList = CSVUtil.generateFirmInformation();
-
-		List<Firm> workingFirmList = ListUtil.createWorkingFirmList(rawFrimList, primeFirmList);
-
-		List<List<Firm>> threadFirmList = ListUtil.splitList(glyconConfig.getThreads(), workingFirmList);
-
-		AtomicInteger atomicInt = new AtomicInteger(0);
-
-		ExecutorService executorService = Executors.newFixedThreadPool(glyconConfig.getThreads());
-
-		for (List<Firm> firmList : threadFirmList) {
-
-			executorService.submit(new GlyconFirmThread(firmList, atomicInt));
-
-		}
-
-		try {
-
-			executorService.shutdown();
-
-			executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
-
-			ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService,
-					"Gathering managers from firms");
-
-		} catch (InterruptedException e) {
-			Thread.currentThread().interrupt();
-		}
-
-	}
-
-	void createFriendlyList(List<String> rawFrimList) {
-
-		List<String> friendlyFirmPrevious = FileUtil.hasFriendlyFirmList() ? CSVUtil.generateFriendlyFirmIdList()
-				: null;
-
-		List<Future<List<FriendlyFirm>>> resultList = Collections.synchronizedList(new ArrayList<>());
-
-		List<String> workingFirmList = null;
-
-		if (friendlyFirmPrevious != null) {
-
-			workingFirmList = ListUtil.removeDuplicates(rawFrimList, friendlyFirmPrevious);
-
-		} else {
-
-			workingFirmList = new ArrayList<>(rawFrimList);
-
-		}
-
-		List<List<String>> threadRawFirmList = friendlyFirmPrevious == null
-				? ListUtil.splitList(glyconConfig.getThreads(), rawFrimList)
-				: ListUtil.splitList(glyconConfig.getThreads(), workingFirmList);
-
-		runThreadedFriendlyFirmService(workingFirmList, resultList, threadRawFirmList);
-
-		CSVUtil.createCSVFile(ListUtil.sanatizeFriendlyList(resultList));
-
-	}
-
-	public GlyconConfig getGlyconConfig() {
-		return glyconConfig;
-	}
-
 	public void setGlyconConfig(GlyconConfig glyconConfig) {
 		this.glyconConfig = glyconConfig;
 	}
@@ -223,17 +105,15 @@ public class GlyconSystem {
 
 		createDirectories();
 
-		if (glyconConfig.getMode() == 'f') {
+		List<String> rawFrimList = null;
 
+		switch (glyconConfig.getMode()) {
+		case 'f':
 			try {
 
-				List<String> rawFrimList = FileUtil.parseFirmsInTextFile(glyconConfig.getFileName());
+				rawFrimList = FileUtil.parseFirmsInTextFile(glyconConfig.getFileName());
 
-				createFriendlyList(rawFrimList);
-
-				createBrokersWithDisclosuresList(rawFrimList);
-
-				workOnFirmBrokerList(rawFrimList);
+				runCoreComponents(rawFrimList);
 
 				packFinalList(rawFrimList);
 
@@ -244,14 +124,42 @@ public class GlyconSystem {
 				Glycon.exitError();
 			}
 
-		} else if (glyconConfig.getMode() == 'a') {
+			break;
+		case 'a':
+			try {
+				acceptTerms();
 
-		} else {
+			} catch (IOException e) {
+
+				LoggingUtil.warn("Input error exiting");
+
+				Glycon.exitError();
+			}
+
+			rawFrimList = IntStream.range(1, 9999999).boxed().map(n -> n.toString()).collect(Collectors.toList());
+
+			runCoreComponents(rawFrimList);
+
+			packFinalList(FileUtil.getAllManagerFiles());
+
+			break;
+		case 's':
+
+			rawFrimList = CSVUtilFriendlyFirm.generateFriendlyFirmIdList();
+
+			runCoreComponents(rawFrimList);
+
+			packFinalList(rawFrimList);
+
+			break;
+
+		default:
 
 			LoggingUtil.warn("Could not find mode: " + glyconConfig.getMode());
 
 			Glycon.exitError();
 
+			break;
 		}
 
 		try {
@@ -266,6 +174,15 @@ public class GlyconSystem {
 			Glycon.exitError();
 		}
 
+	}
+
+	private void runCoreComponents(List<String> rawFrimList) {
+
+		GlyconSystemYielder.createFriendlyList(rawFrimList, glyconConfig.getThreads());
+
+		GlyconSystemYielder.createBrokersWithDisclosuresList(rawFrimList, glyconConfig.getThreads());
+
+		GlyconSystemYielder.workOnFirmBrokerList(rawFrimList, glyconConfig.getThreads());
 	}
 
 }

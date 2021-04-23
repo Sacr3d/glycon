@@ -19,8 +19,21 @@ public class Examination implements Comparable<Examination> {
 
 	protected Date examDateTakenDateObject;
 
-	public Date getExamDateTakenDateObject() {
-		return examDateTakenDateObject;
+	@Override
+	public int compareTo(Examination o) {
+		return o != null ? getExamDateTakenDateObject().compareTo(o.getExamDateTakenDateObject()) : 0;
+
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+
+		if (obj instanceof Examination) {
+			return ((((Examination) obj).examName.contentEquals(examName))
+					&& (((Examination) obj).examTakenDate.contentEquals(examTakenDate)));
+		}
+
+		return false;
 	}
 
 	public String getCategory() {
@@ -29,6 +42,10 @@ public class Examination implements Comparable<Examination> {
 
 	public String getExamCategory() {
 		return examCategory;
+	}
+
+	public Date getExamDateTakenDateObject() {
+		return examDateTakenDateObject;
 	}
 
 	public String getExamName() {
@@ -43,41 +60,18 @@ public class Examination implements Comparable<Examination> {
 		return examTakenDate;
 	}
 
-	public void setCategory(String category) {
-		this.category = category;
-	}
-
-	public void setExamCategory(String examCategory) {
-		this.examCategory = examCategory;
-	}
-
-	public void setExamName(String examName) {
-		this.examName = examName;
-	}
-
-	public void setExamScope(String examScope) {
-		this.examScope = examScope;
-	}
-
-	public void setExamTakenDate(String examTakenDate) {
-		this.examTakenDate = examTakenDate;
-	}
-
 	@Override
 	public int hashCode() {
 		int prime = 31;
 		return prime + (this.examTakenDate == null ? 0 : this.examTakenDate.hashCode() + this.examName.hashCode());
 	}
 
-	@Override
-	public boolean equals(Object obj) {
+	public void setCategory(String category) {
+		this.category = category;
+	}
 
-		if (obj instanceof Examination) {
-			return ((((Examination) obj).examName.contentEquals(examName))
-					&& (((Examination) obj).examTakenDate.contentEquals(examTakenDate)));
-		}
-
-		return false;
+	public void setExamCategory(String examCategory) {
+		this.examCategory = examCategory;
 	}
 
 	public void setExamDateTakenDateObject() {
@@ -93,9 +87,15 @@ public class Examination implements Comparable<Examination> {
 		}
 	}
 
-	@Override
-	public int compareTo(Examination o) {
-		return o != null ? getExamDateTakenDateObject().compareTo(o.getExamDateTakenDateObject()) : 0;
+	public void setExamName(String examName) {
+		this.examName = examName;
+	}
 
+	public void setExamScope(String examScope) {
+		this.examScope = examScope;
+	}
+
+	public void setExamTakenDate(String examTakenDate) {
+		this.examTakenDate = examTakenDate;
 	}
 }
