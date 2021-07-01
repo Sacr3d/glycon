@@ -40,7 +40,7 @@ public class FileUtil {
 
 		for (E fileName : rawFrimList) {
 
-			File f = new File(DirEnum.FIRM_PATH.toString() + fileName + ".csv");
+			File f = new File(DirEnum.FIRM_MANAGERS_PATH.toString() + fileName + ".csv");
 
 			if (f.exists() && !f.isDirectory()) {
 
@@ -61,7 +61,7 @@ public class FileUtil {
 
 		// Creates a new File instance by converting the given pathname string
 		// into an abstract pathname
-		File f = new File(DirEnum.FIRM_PATH.toString());
+		File f = new File(DirEnum.FIRM_MANAGERS_PATH.toString());
 
 		// Populates the array with names of files and directories
 		pathnames = f.list();
@@ -69,7 +69,7 @@ public class FileUtil {
 		// For each pathname in the pathnames array
 		for (String pathname : pathnames) {
 			// Print the names of files and directories
-			requiredFilesList.add(new File(DirEnum.FIRM_PATH.toString() + pathname));
+			requiredFilesList.add(new File(DirEnum.FIRM_MANAGERS_PATH.toString() + pathname));
 		}
 
 		return requiredFilesList;
@@ -84,7 +84,7 @@ public class FileUtil {
 
 		// Creates a new File instance by converting the given pathname string
 		// into an abstract pathname
-		File f = new File(DirEnum.MANAGER_PATH.toString());
+		File f = new File(DirEnum.MANAGER_DISCLOSURE_PATH.toString());
 
 		// Populates the array with names of files and directories
 		pathnames = f.list();
@@ -92,7 +92,7 @@ public class FileUtil {
 		// For each pathname in the pathnames array
 		for (String pathname : pathnames) {
 			// Print the names of files and directories
-			requiredFilesList.add(new File(DirEnum.MANAGER_PATH.toString() + pathname).getAbsolutePath());
+			requiredFilesList.add(new File(DirEnum.MANAGER_DISCLOSURE_PATH.toString() + pathname).getAbsolutePath());
 		}
 
 		return requiredFilesList;

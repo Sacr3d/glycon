@@ -1,4 +1,4 @@
-package glycon.object;
+package glycon.object.manager;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -11,13 +11,13 @@ public class Examination implements Comparable<Examination> {
 
 	private String examCategory;
 
-	private String examName;
+	protected Date examDateTakenDateObject;
 
-	private String examTakenDate;
+	private String examName;
 
 	private String examScope;
 
-	protected Date examDateTakenDateObject;
+	private String examTakenDate;
 
 	@Override
 	public int compareTo(Examination o) {

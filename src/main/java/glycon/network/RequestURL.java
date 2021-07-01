@@ -11,19 +11,19 @@ import org.jsoup.Jsoup;
 
 public class RequestURL {
 
-	private static final String WT_JSON = "&wt=json";
-
-	private static final String INDIVIDUAL_FIRM = "/individual?firm=";
+	private static final String ERROR_STRING_LITERAL = "NULL";
 
 	private static final String HTTPS_API_ADVISERINFO_SEC_GOV = "https://api.adviserinfo.sec.gov/search";
 
 	private static final String HTTPS_API_BROKERCHECK_FINRA_ORG = "https://api.brokercheck.finra.org/search";
 
-	private static final String ERROR_STRING_LITERAL = "NULL";
+	private static final String INDIVIDUAL_FIRM = "/individual?firm=";
 
 	private static final String MASKED_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36";
 
 	private static final String POLITE_USER_AGENT = "glycon-crawler @ Southampton University (ms2u19@soton.ac.uk)";
+
+	private static final String WT_JSON = "&wt=json";
 
 	private static HttpURLConnection prepareConnection(String url, String userAgent, int requestTime)
 			throws InterruptedException, IOException {
@@ -91,7 +91,7 @@ public class RequestURL {
 		return sendAndGetResponse(url, MASKED_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
-	public String getFirmJSON(String unfriendlyFirmName) {
+	public String getAllFirmJSON(String unfriendlyFirmName) {
 
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/firm?hl=true&json.wrf=angular.callbacks._0&nrows=12&query="
 				+ unfriendlyFirmName + "&r=25&sort=score+desc&wt=json";
@@ -143,6 +143,13 @@ public class RequestURL {
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
+	public byte[] getFirmPDF(String firmID) {
+
+		String url = "https://files.brokercheck.finra.org/firm/firm_" + firmID + ".pdf";
+
+		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+	}
+
 	public String getManagerFinraJSON(String managerCRD) {
 
 		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/individual/" + managerCRD
@@ -151,9 +158,16 @@ public class RequestURL {
 		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}
 
-	public byte[] getPDF(String firmID) {
+	public String getFirmJSON(String firmId) {
 
-		String url = "https://files.brokercheck.finra.org/individual/individual_" + firmID + ".pdf";
+		String url = HTTPS_API_BROKERCHECK_FINRA_ORG + "/firm/" + firmId + "?hl=true&nrows=12&query=&start=0&wt=json";
+
+		return sendAndGetResponse(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
+	}
+
+	public byte[] getManagerPDF(String managerCRD) {
+
+		String url = "https://files.brokercheck.finra.org/individual/individual_" + managerCRD + ".pdf";
 
 		return readFully(url, POLITE_USER_AGENT, RequestTimeEnum.DEV_TIME_PER_REQUEST.getValue());
 	}

@@ -1,21 +1,23 @@
-package glycon.parser.json;
+package glycon.parser;
+
+import java.io.InputStream;
 
 import com.fasterxml.jackson.databind.JsonNode;
 
 public class JSONParser {
 
-	static String getFeildAsString(JsonNode locatedNode, String fieldName) {
+	public static String getFeildAsString(JsonNode locatedNode, String fieldName) {
 
 		return locatedNode.get(fieldName).asText();
 
 	}
 
-	static boolean hasTagInNode(JsonNode locatedNode, String tag) {
+	public static boolean hasTagInNode(JsonNode locatedNode, String tag) {
 
 		return locatedNode.has(tag);
 	}
 
-	static String sanitizeFinraJSON(String firmJSON) {
+	public static String sanitizeFinraJSON(String firmJSON) {
 
 		String sanitizedString = firmJSON.replace("/**/angular.callbacks.", "");
 
@@ -28,5 +30,12 @@ public class JSONParser {
 	private JSONParser() {
 		throw new IllegalStateException("Utility class");
 	}
+	
+	public static String snantizeSourceJSON(String firmJSON) {
+
+		return firmJSON.replace("\"{", "{").replace("}\"", "}").replace("\\\"", "\"").replace("\\\\\"", "\\\"");
+	}
+
+
 
 }

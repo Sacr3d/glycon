@@ -12,7 +12,10 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
-import glycon.object.FirmManager;
+import glycon.object.Firm;
+import glycon.object.Manager;
+import glycon.utils.DirEnum;
+
 
 public class CSVUtil {
 
@@ -22,9 +25,9 @@ public class CSVUtil {
 
 		Iterator<File> iterFiles = finalManagerList.iterator();
 
-		try (BufferedWriter writer = new BufferedWriter(
-				new FileWriter(new SimpleDateFormat("yyyy'-'MM'-'dd'-'HH'-'mm'.csv'").format(new Date()), true))) {
-			writer.write(headers.substring(1, headers.length() - 1));
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(DirEnum.FINAL_PATH.toString()
+				+ new SimpleDateFormat("yyyy'-'MM'-'dd'-'HH'-'mm'.csv'").format(new Date()), true))) {
+			writer.write(headers);
 			writer.newLine();
 
 			while (iterFiles.hasNext()) {
@@ -59,7 +62,7 @@ public class CSVUtil {
 
 	}
 
-	static int getLongestEntry(FirmManager firmManager) {
+	static int getLongestMangerEntry(Manager firmManager) {
 
 		int longestEntry = firmManager.getDiscolsures().size();
 
@@ -85,6 +88,16 @@ public class CSVUtil {
 
 	private CSVUtil() {
 		throw new IllegalStateException("Utility class");
+	}
+
+	public static int getLongestFirmEntry(Firm firm) {
+
+		int longestEntry = firm.getDiscolsures().size();
+
+		if (firm.getBasicInfo().getOtherNames().length > longestEntry)
+			longestEntry = firm.getBasicInfo().getOtherNames().length;
+
+		return longestEntry;
 	}
 
 }

@@ -1,17 +1,9 @@
 package glycon.parser;
 
-import java.io.ByteArrayInputStream;
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.text.PDFTextStripper;
-
 import glycon.network.RequestURL;
-import glycon.object.Disclosure;
-import glycon.object.FirmManager;
 
 public class PDFParser {
 
@@ -20,13 +12,11 @@ public class PDFParser {
 	private static List<Integer> findStartIndexs(String textString, String word) {
 
 		List<Integer> indexes = new ArrayList<>();
-		String lowerCaseTextString = textString.toLowerCase();
-		String lowerCaseWord = word.toLowerCase();
 		int wordLength = 0;
 
 		int index = 0;
 		while (index != -1) {
-			index = lowerCaseTextString.indexOf(lowerCaseWord, index + wordLength); // Slight improvement
+			index = textString.indexOf(word, index + wordLength); // Slight improvement
 			if (index != -1) {
 				indexes.add(index);
 			}
@@ -36,11 +26,11 @@ public class PDFParser {
 
 	}
 
-	private static List<String> generateDisclosureList(String disclosureTextString) {
+	public static List<String> generateDisclosureList(String disclosureTextString, String word) {
 
 		List<String> disclosureStringList = new ArrayList<>();
 
-		List<Integer> discorsureStartIndexs = findStartIndexs(disclosureTextString, "Disclosure ");
+		List<Integer> discorsureStartIndexs = findStartIndexs(disclosureTextString, word);
 
 		int endIndex = -1;
 
@@ -70,14 +60,18 @@ public class PDFParser {
 
 	}
 
-	private static byte[] getPDF(FirmManager firmManager) {
+	public static byte[] getPDF(String universalCRD, char objectType) {
+
 		byte[] managerPDF = new byte[0];
 
 		int failCount = 0;
 
 		while (managerPDF.length < 1 && failCount < 5) {
 
-			managerPDF = new RequestURL().getPDF(firmManager.getInd_source_id());
+			if (objectType == 'M')
+				managerPDF = new RequestURL().getManagerPDF(universalCRD);
+			else if (objectType == 'F')
+				managerPDF = new RequestURL().getFirmPDF(universalCRD);
 
 			failCount++;
 
@@ -86,60 +80,7 @@ public class PDFParser {
 		return managerPDF;
 	}
 
-	private static void parseDisclosures(FirmManager firmManager, String pdfTextString) {
-
-		String disclosureTextString = sanatizePDF(pdfTextString);
-
-		List<String> disclosureStringList = generateDisclosureList(disclosureTextString);
-
-		for (String disclosureString : disclosureStringList) {
-
-			int splitIndex = disclosureString.indexOf("\r\n");
-
-			Disclosure legacyDisclosure = new Disclosure();
-
-			legacyDisclosure.setDisclosureType("Legacy PDF");
-
-			legacyDisclosure.setDisclosureResolution(disclosureString.substring(0, splitIndex));
-
-			legacyDisclosure.setDisclosureDetailString(prettyDetail(disclosureString, splitIndex));
-
-			legacyDisclosure.setEventDate("00/00/0000");
-
-			legacyDisclosure.setEventDateObject();
-
-			firmManager.getDiscolsures().add(legacyDisclosure);
-
-		}
-
-	}
-
-	public static void parsePDFInfoForManager(FirmManager firmManager) {
-
-		byte[] pdfBytes = getPDF(firmManager);
-
-		if (pdfBytes.length > 1) {
-
-			InputStream input = new ByteArrayInputStream(pdfBytes);
-
-			try (PDDocument doc = PDDocument.load(input)) {
-
-				PDFTextStripper stripper = new PDFTextStripper();
-
-				stripper.setSortByPosition(true);
-
-				String pdfTextString = stripper.getText(doc);
-
-				parseDisclosures(firmManager, pdfTextString);
-
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-
-	}
-
-	private static String prettyDetail(String disclosureString, int splitIndex) {
+	public static String prettyDetail(String disclosureString, int splitIndex) {
 
 		String baseString = disclosureString.substring(splitIndex, disclosureString.length());
 		return baseString.replaceFirst("\r\n", "");
@@ -177,6 +118,8 @@ public class PDFParser {
 
 		disclosureString = disclosureString.replace("www.finra.org/brokercheck\r\n", "");
 
+		disclosureString = disclosureString.replace("www.finra.org/brokercheck User Guidance\r\n", "");
+
 		disclosureString = removeCopyright(disclosureString);
 
 		return disclosureString;
@@ -193,7 +136,7 @@ public class PDFParser {
 		return disclosureText;
 	}
 
-	private static String sanatizePDF(String pdfTextString) {
+	public static String sanatizePDF(String pdfTextString) {
 
 		int primeIndex = pdfTextString.indexOf("Disclosure 1 of ");
 

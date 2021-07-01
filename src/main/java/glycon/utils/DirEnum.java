@@ -4,8 +4,8 @@ import java.io.File;
 
 public enum DirEnum {
 
-	FIRM_PATH("firms" + File.separator), FIRM_FINAL_PATH("final" + File.separator),
-	MANAGER_PATH("managers" + File.separator);
+	FIRM_DISCLOSURE_PATH("firmDisclosures" + File.separator), FIRM_MANAGERS_PATH("firmManagers" + File.separator),
+	MANAGER_DISCLOSURE_PATH("managerDisclosures" + File.separator),FINAL_PATH("final" + File.separator);
 
 	private final String value;
 

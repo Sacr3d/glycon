@@ -16,20 +16,21 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
 
-import glycon.object.FirmManager;
-import glycon.object.FirmManagerIn;
+import glycon.object.Firm;
+import glycon.object.Manager;
+import glycon.object.manager.ManagerIn;
 import glycon.utils.DirEnum;
 
 public class CSVUtilManager {
 
-	public static void createManagerFile(FirmManager firmManager) {
+	public static void createManagerFile(Manager firmManager) {
 
 		BufferedWriter out = null;
 
 		try {
 
 			out = Files.newBufferedWriter(
-					Paths.get(DirEnum.MANAGER_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
+					Paths.get(DirEnum.MANAGER_DISCLOSURE_PATH.toString() + firmManager.getInd_source_id() + ".csv"),
 					StandardOpenOption.CREATE);
 
 		} catch (IOException e1) {
@@ -41,7 +42,7 @@ public class CSVUtilManager {
 
 	}
 
-	private static String decideFinraEmploymentDate(FirmManager firmManager, int i) {
+	private static String decideFinraEmploymentDate(Manager firmManager, int i) {
 
 		if (i < firmManager.getCurrentMangerEmployments().size()) {
 
@@ -61,7 +62,7 @@ public class CSVUtilManager {
 
 	}
 
-	private static String decideFinraEmploymentFirm(FirmManager firmManager, int i) {
+	private static String decideFinraEmploymentFirm(Manager firmManager, int i) {
 
 		if (i < firmManager.getCurrentMangerEmployments().size()) {
 
@@ -81,9 +82,9 @@ public class CSVUtilManager {
 
 	}
 
-	public static List<FirmManagerIn> generateManagerInformation(File firmFile) {
+	public static List<ManagerIn> generateManagerInformation(File firmFile) {
 
-		List<FirmManagerIn> firmMangerObjectList = new ArrayList<>();
+		List<ManagerIn> firmMangerObjectList = new ArrayList<>();
 
 		try (Reader in = new FileReader(firmFile)) {
 			Iterable<CSVRecord> records = CSVFormat.DEFAULT.withHeader(CSVTermsEnum.getFriendlyHeaders())
@@ -96,7 +97,7 @@ public class CSVUtilManager {
 				String lastName = record.get(CSVTermsEnum.SECOND_NAME);
 
 				firmMangerObjectList
-						.add(new FirmManagerIn(managerId, firstName, CSVUtil.splitOtherNames(otherNames), lastName));
+						.add(new ManagerIn(managerId, firstName, CSVUtil.splitOtherNames(otherNames), lastName));
 
 			}
 
@@ -108,50 +109,50 @@ public class CSVUtilManager {
 		return firmMangerObjectList;
 	}
 
-	private static String getCategory(FirmManager firmManager, int i) {
+	private static String getCategory(Manager firmManager, int i) {
 		return i < firmManager.getExaminations().size() ? firmManager.getExaminations().get(i).getCategory() : "";
 	}
 
-	private static String getDisclosureDate(FirmManager firmManager, int i) {
+	private static String getDisclosureDate(Manager firmManager, int i) {
 		return i < firmManager.getDiscolsures().size() ? firmManager.getDiscolsures().get(i).getEventDate() : "";
 	}
 
-	private static String getDisclosureInfo(FirmManager firmManager, int i) {
+	private static String getDisclosureInfo(Manager firmManager, int i) {
 		return i < firmManager.getDiscolsures().size() ? firmManager.getDiscolsures().get(i).getDisclosureDetailString()
 				: "";
 	}
 
-	private static String getDisclosureResult(FirmManager firmManager, int i) {
+	private static String getDisclosureResult(Manager firmManager, int i) {
 		return i < firmManager.getDiscolsures().size() ? firmManager.getDiscolsures().get(i).getDisclosureResolution()
 				: "";
 	}
 
-	private static String getDisclosureType(FirmManager firmManager, int i) {
+	private static String getDisclosureType(Manager firmManager, int i) {
 		return i < firmManager.getDiscolsures().size() ? firmManager.getDiscolsures().get(i).getDisclosureType() : "";
 	}
 
-	private static String getExamCategory(FirmManager firmManager, int i) {
+	private static String getExamCategory(Manager firmManager, int i) {
 		return i < firmManager.getExaminations().size() ? firmManager.getExaminations().get(i).getExamCategory() : "";
 	}
 
-	private static String getExamDateTaken(FirmManager firmManager, int i) {
+	private static String getExamDateTaken(Manager firmManager, int i) {
 		return i < firmManager.getExaminations().size() ? firmManager.getExaminations().get(i).getExamTakenDate() : "";
 	}
 
-	private static String getExamName(FirmManager firmManager, int i) {
+	private static String getExamName(Manager firmManager, int i) {
 		return i < firmManager.getExaminations().size() ? firmManager.getExaminations().get(i).getExamName() : "";
 	}
 
-	private static String getExamScope(FirmManager firmManager, int i) {
+	private static String getExamScope(Manager firmManager, int i) {
 		return i < firmManager.getExaminations().size() ? firmManager.getExaminations().get(i).getExamScope() : "";
 	}
 
-	private static void writeManagerInfo(FirmManager firmManager, BufferedWriter out) {
+	private static void writeManagerInfo(Manager firmManager, BufferedWriter out) {
 
 		try (CSVPrinter printer = new CSVPrinter(out,
 				CSVFormat.EXCEL.withHeader(CSVTermsEnum.getFinalManagerHeaders()))) {
 
-			int longestEntry = CSVUtil.getLongestEntry(firmManager);
+			int longestEntry = CSVUtil.getLongestMangerEntry(firmManager);
 
 			for (int i = 0; i < longestEntry; i++) {
 
@@ -196,6 +197,11 @@ public class CSVUtilManager {
 
 	private CSVUtilManager() {
 		throw new IllegalStateException("Utility class");
+	}
+
+	public static void createFirmFile(Firm firm) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

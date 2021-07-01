@@ -35,7 +35,6 @@ public class GlyconSystem {
 			Glycon.exitError();
 
 		LoggingUtil.msg("YOU MUST NOT USE THIS PROGRAM FOR COMMERCIAL USE");
-		LoggingUtil.msg("PLEASE PROVIDE AN EMAIL TO ATTACH TO REQUEST HEADERS");
 
 	}
 
@@ -67,7 +66,8 @@ public class GlyconSystem {
 
 			CSVUtilManager.generateManagerInformation(firmFile).forEach(firm ->
 
-			finalManagerFileList.add(new File(DirEnum.MANAGER_PATH.toString() + firm.getInd_source_id() + ".csv")));
+			finalManagerFileList
+					.add(new File(DirEnum.MANAGER_DISCLOSURE_PATH.toString() + firm.getInd_source_id() + ".csv")));
 
 		}
 
@@ -93,6 +93,17 @@ public class GlyconSystem {
 
 		LoggingUtil.msg("With threads " + glyconConfig.getThreads());
 
+	}
+
+	private void runCoreComponents(List<String> rawFrimList) {
+
+		GlyconSystemYielder.createFriendlyList(rawFrimList, glyconConfig.getThreads());
+
+		GlyconSystemYielder.workOnFirmDisclosureList(rawFrimList, glyconConfig.getThreads());
+
+		GlyconSystemYielder.createBrokersWithDisclosuresList(rawFrimList, glyconConfig.getThreads());
+
+		GlyconSystemYielder.workOnFirmBrokerList(rawFrimList, glyconConfig.getThreads());
 	}
 
 	public void setGlyconConfig(GlyconConfig glyconConfig) {
@@ -127,6 +138,7 @@ public class GlyconSystem {
 			break;
 		case 'a':
 			try {
+
 				acceptTerms();
 
 			} catch (IOException e) {
@@ -174,15 +186,6 @@ public class GlyconSystem {
 			Glycon.exitError();
 		}
 
-	}
-
-	private void runCoreComponents(List<String> rawFrimList) {
-
-		GlyconSystemYielder.createFriendlyList(rawFrimList, glyconConfig.getThreads());
-
-		GlyconSystemYielder.createBrokersWithDisclosuresList(rawFrimList, glyconConfig.getThreads());
-
-		GlyconSystemYielder.workOnFirmBrokerList(rawFrimList, glyconConfig.getThreads());
 	}
 
 }

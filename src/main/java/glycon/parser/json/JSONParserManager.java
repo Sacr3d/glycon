@@ -6,17 +6,18 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import glycon.object.FirmManager;
-import glycon.parser.PDFParser;
+import glycon.object.Manager;
+import glycon.parser.JSONParser;
+import glycon.parser.pdf.PDFParserManager;
 import glycon.utils.LoggingUtil;
 
 public class JSONParserManager {
 
-	private static void parseFinraJSON(FirmManager firmManager, ObjectMapper objectMapper) {
+	private static void parseFinraJSON(Manager firmManager, ObjectMapper objectMapper) {
 		try {
 
-			JsonNode masterJsonNode = objectMapper
-					.readTree(snantizeManagerJson(JSONParser.sanitizeFinraJSON(firmManager.getFirmFinraJSON())));
+			JsonNode masterJsonNode = objectMapper.readTree(
+					JSONParser.snantizeSourceJSON(JSONParser.sanitizeFinraJSON(firmManager.getManagerFinraJSON())));
 
 			parseReleventData(firmManager, objectMapper, masterJsonNode);
 
@@ -28,14 +29,14 @@ public class JSONParserManager {
 		}
 	}
 
-	public static void parseManagerJSON(FirmManager firmManager) {
+	public static void parseManagerJSON(Manager firmManager) {
 
 		ObjectMapper objectMapper = new ObjectMapper();
 
 		objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
-		if (firmManager.getFirmFinraJSON().contentEquals("NULL")) {
-			JSONParserError.generateAPIError(firmManager, "FINRA API ERROR", "00/00/0000");
+		if (firmManager.getManagerFinraJSON().contentEquals("NULL")) {
+			JSONParserError.generateAPIErrorManager(firmManager, "FINRA API ERROR", "00/00/0000");
 
 		} else {
 			parseFinraJSON(firmManager, objectMapper);
@@ -43,14 +44,14 @@ public class JSONParserManager {
 		}
 
 		if (firmManager.getFirmSecJSON().contentEquals("NULL")) {
-			JSONParserError.generateAPIError(firmManager, "SEC API ERROR", "00/00/0000");
+			JSONParserError.generateAPIErrorManager(firmManager, "SEC API ERROR", "00/00/0000");
 
 		} else {
 			parseSecJSON(firmManager, objectMapper);
 		}
 	}
 
-	private static void parseReleventData(FirmManager firmManager, ObjectMapper objectMapper, JsonNode masterJsonNode)
+	private static void parseReleventData(Manager firmManager, ObjectMapper objectMapper, JsonNode masterJsonNode)
 			throws IOException {
 
 		JsonNode locatedNode = masterJsonNode.findPath("legacyReportStatusDescription");
@@ -63,7 +64,7 @@ public class JSONParserManager {
 
 		if (nodeString != null && nodeString.contentEquals("Generated")) {
 
-			PDFParser.parsePDFInfoForManager(firmManager);
+			PDFParserManager.parsePDFInfoForManager(firmManager);
 
 		}
 
@@ -77,10 +78,11 @@ public class JSONParserManager {
 
 	}
 
-	private static void parseSecJSON(FirmManager firmManager, ObjectMapper objectMapper) {
+	private static void parseSecJSON(Manager firmManager, ObjectMapper objectMapper) {
 		try {
 
-			JsonNode masterJsonNode = objectMapper.readTree(snantizeManagerJson(firmManager.getFirmSecJSON()));
+			JsonNode masterJsonNode = objectMapper
+					.readTree(JSONParser.snantizeSourceJSON(firmManager.getFirmSecJSON()));
 
 			parseReleventData(firmManager, objectMapper, masterJsonNode);
 
@@ -92,11 +94,6 @@ public class JSONParserManager {
 		}
 	}
 
-	private static String snantizeManagerJson(String firmJSON) {
-
-		return firmJSON.replace("\"{", "{").replace("}\"", "}").replace("\\\"", "\"").replace("\\\\\"", "\\\"");
-	}
-	
 	private JSONParserManager() {
 		throw new IllegalStateException("Utility class");
 	}

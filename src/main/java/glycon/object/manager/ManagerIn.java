@@ -1,11 +1,12 @@
-package glycon.object;
+package glycon.object.manager;
 
 import glycon.network.RequestURL;
+import glycon.object.Manager;
 import glycon.parser.json.JSONParserManager;
 
-public class FirmManagerIn extends FirmManager {
+public class ManagerIn extends Manager {
 
-	public FirmManagerIn(String ind_source_id, String ind_firstname, String[] ind_other_names, String ind_lastname) {
+	public ManagerIn(String ind_source_id, String ind_firstname, String[] ind_other_names, String ind_lastname) {
 
 		this.ind_source_id = ind_source_id;
 
@@ -21,11 +22,11 @@ public class FirmManagerIn extends FirmManager {
 
 		String managerFinraJSON = getJSON('F');
 
-		this.firmFinraJSON = managerFinraJSON;
+		this.managerFinraJSON = managerFinraJSON;
 
 		String managerSecJSON = getJSON('C');
 
-		this.firmSecJSON = managerSecJSON;
+		this.managerSecJSON = managerSecJSON;
 
 		JSONParserManager.parseManagerJSON(this);
 

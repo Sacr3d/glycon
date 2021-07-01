@@ -1,4 +1,4 @@
-package glycon.object;
+package glycon.object.manager;
 
 public class PreviousEmployment extends Employment {
 

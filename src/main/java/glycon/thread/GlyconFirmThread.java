@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.network.RequestURL;
 import glycon.object.Firm;
-import glycon.object.FirmManager;
+import glycon.object.Manager;
 import glycon.parser.json.JSONParserFirm;
 import glycon.utils.DirEnum;
 import glycon.utils.FileUtil;
@@ -17,8 +17,8 @@ import glycon.utils.csv.CSVUtilFirm;
 
 public class GlyconFirmThread implements Runnable {
 
-	private List<Firm> primeFirmList;
 	private AtomicInteger atomicInt;
+	private List<Firm> primeFirmList;
 
 	public GlyconFirmThread(List<Firm> firmList, AtomicInteger atomicInt) {
 
@@ -27,9 +27,9 @@ public class GlyconFirmThread implements Runnable {
 
 	}
 
-	private List<FirmManager> basicCrawl(Firm firm, int managersToGet) {
+	private List<Manager> basicCrawl(Firm firm, int managersToGet) {
 
-		List<FirmManager> managerList = new ArrayList<>();
+		List<Manager> managerList = new ArrayList<>();
 
 		for (int i = 0; i < managersToGet; i += 100) {
 
@@ -52,7 +52,7 @@ public class GlyconFirmThread implements Runnable {
 
 	}
 
-	private List<FirmManager> collectManagersWithDisclosures(Firm firm) {
+	private List<Manager> collectManagersWithDisclosures(Firm firm) {
 
 		String firmJSON = "NULL";
 
@@ -80,9 +80,9 @@ public class GlyconFirmThread implements Runnable {
 		return Collections.emptyList();
 	}
 
-	private List<FirmManager> experienceCrawl(Firm firm) {
+	private List<Manager> experienceCrawl(Firm firm) {
 
-		List<FirmManager> managerList = new ArrayList<>();
+		List<Manager> managerList = new ArrayList<>();
 
 		int startBoundry = 0;
 		int endBoundry = 365;
@@ -122,9 +122,9 @@ public class GlyconFirmThread implements Runnable {
 				startBoundry != 18250 ? Integer.toString(endBoundry - 1) : "*");
 	}
 
-	private List<FirmManager> optimisticCrawl(Firm firm) {
+	private List<Manager> optimisticCrawl(Firm firm) {
 
-		List<FirmManager> firmManagerList = new ArrayList<>();
+		List<Manager> firmManagerList = new ArrayList<>();
 
 		firmManagerList.addAll(ListUtil.removeDuplicates(firmManagerList, new ArrayList<>(experienceCrawl(firm))));
 
@@ -134,13 +134,13 @@ public class GlyconFirmThread implements Runnable {
 
 	@Override
 	public void run() {
-		List<FirmManager> managersDisclosureList = new ArrayList<>();
+		List<Manager> managersDisclosureList = new ArrayList<>();
 
 		primeFirmList.forEach(firm -> {
 
-			if (!FileUtil.fileExists(DirEnum.FIRM_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
+			if (!FileUtil.fileExists(DirEnum.FIRM_MANAGERS_PATH.toString() + File.separatorChar + firm.getFirmId() + ".csv")) {
 
-				List<FirmManager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
+				List<Manager> managersWithDisclosuresList = collectManagersWithDisclosures(firm);
 
 				managersDisclosureList.addAll(managersWithDisclosuresList);
 

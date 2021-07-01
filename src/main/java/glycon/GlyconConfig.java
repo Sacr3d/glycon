@@ -16,11 +16,11 @@ public class GlyconConfig {
 		}
 	}
 
+	private String fileName;
+
 	private char mode;
 
 	private boolean skipFirendly = false;
-
-	private String fileName;
 
 	private int threads = 8;
 
@@ -60,6 +60,10 @@ public class GlyconConfig {
 
 	public int getThreads() {
 		return threads;
+	}
+
+	public boolean isSkipFirendly() {
+		return skipFirendly;
 	}
 
 	private boolean isValidArgument(String arg) {
@@ -144,6 +148,10 @@ public class GlyconConfig {
 		this.mode = mode;
 	}
 
+	public void setSkipFirendly(boolean skipFirendly) {
+		this.skipFirendly = skipFirendly;
+	}
+
 	public void setThreads(int threads) {
 		this.threads = threads;
 	}
@@ -160,14 +168,6 @@ public class GlyconConfig {
 
 		}
 		return true;
-	}
-
-	public boolean isSkipFirendly() {
-		return skipFirendly;
-	}
-
-	public void setSkipFirendly(boolean skipFirendly) {
-		this.skipFirendly = skipFirendly;
 	}
 
 }

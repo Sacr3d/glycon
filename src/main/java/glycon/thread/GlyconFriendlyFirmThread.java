@@ -12,8 +12,8 @@ import glycon.utils.csv.CSVUtilFriendlyFirm;
 
 public class GlyconFriendlyFirmThread implements Runnable {
 
-	private List<String> rawFirmList;
 	private AtomicInteger atomicInt;
+	private List<String> rawFirmList;
 
 	public GlyconFriendlyFirmThread(List<String> rawFirmList, AtomicInteger atomicInt) {
 		this.rawFirmList = rawFirmList;
@@ -33,7 +33,7 @@ public class GlyconFriendlyFirmThread implements Runnable {
 
 			while (firmJSON.contentEquals("NULL") && failCount < 5) {
 
-				firmJSON = new RequestURL().getFirmJSON(firmId);
+				firmJSON = new RequestURL().getAllFirmJSON(firmId);
 				failCount++;
 
 			}

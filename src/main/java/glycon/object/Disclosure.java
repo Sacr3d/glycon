@@ -5,15 +5,15 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class Disclosure implements Comparable<Disclosure> {
+public abstract class Disclosure implements Comparable<Disclosure> {
 
-	private String eventDate;
-
-	private String disclosureType;
+	private String disclosureDetailString;
 
 	private String disclosureResolution;
 
-	private String disclosureDetailString;
+	private String disclosureType;
+
+	private String eventDate;
 
 	private Date eventDateObject;
 

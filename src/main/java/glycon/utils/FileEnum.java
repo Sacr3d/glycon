@@ -2,7 +2,7 @@ package glycon.utils;
 
 public enum FileEnum {
 
-	FRIENDLY_WORKBOOK("friendly-workbook.csv"), FIRM_WORKBOOK("firm.csv");
+	FIRM_WORKBOOK("firm.csv"), FRIENDLY_WORKBOOK("friendly-workbook.csv");
 
 	private final String value;
 

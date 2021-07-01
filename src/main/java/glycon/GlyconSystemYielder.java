@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import glycon.object.Firm;
+import glycon.thread.GlyconFirmDisclosureThread;
 import glycon.thread.GlyconFirmFileThread;
 import glycon.thread.GlyconFirmThread;
 import glycon.thread.GlyconFriendlyFirmThread;
@@ -142,6 +143,42 @@ public class GlyconSystemYielder {
 
 	private GlyconSystemYielder() {
 		throw new IllegalStateException("Utility class");
+	}
+
+	public static void workOnFirmDisclosureList(List<String> rawFrimList, int threads) {
+
+		List<Firm> primeFirmList = CSVUtilFirm.generateFirmInformation();
+
+		List<Firm> workingFirmList = ListUtil.createWorkingFirmList(rawFrimList, primeFirmList);
+
+		if (!workingFirmList.isEmpty()) {
+
+			List<List<Firm>> threadFirmFileList = ListUtil.splitList(threads, workingFirmList);
+
+			AtomicInteger atomicInt = new AtomicInteger(0);
+
+			ExecutorService executorService = Executors.newFixedThreadPool(threads);
+
+			for (List<Firm> firmList : threadFirmFileList) {
+
+				executorService.submit(new GlyconFirmDisclosureThread(firmList, atomicInt));
+
+			}
+
+			try {
+
+				executorService.shutdown();
+
+				executorService.awaitTermination(1, TimeUnit.NANOSECONDS);
+
+				ProgressUtil.displayProgressBar(atomicInt, workingFirmList, executorService,
+						"Gathering information on firms");
+
+			} catch (InterruptedException e) {
+				Thread.currentThread().interrupt();
+			}
+
+		}
 	}
 
 }

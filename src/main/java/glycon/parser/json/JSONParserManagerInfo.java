@@ -8,15 +8,16 @@ import java.util.stream.StreamSupport;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import glycon.object.CurrentEmployment;
 import glycon.object.Disclosure;
-import glycon.object.Examination;
-import glycon.object.FirmManager;
-import glycon.object.PreviousEmployment;
+import glycon.object.Manager;
+import glycon.object.manager.CurrentEmployment;
+import glycon.object.manager.DisclosureManager;
+import glycon.object.manager.Examination;
+import glycon.object.manager.PreviousEmployment;
 
 public class JSONParserManagerInfo {
 
-	static void parseManagerCurrentEmployments(FirmManager firmManager, ObjectMapper objectMapper,
+	static void parseManagerCurrentEmployments(Manager firmManager, ObjectMapper objectMapper,
 			JsonNode masterJsonNode) throws IOException {
 
 		JsonNode locatedNode = masterJsonNode.findPath("currentEmployments");
@@ -38,7 +39,7 @@ public class JSONParserManagerInfo {
 		}
 	}
 
-	static void parseManagerDisclosure(FirmManager firmManager, ObjectMapper objectMapper, JsonNode masterJsonNode)
+	static void parseManagerDisclosure(Manager firmManager, ObjectMapper objectMapper, JsonNode masterJsonNode)
 			throws IOException {
 		JsonNode locatedNode = masterJsonNode.findPath("disclosures");
 
@@ -46,7 +47,7 @@ public class JSONParserManagerInfo {
 
 		for (JsonNode jsonNode : locatedNodes) {
 
-			Disclosure disclosure = objectMapper.treeToValue(jsonNode, Disclosure.class);
+			Disclosure disclosure = objectMapper.treeToValue(jsonNode, DisclosureManager.class);
 
 			JsonNode detailLocatedNode = jsonNode.findPath("disclosureDetail");
 
@@ -59,7 +60,7 @@ public class JSONParserManagerInfo {
 		}
 	}
 
-	public static void parseManagerExaminations(FirmManager firmManager, ObjectMapper objectMapper,
+	public static void parseManagerExaminations(Manager firmManager, ObjectMapper objectMapper,
 			JsonNode masterJsonNode) throws IOException {
 
 		String[] examinationGroups = { "stateExamCategory", "principalExamCategory", "productExamCategory" };
@@ -84,7 +85,7 @@ public class JSONParserManagerInfo {
 		}
 	}
 
-	static void parseManagerPreviousEmployments(FirmManager firmManager, ObjectMapper objectMapper,
+	static void parseManagerPreviousEmployments(Manager firmManager, ObjectMapper objectMapper,
 			JsonNode masterJsonNode) throws IOException {
 
 		JsonNode locatedNode = masterJsonNode.findPath("previousEmployments");

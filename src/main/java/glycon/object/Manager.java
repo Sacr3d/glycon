@@ -3,31 +3,35 @@ package glycon.object;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class FirmManager {
+import glycon.object.manager.CurrentEmployment;
+import glycon.object.manager.Examination;
+import glycon.object.manager.PreviousEmployment;
 
-	protected String firmFinraJSON;
-
-	protected String firmSecJSON;
-
-	protected String ind_source_id;
-
-	protected String ind_firstname;
-
-	private String ind_middlename;
-
-	protected String ind_lastname;
-
-	private String ind_bc_disclosure_fl;
-
-	protected String[] ind_other_names;
-
-	private List<Disclosure> discolsures = new ArrayList<>();
+public abstract class Manager {
 
 	protected List<CurrentEmployment> currentMangerEmployments = new ArrayList<>();
 
-	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
+	private List<Disclosure> discolsures = new ArrayList<>();
 
 	protected List<Examination> examinations = new ArrayList<>();
+
+	protected String managerFinraJSON;
+
+	protected String managerSecJSON;
+
+	private String ind_bc_disclosure_fl;
+
+	protected String ind_firstname;
+
+	protected String ind_lastname;
+
+	private String ind_middlename;
+
+	protected String[] ind_other_names;
+
+	protected String ind_source_id;
+
+	protected List<PreviousEmployment> previousMangerEmployments = new ArrayList<>();
 
 	public List<CurrentEmployment> getCurrentMangerEmployments() {
 		return currentMangerEmployments;
@@ -41,12 +45,12 @@ public abstract class FirmManager {
 		return examinations;
 	}
 
-	public String getFirmFinraJSON() {
-		return firmFinraJSON;
+	public String getManagerFinraJSON() {
+		return managerFinraJSON;
 	}
 
 	public String getFirmSecJSON() {
-		return firmSecJSON;
+		return managerSecJSON;
 	}
 
 	public String getInd_bc_disclosure_fl() {
@@ -74,8 +78,8 @@ public abstract class FirmManager {
 	}
 
 	public String getMostRecentFirmId() {
-		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).firmId
-				: this.previousMangerEmployments.get(0).firmId;
+		return !this.currentMangerEmployments.isEmpty() ? this.currentMangerEmployments.get(0).getFirmId()
+				: this.previousMangerEmployments.get(0).getFirmId();
 	}
 
 	public List<PreviousEmployment> getPreviousMangerEmployments() {
@@ -94,12 +98,12 @@ public abstract class FirmManager {
 		this.examinations = examinations;
 	}
 
-	public void setFirmFinraJSON(String firmFinraJSON) {
-		this.firmFinraJSON = firmFinraJSON;
+	public void setManagerFinraJSON(String firmManagerJSON) {
+		this.managerFinraJSON = firmManagerJSON;
 	}
 
 	public void setFirmSecJSON(String firmSecJSON) {
-		this.firmSecJSON = firmSecJSON;
+		this.managerSecJSON = firmSecJSON;
 	}
 
 	public void setInd_bc_disclosure_fl(String ind_bc_disclosure_fl) {

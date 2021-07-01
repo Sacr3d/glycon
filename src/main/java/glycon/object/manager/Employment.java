@@ -1,4 +1,4 @@
-package glycon.object;
+package glycon.object.manager;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
